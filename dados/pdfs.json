@@ -1,0 +1,42 @@
+{
+  "pasta": "provas e gabaritos/",
+  "provas": [
+    { "id": "ps-2026-1", "arquivos": [
+      { "rotulo": "Caderno tipo 1", "arquivo": "prova-2026-1/CadernodeProvaTIPO1Integrado122639008142733807990.pdf", "tamanho": 1079612 },
+      { "rotulo": "Caderno tipo 2", "arquivo": "prova-2026-1/CadernodeProvaTIPO2Integrado122639008143044863492.pdf", "tamanho": 1075741 },
+      { "rotulo": "Gabarito final", "arquivo": "prova-2026-1/GabaritoFinalIntegrado122639014208834868178.pdf", "tamanho": 121946 }
+    ] },
+    { "id": "ps-2025-1-a", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-A-20251/prova-A-2025.1.pdf", "tamanho": 1962294 },
+      { "rotulo": "Gabarito", "arquivo": "prova-A-20251/gabarito-prova-A-2025.1.pdf", "tamanho": 40523 }
+    ] },
+    { "id": "ps-2025-1-b", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-B-20251/prova-B-2025.1.pdf", "tamanho": 1207234 },
+      { "rotulo": "Gabarito", "arquivo": "prova-B-20251/gabarito-prova-B-2025.1.pdf", "tamanho": 39136 }
+    ] },
+    { "id": "ps-2024-1-a", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-A-20241/prova-A-2024.1.pdf", "tamanho": 1331773 },
+      { "rotulo": "Gabarito final", "arquivo": "prova-A-20241/gabarito-FINAL-prova-A-2024.1.pdf", "tamanho": 80289 }
+    ] },
+    { "id": "ps-2024-1-b", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-B-20241/prova-B-2024.1.pdf", "tamanho": 1917755 },
+      { "rotulo": "Gabarito final", "arquivo": "prova-B-20241/gabarito-FINAL-prova-B-2024.1.pdf", "tamanho": 78289 }
+    ] },
+    { "id": "ps-2023-1-a", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-A-20231/prova-A-2023.1.pdf", "tamanho": 1636462 },
+      { "rotulo": "Gabarito", "arquivo": "prova-A-20231/gabarito-prova-A-2023.1.pdf", "tamanho": 122359 }
+    ] },
+    { "id": "ps-2023-1-b", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-B-20231/prova-B-2023.1.pdf", "tamanho": 2199818 },
+      { "rotulo": "Gabarito", "arquivo": "prova-B-20231/gabarito-prova-B-2023.1.pdf", "tamanho": 123554 }
+    ] },
+    { "id": "ps-2022-1-a", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-A-20221/prova-A-2022.1.pdf", "tamanho": 1887514 },
+      { "rotulo": "Gabarito final", "arquivo": "prova-A-20221/gabarito-final-prova-A-2022.1.pdf", "tamanho": 123292 }
+    ] },
+    { "id": "ps-2022-1-b", "arquivos": [
+      { "rotulo": "Prova", "arquivo": "prova-B-20221/prova-B-2022.1.pdf", "tamanho": 2140041 },
+      { "rotulo": "Gabarito final", "arquivo": "prova-B-20221/gabarito-final-prova-B-2022.1.pdf", "tamanho": 122904 }
+    ] }
+  ]
+}

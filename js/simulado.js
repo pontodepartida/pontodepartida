@@ -88,8 +88,8 @@ export async function telaResultado(prova) {
   const frase = !r.erros && !r.vazias ? 'Você terminou a prova sem nenhum erro. Ótimo trabalho!'
     : !r.respondidas ? 'Você terminou a prova sem responder nenhuma questão. Na revisão, veja a explicação de cada uma.'
     : !r.erros ? `Você não errou nenhuma das questões que respondeu. Na revisão, veja a explicação d${semResposta}.`
-    : !r.vazias ? 'Você terminou a prova. Revise as questões erradas para fixar o conteúdo.'
-    : `Você terminou a prova. Revise as questões erradas e ${semResposta} para fixar o conteúdo.`;
+    : !r.vazias ? 'Você terminou a prova. A revisão mostra as questões erradas, já com as explicações.'
+    : `Você terminou a prova. A revisão mostra as questões erradas e ${semResposta}, já com as explicações.`;
 
   const notaAnulada = htmlNotaAnulada(anuladas);
 
@@ -163,14 +163,14 @@ export function comecarSimulado(id) {
       passos: [
         ['Como no dia da prova', `Você terá 3 horas para as ${prova.questoes.length} questões da ${esc(prova.nome)}. O tempo conta pelo relógio e não pausa, nem com a aba em segundo plano. Quando faltarem 20 minutos, aparece um aviso.`],
         ['Gabarito só no final', 'A resposta fica gravada ao tocar e pode ser trocada até você terminar. Nas questões em que ficar em dúvida, use ⚑ Marcar para revisar e volte a elas pelo mapa.'],
-        ['Não dá para pausar', `Se você fechar esta aba ou sair da prova, o simulado é apagado e recomeça do zero. O app pergunta antes.${substitui}`],
+        ['Sair apaga o simulado', `Se você fechar esta aba ou sair da prova, o simulado é apagado e recomeça do zero, mas o app sempre pergunta antes.${substitui}`],
       ],
       aoConcluir: () => { armazenamento.gravar('intro-simulado', '1'); comecar(); },
     });
   }
   abrirDialogo({
     titulo: `Começar o simulado da ${prova.nome}?`,
-    texto: `3 horas para as ${prova.questoes.length} questões, sem pausa e com o gabarito só no final. Se você sair da prova, o simulado é apagado.${substitui}`,
+    texto: `São 3 horas para as ${prova.questoes.length} questões, sem pausa, e o gabarito só aparece no final. Sair da prova apaga o simulado.${substitui}`,
     acoes: [
       { rotulo: 'Cancelar', classe: 'botao--secundario', seguro: true },
       { rotulo: 'Começar', classe: 'botao--primario', acao: comecar },
@@ -366,7 +366,7 @@ function verificarAvisoTempo(a) {
     const min = Math.max(1, Math.ceil(tempoRestante(a) / 60000));
     avisoTempo.innerHTML = `<div class="aviso-tempo__textos">
         <span class="aviso-tempo__titulo"><span aria-hidden="true">◷</span> Faltam ${min} ${min === 1 ? 'minuto' : 'minutos'}</span>
-        <span class="aviso-tempo__texto">Hora de conferir e transcrever suas respostas.</span>
+        <span class="aviso-tempo__texto">Ainda há tempo para conferir as respostas.</span>
       </div>
       <button type="button" class="botao botao--pequeno botao--primario" data-acao="fechar-aviso-tempo">Entendi</button>`;
     avisoTempo.hidden = false;

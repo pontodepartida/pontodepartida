@@ -120,7 +120,7 @@ export async function telaInicio() {
 
   const notaModo = modo === 'simulado'
     ? 'No simulado, cada prova tem 3 horas e o gabarito só aparece no final. O progresso do modo estudo não é afetado.'
-    : 'Sem tempo. A explicação aparece logo depois de cada resposta.';
+    : 'Neste modo não há limite de tempo, e a explicação aparece logo depois de cada resposta.';
 
   app.innerHTML = `<div class="app">
     ${cabecalhoInicio(titulo, idsTeoria(provas).length)}
@@ -197,8 +197,8 @@ export function abrirPassos({ passos, rotulo = '', concluir = 'Começar', aoConc
 
 const BOAS_VINDAS = [
   ['Boas-vindas ao Ponto de Partida', 'Aqui você treina com provas antigas do processo seletivo do IFSP, uma questão por vez.'],
-  ['Como funciona', 'Escolha uma alternativa e confirme. Depois, veja o passo a passo da resolução, por que as outras estão erradas e a teoria. Para treinar com tempo, use o modo Simulado.'],
-  ['Seu progresso', 'Suas respostas ficam salvas só neste navegador, sem cadastro. Ficou com dúvida em algum botão? A Ajuda fica no rodapé de todas as telas.'],
+  ['Como funciona', 'Depois que a alternativa é confirmada, aparecem o passo a passo da resolução, o erro de cada uma das outras e a teoria usada. Para treinar com tempo, há o modo Simulado.'],
+  ['Seu progresso', 'Suas respostas ficam salvas só neste navegador, sem cadastro. A Ajuda, no rodapé de todas as telas, explica cada botão.'],
 ];
 
 export function abrirBoasVindas() {

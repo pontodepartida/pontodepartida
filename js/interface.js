@@ -148,6 +148,7 @@ export function cabecalhoInicio(titulo = 'Suas provas', nTemas = 0) {
       </div>
       <span class="cabecalho__espaco so-computador"></span>
       <a class="cabecalho__link" href="#/teoria">Teoria${nTemas ? `<span class="so-computador">&nbsp;· ${nTemas} temas</span>` : ''}</a>
+      <a class="cabecalho__link" href="#/pdfs">PDFs</a>
     </div>
     ${faixaAzulejos('inicio')}
   </header>`;
@@ -217,13 +218,13 @@ const SOBRE = [
     <p>As provas e os gabaritos são documentos públicos, divulgados pelo próprio IFSP. Os enunciados, os textos de apoio e as imagens aparecem como no caderno de prova, com as fontes originais citadas em cada questão.</p>
     <p>Se você é titular de algum desses conteúdos e quer pedir a remoção, escreva para o contato abaixo.</p>`],
   ['explicacoes', 'Sobre as explicações', `
-    <p>As explicações foram escritas com ajuda de inteligência artificial e revisadas antes de serem publicadas, apenas para fins de estudo. Mesmo assim, podem conter erros.</p>
+    <p>As explicações foram escritas com ajuda de inteligência artificial e revisadas antes da publicação. Mesmo assim, podem conter erros.</p>
     <p>A alternativa correta segue sempre o gabarito oficial, que é a referência em caso de dúvida. Questões anuladas pela banca valem ponto para todos.</p>`],
   ['privacidade', 'Privacidade', `
     <p>O Ponto de Partida não pede cadastro e não coleta dados pessoais. Suas respostas ficam salvas apenas neste aparelho, no armazenamento do navegador, e nunca são enviadas para nenhum servidor. Você pode apagá-las quando quiser, com o botão “Recomeçar” de cada prova ou limpando os dados de navegação.</p>
     <p>O site é hospedado no GitHub Pages, que, como qualquer serviço de hospedagem, pode registrar dados técnicos de acesso, como o endereço IP. Os vídeos indicados nas explicações estão no YouTube e só abrem quando você clica no link; a partir daí, valem as regras de privacidade do YouTube.</p>`],
   ['contato', 'Contato', `
-    <p>Sou a Bruna Scarpelli, estudante de Ciência da Computação. Criei o Ponto de Partida com o objetivo principal de reunir as provas antigas num só lugar e oferecer uma breve explicação de cada questão.</p>
+    <p>Sou a Bruna Scarpelli, estudante de Ciência da Computação. Criei o Ponto de Partida para reunir as provas antigas e explicar cada questão.</p>
     <p>Sugestões, correções e pedidos podem ser enviados para <a href="mailto:${CONTATO}">${CONTATO}</a>. Se encontrar um erro numa questão, diga a prova e o número dela.</p>`],
 ];
 
@@ -264,9 +265,9 @@ const celulaExemplo = (s, n, simbolo) => `<span class="celula celula--${s} celul
 const AJUDA = [
   ['comecar', 'Primeiros passos', `
     <p>Na tela inicial, escolha uma prova. Você pode fazer as questões em qualquer ordem e parar quando quiser: ao voltar, o cartão da prova mostra <b>Continuar na questão…</b> e leva para a primeira que ficou sem resposta.</p>
-    <p>A chave <b>Estudar / ◷ Simulado</b>, acima da lista de provas, troca o jeito de fazer: no estudo, sem tempo e com a explicação logo depois de cada resposta; no simulado, como no dia da prova.</p>`],
+    <p>A chave <b>Estudar / ◷ Simulado</b>, acima da lista de provas, escolhe o modo. No estudo não há cronômetro, e a explicação aparece logo depois de cada resposta. No simulado, a prova é feita como no dia: com 3 horas e com o gabarito só no final.</p>`],
   ['questao', 'Responder uma questão', `
-    <p>Toque numa alternativa para escolher e depois em <b>Confirmar resposta</b>. Enquanto não confirmar, dá para trocar. Depois de confirmada, a resposta não muda (para refazer, use <b>Recomeçar</b> no cartão da prova, que apaga as respostas daquela prova).</p>
+    <p>Toque numa alternativa e depois em <b>Confirmar resposta</b>; até confirmar, dá para trocar de alternativa. Depois disso, a resposta fica gravada. Para refazer a prova, use <b>Recomeçar</b> no cartão dela, o que apaga todas as respostas daquela prova.</p>
     <p>Se não souber, use <b>Pular para a…</b> e volte depois. Toque numa imagem para ampliá-la.</p>`],
   ['explicacoes', 'As explicações', `
     <p>Depois de confirmar, aparecem três seções:</p>
@@ -275,7 +276,7 @@ const AJUDA = [
       <li><b>Por que as outras estão erradas:</b> o erro de cada alternativa.</li>
       <li><b>Base teórica:</b> o mínimo de teoria que a questão usa. Em <b>Quer se aprofundar?</b>, cada botão abre o tema completo, com vídeos, sem sair da questão.</li>
     </ul>
-    <p>Em algumas questões de Matemática há um quadro interativo para mexer e ver o raciocínio acontecer.</p>`],
+    <p>Algumas questões de Matemática têm também um quadro interativo, para testar valores e acompanhar a resolução.</p>`],
   ['mapa', 'Mapa de questões e resultado', `
     <p>O mapa mostra todas as questões da prova e leva direto a qualquer uma. No computador, ele fica abaixo do cabeçalho; no celular, abre no botão <b>▦</b>.</p>
     <div class="ajuda-legenda">
@@ -286,18 +287,16 @@ const AJUDA = [
     </div>
     <p>Em <b>Terminar prova</b> você vê o resultado por matéria e a lista <b>Para revisar</b>, com as questões erradas e os temas delas. <b>Revisar</b> passa só por essas questões, já com as explicações.</p>`],
   ['simulado', 'Simulado', `
-    <ul>
-      <li><b>3 horas</b> para a prova inteira, contadas pelo relógio: o tempo não pausa, nem com a aba em segundo plano. Quando faltam 20 minutos, aparece um aviso; no zero, o simulado termina sozinho.</li>
-      <li><b>Sem gabarito até o fim.</b> A resposta fica gravada ao tocar e pode ser trocada até terminar.</li>
-      <li><b>⚑ Marcar para revisar</b> destaca a questão no mapa, para você voltar a ela antes de terminar. O cronômetro pode ser ocultado, se ele atrapalhar.</li>
-      <li><b>Não existe simulado pela metade:</b> recarregar a página mantém, mas fechar a aba ou sair da prova apaga as respostas. O app pergunta antes.</li>
-    </ul>
-    <p>Fica salvo só o resultado do último simulado de cada prova. Ele não mexe no que você respondeu no modo estudo.</p>`],
+    <p>O simulado dá 3 horas para a prova inteira, contadas pelo relógio, então o tempo continua correndo mesmo com a aba em segundo plano. Quando faltam 20 minutos, aparece um aviso, e no zero o simulado termina sozinho. O cronômetro pode ser ocultado.</p>
+    <p>O gabarito só aparece no fim. Cada resposta fica gravada ao tocar na alternativa e pode ser trocada até o fim do simulado. O botão <b>⚑ Marcar para revisar</b> destaca a questão no mapa, para facilitar a volta a ela antes de terminar.</p>
+    <p>Recarregar a página não atrapalha, mas fechar a aba ou sair da prova apaga as respostas, porque o simulado não fica salvo pela metade (o app sempre pergunta antes de apagar). Do simulado, fica guardado só o resultado mais recente de cada prova, e ele não mexe nas respostas do modo estudo.</p>`],
   ['teoria', 'Teoria', `
     <p>Em <b>Teoria</b>, no topo da tela inicial, ficam todos os temas usados nas explicações, separados por matéria e por assunto, com busca. Cada tema tem o texto completo e vídeos indicados.</p>`],
+  ['pdfs', 'PDFs', `
+    <p>Em <b>PDFs</b>, ao lado de Teoria, ficam as provas e os gabaritos originais publicados pelo IFSP, para baixar ou imprimir.</p>`],
   ['leitura', 'Letra e tela cheia', `
     <p>O botão <b>Aa</b>, nas telas de questão, muda o tamanho da letra. A escolha vale para a prova aberta.</p>
-    <p>No computador, <b>⛶ Tela cheia</b> esconde o resto da tela e ajusta a letra para a questão inteira caber sem rolagem. As explicações abrem num painel lateral, em <b>Ver explicações</b>.</p>`],
+    <p>No computador, <b>⛶ Tela cheia</b> esconde o resto da tela e ajusta a letra para a questão inteira caber sem rolagem. Nesse modo, as explicações abrem num painel lateral, pelo botão <b>Ver explicações</b>.</p>`],
   ['atalhos', 'Atalhos do teclado', `
     <p>Nas telas de questão, no computador:</p>
     <table class="atalhos">
@@ -322,7 +321,7 @@ export function telaAjuda(secao) {
     <main id="conteudo" class="conteudo sobre ajuda">
       <div class="sobre__cabeca">
         <h1 class="sobre__titulo" tabindex="-1">Como usar o Ponto de Partida</h1>
-        <p class="sobre__intro">Tudo o que o app faz, num lugar só. Se a dúvida não estiver aqui, <a href="#/sobre/contato">escreva para o contato</a>.</p>
+        <p class="sobre__intro">Aqui está explicado como funciona cada parte do app. Dúvidas que não estejam respondidas podem ser enviadas para o <a href="#/sobre/contato">contato</a>.</p>
       </div>
       <nav class="ajuda__sumario" aria-label="Assuntos da ajuda">
         ${AJUDA.map(([id, rotulo]) => `<a class="ajuda__assunto" href="#/ajuda/${id}">${rotulo}</a>`).join('')}

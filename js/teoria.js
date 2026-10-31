@@ -23,7 +23,7 @@ export async function telaTeoria() {
     <main id="conteudo" class="conteudo teoria">
       <div class="teoria__cabeca">
         <h1 class="teoria__titulo" tabindex="-1">Teoria</h1>
-        <p class="teoria__intro">Os ${temas.length} resumos usados nas explicações das questões, num só lugar.</p>
+        <p class="teoria__intro">Esta página reúne os ${temas.length} resumos usados nas explicações das questões, separados por matéria e por assunto.</p>
       </div>
       <div class="teoria__barra">
         <div class="abas" role="tablist" aria-label="Matérias">

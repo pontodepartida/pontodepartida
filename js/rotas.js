@@ -5,6 +5,7 @@ import { telaInicio } from './inicio.js';
 import { telaQuestao } from './questao.js';
 import { telaResultado, telaSimulado, avisoTempo, telaResultadoSimulado } from './simulado.js';
 import { telaTeoria, telaTema } from './teoria.js';
+import { telaPdfs } from './pdfs.js';
 
 // ---------- Rotas ----------
 
@@ -15,6 +16,7 @@ export function lerRota() {
   if (partes[0] === 'sobre') return { tela: 'sobre', secao: partes[1] || null };
   if (partes[0] === 'ajuda') return { tela: 'ajuda', secao: partes[1] || null };
   if (partes[0] === 'teoria') return partes[1] ? { tela: 'tema', tema: partes[1] } : { tela: 'teoria' };
+  if (partes[0] === 'pdfs') return { tela: 'pdfs' };
   const [id, a, b, c] = partes;
   if (!a) return { tela: 'continuar', id };
   if (a === 'simulado') {
@@ -58,6 +60,7 @@ export async function render(opcoes = {}) {
     else if (rota.tela === 'ajuda') telaAjuda(rota.secao);
     else if (rota.tela === 'teoria') await telaTeoria();
     else if (rota.tela === 'tema') await telaTema(rota.tema);
+    else if (rota.tela === 'pdfs') await telaPdfs();
     else {
       const prova = await carregarProva(rota.id);
       if (!prova) return telaErro('Prova não encontrada.');
