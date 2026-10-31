@@ -298,4 +298,5 @@ window.addEventListener('beforeunload', (e) => {
 });
 render().then(() => {
   if (!armazenamento.ler('boas-vindas') && !dialogo.open) abrirBoasVindas();
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 });

@@ -1,5 +1,5 @@
 import { sessao } from './armazenamento.js?v=2026-10-30';
-import { app, dialogo, zoom, painelMapa, explicacoes, painelTema, estado, esc, descartarPaineis, depoisDosPaineis, carregarProva, carregarTeorias, lerProgresso, primeiraSemResposta, lerAndamento, lerResultadoSimulado } from './base.js';
+import { app, dialogo, zoom, painelMapa, explicacoes, painelTema, estado, esc, descartarPaineis, depoisDosPaineis, carregarProva, guardarImagens, carregarTeorias, lerProgresso, primeiraSemResposta, lerAndamento, lerResultadoSimulado } from './base.js';
 import { telaQuestaoAtiva, sairTelaCheia, prepararAjuste, cabecalhoInicio, rodape, telaSobre, telaAjuda, ajustarFixos } from './interface.js';
 import { telaInicio } from './inicio.js';
 import { telaQuestao } from './questao.js';
@@ -64,6 +64,7 @@ export async function render(opcoes = {}) {
     else {
       const prova = await carregarProva(rota.id);
       if (!prova) return telaErro('Prova não encontrada.');
+      guardarImagens(prova);
       if (rota.tela === 'continuar') {
         const prog = lerProgresso(prova.id);
         const n = primeiraSemResposta(prova, prog);

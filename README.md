@@ -32,8 +32,10 @@ dados/frases.json     frases sobre educação (destaque da home e sorteio do res
 dados/<prova>.json    uma prova por arquivo
 dados/teoria/         biblioteca de teoria: um arquivo por tema (as questões só guardam referências)
 img/<prova>/          imagens recortadas de cada prova
+manifest.webmanifest  nome, cores e ícones do app instalado
+sw.js                 service worker: guarda os arquivos para o app abrir sem internet
 REVISAR.md            discordâncias e observações sobre os gabaritos
-ferramentas/          validar-dados.mjs: confere os dados antes de publicar
+ferramentas/          validar-dados.mjs confere os dados antes de publicar; gerar-sw.mjs atualiza a lista de arquivos do sw.js
 ```
 
 ## Adicionar uma prova
@@ -176,6 +178,23 @@ As orientações aparecem **uma vez só** e sempre podem ser puladas:
 - **Dicas** numa faixa discreta no topo da tela, que somem em “Entendi”: na primeira questão (só no celular: ▦ e Aa) e na primeira revisão. Chaves `dica:questao` e `dica:revisao`; os textos ficam em `DICAS`.
 
 O passo a passo usa `abrirPassos()`, que serve para qualquer sequência curta de passos.
+
+## Uso sem internet (PWA)
+
+O site pode ser instalado na tela inicial do celular (no Android, pelo menu do Chrome; no iPhone, em Compartilhar → Adicionar à Tela de Início) e funciona sem internet depois da primeira visita.
+
+- Na primeira visita, o `sw.js` baixa o app e todos os JSON (cerca de 2 MB): as provas e a teoria inteiras ficam disponíveis offline.
+- As imagens de uma prova são guardadas quando o aluno abre essa prova (cerca de 1 a 2 MB por prova). Com a economia de dados do navegador ligada, só ficam guardadas as imagens vistas.
+- Os PDFs de `provas e gabaritos/` e as miniaturas dos vídeos não são guardados.
+- Com internet, o app sempre busca a versão mais nova dos arquivos e usa a cópia guardada só se a rede falhar ou demorar mais de 4 segundos. As imagens saem da cópia guardada e são atualizadas em segundo plano.
+
+**Antes de cada publicação**, rode:
+
+```sh
+node ferramentas/gerar-sw.mjs
+```
+
+O script lista os arquivos que o `sw.js` baixa na primeira visita e gera uma versão nova a partir do conteúdo deles. Se ele não for rodado, o app continua funcionando, mas arquivos novos (uma prova nova, por exemplo) só ficam offline depois de abertos uma vez com internet.
 
 ## Progresso do aluno
 

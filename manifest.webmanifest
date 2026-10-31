@@ -3,6 +3,7 @@
   "short_name": "Ponto de Partida",
   "description": "Provas antigas do processo seletivo do IFSP, uma questão por vez, com a explicação de cada alternativa.",
   "lang": "pt-BR",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

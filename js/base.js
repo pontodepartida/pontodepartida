@@ -96,6 +96,16 @@ export async function carregarProva(id) {
   return prova;
 }
 
+const imagensPedidas = new Set();
+export function guardarImagens(prova) {
+  if (!('serviceWorker' in navigator) || imagensPedidas.has(prova.id)) return;
+  if (navigator.connection && navigator.connection.saveData) return;
+  imagensPedidas.add(prova.id);
+  const urls = [...new Set(JSON.stringify(prova).match(/img\/[\w./-]+\.(?:png|jpe?g|webp|gif|svg)/g) || [])];
+  if (!urls.length) return;
+  navigator.serviceWorker.ready.then(reg => reg.active && reg.active.postMessage({ tipo: 'guardar-imagens', urls }));
+}
+
 
 export async function carregarTeorias(ids) {
   const faltam = (ids || []).filter(id => !estado.teoria.has(id));
