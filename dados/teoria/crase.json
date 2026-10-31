@@ -1,0 +1,17 @@
+{
+  "id": "crase",
+  "titulo": "Crase",
+  "materia": "Português",
+  "grupo": "Concordância, regência e crase",
+  "texto": "**Crase** é a fusão de duas vogais *a*: a **preposição** *a* (exigida por um verbo ou nome) e o **artigo** feminino *a* (ou *as*). A fusão é marcada pelo acento grave: **à**, **às**.\n\n> Fui **a** + **a** escola → Fui **à** escola.\n\n**Quando há crase:** é preciso ter, ao mesmo tempo, uma palavra que exija a preposição *a* **e** uma palavra feminina que aceite o artigo *a*.\n\n**Teste do masculino:** troque a palavra feminina por uma masculina. Se aparecer **ao**, use crase; se aparecer só **a** ou **o**, não use.\n\n| Frase | Com masculino | Crase? |\n|---|---|---|\n| Assisti ___ novela. | Assisti **ao** filme. | sim: assisti **à** novela |\n| Assisti ___ uma série. | Assisti **a** um filme. | não: assisti **a** uma série |\n| Vi ___ novela. | Vi **o** filme. | não: vi **a** novela (sem preposição) |\n\n**Não há crase:**\n\n- antes de palavra **masculina**: andar **a** cavalo;\n- antes de **verbo**: começou **a** chover;\n- antes de **artigo indefinido** (*uma*, *umas*): assisti **a** uma peça;\n- antes da maioria dos **pronomes** (*ela*, *esta*, *você*, *qualquer*, *toda*): falei **a** ela;\n- quando o *a* está no **singular** e a palavra seguinte no **plural**: refiro-me **a** pessoas;\n- em expressões com palavras repetidas: cara **a** cara, gota **a** gota.\n\n**Há crase obrigatória:**\n\n- em locuções femininas: **às** vezes, **à** noite, **à** medida que, **às** pressas, **à** vista;\n- na indicação de horas: chegou **às** 8 horas;\n- antes de *aquele*, *aquela*, *aquilo*, quando há preposição: refiro-me **àquele** livro.\n\n**Ligação com a regência:** só existe crase quando o termo anterior pede a preposição *a* (veja *Regência verbal*). Por isso, “assistir **à** novela” (assistir = ver, com preposição) tem crase, e “ver **a** novela” não tem.",
+  "videos": [
+    {
+      "titulo": "Crase – aula 01: Concerto da Crase - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=yUpRa62vcSI"
+    },
+    {
+      "titulo": "Método infalível para saber quando usar crase - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=aS-ZDEQTK5M"
+    }
+  ]
+}

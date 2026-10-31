@@ -1,0 +1,929 @@
+{
+  "id": "ps-2023-1-a",
+  "nome": "PS 2023.1 – Prova A",
+  "edital": "Edital nº 609/2022 – Prova A",
+  "fonteGabarito": "Gabarito final – Prova A – Edital 609 – PS 2023.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto a seguir:\n\n> ### O VALOR DA AMIZADE\n> *(Fragmento)*\n>\n> Amigos são pessoas afins que se encontraram; a disponibilidade para o convívio e a dedicação investida na relação mostraram que elas se complementavam a seu modo, e decidiram então que valia a pena continuar lado a lado, simplesmente porque isso era bom. Aí essas pessoas acompanhadas uma da outra vão se conhecendo mais e mais, estão prontas a se abrir e a expressar emoções, o que gera confiança e intimidade.\n>\n> Dividem histórias, opiniões, aprendizados, segredos, risadas, memórias, silêncios, dores. Fazem com que os problemas fujam temporariamente, ajudam a desembaraçar nós; compartilham dos mesmos gostos e interesses, ou não. Aceitam e respeitam as diferenças. Contribuem sobremaneira com o nosso nível de bem-estar. Torcem para que a gente cresça e acumule conquistas, e estão sempre lá também para as comemorações.\n>\n> <cite>Fonte: https://vidasimples.co/conviver/o-valor-da-amizade. Acesso em: 22 out. 2021.</cite>\n\nNo texto lido, podemos encontrar:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Verbo de ligação em “isso era bom”.",
+        "B": "Verbo intransitivo em “dividem histórias”.",
+        "C": "Verbo transitivo indireto em “desembaraçar nós”.",
+        "D": "Verbo transitivo direto em “estão sempre lá”."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "“Dividir” pede complemento (quem divide, divide algo): “histórias” é objeto direto. O verbo é transitivo direto.",
+        "C": "Não há preposição entre “desembaraçar” e “nós”: o verbo é transitivo direto.",
+        "D": "“Lá” é advérbio de lugar, e não objeto. “Estar”, aqui, é intransitivo, acompanhado de adjunto adverbial."
+      },
+      "teoria": [
+        "verbos-de-ligacao",
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica (predicativo): em “isso **era** bom”, *era* liga *isso* a *bom*.",
+        "Verbo transitivo direto pede complemento sem preposição: “dividem **histórias**”, “desembaraçar **nós**”.",
+        "Em “estão sempre **lá**”, *lá* é advérbio de lugar, e não complemento do verbo."
+      ],
+      "raciocinio": "1. “Isso era bom”: “era” (verbo *ser*) liga “isso” à característica “bom”. É verbo de ligação (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Confira as outras classificações (veja: *Transitividade verbal: verbos e complementos*): “dividem histórias” e “desembaraçar nós” têm complemento sem preposição, então são transitivos diretos; em “estão sempre lá”, *lá* é advérbio, e o verbo não tem objeto.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia a charge a seguir:\n\n![Charge: dois pássaros num galho seco, sobre uma paisagem desmatada com tocos de árvore e um caminhão carregado de toras. O pássaro adulto explica ao filhote como vivem os seres humanos.](img/2023-1-a/q02.jpg \"Pássaro adulto: É mais ou menos assim, meu filho! Eles sujam a água, consomem seus recursos naturais, poluindo o ar. Tudo isso para gerar dinheiro. Com o dinheiro eles vivem melhor, pois podem cuidar da saúde, se alimentar... | Filhote: Tá! Só não entendi por que são chamados de “racionais”...\")\n\n<cite>Fonte: http://flip.atarde.com.br/especiais/enem/caderno1/files/assets/basic-html/page6.html. Acesso em: 10 out. 2021.</cite>\n\nNa charge podemos encontrar:",
+      "imagens": [
+        "img/2023-1-a/q02.jpg"
+      ],
+      "alternativas": {
+        "A": "Verbo transitivo indireto em “eles vivem melhor”.",
+        "B": "Verbo transitivo direto em “eles sujam a água”.",
+        "C": "Verbo intransitivo em “consomem seus recursos”.",
+        "D": "Verbo bitransitivo em “cuidar da saúde”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Melhor” é advérbio de modo. “Viver”, aqui, não tem complemento: é intransitivo.",
+        "C": "“Consumir” pede complemento sem preposição (“seus recursos”): é transitivo direto.",
+        "D": "“Cuidar da saúde” tem um complemento só, com preposição: é transitivo indireto. Bitransitivo teria dois complementos."
+      },
+      "teoria": [
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Para classificar o verbo, pergunte: ele pede complemento? O complemento vem com ou sem preposição?",
+        "Sem preposição, é transitivo direto: “sujam **a água**”. Com preposição, transitivo indireto: “cuidar **da** saúde”.",
+        "Verbo acompanhado só de advérbio é intransitivo: “vivem **melhor**”."
+      ],
+      "raciocinio": "Para cada verbo, pergunte se ele precisa de complemento e se o complemento vem com ou sem preposição (veja: *Transitividade verbal: verbos e complementos*):\n\n1. “eles sujam a água”: sujam o quê? A água, sem preposição → transitivo direto ✓.\n2. “vivem melhor”: *melhor* é advérbio → intransitivo. “consomem seus recursos” → transitivo direto. “cuidar da saúde” → transitivo indireto.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "Considere os seguintes títulos de notícias:\n\n#### Título 1\n> **Só um homem-bomba atacou aeroporto de Cabul, diz Pentágono; mortes superam 180**\n>\n> <cite>Disponível em https://www.correiobraziliense.com.br/mundo/2021/08/4946277-so-um-homem-bomba-atacou-aeroporto-de-cabul-diz-pentagono-mortes-superam-180.html. Acesso em: 21 out. 2021.</cite>\n\n#### Título 2\n> **Advogado paranaense pede à Justiça para ser reconhecido como ‘Super-Homem brasileiro’**\n>\n> <cite>Disponível em https://g1.globo.com/pr/campos-gerais-sul/noticia/2021/03/11/advogado-paranaense-pede-a-justica-para-ser-reconhecido-como-super-homem-brasileiro.ghtml. Acesso em: 21 out. 2021.</cite>\n\nConsiderando-se a justificativa do aparecimento do hífen nos títulos, é correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ambos os casos se referem a nomes de personagens masculinos, marcados pela formação a partir da palavra “homem”.",
+        "B": "Ambos os casos são justificados em razão do prefixo “super”: no primeiro junto a um verbo e no segundo junto a um nome.",
+        "C": "O primeiro se dá pela justaposição das palavras; já o segundo, por derivação prefixal seguida de palavra iniciada por “h”.",
+        "D": "Tanto um quanto outro fazem uso de especificadores: “bomba” e “brasileiro”, iniciados com a letra “b”."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O hífen não depende de serem personagens nem de terem a palavra “homem”: segue regras de formação de palavras.",
+        "B": "“Homem-bomba” não tem o prefixo *super-*. E “homem” não é verbo.",
+        "D": "A letra inicial “b” não tem relação com o hífen. E “brasileiro” nem faz parte da palavra com hífen."
+      },
+      "teoria": [
+        "formacao-de-palavras",
+        "hifen"
+      ],
+      "essencial": [
+        "Composição por justaposição: duas palavras se juntam sem perder nenhum som, muitas vezes com hífen: *homem-bomba*.",
+        "Derivação prefixal: prefixo + palavra. Antes de palavra iniciada por *h*, o prefixo pede hífen: *super-homem*."
+      ],
+      "raciocinio": "1. “Homem-bomba”: duas palavras independentes, unidas sem perder som. É composição por justaposição, com hífen (veja: *Formação de palavras*).\n2. “Super-Homem”: prefixo *super-* + palavra iniciada por *h*. É derivação prefixal, e o *h* exige hífen (veja: *Hífen*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto abaixo e responda à questão:\n\n> (...) Estava exausto, mortalmente exausto com aquela longa agonia e, quando por fim me desamarraram e pude sentar-me, senti que perdia os sentidos. A sentença – a terrível sentença de morte – foi a última frase que chegou, claramente, aos meus ouvidos. Depois, o som das vozes dos inquisidores pareceu apagar-se naquele zumbido indefinido de sonho. (...)\n>\n> Eu desmaiara; mas, não obstante, não posso dizer que houvesse perdido de todo a consciência. Não procurarei definir, nem descrever sequer, o que dela me restava. Nem tudo, porém, estava perdido. (...)\n>\n> Súbito, voltam à minha alma o movimento e o som – o movimento tumultuoso do coração e, em meus ouvidos, o som de suas batidas. Em seguida, uma pausa, em que tudo é vazio. Depois, de novo, o som, o movimento e o tato, como uma sensação vibrante que penetra em meu ser. Logo após, a simples consciência da minha existência, sem pensamento – estado que durou muito tempo. Depois, de maneira extremamente súbita, o pensamento e um trêmulo terror – o esforço enorme para compreender o meu verdadeiro estado. Logo após, vivo desejo de mergulhar na insensibilidade. Depois, um brusco renascer da alma e um esforço bem sucedido para mover-me. E, então, a lembrança completa do que acontecera, dos juízes, das tapeçarias negras, da sentença, da fraqueza, do desmaio. Esquecimento completo de tudo o que acontecera – e que somente mais tarde, graças aos mais vivos esforços, consegui recordar vagamente. (...)\n>\n> <cite>POE, E. A. O poço e o pêndulo. In: POE, E. A. Histórias extraordinárias. São Paulo: Martin Claret, 2010. p. 89. Fragmento.</cite>\n\nA personagem está presa num poço. O condenado à morte percebe a descida de um pêndulo que, de forma lenta, faz com que ele vivencie a espera de seu fim de modo agonizante. Os eventos, nesse trecho",
+      "imagens": [],
+      "alternativas": {
+        "A": "São apenas marcados pelo tempo cronológico.",
+        "B": "São apenas marcados pelo tempo psicológico.",
+        "C": "São marcados pela mescla dos tempos psicológico e cronológico.",
+        "D": "São marcados pela ausência do tempo cronológico e também do tempo psicológico."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Não há horas, datas nem durações medidas. O que se conta são sensações, e não o tempo do relógio.",
+        "C": "É a que mais confunde: “depois” e “logo após” indicam ordem. Mas é a ordem das sensações do narrador, sem nenhuma medida de tempo real.",
+        "D": "O tempo psicológico está muito presente: o narrador vive cada instante intensamente (“estado que durou muito tempo”)."
+      },
+      "teoria": [
+        "elementos-da-narrativa"
+      ],
+      "essencial": [
+        "Tempo cronológico é medido por relógio ou calendário: horas, dias, datas.",
+        "Tempo psicológico é o tempo sentido pela personagem: a angústia da espera faz minutos parecerem horas.",
+        "“Súbito”, “depois” e “logo após” só ordenam as sensações; sem nenhuma medida real, o tempo do trecho é psicológico."
+      ],
+      "raciocinio": "1. Procure marcas de relógio ou calendário (veja: *Elementos da narrativa e tempo*): não há nenhuma. Há só “Súbito”, “Depois” e “Logo após”, que indicam a ordem das sensações.\n2. Procure marcas de sensação: o som das batidas do coração, o vazio, o terror, “estado que durou muito tempo”. Quanto tempo durou? O texto não diz: o narrador mede o tempo pelo que sente.\n3. É tempo psicológico.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a tira abaixo e responda à questão:\n\n![Tirinha “Chato de galochas” em três quadros: um paciente na cadeira do dentista pergunta os preços dos tratamentos.](img/2023-1-a/q05.jpg \"Quadro 1 – Paciente: Quanto sai o pivô? Dentista: Dois mil. | Quadro 2 – Paciente: Quanto sai o implante? Dentista: Quatro mil! | Quadro 3 – Paciente: Posso pagar em quatro mil vezes? (O dentista olha para ele com a cara fechada.)\")\n\n<cite>A Vida Como Ela Yeah. ITURRUSGARAI, Adão. São Paulo, 17 set. 2021. Disponível em: https://www1.folha.uol.com.br/ilustrada/cartum/cartunsdiarios/#17/9/2021. Acesso em: 09 out. 2021.</cite>\n\nNa tirinha, podemos identificar que a expressão facial do dentista denota:",
+      "imagens": [
+        "img/2023-1-a/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "Seu espanto com a proposta.",
+        "B": "Sua indiferença com a proposta.",
+        "C": "Sua discordância com a proposta.",
+        "D": "Seu consentimento com a proposta."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Espanto apareceria com olhos arregalados e boca aberta. O dentista está de cara fechada, sério.",
+        "B": "Indiferença seria não reagir. A expressão dele mostra uma reação clara de desaprovação.",
+        "D": "Nada na expressão indica que ele aceite a proposta."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal",
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Na tirinha, o sentido vem da fala e da imagem juntas: a expressão do rosto também comunica.",
+        "Sobrancelhas franzidas e boca fechada indicam desaprovação diante do absurdo de pagar R$ 1 por parcela."
+      ],
+      "raciocinio": "1. Entenda a proposta: pagar R$ 4.000 em quatro mil vezes, ou seja, R$ 1 por parcela. É um absurdo, e é daí que vem o humor (veja: *Ironia e humor*).\n2. Observe o rosto do dentista no último quadro: sobrancelhas franzidas, boca fechada, encarando o paciente (veja: *Linguagem verbal e não verbal*).\n3. Isso mostra discordância.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Considere uma situação de uso da língua portuguesa em sua variante escrita formal, em que deve ser utilizada a norma culta. Analise as opções a seguir e assinale a que estiver mais adequada para uso nessa circunstância:",
+      "imagens": [],
+      "alternativas": {
+        "A": "É importante que sejam salientados, os efeitos negativos que a polarização ideológica traz para que se reflitam sobre como melhorar essa problemática.",
+        "B": "É importante que seja salientado, os efeitos negativos que a polarização ideológica traz para que se reflita sobre como melhorar essa problemática.",
+        "C": "É importante que seja salientado os efeitos negativos que a polarização ideológica traz, para que se reflitam sobre como melhorar essa problemática.",
+        "D": "É importante que sejam salientados os efeitos negativos que a polarização ideológica traz, para que se reflita sobre como melhorar essa problemática."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Tem vírgula separando o verbo (“sejam salientados”) do sujeito (“os efeitos”), o que é proibido. E “se reflitam” deveria ficar no singular.",
+        "B": "“Seja salientado” deveria concordar com “os efeitos” (plural). E de novo há vírgula entre verbo e sujeito.",
+        "C": "“Seja salientado” não concorda com “os efeitos negativos”, e “se reflitam” deveria estar no singular."
+      },
+      "teoria": [
+        "concordancia-verbal",
+        "pontuacao"
+      ],
+      "essencial": [
+        "O verbo concorda com o sujeito mesmo quando ele vem depois: “sejam salientados **os efeitos**”.",
+        "Não se separa o sujeito do verbo com vírgula.",
+        "Com *se* e verbo com preposição (*refletir sobre*), o sujeito é indeterminado e o verbo fica no singular: “se reflita”."
+      ],
+      "raciocinio": "1. Voz passiva: o sujeito de “sejam salientados” é “os efeitos negativos”, no plural, e vem depois do verbo. O verbo concorda com ele (veja: *Concordância verbal*). Isso elimina B e C.\n2. Não se põe vírgula entre o verbo e o sujeito (veja: *Sinais de pontuação e seus efeitos*). Isso elimina A.\n3. Confira o fim da D: “para que **se reflita** sobre como melhorar”. *Refletir sobre* tem preposição; com o *se*, o sujeito é indeterminado, e o verbo fica no singular.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia abaixo um fragmento do livro *Dom Casmurro*, de Machado de Assis.\n\n> – D. Glória, a senhora persiste na ideia de meter o nosso Bentinho no seminário? É mais que tempo, e já agora pode haver uma dificuldade.\n> – Que dificuldade?\n> – Uma grande dificuldade.\n>\n> Minha mãe quis saber o que era. José Dias, depois de alguns instantes de concentração, veio ver se havia alguém no corredor; não deu por mim, voltou e, abafando a voz, disse que a dificuldade estava na casa ao pé, a gente do Pádua.\n>\n> – A gente do Pádua?\n> – Há algum tempo estou para lhe dizer isto, mas não me atrevia. Não me parece bonito que o nosso Bentinho ande metido nos cantos com a filha do Tartaruga, e esta é a dificuldade, porque se eles pegam de namoro, a senhora terá muito que lutar para separá-los.\n>\n> <cite>ASSIS, M. **Dom Casmurro**. Núcleo de Educação a Distância. Universidade da Amazônia. Disponível em: www.dominiopublico.gov.br. Acesso em: 06 out. 2021.</cite>\n\nÉ correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O verbo “parecer”, em “**parece bonito**”, indica estado aparente e pode ser substituído pelo verbo “ser”, sem comprometer o sentido original do texto.",
+        "B": "O verbo “andar”, em “**ande metido**”, indica estado momentâneo e pode ser substituído pelo verbo “estar”, sem comprometer o sentido original do texto.",
+        "C": "O verbo “ser”, em “**esta é a dificuldade**”, indica estado permanente e pode ser substituído pelo verbo “permanecer”, sem comprometer o sentido original do texto.",
+        "D": "O verbo “ser”, em “**quis saber o que era**”, indica estado continuativo e pode ser substituído pelo verbo “ficar”, sem comprometer o sentido original do texto."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Parecer” indica estado aparente (é a opinião de José Dias). Trocar por “ser” transforma uma impressão em afirmação: muda o sentido.",
+        "C": "“Permanecer” acrescenta a ideia de continuidade (“continua sendo”), que o original não tem.",
+        "D": "“Ficar” indica mudança de estado. “Quis saber o que era” só pergunta qual era a dificuldade."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "O verbo de ligação indica o tipo de estado: *ser*, permanente; *estar* e *andar*, passageiro; *ficar*, mudança; *parecer*, aparência.",
+        "Por isso “ande metido” pode virar “esteja metido”: os dois indicam um estado passageiro."
+      ],
+      "raciocinio": "1. Cada verbo de ligação indica um tipo de estado (veja: *Verbos de ligação e predicativo do sujeito*): *ser*, permanente; *estar* e *andar*, passageiro; *parecer*, aparente; *permanecer*, continuidade; *ficar*, mudança.\n2. Teste cada troca. “Que o nosso Bentinho **ande** metido nos cantos” = “que o nosso Bentinho **esteja** metido nos cantos”: o estado continua passageiro, e o sentido se mantém.\n3. As outras trocas mudam o tipo de estado.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia o texto:\n\n> ### Não há leis boas e ruins, é preciso saber aplicá-las, diz Cármen Lúcia\n> [...] Para a ministra, a democracia não é de estado, é uma forma de vida. “Democracia é para o povo. Nesse período pré-eleitoral, não esqueçamos que somos participantes, o Brasil somos nós. O Brasil é cada cidadão que, juntos, podem cumprir a Constituição, traçar projetos de vida de tal maneira que tenhamos uma política ética estabelecida, dever de honestidade não apenas no sentido de não fazermos nada que contrarie o Código Penal, mas respeitosos com o Brasil e com os cidadãos”, declarou. [...]\n>\n> <cite>Consultório Jurídico. São Paulo, 08 out. 2021. Disponível em: https://www.conjur.com.br/2018-ago-17/nao-leis-boas-ruins-preciso-saber-aplica-la-carmen. Acesso em: 08 out. 2021. Fragmento.</cite>\n\nAnalisando as ocorrências textuais do verbo *ser*, é possível verificar que ele, seguindo a norma-padrão da Língua Portuguesa, deve ser conjugado concordando",
+      "imagens": [],
+      "alternativas": {
+        "A": "Geralmente com o seu sujeito, mas, se estiver entre um substantivo e um pronome pessoal, ele concordará com o pronome em número e em pessoa.",
+        "B": "Geralmente com o seu sujeito, em número e em pessoa, mas, se estiver entre um substantivo e um pronome pessoal, ele concordará com o substantivo.",
+        "C": "Necessariamente com o seu sujeito, em número e em pessoa, mas somente nas ocorrências em que o sujeito estiver implícito na oração.",
+        "D": "Necessariamente com o seu sujeito, em número e em pessoa, mas somente nas ocorrências em que o sujeito estiver explícito na oração."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "É o contrário: entre substantivo e pronome pessoal, o verbo concorda com o pronome (“o Brasil somos nós”, e não “o Brasil é nós”).",
+        "C": "Não é “necessariamente” com o sujeito: há exceções, como a do próprio texto. E o sujeito estar implícito ou explícito não muda a regra.",
+        "D": "Pelo mesmo motivo: há exceções à concordância com o sujeito, e a regra não depende de o sujeito estar explícito."
+      },
+      "teoria": [
+        "concordancia-verbal"
+      ],
+      "essencial": [
+        "O verbo *ser* concorda, em geral, com o sujeito: “o Brasil **é** cada cidadão”.",
+        "Entre um substantivo e um pronome pessoal, *ser* concorda com o pronome: “o Brasil **somos** nós”."
+      ],
+      "raciocinio": "1. Ache as ocorrências de *ser* no texto: “o Brasil **é** cada cidadão” (concorda com o sujeito) e “o Brasil **somos** nós” (concorda com o pronome *nós*).\n2. Regra (veja: *Concordância verbal*): o verbo *ser* concorda, em geral, com o sujeito; entre um substantivo e um pronome pessoal, concorda com o pronome.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a charge a seguir:\n\n![Charge: um rapaz segura uma conta e grita. Ao lado, duas figuras da morte, sorrindo, com as palavras “Mudanças climáticas” e “Desmatamento” escritas nas capas.](img/2023-1-a/q09.jpg \"Rapaz: Por que a conta de luz subiu de novo?! | Caveiras: Sabe de nada, inocente!\")\n\n<cite>Fonte: http://www.juniao.com.br/chargecartum/charge_aquec_global_juniao_fimx/. Acesso em: 21 set. 2021.</cite>\n\nApós a leitura da charge, você notou que as caveiras estão felizes. Assinale a alternativa correta da expressão facial do rapaz associada à sua fala:",
+      "imagens": [
+        "img/2023-1-a/q09.jpg"
+      ],
+      "alternativas": {
+        "A": "Manifesta admiração.",
+        "B": "Revela alvoroço.",
+        "C": "Demonstra surpresa.",
+        "D": "Expressa assombração."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Admiração é um sentimento positivo, de encanto. O rapaz não está encantado com a conta.",
+        "B": "Alvoroço é agitação, tumulto. A fala é uma pergunta indignada, e não uma agitação.",
+        "D": "“Assombração” é fantasma, aparição. A palavra não descreve uma expressão facial."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal",
+        "pontuacao"
+      ],
+      "essencial": [
+        "A pontuação expressa emoção: “?!” junta pergunta e espanto.",
+        "Na charge, fala e rosto se completam: olhos arregalados e boca aberta indicam surpresa."
+      ],
+      "raciocinio": "1. Observe a fala: “Por que a conta de luz subiu de novo?!”. O “?!” junta pergunta e espanto (veja: *Sinais de pontuação e seus efeitos*).\n2. Observe o rosto: olhos arregalados, boca aberta (veja: *Linguagem verbal e não verbal*).\n3. Juntos, eles mostram surpresa, misturada a indignação.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Considere o infográfico a seguir para responder à questão que segue.\n\n![Infográfico do G1: “Permanência escolar já era problema antes da pandemia. Números mostram que evasão ocorre principalmente quando jovens começam a trabalhar”. Quatro gráficos de rosca com dados.](img/2023-1-a/q10.jpg \"Permanência escolar já era problema antes da pandemia | Números mostram que evasão ocorre principalmente quando jovens começam a trabalhar | 20,2%: Das 50 milhões de pessoas de 14 a 29 anos do país, 20,2% não completaram alguma das etapas da educação básica | 14,1%: O marco do abandono precoce à escola se dá aos 15 anos. Nesta idade, 14,1% deixam de frequentar as aulas | 75%: Quase 75% dos jovens de 18 a 24 anos estão atrasados ou abandonaram os estudos | 11,8%: 11,8% dos adolescentes de 15 a 17 anos estão fora da escola | Fonte: Cenário da Infância e Adolescência no Brasil 2020, com dados do IBGE; e Pnad Contínua 2019\")\n\n<cite>Disponível em https://g1.globo.com/educacao/noticia/2021/08/14/impacto-pandemia-ensino-superior.ghtml Acesso em: 05 out.2021.</cite>\n\nCom base nos dados do infográfico, avalie as seguintes informações:\n\nI – Os dados referem-se somente a adolescentes de 15 a 17 anos.\nII – O título do infográfico sugere que a pandemia tem relação direta com a evasão escolar.\nIII – Mais da metade dos jovens abandonaram a escola ou estão atrasados com os estudos.\nIV – O início do abandono escolar precoce se dá aos 15 anos.\n\nAssinale a sequência de verdadeiro (V) e falso (F) que coincide, respectivamente com as informações anteriores:",
+      "imagens": [
+        "img/2023-1-a/q10.jpg"
+      ],
+      "alternativas": {
+        "A": "F, F, V e V.",
+        "B": "F, F, V e F.",
+        "C": "V, V, V e F.",
+        "D": "F, V, V e V."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A IV é verdadeira: “O marco do abandono precoce à escola se dá aos 15 anos”.",
+        "C": "A I é falsa (há faixas de 14 a 29 e 18 a 24 anos), e a II também (o problema é anterior à pandemia).",
+        "D": "A II é falsa: o título afirma que a permanência escolar já era um problema antes da pandemia."
+      },
+      "teoria": [
+        "infograficos"
+      ],
+      "essencial": [
+        "Num infográfico, cada afirmação se confere com um dado específico: título, número, faixa de idade.",
+        "Cuidado com afirmações mais amplas que o dado: o título diz que o problema “já era” anterior à pandemia."
+      ],
+      "raciocinio": "Avalie cada afirmação no infográfico (veja: *Leitura de infográficos*):\n\n1. I – falsa: há várias faixas de idade (14 a 29, 18 a 24, 15 a 17).\n2. II – falsa: o título diz que a permanência escolar “já era problema antes da pandemia”; o problema não começou com ela.\n3. III – verdadeira: “Quase 75% dos jovens de 18 a 24 anos estão atrasados ou abandonaram os estudos”.\n4. IV – verdadeira: “O marco do abandono precoce à escola se dá aos 15 anos”.\n\nF, F, V, V. Resposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Considere o seguinte anúncio publicitário de uma marca de roupas íntimas para responder à questão:\n\n![Anúncio da Lupo para o Dia dos Namorados: um casal abraçado e sorridente, usando roupas íntimas. No alto, “Dia dos Namorados. Viva o romance. Lupo”. Sobre a foto, a frase: “Amor gostoso é assim: envolve, mas não prende.”](img/2023-1-a/q11.jpg \"Dia dos Namorados | Viva o Romance | LUPO | Amor gostoso é assim: envolve, mas não prende.\")\n\n<cite>LUPO. Dia dos Namorados: Viva o romance. Lupo. Amor gostoso é assim: envolve, mas não prende. Disponível em: https://site.lupo.com.br/publicidade/. Acesso em: 07 out. 2021.</cite>\n\nAssinale a alternativa correta a respeito dos recursos estilísticos e linguísticos utilizados no cartaz:",
+      "imagens": [
+        "img/2023-1-a/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "A imagem mostra um casal alegre e confortável usando Lupo, o que causa uma impressão ruim a respeito da marca.",
+        "B": "O verbo “prender” tem duplo sentido e pode ser entendido tanto como “soltar” quanto como “tirar a liberdade”.",
+        "C": "Na parte superior do cartaz, o uso de “viva” no modo indicativo incentiva o receptor a comprar Lupo para viver um romance.",
+        "D": "De modo metafórico, revela-se que “amor” e “Lupo” têm algo em comum: ambos envolvem sem prender."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Um casal alegre e confortável causa uma impressão boa da marca, que é o objetivo do anúncio.",
+        "B": "“Prender” pode ser “apertar” ou “tirar a liberdade”, mas nunca “soltar”, que é o contrário.",
+        "C": "“Viva” está no modo imperativo (um convite: “viva o romance”), e não no indicativo."
+      },
+      "teoria": [
+        "ambiguidade",
+        "publicidade-e-propaganda"
+      ],
+      "essencial": [
+        "Duplo sentido proposital: “envolve, mas não prende” vale para o amor (acolhe sem tirar a liberdade) e para a roupa (veste sem apertar).",
+        "A publicidade aproxima o produto de algo desejado por uma característica comum: é uma metáfora."
+      ],
+      "raciocinio": "1. A frase central, “Amor gostoso é assim: envolve, mas não prende”, vale para duas coisas (veja: *Ambiguidade e duplo sentido*): para o amor (acolhe, mas não tira a liberdade) e para a roupa da marca (envolve o corpo, mas não aperta).\n2. Aproximar o amor e o produto por uma característica comum é uma comparação implícita, uma metáfora, recurso típico da publicidade (veja: *Publicidade e propaganda*).\n3. As outras erram fatos: a impressão é boa (A), *prender* não é *soltar* (B), *viva* está no imperativo (C).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia o fragmento de um poema em prosa:\n\n> Ninguém pode cortar por mim o mato do quintal. Ele invadiu o pomar, ameaça obstruir os caminhos. Digo-me que foi gerado pela força do meu silêncio ou da minha omissão. Mas de fato foi semeado pela mão que outrora o arrancou e involuntariamente semeou. Crescido forte e vigoroso, agora enche o trajeto de espanto, de amor-cego, de picão.\n>\n> <cite>SISCAR, Marcos. *O roubo do silêncio*. Rio de Janeiro: 7 Letras, 2006. p. 17.</cite>\n\nA palavra “amor-cego” é um neologismo criado pelo autor. Assinale a alternativa que apresenta um sentido diferente do que pode ser atribuído ao termo “amor-cego” dentro do contexto do poema:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Planta.",
+        "B": "Sentimento.",
+        "C": "Obstáculo.",
+        "D": "Virtude."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Amor-cego” aparece numa lista com “picão”, uma erva daninha, como parte do mato: pode ser lido como planta.",
+        "B": "“Amor” é sentimento, e o poema fala de silêncio e omissão, temas emocionais: pode ser lido como sentimento.",
+        "C": "O mato “ameaça obstruir os caminhos” e “enche o trajeto”: é um obstáculo."
+      },
+      "teoria": [
+        "formacao-de-palavras",
+        "poesia"
+      ],
+      "essencial": [
+        "Neologismo é uma palavra nova criada pelo autor; o sentido de “amor-cego” sai do contexto do poema.",
+        "No poema, o mato pode ser lido ao pé da letra (planta) e como imagem do que cresceu por omissão.",
+        "A pergunta pede o sentido que **não** cabe: o mato invade e atrapalha, então não é “virtude”."
+      ],
+      "raciocinio": "1. A questão pede o sentido que **não** cabe no contexto.\n2. “Amor-cego” é um neologismo (veja: *Formação de palavras*), e o sentido sai do contexto. Num poema em prosa (veja: *Poesia: verso, eu lírico e poema visual*), o mato do quintal pode ser lido ao pé da letra (plantas) e como imagem de algo que o eu lírico deixou crescer pelo “silêncio” e pela “omissão”.\n3. Planta (ao lado de “picão”), sentimento (“amor”) e obstáculo (“obstruir os caminhos”) cabem. “Virtude”, uma qualidade positiva, não cabe: no poema, o mato invade e atrapalha.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia o poema abaixo e faça o que se pede posteriormente.\n\n> ### Hiato\n> O menino do interior\n> observa a cidade:\n> as pessoas passando –\n> *depressa*;\n> os automóveis estagnando-se –\n> imóveis;\n> a sirene soando –\n> GRAVE.\n>\n> O menino do interior\n> observa o Copan, de Niemeyer:\n> as leves curvas,\n> o pesado concreto –\n> ondas do mar;\n> o majestoso porte,\n> a abstrata arquitetura –\n> chapadas da Bahia.\n>\n> Passando, sem pressa,\n> observa a cidade\n> o menino do interior.\n>\n> O menino do interior observa.\n>\n> <cite>IFSP, 2021.</cite>\n\nA respeito da caracterização da cidade no poema, é correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Os recursos gráficos utilizados nas palavras “depressa”, “imóveis” e “GRAVE” dialogam com o significado desses termos no contexto do poema.",
+        "B": "A descrição presente na primeira estrofe revela o alívio do visitante ao encontrar na cidade elementos por ele conhecidos.",
+        "C": "A aliteração contida na primeira estrofe pode sugerir ao leitor o barulho presente na cidade grande, por meio da repetição do som consonantal /s/.",
+        "D": "A antítese contida nos termos “leves” e “pesado” representa, evidentemente, o choque cultural vivenciado pelo menino do interior em sua visita à cidade grande."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Depressa” está em itálico e “GRAVE” em maiúsculas, mas “imóveis” não tem nenhum destaque gráfico. A afirmação não vale para as três.",
+        "B": "A primeira estrofe mostra pressa, trânsito parado e sirene: nada indica alívio nem elementos conhecidos.",
+        "D": "A antítese “leves curvas / pesado concreto” descreve o prédio. Falar em choque cultural “evidente” é exagero: o menino observa com admiração."
+      },
+      "teoria": [
+        "figuras-sonoras"
+      ],
+      "essencial": [
+        "Aliteração é a repetição de um som consonantal: em “pe**ss**oa**s** pa**ss**ando – depre**ss**a”, repete-se o /s/.",
+        "O som repetido pode imitar o assunto: aqui, o chiado contínuo de passos, motores e sirene da cidade."
+      ],
+      "raciocinio": "1. Leia a primeira estrofe em voz alta: “as pe**ss**oa**s** pa**ss**ando – depre**ss**a; / o**s** automóvei**s** e**s**tagnando-**s**e – imóvei**s**; / a **s**irene **s**oando”. O som /s/ se repete muito (veja: *Figuras sonoras: aliteração, assonância e rima*).\n2. A repetição lembra chiados e ruídos contínuos: passos, motores, a sirene. O som do poema imita o barulho da cidade.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a charge a seguir:\n\n![Charge: duas pessoas carregam sacolas de compras com verduras e legumes e conversam. Atrás delas, a figura da morte, com um pulverizador de agrotóxico nas costas, concorda.](img/2023-1-a/q14.jpg \"Pessoa 1: Nem acho que no Brasil se usa tanto agrotóxico assim! | Pessoa 2: Tudo exagero desse povo!! | Morte: Sim!! Também acho!!\")\n\n<cite>Fonte: http://www.juniao.com.br/chargecartum/charge02_greenpeace_150x/. Acesso em: 20 out. 2021.</cite>\n\nApós a leitura da charge, assinale a alternativa que contenha a interpretação correta:",
+      "imagens": [
+        "img/2023-1-a/q14.jpg"
+      ],
+      "alternativas": {
+        "A": "Instrui sobre o emprego de agrotóxicos.",
+        "B": "Defende a prática de agrotóxicos.",
+        "C": "Explica a utilização de agrotóxicos.",
+        "D": "Ironiza o excesso de agrotóxicos."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A charge não ensina como usar agrotóxicos.",
+        "B": "Ela critica, e não defende: a morte concorda com quem minimiza o problema, o que mostra o perigo.",
+        "C": "Não há explicação técnica sobre o uso de agrotóxicos."
+      },
+      "teoria": [
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Ironia: o sentido real é o oposto do aparente. Quem concorda com os consumidores é a própria morte.",
+        "Na charge, o contraste entre a fala e a imagem revela a crítica: o excesso de agrotóxicos mata."
+      ],
+      "raciocinio": "1. Leia as falas: os consumidores dizem que não se usa tanto agrotóxico assim.\n2. Observe a imagem: quem concorda com eles é a morte, com um pulverizador de veneno nas costas.\n3. O contraste entre a fala e a imagem cria a ironia (veja: *Ironia e humor*): se a morte concorda, a opinião deles é perigosa. A charge ironiza o excesso de agrotóxicos.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o fragmento de uma entrevista realizada pelas apresentadoras do Slam Papo de Poeta em que ambas refletem sobre poesia e Slam:\n\n> ### Lio entrevista Kimani\n> **Lio: Qual é a importância da poesia para você? E a importância do Slam?**\n>\n> K: A poesia me amadrinhou. Penso que de todas as manifestações artísticas, toda essa pluralidade bonita que temos - desde a música ao grafite -, de todas as manifestações do Hip Hop, o Slam foi o berço. De algum jeito eu fui muito pega pelo Slam, como se fosse uma persona mesmo, e fui acolhida. Posso dizer que o Slam é a primeira noção de coletivo preto que eu comecei a ter o entendimento, e é o primeiro coletivo - depois da minha família - que fui acolhida, e não me excluíram ou descartaram, e eu não era só mais uma, e minha fala tinha validade.\n>\n> Para mim, o Slam é um processo extremamente terapêutico. A poesia em si é o meio, o Slam é a possibilidade, é o palco, a escuta. É um processo terapêutico muito profundo, ninguém consegue escrever para fora se não pensar primeiro dentro.\n>\n> <cite>https://rollingstone.uol.com.br/noticia/slam-papo-de-poeta-tuyo-lio-entrevista-kimani-kimani-entrevista-lio-entrevista/. Acesso em: 10 out. 2021.</cite>\n\nApós a leitura do fragmento da entrevista, assinale a alternativa na qual a entrevistada associa o Slam ao mais importante fator para sua vida:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Acolhimento.",
+        "B": "Motivação.",
+        "C": "Coletividade.",
+        "D": "Terapia."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O acolhimento aparece no texto (“fui acolhida”), mas como parte da experiência no coletivo, e não como o fator mais importante.",
+        "C": "A coletividade aparece (“primeira noção de coletivo preto”), mas a entrevistada não a apresenta como o fator mais importante.",
+        "D": "A terapia é um dos efeitos do Slam: como o acolhimento e a coletividade, é parte da experiência, e não o fator que reúne todas."
+      },
+      "teoria": [
+        "tema-e-ideia-central"
+      ],
+      "essencial": [
+        "Para achar o fator mais importante, veja o que o Slam representa no conjunto da fala, e não um aspecto isolado.",
+        "O Slam é “a possibilidade, o palco, a escuta”: é o que move a entrevistada a escrever e a falar."
+      ],
+      "raciocinio": "1. Liste o que a entrevistada associa ao Slam: berço, acolhimento, coletivo, palco, escuta e processo terapêutico.\n2. Pergunte o que o Slam representa no conjunto da fala (veja: *Tema e ideia central*): é o que a move a escrever e a falar. Ele é “a possibilidade, o palco, a escuta”, e ali “minha fala tinha validade”.\n3. Acolhimento, coletividade e terapia são partes dessa experiência; o fator que reúne todas elas é a motivação que o Slam dá à entrevistada.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Um estudante interessado em voos deseja imprimir em 3D o modelo de uma asa delta. Para iniciar seus estudos e a modelagem da impressão, desenhou um triângulo isósceles *ABC*, com *AC* = *BC*.\n\nA partir dos ângulos \\(C\\hat{A}B\\) e \\(A\\hat{B}C\\), o estudante desenhou, respectivamente, as bissetrizes \\(\\overline{AP}\\) e \\(\\overline{BP}\\), conforme figura a seguir.\n\n![Triângulo isósceles ABC com C no alto e a base AB embaixo. Os lados AC e BC têm marcas de igualdade. As bissetrizes AP e BP, tracejadas, se encontram no ponto P, onde o ângulo APB mede 140°.](img/2023-1-a/q16.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSabendo-se que a medida do ângulo \\(A\\hat{P}B\\) vale 140°, a medida do ângulo \\(P\\hat{A}B\\) vale:",
+      "imagens": [
+        "img/2023-1-a/q16.png"
+      ],
+      "alternativas": {
+        "A": "10°",
+        "B": "20°",
+        "C": "30°",
+        "D": "40°"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "10° seria a metade de 20°: dividiu duas vezes. O ângulo PAB já é a metade do ângulo da base.",
+        "C": "30° não sai das contas: no triângulo APB, os dois ângulos da base somam 40° e são iguais.",
+        "D": "40° é a soma \\(P\\hat{A}B + P\\hat{B}A\\) (e também o ângulo inteiro da base, \\(C\\hat{A}B\\)). Cada metade vale 20°."
+      },
+      "teoria": [
+        "triangulos",
+        "lugares-geometricos"
+      ],
+      "essencial": [
+        "A soma dos ângulos internos de um triângulo é 180°: no triângulo APB, sobram 40° para os dois ângulos da base.",
+        "No triângulo isósceles, os ângulos da base são iguais; a bissetriz divide um ângulo em duas metades iguais."
+      ],
+      "raciocinio": "1. No triângulo APB, a soma dos ângulos é 180° (veja: *Triângulos: classificação e propriedades*): \\(P\\hat{A}B + P\\hat{B}A + 140^\\circ = 180^\\circ\\), então \\(P\\hat{A}B + P\\hat{B}A = 40^\\circ\\).\n2. ABC é isósceles com AC = BC, então os ângulos da base são iguais. As bissetrizes dividem cada um ao meio (veja: *Circunferência, mediatriz e bissetriz*), e as metades também são iguais.\n3. \\(P\\hat{A}B = 40^\\circ \\div 2 = 20^\\circ\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Interessada em preparar gelatina de morango para comer após o almoço, uma pessoa procurou as informações de como fazer a sobremesa. No rótulo da embalagem do produto, leu a seguinte instrução:\n\n> *Modo de preparo: Dissolva o conteúdo deste pacote (20 gramas) em 250 ml (1/4 de litro) de água fervente. Adicione 250 ml de água fria ou gelada e coloque em taças. Leve à geladeira até adquirir consistência.*\n\nComo a pessoa não tinha taças, pensou em usar as formas de gelo de formato retangular que estavam vazias no armário da cozinha. Cada forma tinha espaço para fazer 15 cubinhos exatamente iguais. Para ter uma ideia da quantidade de gelatina que poderia caber em cada forma, a pessoa fez uma busca na internet pela marca do fabricante e descobriu as dimensões da forma: *20 cm de comprimento, 12 cm de largura e 2,5 cm* de altura.\n\nSabendo que ela preparou a gelatina conforme a indicação apresentada no rótulo da embalagem, que possuía as formas com as medidas indicadas e que, ao despejar a gelatina ainda líquida na forma, encheria completamente cada cubinho, é correto dizer que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O preparo de um pacote de gelatina não ocupou completamente todos os 15 cubinhos da forma.",
+        "B": "Metade do preparo de um pacote de gelatina ocupa o espaço de 5 cubinhos da forma.",
+        "C": "Cada cubinho da forma tem capacidade para armazenar 60ml da gelatina líquida.",
+        "D": "São necessárias duas formas para o preparo de um pacote de gelatina."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Metade do preparo = 250 ml. Com 40 ml por cubinho, isso enche \\(250 \\div 40 = 6{,}25\\) cubinhos, e não 5.",
+        "C": "Cada cubinho tem \\(600 \\div 15 = 40\\) ml. 60 ml seria a capacidade de uma forma com só 10 cubinhos.",
+        "D": "Uma forma tem 600 ml, e a gelatina pronta tem 500 ml: uma forma basta."
+      },
+      "teoria": [
+        "volumes",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Volume do bloco retangular: comprimento × largura × altura. A forma tem \\(20 \\cdot 12 \\cdot 2{,}5 = 600\\) cm³.",
+        "\\(1\\ \\text{cm}^3 = 1\\) ml: a forma comporta 600 ml, e cada cubinho, 40 ml.",
+        "A massa do pó (em gramas) não entra na conta do volume."
+      ],
+      "raciocinio": "1. Gelatina pronta: \\(250 + 250 = 500\\) ml. (A massa do pó, 20 g, não entra na conta do volume.)\n2. Volume da forma (veja: *Volumes de sólidos*): \\(20 \\cdot 12 \\cdot 2{,}5 = 600\\) cm³ = 600 ml, porque \\(1\\ \\text{cm}^3 = 1\\ \\text{ml}\\) (veja: *Conversão de unidades*). Cada cubinho: \\(600 \\div 15 = 40\\) ml.\n3. 500 ml enchem \\(500 \\div 40 = 12{,}5\\) cubinhos: sobram cubinhos vazios.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Uma pessoa vai de carro de Osasco/SP a São Roque/SP em 39 minutos à velocidade constante de 80 km/h, seguindo a rota traçada pelo *Google Maps*.\n\n![Mapa do Google Maps com a rota de carro entre Osasco e São Roque, passando por Barueri, Itapevi e Vargem Grande Paulista.](img/2023-1-a/q18.jpg)\n\n<cite>Disponível em: https://www.google.com.br/maps. Acesso em: 08 out. 2021</cite>\n\nNa volta, seguindo a mesma rota da ida, ela resolve manter uma velocidade constante igual ao limite de velocidade da rodovia, que é de 100 km/h. Em quanto tempo, aproximadamente, ela fez o trajeto de volta?",
+      "imagens": [
+        "img/2023-1-a/q18.jpg"
+      ],
+      "alternativas": {
+        "A": "52 minutos.",
+        "B": "49 minutos.",
+        "C": "31 minutos.",
+        "D": "18 minutos."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "52 é a distância, em km, e não o tempo.",
+        "B": "\\(49 \\approx 39 \\cdot \\frac{100}{80}\\): tratou como diretamente proporcional. Mas mais velocidade significa menos tempo.",
+        "D": "18 minutos para 52 km daria uma velocidade de mais de 170 km/h."
+      },
+      "teoria": [
+        "razoes-especiais",
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Velocidade média = distância ÷ tempo. Com velocidade em km/h, passe o tempo para horas: 39 min = 0,65 h.",
+        "Com a mesma distância, velocidade e tempo são inversamente proporcionais: \\(80 \\cdot 39 = 100 \\cdot t\\)."
+      ],
+      "raciocinio": "1. Converta o tempo para horas, porque a velocidade está em km/h (veja: *Razões especiais: velocidade, densidade e escala*): \\(39\\ \\text{min} = \\frac{39}{60} = 0{,}65\\) h.\n2. Distância: \\(80 \\cdot 0{,}65 = 52\\) km.\n3. Volta a 100 km/h: \\(52 \\div 100 = 0{,}52\\) h \\(= 0{,}52 \\cdot 60 \\approx 31\\) min.\n\n<div data-interativo=\"23a-q18-viagem\"></div>\n\nAtalho: com a mesma distância, velocidade e tempo são inversamente proporcionais (veja: *Grandezas diretamente e inversamente proporcionais*): \\(80 \\cdot 39 = 100 \\cdot t \\Rightarrow t = 31{,}2\\) min.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Umas das formas de se representar uma função é por meio de um gráfico. Esse tipo de representação mostra muitas informações sobre o comportamento da função. De acordo com a análise do gráfico abaixo, julgue as afirmações a seguir.\n\n![Gráfico de uma reta decrescente que corta o eixo y em 3 e o eixo x em 3.](img/2023-1-a/q19.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nI – O gráfico representa uma função afim, também conhecida como função polinomial de 1º grau.\nII – O gráfico representa uma função linear.\nIII – À medida que os valores das abscissas aumentam, os valores das ordenadas diminuem.\nIV – A função intercepta o eixo das abscissas no ponto (3,0).\nV – Os valores das ordenadas variam de forma diretamente proporcional aos valores das abscissas.\n\nEstão corretas as afirmações:",
+      "imagens": [
+        "img/2023-1-a/q19.png"
+      ],
+      "alternativas": {
+        "A": "I, II, III.",
+        "B": "I, III e IV.",
+        "C": "III, IV, V.",
+        "D": "I, II e IV."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A II é falsa: função linear passa pela origem (0, 0), e esta reta corta o eixo y em 3.",
+        "C": "A V é falsa: para haver proporcionalidade direta, y teria de crescer junto com x, e a reta teria de passar pela origem.",
+        "D": "A II é falsa: a função não é linear."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Função afim: \\(f(x) = ax + b\\), com gráfico em reta. Só é linear (proporcional) se \\(b = 0\\), passando pela origem.",
+        "Com \\(a < 0\\), a reta desce: quando x aumenta, y diminui.",
+        "A reta corta o eixo das abscissas (x) onde \\(y = 0\\); aqui, em (3, 0)."
+      ],
+      "raciocinio": "1. A reta passa por (0, 3) e (3, 0): \\(f(x) = -x + 3\\) (veja: *Funções afins e retas*).\n2. I ✓: é função afim, de 1º grau. II ✗: não é linear, porque não passa pela origem.\n3. III ✓: a reta desce; quando a abscissa (x) aumenta, a ordenada (y) diminui. IV ✓: corta o eixo das abscissas em (3, 0).\n4. V ✗: não há proporcionalidade direta; y diminui quando x aumenta, e a reta não passa pela origem.\n\nCorretas: I, III e IV. Resposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Em uma aula multidisciplinar de Geografia, Sociologia e Matemática, foram apresentados os seguintes dados aos estudantes:\n\n- 8 bilhões de pessoas vivem hoje no planeta.\n- Pouco mais de 215 milhões de pessoas vivem no Brasil.\n- 828 milhões de pessoas passavam fome no mundo em 2021.\n- 33,1 milhões de brasileiros estão passando fome.\n\n<cite>Fontes: ONU, Disponível em: https://news.un.org/pt/story/2022/11/1805342 e https://news.un.org/pt/story/2022/07/1794722 Acesso em: 22 nov. 2022. IBGE, Disponível em: https://www.ibge.gov.br/. Acesso em: 22 nov. 2022. Olhe para a fome, Disponível em: https://olheparaafome.com.br/ Acesso em: 22 nov. 2022.</cite>\n\nDe acordo com o texto, os números que representam a quantidade de pessoas que vivem no planeta, que vivem no Brasil e de brasileiros que estão passando fome, respectivamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(8 \\cdot 10^9\\); \\(215 \\cdot 10^6\\); \\(33{,}1 \\cdot 10^7\\)",
+        "B": "\\(800 \\cdot 10^6\\); \\(215 \\cdot 10^6\\); \\(3{,}31 \\cdot 10^6\\)",
+        "C": "\\(8 \\cdot 10^9\\); \\(2{,}15 \\cdot 10^8\\); \\(3{,}31 \\cdot 10^7\\)",
+        "D": "\\(80 \\cdot 10^8\\); \\(215 \\cdot 10^9\\); \\(33{,}1 \\cdot 10^9\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Os dois primeiros estão certos, mas \\(33{,}1 \\cdot 10^7\\) = 331 milhões. O certo é \\(33{,}1 \\cdot 10^6\\) ou \\(3{,}31 \\cdot 10^7\\).",
+        "B": "\\(800 \\cdot 10^6\\) = 800 milhões, e não 8 bilhões. E \\(3{,}31 \\cdot 10^6\\) = 3,31 milhões.",
+        "D": "\\(80 \\cdot 10^8\\) até dá 8 bilhões, mas \\(215 \\cdot 10^9\\) = 215 bilhões, e \\(33{,}1 \\cdot 10^9\\) também está errado."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Notação científica: um número de 1 a 10 vezes uma potência de 10. Exemplo: 8 bilhões = \\(8 \\cdot 10^9\\).",
+        "Para mover a vírgula uma casa para a esquerda, some 1 ao expoente: \\(215 \\cdot 10^6 = 2{,}15 \\cdot 10^8\\).",
+        "Milhão = \\(10^6\\); bilhão = \\(10^9\\)."
+      ],
+      "raciocinio": "Escreva cada número com potências de 10 (veja: *Potências de 10 e notação científica*):\n\n1. 8 bilhões = \\(8 \\cdot 10^9\\).\n2. 215 milhões = \\(215 \\cdot 10^6 = 2{,}15 \\cdot 10^8\\) (a vírgula andou 2 casas para a esquerda, e o expoente subiu 2).\n3. 33,1 milhões = \\(33{,}1 \\cdot 10^6 = 3{,}31 \\cdot 10^7\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Para medir utilizamos instrumentos como réguas ou trenas, que têm marcações inteiras e decimais. Porém, muitas vezes, ao fazer certa medição, o final do segmento de reta não cai exatamente na subdivisão demarcada no instrumento. Certa pessoa fez uma medição a partir da seguinte imagem:\n\n![Um quadrado de lado 1,0 (medidas indicadas em cima e à direita). Da ponta inferior esquerda sai um segmento “a” até o canto superior direito do quadrado. Um arco de circunferência leva esse comprimento até o chão, onde também está marcado “a”.](img/2023-1-a/q21.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nCom relação à medida “a” da peça, pode-se afirmar seguramente que “a” é:",
+      "imagens": [
+        "img/2023-1-a/q21.png"
+      ],
+      "alternativas": {
+        "A": "aproximadamente 1,41.",
+        "B": "entre 1 e 1,41.",
+        "C": "aproximadamente 1.",
+        "D": "igual a 2."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "“a” é igual a \\(\\sqrt{2} = 1{,}414\\ldots\\), um pouco **mais** que 1,41, e não um valor entre 1 e 1,41.",
+        "C": "A hipotenusa é sempre maior que cada cateto. Como os catetos medem 1, “a” é maior que 1.",
+        "D": "2 seria a soma dos catetos (1 + 1). A hipotenusa é menor que essa soma."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "A diagonal de um quadrado de lado 1 é a hipotenusa de um triângulo retângulo de catetos 1 e 1: \\(\\sqrt{2}\\).",
+        "\\(\\sqrt{2} = 1{,}414\\ldots\\) é irracional: tem infinitas casas sem repetição, então a régua só mostra um valor aproximado."
+      ],
+      "raciocinio": "1. “a” é a diagonal do quadrado de lado 1, ou seja, a hipotenusa de um triângulo retângulo de catetos 1 e 1 (veja: *Teorema de Pitágoras*).\n2. \\(a = \\sqrt{1^2 + 1^2} = \\sqrt{2}\\).\n3. \\(\\sqrt{2} = 1{,}41421\\ldots\\) é irracional e nunca cai exatamente numa marcação da régua (veja: *Raízes e radicais*). Por isso, “a” é aproximadamente 1,41.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Um brinquedo de um parque de diversões possui uma base em forma de triângulo isósceles OPQ, onde OQ=8m e OP=PQ=12m, e um octógono regular ABCDEFGH no qual AH=6m. Dado que AH//OQ determine a altura do ponto E, com relação à base OQ, em metros.\n\n![Roda-gigante com oito cabines nos vértices de um octógono regular ABCDEFGH, com centro P. A base é o triângulo isósceles OPQ: O e Q no chão e P no centro da roda. Os lados OP e PQ passam pelos vértices H e A, que ficam na parte de baixo do octógono. E e D ficam no alto.](img/2023-1-a/q22.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2023-1-a/q22.png"
+      ],
+      "alternativas": {
+        "A": "\\(17\\sqrt{2}\\)",
+        "B": "\\(9 + 8\\sqrt{2}\\)",
+        "C": "\\(14\\sqrt{2}\\)",
+        "D": "\\(12 + 6\\sqrt{2}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(17\\sqrt{2} \\approx 24\\) m: alto demais para qualquer conta coerente com a figura.",
+        "B": "\\(9 + 8\\sqrt{2}\\) soma à altura de P a distância PE (9 m), como se E estivesse logo acima de P. E fica de lado.",
+        "C": "O gabarito oficial é a D."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Um segmento paralelo a um lado do triângulo forma um triângulo semelhante: os lados seguem a mesma razão (aqui, \\(\\frac{6}{8}\\)).",
+        "No octógono regular, o centro fica à mesma distância de todos os vértices e de lados opostos."
+      ],
+      "raciocinio": "1. Como AH // OQ, o triângulo PHA é uma redução de POQ na razão \\(\\frac{AH}{OQ} = \\frac{6}{8} = \\frac{3}{4}\\) (veja: *Semelhança de triângulos*). Os outros lados seguem a mesma razão: \\(PA = PH = \\frac{3}{4} \\cdot 12 = 9\\) m.\n2. No octógono regular, o centro P fica à mesma distância de todos os vértices, então \\(PE = 9\\) m também, e à mesma distância de lados opostos, como AH e ED.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "A ciência e tecnologia podem ajudar a preservar o meio ambiente. Exemplo disso, são os carros elétricos. Segundo matéria publicada pelo site UOL em julho de 2021, um carro a combustão emite 3 toneladas de CO₂ na atmosfera a cada 20 mil km rodados, enquanto um carro elétrico emite 70 quilos de CO₂ para os mesmos 20 mil quilômetros rodados. Sabendo que a frota brasileira é de 108 milhões de carros e que, em média, um carro roda 20 mil quilômetros por ano, quantos milhões de toneladas de CO₂ deixariam de ser despejadas na atmosfera em um ano, se 1/4 da frota nacional fosse substituída por carros elétricos?",
+      "imagens": [],
+      "alternativas": {
+        "A": "158,22",
+        "B": "82,89",
+        "C": "81,00",
+        "D": "79,11"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "158,22 = 54 × 2,93: usou metade da frota (54 milhões) em vez de um quarto.",
+        "B": "82,89 = 27 × 3,07: somou as emissões do elétrico em vez de subtrair.",
+        "C": "81 = 27 × 3: esqueceu que o carro elétrico também emite 70 kg. A economia por carro é \\(3 - 0{,}07 = 2{,}93\\) t."
+      },
+      "teoria": [
+        "fracoes",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "\\(\\frac{1}{4}\\) de uma quantidade é a quantidade dividida por 4: \\(\\frac{1}{4}\\) de 108 milhões = 27 milhões.",
+        "Antes de subtrair, use a mesma unidade: 70 kg = 0,07 t, porque 1 t = 1.000 kg."
+      ],
+      "raciocinio": "1. Carros trocados (veja: *Frações*): \\(\\frac{1}{4}\\) de 108 milhões = 27 milhões.\n2. Economia por carro em um ano: o carro a combustão emite 3 t, e o elétrico, 70 kg = 0,07 t (veja: *Conversão de unidades*). A diferença é \\(3 - 0{,}07 = 2{,}93\\) t.\n3. Total: \\(27 \\cdot 2{,}93 = 79{,}11\\) milhões de toneladas.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "A notícia mostrada na imagem a seguir trata do acompanhamento de casos de Covid-19 no Brasil, no final de agosto de 2021:\n\n![Recorte do site do Ministério da Saúde: “Números em queda. Brasil registra menor média móvel de casos de Covid-19 em 2021. Índice está em queda desde junho no sistema LocalizaSUS, do Ministério da Saúde. Publicado em 31/08/2021.”](img/2023-1-a/q24-noticia.jpg)\n\n<cite>Fonte: BRASIL. Ministério da Saúde. Disponível em: https://www.gov.br/saude/pt-br/assuntos/noticias/brasil-registra-menor-media-movel-de-casos-de-covid-19-em-2021. Acesso em: 02 out. 2021.</cite>\n\nComo há um intervalo de tempo entre o momento em que um paciente é diagnosticado com a doença e o momento em que a doença é registrada pelas autoridades, a média móvel, que é a média aritmética dos casos computados nos últimos 7 dias, é um dado mais confiável sobre a real situação das contaminações do que simplesmente o número absoluto de casos registrados em algum dia.\n\nO gráfico a seguir mostra os novos casos registrados por dia, aos quais a notícia se refere:\n\n![Gráfico de linha “Novos casos registrados Covid-19” de 21/08/2021 a 31/08/2021.](img/2023-1-a/q24-grafico.jpg \"21/08: 28000 | 22/08: 14500 | 23/08: 13000 | 24/08: 31500 | 25/08: 30500 | 26/08: 31000 | 27/08: 27000 | 28/08: 24500 | 29/08: 13500 | 30/08: 10500 | 31/08: 24500\")\n\n<cite>Fonte: Baseado nos dados do portal JHU CSSE COVID-19, disponíveis em: https://github.com/CSSEGISandData/COVID-19. Acesso em: 02 out. 2021.</cite>\n\nQual foi, aproximadamente, a média móvel em 31 de agosto de 2021, dia da publicação da notícia?",
+      "imagens": [
+        "img/2023-1-a/q24-noticia.jpg",
+        "img/2023-1-a/q24-grafico.jpg"
+      ],
+      "alternativas": {
+        "A": "22.590 casos por dia.",
+        "B": "23.070 casos por dia.",
+        "C": "25.070 casos por dia.",
+        "D": "35.500 casos por dia."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "22.590 é aproximadamente a média de todos os 11 dias do gráfico. A média móvel usa só os últimos 7.",
+        "C": "25.070 é a média de 21/08 a 27/08: a janela errada. A média móvel do dia 31 usa de 25/08 a 31/08.",
+        "D": "35.500 é maior que todos os valores do gráfico, e uma média nunca passa do maior valor."
+      },
+      "teoria": [
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Média aritmética = soma dos valores ÷ quantidade de valores.",
+        "Média móvel de 7 dias: média do próprio dia e dos 6 anteriores. Para 31/08, use de 25/08 a 31/08."
+      ],
+      "raciocinio": "1. A média móvel de 7 dias do dia 31/08 usa os casos de 25/08 a 31/08, incluindo o próprio dia (veja: *Média, mediana e moda*).\n2. Valores: 30.500, 31.000, 27.000, 24.500, 13.500, 10.500 e 24.500. Soma: 161.500.\n3. Média: \\(161\\,500 \\div 7 \\approx 23\\,071\\) casos por dia.\n\n<div data-interativo=\"23a-q24-media-movel\"></div>\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Áreas verdes nativas do estado de São Paulo estão sendo recuperadas por meio do reflorestamento. Estudos indicam que, em dez anos, o verde nativo aumentou de 4.340.000 para 5.670.000 hectares no estado todo.\n\n<cite>https://g1.globo.com/jornal-nacional/noticia/2020/08/11/estado-de-sao-paulo-conseguiu-recuperar-uma-parte-de-sua-vegetacao-nativa.ghtml. Acesso em: 03 out. 2021.</cite>\n\nSe o mesmo ritmo de restauração for mantido nos próximos cinco anos, quantos novos hectares serão reflorestados ao final desse período?",
+      "imagens": [],
+      "alternativas": {
+        "A": "665.000",
+        "B": "1.995.000",
+        "C": "2.170.000",
+        "D": "2.835.000"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "1.995.000 = 1.330.000 × 1,5: calculou para 15 anos, e não para 5.",
+        "C": "2.170.000 é a metade de 4.340.000, a área inicial. A pergunta é sobre o que foi acrescentado.",
+        "D": "2.835.000 é a metade de 5.670.000, a área final, e não do que foi acrescentado."
+      },
+      "teoria": [
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Com ritmo constante, a quantidade é diretamente proporcional ao tempo: metade do tempo, metade dos hectares.",
+        "Primeiro ache o aumento no período: \\(5\\,670\\,000 - 4\\,340\\,000 = 1\\,330\\,000\\) hectares em 10 anos."
+      ],
+      "raciocinio": "1. Aumento em 10 anos: \\(5\\,670\\,000 - 4\\,340\\,000 = 1\\,330\\,000\\) hectares.\n2. Com ritmo constante, hectares recuperados e tempo são diretamente proporcionais (veja: *Grandezas diretamente e inversamente proporcionais*). Em 5 anos, metade do tempo, metade dos hectares: \\(1\\,330\\,000 \\div 2 = 665\\,000\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Um professor de ciências elaborou uma experiência sobre difração de ondas para sua turma. Nesse experimento, explicou que seria possível medir a espessura de um fio de cabelo e que a unidade de medida utilizada seria o micrômetro (\\(\\mu\\)m).\n\nPara demonstrar o experimento, o professor mediu de três formas distintas um mesmo fio de cabelo. Os valores encontrados foram: 45,2 \\(\\mu\\)m, 48,5 \\(\\mu\\)m, 53,9 \\(\\mu\\)m.\n\nSabendo-se que 1 \\(\\mu\\)m equivale a \\(10^{-6}\\) m, pode-se afirmar que a média aritmética dessas três medidas equivale a:",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(49{,}2 \\cdot 10^{-2}\\) m",
+        "B": "\\(1{,}476 \\cdot 10^{-4}\\) m",
+        "C": "\\(4{,}92 \\cdot 10^{-5}\\) m",
+        "D": "\\(147{,}6 \\cdot 10^{-6}\\) m"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O número 49,2 está certo, mas \\(10^{-2}\\) m é centímetro. A média é \\(49{,}2 \\cdot 10^{-6}\\) m.",
+        "B": "\\(1{,}476 \\cdot 10^{-4}\\) m = 147,6 μm é a soma das três medidas, sem dividir por 3.",
+        "D": "\\(147{,}6 \\cdot 10^{-6}\\) m também é a soma, e não a média."
+      },
+      "teoria": [
+        "media-mediana-e-moda",
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Média aritmética de três medidas: some e divida por 3. Aqui, \\(147{,}6 \\div 3 = 49{,}2\\) μm.",
+        "1 μm = \\(10^{-6}\\) m. Na notação científica, a vírgula anda uma casa para a esquerda e o expoente sobe 1."
+      ],
+      "raciocinio": "1. Média (veja: *Média, mediana e moda*): \\(\\frac{45{,}2 + 48{,}5 + 53{,}9}{3} = \\frac{147{,}6}{3} = 49{,}2\\) μm.\n2. Em metros: \\(49{,}2\\ \\mu\\text{m} = 49{,}2 \\cdot 10^{-6}\\) m.\n3. Em notação científica (veja: *Potências de 10 e notação científica*), a vírgula anda 1 casa para a esquerda e o expoente sobe 1: \\(4{,}92 \\cdot 10^{-5}\\) m.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Para ajudar na renda familiar, uma dona de casa decidiu preparar deliciosas trufas e pães de mel para venda, tudo feito com chocolate nobre. Um cliente comprou 6 pães de mel e 10 trufas e por esses itens pagou o valor de R$ 98,00. Outro cliente comprou somente 2 trufas, mas adquiriu, também, 8 pães de mel e pagou o valor de R$ 74,00 pelos itens. Qual o valor unitário da trufa e do pão de mel, respectivamente?",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$5,00 e R$ 8,00",
+        "B": "R$1,60 e R$ 8,85",
+        "C": "R$5,00 e R$ 1,60",
+        "D": "R$8,00 e R$ 5,00"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O gabarito oficial é a D.",
+        "B": "Com trufa a R$ 1,60 e pão de mel a R$ 8,85: \\(6 \\cdot 8{,}85 + 10 \\cdot 1{,}60 = 69{,}10 \\neq 98\\).",
+        "C": "Com pão de mel a R$ 1,60: \\(6 \\cdot 1{,}60 + 10 \\cdot 5 = 59{,}60 \\neq 98\\)."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Duas incógnitas pedem duas equações: \\(6p + 10t = 98\\) e \\(8p + 2t = 74\\).",
+        "Substituição: isole uma letra numa equação (\\(t = 37 - 4p\\)) e troque-a na outra.",
+        "Confira nas duas equações: \\(6 \\cdot 8 + 10 \\cdot 5 = 98\\) e \\(8 \\cdot 8 + 2 \\cdot 5 = 74\\)."
+      ],
+      "raciocinio": "1. Monte o sistema, com \\(p\\) = pão de mel e \\(t\\) = trufa (veja: *Sistemas de equações do 1º grau*): \\(6p + 10t = 98\\) e \\(8p + 2t = 74\\).\n2. Da segunda: \\(t = 37 - 4p\\). Substituindo na primeira: \\(6p + 10(37 - 4p) = 98 \\Rightarrow 370 - 34p = 98 \\Rightarrow p = 8\\). Logo, \\(t = 37 - 32 = 5\\).\n3. Conferindo: \\(6 \\cdot 8 + 10 \\cdot 5 = 98\\) ✓ e \\(8 \\cdot 8 + 2 \\cdot 5 = 74\\) ✓.\n4. Os valores são R$ 8,00 e R$ 5,00, como na alternativa D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "Pensando em garantir a acessibilidade dos clientes, um shopping fez uma rampa de acesso na sua entrada principal que tem um desnível de 1,00 metro em relação ao nível da rua e fez um teste com um jovem cadeirante. Quando o jovem tinha percorrido 8,05 metros, superou 0,70 metros do desnível. Quantos metros ainda falta o jovem percorrer na rampa para alcançar a entrada?",
+      "imagens": [],
+      "alternativas": {
+        "A": "19,55",
+        "B": "11,50",
+        "C": "4,60",
+        "D": "3,45"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "19,55 = 11,50 + 8,05: somou o trecho já percorrido em vez de subtrair.",
+        "B": "11,50 m é o comprimento da rampa inteira. Ele já percorreu 8,05 m.",
+        "C": "\\(4{,}60 = 8{,}05 \\cdot \\frac{0{,}40}{0{,}70}\\): usou um desnível restante de 0,40 m, mas faltam só \\(1{,}00 - 0{,}70 = 0{,}30\\) m."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Numa rampa, os triângulos (trecho percorrido × altura subida) são semelhantes: a razão entre os lados é sempre a mesma.",
+        "Monte a proporção \\(\\frac{8{,}05}{0{,}70} = \\frac{L}{1{,}00}\\) e desconte o trecho já percorrido."
+      ],
+      "raciocinio": "1. Numa rampa, a cada metro percorrido sobe-se sempre a mesma altura: os triângulos formados (trecho percorrido × altura subida) são semelhantes (veja: *Semelhança de triângulos*).\n2. Rampa inteira: \\(\\frac{8{,}05}{0{,}70} = \\frac{L}{1{,}00} \\Rightarrow L = 11{,}50\\) m.\n3. Falta: \\(11{,}50 - 8{,}05 = 3{,}45\\) m. Ou direto: os 0,30 m que faltam subir correspondem a \\(\\frac{8{,}05}{0{,}70} \\cdot 0{,}30 = 3{,}45\\) m.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "O cálculo da área de regiões irregulares pode ser realizado por meio da composição e decomposição de áreas de regiões regulares. A habilidade de utilizar expressões algébricas para calcular áreas, ainda que irregulares, pode ser muito útil em situações cotidianas. Um exemplo é o controle de desperdício de matéria-prima em processos produtivos que envolvem cortes circulares em regiões planas.\n\nNa figura a seguir, as regiões sombreadas representam três cortes em uma placa (retângulo ABCD) e a região listrada, o material que será descartado da placa, após os cortes.\n\n![Retângulo ABCD de comprimento x e largura y. Há três círculos com centros nos vértices A (pequeno), B (médio) e C (grande); o grande passa por D, os círculos de B e C se tocam sobre o lado BC, e os de A e B se tocam sobre o lado AB. Os quartos de círculo dentro do retângulo estão sombreados, e o resto do retângulo está listrado.](img/2023-1-a/q29.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nLembre-se: Área de um círculo = \\(\\pi r^2\\)\n\nSabendo que, nesse caso, a razão entre o comprimento x e a largura y da placa retangular é igual a \\(\\frac{5}{3}\\), a área da região listrada, denotada por \\(A_L\\), é:",
+      "imagens": [
+        "img/2023-1-a/q29.png"
+      ],
+      "alternativas": {
+        "A": "\\(A_L = x^2 \\cdot \\left(\\dfrac{30 - 7\\pi}{18}\\right)\\)",
+        "B": "\\(A_L = x^2 \\cdot \\left(\\dfrac{30 - 7\\pi}{50}\\right)\\)",
+        "C": "\\(A_L = x^2 \\cdot \\left(\\dfrac{21\\pi}{50}\\right)\\)",
+        "D": "\\(A_L = x^2 \\cdot \\left(\\dfrac{15 - 14\\pi}{50}\\right)\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O numerador está certo, mas o denominador 18 não sai das contas: com \\(y = \\frac{3x}{5}\\), a área da placa é \\(\\frac{30x^2}{50}\\).",
+        "C": "\\(\\frac{21\\pi}{50}x^2\\) não desconta nada da placa, e a área dos cortes é \\(\\frac{7\\pi}{50}x^2\\).",
+        "D": "\\(15 - 14\\pi\\) é negativo (\\(14\\pi \\approx 44\\)), e uma área não pode ser negativa."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "circulo-e-circunferencia"
+      ],
+      "essencial": [
+        "Escreva tudo com uma letra só: de \\(\\frac{x}{y} = \\frac{5}{3}\\), sai \\(y = \\frac{3x}{5}\\).",
+        "Área do retângulo: comprimento × largura. Área de um quarto de círculo: \\(\\frac{\\pi r^2}{4}\\).",
+        "Área listrada = área da placa − área dos cortes."
+      ],
+      "raciocinio": "1. Escreva tudo em função de \\(x\\): \\(\\frac{x}{y} = \\frac{5}{3} \\Rightarrow y = \\frac{3x}{5}\\). Placa: \\(x \\cdot \\frac{3x}{5} = \\frac{30x^2}{50}\\) (veja: *Áreas de figuras planas*).\n2. Raios pela figura: o círculo de C passa por D, então \\(r_C = CD = y = \\frac{3x}{5}\\); os círculos de B e C se tocam sobre BC, então \\(r_B = x - \\frac{3x}{5} = \\frac{2x}{5}\\); os de A e B se tocam sobre AB, então \\(r_A = y - r_B = \\frac{x}{5}\\).\n3. Cada corte é um quarto de círculo (veja: *Círculo e circunferência*): \\(\\frac{\\pi}{4}\\left(\\frac{9}{25} + \\frac{4}{25} + \\frac{1}{25}\\right)x^2 = \\frac{\\pi}{4} \\cdot \\frac{14}{25}x^2 = \\frac{7\\pi x^2}{50}\\).\n4. Listrada = placa − cortes: \\(\\frac{30x^2}{50} - \\frac{7\\pi x^2}{50} = x^2 \\cdot \\frac{30 - 7\\pi}{50}\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Uma pesquisa estatística pode ser feita de forma censitária ou de forma amostral. A partir das características de cada um desses tipos de pesquisa estatística, identifique quais das afirmações abaixo são verdadeiras.\n\nI – A pesquisa amostral utiliza dados de toda a população de interesse.\nII – A pesquisa censitária utiliza dados de uma parte representativa da população de interesse.\nIII – A pesquisa de intenção de voto é um tipo de pesquisa amostral.\nIV – A pesquisa de opinião é um tipo de pesquisa amostral.\n\nAs afirmações verdadeiras são:",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e III.",
+        "B": "I e IV.",
+        "C": "II e III.",
+        "D": "III e IV."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A I é falsa: quem usa toda a população é a pesquisa censitária.",
+        "B": "A I é falsa, pelo mesmo motivo.",
+        "C": "A II é falsa: a censitária usa todos os elementos, e não uma parte."
+      },
+      "teoria": [
+        "pesquisa-estatistica"
+      ],
+      "essencial": [
+        "Censo pesquisa todos os elementos da população; a pesquisa amostral ouve só uma parte representativa.",
+        "Pesquisas de intenção de voto e de opinião são amostrais: não dá para ouvir todos os eleitores."
+      ],
+      "raciocinio": "1. I e II trocam as definições (veja: *Pesquisa estatística: censo e amostra*): a amostral usa uma parte; a censitária, todos. As duas são falsas.\n2. Pesquisas de intenção de voto e de opinião ouvem só uma parte representativa da população: III e IV são verdadeiras.\n\nResposta: **D**.",
+      "interativo": null
+    }
+  ]
+}

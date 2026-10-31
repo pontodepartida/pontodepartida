@@ -1,0 +1,17 @@
+{
+  "id": "sequencias",
+  "titulo": "Sequências e progressão aritmética",
+  "materia": "Matemática",
+  "grupo": "Raciocínio lógico",
+  "texto": "**Sequência** é uma lista ordenada de termos: \\(a_1, a_2, a_3, \\dots\\). Descobrir o **padrão** é descobrir como cada termo se forma.\n\n**Como achar o padrão:**\n\n1. Se os termos são figuras ou objetos, transforme cada um num **número** (quantidade de peças, soma de pontos…).\n2. Calcule a **diferença** entre termos vizinhos. Se for sempre a mesma, é uma PA.\n3. Se a diferença não for constante, teste a **razão** (dividir um termo pelo anterior) ou uma fórmula com \\(n\\).\n\n**Progressão aritmética (PA):** cada termo é o anterior **mais** um valor fixo, a **razão** \\(r\\).\n\n\\[a_n = a_1 + (n - 1) \\cdot r\\]\n\n| Sequência | Razão | Termo geral |\n|---|---|---|\n| 0, 3, 6, 9, … | 3 | \\(a_n = 3(n - 1)\\) |\n| 3, 8, 13, 18, … | 5 | \\(a_n = 3 + (n - 1) \\cdot 5 = 5n - 2\\) |\n\n**Sequência dada por fórmula:** quando o problema dá \\(T_n\\) em função de \\(n\\), substitua \\(n = 1, 2, 3, \\dots\\) e calcule. Com \\(T_n = 3n^2 + \\frac{3}{2}\\): \\(T_1 = \\frac{9}{2}\\), \\(T_2 = \\frac{27}{2}\\), \\(T_3 = \\frac{57}{2}\\).\n\n**Termos consecutivos** são vizinhos na sequência, sem pular nenhum: \\(T_2, T_3, T_4\\) são consecutivos; \\(T_1, T_3, T_5\\) não são.\n\n**Sem fórmula:** se o termo pedido está perto, basta continuar a sequência somando a razão.",
+  "videos": [
+    {
+      "titulo": "P.A.: conceitos iniciais - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=QE3GieQD-Ps"
+    },
+    {
+      "titulo": "P.A.: termo geral - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=yLCtLp-VcZg"
+    }
+  ]
+}

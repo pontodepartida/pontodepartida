@@ -1,0 +1,17 @@
+{
+  "id": "fracoes",
+  "titulo": "Frações",
+  "materia": "Matemática",
+  "grupo": "Números e operações",
+  "texto": "A fração \\(\\frac{a}{b}\\) representa \\(a\\) partes de um inteiro dividido em \\(b\\) partes iguais. O de baixo é o **denominador**; o de cima, o **numerador**.\n\n**Operações:**\n\n| Operação | Como fazer | Exemplo |\n|---|---|---|\n| somar ou subtrair | iguale os denominadores e opere os numeradores | \\(\\frac{1}{3} + \\frac{1}{6} = \\frac{2}{6} + \\frac{1}{6} = \\frac{3}{6} = \\frac{1}{2}\\) |\n| multiplicar | numerador × numerador, denominador × denominador | \\(\\frac{2}{3} \\cdot \\frac{3}{5} = \\frac{6}{15} = \\frac{2}{5}\\) |\n| dividir | multiplique pelo inverso da segunda | \\(\\frac{2}{3} \\div 4 = \\frac{2}{3} \\cdot \\frac{1}{4} = \\frac{2}{12} = \\frac{1}{6}\\) |\n| simplificar | divida os dois termos pelo mesmo número | \\(\\frac{12}{33} = \\frac{4}{11}\\) (dividindo por 3) |\n\n**Fração irredutível** é a que não pode mais ser simplificada: numerador e denominador não têm divisor comum além de 1. \\(\\frac{4}{11}\\) é irredutível; \\(\\frac{12}{33}\\) não é.\n\n**Fração de uma quantidade:** “\\(\\frac{1}{3}\\) de 6/5” é uma multiplicação: \\(\\frac{1}{3} \\cdot \\frac{6}{5} = \\frac{6}{15} = \\frac{2}{5}\\).\n\n**O restante:** se uma parte do todo é \\(\\frac{1}{3}\\), o que sobra é \\(1 - \\frac{1}{3} = \\frac{2}{3}\\). Quando o problema divide **o restante**, a conta é feita sobre essa sobra, e não sobre o todo.\n\n**Para conferir:** some todas as partes. O resultado tem de ser o inteiro, \\(1\\).",
+  "videos": [
+    {
+      "titulo": "Soma de frações – aprenda em definitivo - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=m2ESYDTWvoE"
+    },
+    {
+      "titulo": "Nunca mais erre frações! - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=OGFpQuOLTFU"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "aumentos-e-descontos-sucessivos",
+  "titulo": "Aumentos e descontos sucessivos",
+  "materia": "Matemática",
+  "grupo": "Razão, proporção e porcentagem",
+  "texto": "Um aumento ou desconto percentual é uma **multiplicação** por um fator:\n\n| Variação | Fator |\n|---|---|\n| aumento de \\(p\\%\\) | \\(1 + \\frac{p}{100}\\) (aumento de 40% → × 1,40) |\n| desconto de \\(d\\%\\) | \\(1 - \\frac{d}{100}\\) (desconto de 10% → × 0,90) |\n\n**Variações em sequência se multiplicam, nunca se somam.** Cada nova porcentagem é calculada sobre o valor **já alterado**.\n\n\\[3500 \\cdot 0{,}9 \\cdot 0{,}9 = 3500 \\cdot 0{,}81 = 2835\\]\n\nDois descontos de 10% dão um desconto total de **19%**, e não 20%.\n\n| Sequência | Fator total | Efeito total |\n|---|---|---|\n| −10% e −10% | \\(0{,}9 \\cdot 0{,}9 = 0{,}81\\) | 19% a menos |\n| +60% e −50% | \\(1{,}6 \\cdot 0{,}5 = 0{,}80\\) | 20% a menos |\n| +100% e −50% | \\(2 \\cdot 0{,}5 = 1\\) | volta ao valor inicial |\n| −4% e +5% | \\(0{,}96 \\cdot 1{,}05 = 1{,}008\\) | 0,8% a mais |\n\n**Por que não se soma?** No exemplo +60% e −50%, a soma daria +10%. Mas os 50% de desconto são calculados sobre um valor **maior** (o já aumentado), e por isso tiram mais do que o aumento colocou.\n\n**Para achar a variação total:** multiplique os fatores, subtraia 1 e transforme em porcentagem. \\(1{,}008 - 1 = 0{,}008 = 0{,}8\\%\\).\n\n**A ordem não importa:** aumentar 5% e depois descontar 4% dá o mesmo resultado que o contrário, porque a multiplicação é comutativa.\n\n**Desconto sobre um valor fixo é diferente.** Se o problema diz que cada desconto é calculado sobre o **mesmo** valor (por exemplo, sobre o preço da 1ª hora), as porcentagens não se acumulam: calcule cada uma sobre esse valor (veja *Porcentagem*).",
+  "videos": [
+    {
+      "titulo": "Problema de porcentagem: descontos sucessivos - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=4vwRwJYdEmU"
+    },
+    {
+      "titulo": "Reajustes sucessivos - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=pYwTRD5hub4"
+    }
+  ]
+}

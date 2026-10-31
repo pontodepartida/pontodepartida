@@ -1,0 +1,36 @@
+{
+  "_sobre": "Lista fixa de temas. O campo \"conteudo\" de cada questão precisa ser um destes, conforme a matéria.",
+  "Português": [
+    "Interpretação de texto",
+    "Gêneros textuais",
+    "Efeitos de sentido",
+    "Figuras de linguagem",
+    "Discurso direto e indireto",
+    "Coesão e coerência",
+    "Conjunções e conectivos",
+    "Pontuação",
+    "Classes de palavras",
+    "Formação de palavras",
+    "Transitividade e predicação verbal",
+    "Colocação pronominal",
+    "Concordância, regência e crase",
+    "Ortografia e acentuação",
+    "Variação linguística"
+  ],
+  "Matemática": [
+    "Números e operações",
+    "Potências e notação científica",
+    "Razão, proporção e porcentagem",
+    "Expressões, equações e sistemas",
+    "Funções",
+    "Ângulos e retas",
+    "Teorema de Pitágoras e relações métricas",
+    "Congruência e semelhança",
+    "Quadriláteros e polígonos",
+    "Áreas e perímetros",
+    "Volumes e sólidos",
+    "Gráficos e tabelas",
+    "Contagem, probabilidade e estatística",
+    "Raciocínio lógico"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "progressao-geometrica",
+  "titulo": "Progressão geométrica",
+  "materia": "Matemática",
+  "grupo": "Raciocínio lógico",
+  "texto": "Numa **progressão geométrica (PG)**, cada termo é o anterior **multiplicado** por um valor fixo, a **razão** \\(q\\).\n\n\\[a_n = a_1 \\cdot q^{\\,n - 1}\\]\n\nSe a contagem começa no termo 0 (como em “ciclo 0”), use \\(a_n = a_0 \\cdot q^{\\,n}\\).\n\n| Sequência | Razão | Próximos termos |\n|---|---|---|\n| 2, 4, 8, … | 2 | 16, 32 |\n| 3, 9, 27, … | 3 | 81, 243 |\n| 256, 320, 400, … | 1,25 | 500, 625 |\n| 1, 1, 1, … | 1 | 1, 1 (constante) |\n\n**Como reconhecer:** divida um termo pelo anterior. Se o resultado for sempre o mesmo, é PG. Se a **diferença** for sempre a mesma, é PA.\n\n| | PA | PG |\n|---|---|---|\n| passo | **soma** a razão | **multiplica** pela razão |\n| exemplo | 3, 8, 13, 18 (+5) | 3, 9, 27, 81 (×3) |\n| termo geral | \\(a_1 + (n - 1)r\\) | \\(a_1 \\cdot q^{\\,n - 1}\\) |\n\n**Razão decimal:** troque por fração para facilitar a conta. \\(1{,}25 = \\frac{5}{4}\\), então \\(256 \\cdot 1{,}25^4 = 256 \\cdot \\frac{625}{256} = 625\\).\n\n**Crescimento por taxa:** um aumento de 25% por período é uma PG de razão 1,25; uma queda de 10% por período é uma PG de razão 0,9.",
+  "videos": [
+    {
+      "titulo": "P.G.: conceitos iniciais - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=lWqOrQ3GZC0"
+    },
+    {
+      "titulo": "P.G.: termo geral - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=6h0NUyJHVC0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "probabilidade",
+  "titulo": "Probabilidade",
+  "materia": "Matemática",
+  "grupo": "Contagem, probabilidade e estatística",
+  "texto": "**Probabilidade** mede a chance de um evento acontecer, de 0 (impossível) a 1 (certo). Quando todos os resultados têm a **mesma chance**:\n\n\\[P = \\frac{\\text{casos favoráveis}}{\\text{casos possíveis}}\\]\n\n**Exemplo:** num dado, a chance de sair número par é \\(\\frac{3}{6} = \\frac{1}{2}\\).\n\n**Contar os casos possíveis:** use o *Princípio multiplicativo*. 4 tipos de ingresso e 3 formas de pagamento dão \\(4 \\cdot 3 = 12\\) combinações igualmente prováveis.\n\n**Eventos independentes** (um não interfere no outro): a chance de os dois acontecerem é o **produto** das chances.\n\n\\[P(A \\text{ e } B) = P(A) \\cdot P(B) \\qquad P(\\text{pista e Pix}) = \\frac{1}{4} \\cdot \\frac{1}{3} = \\frac{1}{12}\\]\n\n**Eventos que não podem ocorrer juntos:** a chance de acontecer um **ou** outro é a **soma**. \\(P(\\text{sair 2 ou 3 no dado}) = \\frac{1}{6} + \\frac{1}{6} = \\frac{2}{6}\\).\n\n**Complementar:** \\(P(\\text{não } A) = 1 - P(A)\\).\n\n**Resultados com chances diferentes:** quando o problema dá “pesos” (por exemplo, cada ímpar tem chance \\(3P\\) e cada par, \\(P\\)), use o fato de que **a soma de todas as probabilidades é 1**:\n\n| Parte | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Probabilidade | \\(3P\\) | \\(P\\) | \\(3P\\) | \\(P\\) | \\(3P\\) | \\(P\\) |\n\n\\[3P + P + 3P + P + 3P + P = 12P = 1 \\;\\Rightarrow\\; P = \\tfrac{1}{12}\\]\n\nDepois, some as probabilidades dos resultados pedidos.",
+  "videos": [
+    {
+      "titulo": "Probabilidade: conceitos básicos - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=8g571hUvgeo"
+    },
+    {
+      "titulo": "Cálculo de probabilidades - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=_AaYS_kTvps"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "equacoes-do-1o-grau",
+  "titulo": "Equações do 1º grau e problemas",
+  "materia": "Matemática",
+  "grupo": "Expressões, equações e sistemas",
+  "texto": "**Equação do 1º grau** é uma igualdade com uma incógnita de expoente 1, como \\(3x + 5 = 20\\). Resolver é descobrir o valor de \\(x\\) que torna a igualdade verdadeira.\n\n**Para isolar a incógnita**, faça a mesma operação dos dois lados (ou “passe para o outro lado” com a operação inversa):\n\n\\[3x + 5 = 20 \\;\\Rightarrow\\; 3x = 15 \\;\\Rightarrow\\; x = 5\\]\n\n**Traduzindo o problema para a equação:**\n\n| Em palavras | Em símbolos |\n|---|---|\n| um número | \\(x\\) |\n| o dobro, o triplo | \\(2x\\), \\(3x\\) |\n| a metade, a terça parte | \\(\\frac{x}{2}\\), \\(\\frac{x}{3}\\) |\n| 5 a mais, 5 a menos | \\(x + 5\\), \\(x - 5\\) |\n| três números consecutivos | \\(x - 1\\), \\(x\\), \\(x + 1\\) |\n| o que restou depois de tirar 200 | \\(x - 200\\) |\n\n**Caminho de volta (operações inversas):** quando o problema dá o valor **final** e descreve o que foi feito com o valor inicial, desfaça as operações **de trás para frente**, trocando cada uma pela inversa.\n\n| Ida | Volta |\n|---|---|\n| tirar 200 | somar 200 |\n| ficar com a metade | multiplicar por 2 |\n| multiplicar por 3 | dividir por 3 |\n\n**Números consecutivos:** a soma de três consecutivos \\((x - 1) + x + (x + 1)\\) é \\(3x\\). Então o número do **meio** é a soma dividida por 3.\n\n**Sempre confira:** substitua o valor encontrado no enunciado e veja se todas as informações batem.",
+  "videos": [
+    {
+      "titulo": "Equação do 1º grau – aprenda de uma vez - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=mN8KlS-EBEk"
+    },
+    {
+      "titulo": "Equação do 1º grau (Tópicos em Álgebra, módulo 14) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=K0ICCzkfxFU"
+    }
+  ]
+}

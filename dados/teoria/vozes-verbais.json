@@ -1,0 +1,17 @@
+{
+  "id": "vozes-verbais",
+  "titulo": "Vozes verbais",
+  "materia": "Português",
+  "grupo": "Transitividade e predicação verbal",
+  "texto": "A **voz** do verbo mostra a relação entre o sujeito e a ação.\n\n| Voz | O sujeito… | Exemplo |\n|---|---|---|\n| **Ativa** | **pratica** a ação | **Raquel** trouxe o bolo. |\n| **Passiva analítica** | **sofre** a ação | **O bolo** foi trazido por Raquel. |\n| **Passiva sintética** | sofre a ação (com *se*) | Vendem-**se** casas. (= casas são vendidas) |\n| **Reflexiva** | pratica e sofre a ação | Ela **se** penteou. |\n\n**Da ativa para a passiva analítica:**\n\n1. O **objeto direto** da ativa vira **sujeito** (o bolo).\n2. O verbo vira **ser + particípio**, no mesmo tempo (trouxe → **foi trazido**).\n3. O sujeito da ativa vira **agente da passiva**, com a preposição **por** (por Raquel).\n\n**Mudar a ordem não muda a voz.** “Para o lanche, Raquel trouxe o bolo” continua na ativa: Raquel ainda é quem pratica a ação.\n\n**Concordância na passiva:** o verbo concorda com o sujeito paciente. “**Que sejam salientados os efeitos negativos**”: o sujeito é *os efeitos negativos*, e por isso *sejam salientados* fica no plural.\n\n**Efeito de sentido:** a passiva põe em destaque **o que sofreu a ação** e pode até esconder quem a praticou (“O documento foi divulgado”, sem dizer por quem).",
+  "videos": [
+    {
+      "titulo": "Vozes verbais - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=GjbZMa0UmoE"
+    },
+    {
+      "titulo": "Agente da passiva - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=52v2b05m4hg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lugares-geometricos",
+  "titulo": "Circunferência, mediatriz e bissetriz",
+  "materia": "Matemática",
+  "grupo": "Ângulos e retas",
+  "texto": "Algumas figuras são definidas por uma **propriedade de distância**. Saber essa propriedade resolve muitos problemas de construção e de pontos notáveis.\n\n| Figura | Todos os seus pontos… |\n|---|---|\n| **Circunferência** de centro O e raio \\(r\\) | estão à distância \\(r\\) de O |\n| **Mediatriz** de um segmento AB | estão à **mesma distância de A e de B** |\n| **Bissetriz** de um ângulo | estão à **mesma distância dos dois lados** do ângulo |\n\n**Mediatriz:** é a reta que passa pelo **ponto médio** de AB e é **perpendicular** a ele. Qualquer ponto P da mediatriz forma um triângulo PAB **isósceles** (\\(PA = PB\\)).\n\n**Bissetriz:** é a semirreta que divide um ângulo em **dois ângulos iguais**.\n\n**Construção do triângulo equilátero com régua e compasso:**\n\n1. Trace um segmento AB, que será o lado.\n2. Com centro em A e raio AB, trace uma circunferência.\n3. Com centro em B e o **mesmo raio AB**, trace outra.\n4. O ponto C, onde elas se cruzam, está a distância AB de A **e** de B: \\(AC = BC = AB\\).\n5. Ligue A, B e C.\n\nSe o raio for diferente de AB, o triângulo sai isósceles (ou as circunferências nem se cruzam), e não equilátero.\n\n**Pontos notáveis do triângulo:**\n\n| Ponto | Encontro das… | Propriedade |\n|---|---|---|\n| **Circuncentro** | mediatrizes dos lados | mesma distância dos três **vértices** (centro da circunferência que passa por eles) |\n| **Incentro** | bissetrizes dos ângulos | mesma distância dos três **lados** (centro da circunferência inscrita) |\n| **Baricentro** | medianas | centro de equilíbrio |\n| **Ortocentro** | alturas | — |",
+  "videos": [
+    {
+      "titulo": "Pontos notáveis do triângulo (aula 06) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=wUprj2bqx6M"
+    },
+    {
+      "titulo": "Comprimento da circunferência (aula 25) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=Gu5ssuRpd7g"
+    }
+  ]
+}

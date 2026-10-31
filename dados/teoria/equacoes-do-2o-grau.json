@@ -1,0 +1,17 @@
+{
+  "id": "equacoes-do-2o-grau",
+  "titulo": "Equações do 2º grau",
+  "materia": "Matemática",
+  "grupo": "Expressões, equações e sistemas",
+  "texto": "Uma **equação do 2º grau** tem a forma \\(ax^2 + bx + c = 0\\), com \\(a \\neq 0\\). Ela pode ter duas, uma ou nenhuma raiz real.\n\n**Fórmula de Bhaskara:**\n\n\\[\\Delta = b^2 - 4ac \\qquad x = \\frac{-b \\pm \\sqrt{\\Delta}}{2a}\\]\n\n| \\(\\Delta\\) | Raízes reais |\n|---|---|\n| \\(\\Delta > 0\\) | duas, diferentes |\n| \\(\\Delta = 0\\) | uma (dupla) |\n| \\(\\Delta < 0\\) | nenhuma |\n\n**Soma e produto** (quando \\(a = 1\\)): em \\(x^2 + bx + c = 0\\), com raízes \\(r_1\\) e \\(r_2\\),\n\n\\[r_1 + r_2 = -b \\qquad r_1 \\cdot r_2 = c\\]\n\nRaízes 5 e 8: soma 13, produto 40. A equação é \\(x^2 - 13x + 40 = 0\\), ou seja, \\((x - 5)(x - 8) = 0\\).\n\n**Produtos notáveis** ajudam a reconhecer a forma fatorada:\n\n| Forma desenvolvida | Forma fatorada |\n|---|---|\n| \\(x^2 - 10x + 25\\) | \\((x - 5)^2\\) |\n| \\(x^2 + 6x + 9\\) | \\((x + 3)^2\\) |\n| \\(x^2 - 49\\) | \\((x - 7)(x + 7)\\) |\n\n**Montar a equação a partir de um problema:** escreva a área, o produto ou a relação pedida com a incógnita, passe tudo para um lado e simplifique. Um jardim de lados \\(x\\) e \\(20 - 2x\\) com 50 m²: \\(x(20 - 2x) = 50 \\Rightarrow x^2 - 10x + 25 = 0\\).",
+  "videos": [
+    {
+      "titulo": "Definição e equações incompletas do 2º grau #01 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=nD6Xu20ADGs"
+    },
+    {
+      "titulo": "Aprenda Bhaskara de vez #02 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=IHyeqc5SeXM"
+    }
+  ]
+}

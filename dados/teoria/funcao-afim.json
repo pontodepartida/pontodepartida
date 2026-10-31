@@ -1,0 +1,17 @@
+{
+  "id": "funcao-afim",
+  "titulo": "Funções afins e retas",
+  "materia": "Matemática",
+  "grupo": "Funções",
+  "texto": "**Função afim** é toda função do tipo\n\n\\[f(x) = ax + b\\]\n\nO gráfico é sempre uma **reta**.\n\n| Parte | Nome | O que mostra no gráfico | No problema |\n|---|---|---|---|\n| \\(a\\) | coeficiente angular (taxa de variação) | inclinação: \\(a > 0\\), a reta **sobe**; \\(a < 0\\), **desce** | quanto \\(y\\) muda quando \\(x\\) aumenta 1 (o preço por km, o valor por hora) |\n| \\(b\\) | coeficiente linear (termo independente) | onde a reta corta o **eixo y** | o valor inicial, quando \\(x = 0\\) (uma taxa fixa) |\n\n**Exemplo:** um táxi cobra R$ 5 de bandeirada e R$ 3 por km: \\(f(x) = 3x + 5\\). Para 10 km, \\(f(10) = 35\\).\n\n**Função linear:** é o caso \\(b = 0\\), \\(f(x) = ax\\). Só nesse caso a reta passa pela origem.\n\n**Abscissa** é a coordenada \\(x\\) de um ponto; **ordenada** é a coordenada \\(y\\). “A reta intercepta o eixo das abscissas em (3, 0)” = corta o eixo x no ponto 3.\n\n**Proporcionalidade:** quando \\(b = 0\\), a função é \\(f(x) = ax\\), a reta passa pela **origem** e \\(x\\) e \\(y\\) são diretamente proporcionais (veja *Grandezas diretamente e inversamente proporcionais*).\n\n**Para desenhar ou reconhecer o gráfico, ache dois pontos.** Os mais fáceis são os cortes nos eixos:\n\n- **eixo y:** faça \\(x = 0\\);\n- **eixo x** (zero da função): faça \\(y = 0\\).\n\n**Equação com duas incógnitas:** \\(ax + by = c\\) também é uma reta. Isole o \\(y\\) ou ache os cortes nos eixos. Em \\(2x - 2y = 4\\): com \\(x = 0\\), \\(y = -2\\); com \\(y = 0\\), \\(x = 2\\). Isolando, \\(y = x - 2\\).\n\n**Cada solução é um ponto da reta.** Um par \\((x, y)\\) está na reta quando, substituído na equação, torna a igualdade verdadeira. Para testar um gráfico, escolha um ponto dele e substitua.\n\n**Achar \\(a\\) por dois pontos:**\n\n\\[a = \\frac{y_2 - y_1}{x_2 - x_1}\\]\n\n**Lendo gráficos de função:** a função é **crescente** onde o gráfico sobe e **decrescente** onde desce; o maior valor de \\(y\\) é o ponto mais alto do gráfico.",
+  "videos": [
+    {
+      "titulo": "Função do 1º grau: definição e gráfico - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=R8UZRBFWJXY"
+    },
+    {
+      "titulo": "Função do 1º grau: obtendo a lei de formação - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=pYANfi1B0M4"
+    }
+  ]
+}

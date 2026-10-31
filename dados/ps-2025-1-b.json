@@ -1,0 +1,907 @@
+{
+  "id": "ps-2025-1-b",
+  "nome": "PS 2025.1 – Prova B",
+  "edital": "Edital nº 088/2024 – Prova B (tarde)",
+  "fonteGabarito": "Gabarito final – Prova B – Tarde – Edital 88 – PS 2025.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia a notícia extraída do site da CNN Brasil a respeito da repatriação do fóssil Ubiraja jubatus ao país.\n\n> ### Fóssil do dinossauro Ubirajara jubatus é repatriado ao Brasil\n> *Ubirajara jubatus habitou a região do Geoparque do Araripe conhecida como centro paleontológico, entre os estados do Ceará, Pernambuco e Piauí*\n>\n> 13/06/2023 às 09:38 | Atualizado 13/06/2023 às 14:01\n>\n> O fóssil de dinossauro Ubirajara jubatus, que viveu há 110 milhões de anos, retornou ao Brasil. A solenidade de repatriação aconteceu na segunda-feira (12), com a participação de representantes dos governo do Brasil e da Alemanha, no Ministério da Ciência, Tecnologia e Inovação (MCTI).\n>\n> Após o encontro em Brasília, o dinossauro será enviado para o Ceará. O espécime vai compor o acervo do Museu de Paleontologia Plácido Cidade Nuvens da Universidade Regional do Cariri (URCA).\n>\n> “Sem dúvida, estamos diante de um momento histórico: um réptil que viveu há 110 milhões de anos e passou cerca de 30 anos fora, retorna ao seu sítio”, disse a ministra Luciana Santos. “A repatriação foi um esforço dos pesquisadores e pesquisadoras do nosso país. É um patrimônio brasileiro que está de volta após uma cooperação bem-sucedida com a Alemanha.”\n>\n> O Ubirajara jubatus habitou a região do Geoparque do Araripe conhecida como centro paleontológico, entre os estados do Ceará, Pernambuco e Piauí. O fóssil foi levado para a Alemanha nos anos 1990, tendo sido identificado há cerca de três anos no Museu Estadual de História Natural de Karlsruche, após publicação científica.\n>\n> O curador do museu Julien Kimmingd defendeu o retorno do fóssil ao Brasil. “O fóssil agora estará acessível para os pesquisadores e para a população brasileira.”\n>\n> “Hoje é um dia para agradecer. Falamos de anos de procura e negociação de uma peça fundamental que explica os primórdios de vida na Terra. O Ubirajara é de grande representatividade para a população do Ceará, Nordeste e Brasil”, acrescentou o governador do Ceará, Elmano de Freitas.\n>\n> <cite>Fonte: https://www.cnnbrasil.com.br/tecnologia/fossil-do-dinossauro-ubirajara-jubatus-e-repatriado-ao-brasil-veja-imagens. Acesso em: 20 jul. 2023.</cite>\n\nPara enfatizar uma opinião ou fato, há na língua portuguesa diferentes recursos. Assinale a alternativa cujo trecho destacado, extraído do texto, apresenta um excerto com a ideia assertiva sobre uma opinião ou fato:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O fóssil de dinossauro Ubirajara jubatus, que viveu há 110 milhões de anos, retornou ao Brasil.",
+        "B": "Após o encontro em Brasília, o dinossauro será enviado para o Ceará.",
+        "C": "O fóssil agora estará acessível para os pesquisadores e para a população brasileira.",
+        "D": "Sem dúvida, estamos diante de um momento histórico: um réptil que viveu há 110 milhões de anos e passou cerca de 30 anos fora, retorna ao seu sítio."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Só informa um fato, em linguagem neutra. Nenhuma palavra reforça a certeza.",
+        "B": "Informa um fato futuro, sem nenhuma marca de ênfase.",
+        "C": "É a fala do curador, mas informa uma consequência sem nenhuma expressão de certeza."
+      },
+      "teoria": [
+        "modalizacao"
+      ],
+      "essencial": [
+        "Modalizador asseverativo reforça a certeza de quem fala: “**Sem dúvida**”, “certamente”, “é claro que”.",
+        "Frases só informativas não têm essa marca; “Sem dúvida, estamos diante de um momento histórico” enfatiza uma opinião."
+      ],
+      "raciocinio": "1. A pergunta pede o trecho com ideia **assertiva**: uma marca de certeza que enfatize a opinião ou o fato (veja: *Modalização: o grau de certeza de quem fala*).\n2. Procure essa marca em cada alternativa. A, B e C são frases informativas, sem nenhuma.\n3. D começa com “**Sem dúvida**”, um modalizador asseverativo. Ele reforça uma opinião da ministra: chamar a repatriação de “momento histórico” já é uma avaliação.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia, com atenção, o poema “Retrato”, de Cecília Meireles, e escolha a alternativa correta:\n\n> ### Retrato\n> Eu não tinha este rosto de hoje,\n> Assim calmo, assim triste, assim magro,\n> Nem estes olhos tão vazios,\n> Nem o lábio amargo.\n>\n> Eu não tinha estas mãos sem força,\n> Tão paradas e frias e mortas;\n> Eu não tinha este coração\n> Que nem se mostra.\n>\n> Eu não dei por esta mudança,\n> Tão simples, tão certa, tão fácil:\n> — Em que espelho ficou perdida\n> a minha face?\n>\n> <cite>Fonte: MEIRELES, Cecília. Poesia completa. Rio de Janeiro: Nova Fronteira, 2001.</cite>\n\nO poema “Retrato”, de Cecília Meireles, desde o título, evoca uma imagem congelada, cristalizada, parada no tempo e no espaço. Os versos se referem tanto à aparência física (as feições do rosto e do corpo), quanto do seu comportamento, em termos de sentimento. Qual dos versos melhor expressa a ideia/sentimento de tristeza, motivada pela noção da passagem do tempo manifestada pela consciência tardia da transitoriedade da vida?",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Eu não tinha esse rosto de hoje,”",
+        "B": "“Eu não tinha essa mão sem forças”",
+        "C": "“Eu não tinha esse coração que não se mostra”",
+        "D": "“Eu não me dei por essa mudança”"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Descreve a mudança na aparência (o rosto). É efeito da passagem do tempo, mas não a consciência dela.",
+        "B": "Também descreve uma mudança no corpo (as mãos sem força).",
+        "C": "Descreve um sentimento (o coração fechado), não a percepção tardia da mudança."
+      },
+      "teoria": [
+        "poesia",
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "No poema, o sentido de uma expressão vem do contexto: *dar por* significa perceber, notar.",
+        "“Eu não dei por esta mudança”: o eu lírico mudou sem perceber e só agora, tarde, nota."
+      ],
+      "raciocinio": "1. A pergunta junta três ideias: tristeza, passagem do tempo e **consciência tardia** dessa passagem. Procure o verso que fala da percepção da mudança, e não da mudança em si.\n2. Os versos de A, B e C descrevem o que mudou: rosto, mãos, coração.\n3. Em “Eu não dei por esta mudança”, *dar por* significa perceber, notar (veja: *Sentido das palavras pelo contexto*). O eu lírico admite que mudou sem notar e só agora, tarde, percebe. A pergunta final reforça a ideia: “Em que espelho ficou perdida / a minha face?” (veja: *Poesia: verso, eu lírico e poema visual*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o quadrinho a seguir\n\n![Tirinha do Armandinho em três quadros. Armandinho olha pela janela e conversa com o pai, enquanto um sapo o observa.](img/2025-1-b/q03.jpg \"Quadro 1 – Armandinho: Será que ainda precisa quarentena? Sapo: Parece tudo bem... | Quadro 2 – Pai: Paciência, meu filho! Porque, se parece tudo bem... | Quadro 3 – Pai: ...é sobretudo graças à quarentena!\")\n\n<cite>Fonte: https://www.plural.jor.br/charges/alexandre/armandinho-60. Acesso em: 10 ago. 2023.</cite>\n\nDas alternativas a seguir, qual apresenta o verbo com o mesmo efeito de sentido exercido pelo verbo “parecer” no quadrinho?",
+      "imagens": [
+        "img/2025-1-b/q03.jpg"
+      ],
+      "alternativas": {
+        "A": "Marta **andou** oito quilômetros de patinete.",
+        "B": "João **anda** triste com o desempenho do seu time.",
+        "C": "Raquel **andou** cuidadosamente pelo pasto.",
+        "D": "Carlos **andou** de moto ontem."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Andou oito quilômetros” é ação de se deslocar: o verbo tem sentido pleno.",
+        "C": "“Andou cuidadosamente pelo pasto” é ação de caminhar.",
+        "D": "“Andou de moto” é ação de se deslocar."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "*Parecer* e *andar* podem ser verbos de ligação: ligam o sujeito a um estado (“parece tudo bem”, “anda triste”).",
+        "Teste: troque por *está*. “João **está** triste” funciona; “Marta está oito quilômetros” não: ali *andar* é deslocamento."
+      ],
+      "raciocinio": "1. No quadrinho, “**Parece** tudo bem” liga o sujeito (*tudo*) a um estado (*bem*): “parecer” é verbo de ligação (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Procure o “andar” com o mesmo papel, trocando-o por “está”: “João **está** triste com o desempenho do seu time” mantém o sentido, e *triste* é um estado de João.\n3. Nas outras, a troca não funciona (“Marta está oito quilômetros de patinete”), porque ali “andar” indica deslocamento.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto a seguir:\n\n> ### Especialista em meio ambiente analisa impactos em Brumadinho\n> *Entre os pontos discutidos, vida do Rio Paraopeba e migração da fauna local são as maiores preocupações*\n>\n> Após uma semana do rompimento da barragem do complexo Córrego do Feijão, da mineradora Vale, em Brumadinho, as notícias referentes aos impactos da destruição causada pelos rejeitos de minérios na fauna e na flora local ainda não são muito claras, mesmo sendo óbvio que os prejuízos ambientais na cidade são incontáveis. O Jornal da USP no Ar conversou sobre o assunto com Pedro Luiz Côrtes, professor da Escola de Comunicações e Artes (ECA) da USP e do Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente (IEE) da Universidade, além de ser coordenador da Rede Internacional de Estudos Sobre Meio Ambiente e Sustentabilidade e de participar do Projeto Temático Fapesp Governança Ambiental da Macrometrópole Paulista Face à Variabilidade Climática.\n>\n> O professor Côrtes aponta que uma das consequências já perceptíveis está no Rio Paraopeba, que passa pela cidade de Brumadinho. “Com base na experiência de Mariana, é possível verificar certos impactos. O rio, no caso, sofre um aporte de sedimentos bastante significativo e isso provoca — literalmente — em algumas áreas um soterramento dos trechos menores, provoca uma turbidez e também prejudica a oxigenação. Isso inviabiliza o aproveitamento desse rio para a irrigação de cultivos, para o uso da população rural e urbana.” Além disso, Côrtes aponta uma outra preocupação com esse impacto no rio: “Vai levar a uma grande mortandade de peixes. Então, o rio, praticamente, perde sua vida. Se torna um rio morto”.\n>\n> No solo, por sua vez, a camada de lama de rejeitos de minério irá inviabilizar a germinação. “Aquela camada superficial que havia, aquela camada organicamente mais ativa do solo, ela deixa de existir, simplesmente pelo fato de ela estar soterrada. Isso dificulta a recomposição da flora nativa. Ao longo dos anos, nós teremos o surgimento de plantas, mas não com a mesma composição da flora que nós tínhamos originalmente.”\n>\n> A fauna, segundo o especialista, já sai prejudicada por essa situação devido à falta de alimentos com que antes ela poderia contar. “Além da mortandade grande de espécies por conta da lama, você tem uma migração das espécies restantes. Não vão encontrar alimento na região, então vão buscar em outro local.” Nesse cenário, com a forte migração de pássaros e, consequentemente, elevação da presença de insetos — muitos deles transmissores de doenças –, a tendência é um aumento de epidemias nas áreas rurais.\n>\n> <cite>Fonte: https://jornal.usp.br/?p=221938. Publicado em 01 fev. 2019.</cite>\n\nConsidere os excertos a seguir:\n\nI. “As notícias referentes aos impactos da destruição causada pelos rejeitos de minérios na fauna e na flora local ainda não são muito claras, mesmo sendo óbvio que os prejuízos ambientais na cidade são incontáveis.”\nII. “Ao longo dos anos, nós teremos o surgimento de plantas, mas não com a mesma composição da flora que nós tínhamos originalmente.”\nIII. “O professor Côrtes aponta que uma das consequências já perceptíveis está no Rio Paraopeba, que passa pela cidade de Brumadinho.”\nIV. “Com base na experiência de Mariana, é possível verificar certos impactos.”\n\nAssinale a alternativa correta:",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e IV contêm verbos de ligação, sendo que em I há um destes verbos que está conjugado incorretamente.",
+        "B": "II e III não contêm verbos de ligação.",
+        "C": "I, II e III contêm verbos de ligação, sendo que em I há um destes verbos que está conjugado incorretamente.",
+        "D": "I, III e IV contêm verbos de ligação, sendo que em IV há um destes verbos que está conjugado incorretamente."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O gabarito oficial é a A, que identifica os excertos com verbo de ligação: I e IV.",
+        "C": "II não tem verbo de ligação: “teremos” e “tínhamos” indicam posse.",
+        "D": "Em III, “está no Rio Paraopeba” indica lugar, e o verbo não é de ligação. Também não há verbo conjugado incorretamente em IV."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica: “as notícias **são** claras”, “**é** possível”.",
+        "*Estar* seguido de lugar (“está no Rio Paraopeba”) não é verbo de ligação: indica posição."
+      ],
+      "raciocinio": "1. Procure, em cada excerto, um verbo que ligue o sujeito a uma característica (veja: *Verbos de ligação e predicativo do sujeito*):\n\n| Excerto | Verbos | Há verbo de ligação? |\n|---|---|---|\n| I | as notícias **são** claras; **sendo** óbvio; os prejuízos **são** incontáveis | sim |\n| II | **teremos** o surgimento; **tínhamos** | não |\n| III | **aponta**; **está** no Rio Paraopeba; **passa** | não (*está* + lugar) |\n| IV | **é** possível | sim |\n\n2. Os verbos de ligação estão em I e IV, como indica a alternativa A.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia este trecho de um conto de Mia Couto.\n\n> De repente, o boi explodiu. Rebentou sem um múúú. No capim em volta choveram pedaços e fatias, grão e folhas de boi. A carne eram já borboletas vermelhas. Os ossos eram moedas espalhadas. Os chifres ficaram num qualquer ramo, balouçando a imitar a vida, no invisível do vento.\n>\n> O espanto não cabia em Azarias, o pequeno pastor. Ainda há um instante ele admirava o grande boi malhado, chamado de Mabata-bata.\n>\n> <cite>Fonte: COUTO, Mia. O dia em que explodiu Mabata-bata. In: ______. **A menina sem palavra**: histórias de Mia Couto. 1. ed. São Paulo: Companhia das Letras, 2013. p. 11.</cite>\n\nAssinale a alternativa correta.",
+      "imagens": [],
+      "alternativas": {
+        "A": "Em “choveram pedaços e fatias, grão e folhas de boi” (1º parágrafo), o termo “pedaços e fatias, grão e folhas de boi” é o objeto direto do verbo *chover*.",
+        "B": "Em “choveram pedaços e fatias, grão e folhas de boi” (1º parágrafo), o termo “pedaços e fatias, grão e folhas de boi” é o objeto indireto do verbo *chover*.",
+        "C": "Em “ele admirava o grande boi malhado” (2º parágrafo), o termo “o grande boi malhado” é objeto direto do verbo *admirar*.",
+        "D": "Em “ele admirava o grande boi malhado” (2º parágrafo), o termo “o grande boi malhado” é objeto indireto do verbo *admirar*."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Chover” não tem objeto. “Pedaços e fatias, grão e folhas de boi” é o sujeito (o que choveu): por isso o plural.",
+        "B": "Pelo mesmo motivo, não há objeto, nem direto nem indireto: o termo é o sujeito, colocado depois do verbo.",
+        "D": "“Admirar” liga-se ao complemento sem preposição (admirar o boi): o objeto é direto. O “o” é artigo."
+      },
+      "teoria": [
+        "sujeito-e-predicado",
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "O sujeito pode vir depois do verbo: “Choveram **pedaços e fatias**”. O plural do verbo confirma.",
+        "Objeto direto completa o verbo sem preposição: quem admira, admira algo: “o grande boi malhado”."
+      ],
+      "raciocinio": "1. “Choveram pedaços e fatias…”: pergunte “o que choveu?”. Pedaços e fatias. É o **sujeito**, posposto ao verbo, e o plural de “choveram” confirma (veja: *Sujeito e predicado*). Isso elimina A e B.\n2. “ele admirava o grande boi malhado”: quem admira, admira alguma coisa, e o complemento vem sem preposição. É **objeto direto** (veja: *Transitividade verbal: verbos e complementos*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o texto abaixo e responda à questão:\n\n> Você sabe o que é um texto normativo (ou legal)? Pense no modo como você vive, as regras que segue, o que pode e o que não pode fazer: é tudo regido por textos que pessoas muito importantes escreveram. Esses textos têm características de legalidade, e não podem ser desobedecidos caso alguém queira viver na mesma sociedade que é regida por tais regras. Se um cidadão da sociedade brasileira desobedece às regras dessa mesma sociedade, será responsabilizado por suas ações e então sofrerá sanções, como multas ou até mesmo a prisão.\n>\n> Por essa razão, é importante que saibamos ler um texto e identificar suas principais características. Ele deve ser, acima de tudo, claro em suas ideias, pois ao definir uma regra que rege uma sociedade inteira, é imprescindível que não tenha lugar para dúvidas ou até mesmo ambiguidades.\n>\n> <cite>Fonte: https://edisciplinas.usp.br/mod/hvp/view.php?id=3432507&lang=de (adaptado). Acesso em: 23 abr. 2024.</cite>\n\nConsiderando as informações sobre o texto normativo apresentadas no fragmento anterior, qual dos gêneros discursivos a seguir **não** apresenta essas características?",
+      "imagens": [],
+      "alternativas": {
+        "A": "Poema.",
+        "B": "Estatuto da Criança e do Adolescente.",
+        "C": "Constituição Federal.",
+        "D": "Código Nacional de Trânsito."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O ECA é uma lei: cria regras e prevê sanções. É texto normativo.",
+        "C": "A Constituição é a lei mais importante do país: o principal texto normativo.",
+        "D": "O Código de Trânsito é lei, com regras e multas para quem desobedece."
+      },
+      "teoria": [
+        "textos-normativos"
+      ],
+      "essencial": [
+        "Texto normativo cria regras obrigatórias, prevê sanções e precisa ser claro, sem ambiguidade.",
+        "ECA, Constituição e Código de Trânsito são leis; o poema é literário e não cria obrigações."
+      ],
+      "raciocinio": "1. Segundo o texto, o texto normativo cria regras que não podem ser desobedecidas, prevê sanções (“multas ou até mesmo a prisão”) e precisa ser claro, sem “lugar para dúvidas ou até mesmo ambiguidades” (veja: *Textos normativos: leis, estatutos e regulamentos*).\n2. ECA, Constituição e Código de Trânsito são leis: têm todas essas características.\n3. O poema é um texto literário. Não cria obrigações e, muitas vezes, aposta justamente em vários sentidos ao mesmo tempo.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "A regência do verbo assistir é feita conforme o sentido que o verbo apresenta. Com base nessa informação, leia a seguir o fragmento de uma reportagem para responder à questão.\n\n> Uma pessoa claustrofóbica não necessariamente precisa estar em um lugar apertado para se sentir nervosa. Basta ela se imaginar nesse tipo de situação para começar a se sentir mal — e ler uma notícia, **assistir** a uma cena de um filme ou, segundo Siqueira, em alguns casos mais graves, simplesmente ouvir uma história, podem causar isso. Os sintomas incluem falta de ar, hiperventilação, tontura, desmaios, taquicardia, sudorese.\n>\n> <cite>SUBMARINO desaparecido: por que algumas pessoas sentem claustrofobia e ansiedade ao ler notícias sobre o caso? O Globo. 22 de jun. 2023. Disponível em: https://oglobo.globo.com/saude/noticia/2023/06/submarino-desaparecido-por-que-algumas-pessoas-sentem-claustrofobia-e-ansiedade-ao-ler-noticias-sobre-o-caso.ghtml. Acesso em: 07 de jul. 2023.</cite>\n\nConsiderando a norma-padrão da língua portuguesa em relação às regras de regência, assinale a alternativa em que o verbo “assistir” apresenta o mesmo sentido do verbo destacado no texto da questão.",
+      "imagens": [],
+      "alternativas": {
+        "A": "O enfermeiro assistiu a paciente.",
+        "B": "A gerente assistiu a funcionária nova.",
+        "C": "A mulher assistiu a todos os jogos de seu time.",
+        "D": "O menino assistiu a senhora que atravessava a rua."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Assistiu a paciente” = deu assistência, cuidou. O “a” é artigo (no masculino, “assistiu o paciente”).",
+        "B": "“Assistiu a funcionária nova” = ajudou, orientou. De novo, o “a” é artigo.",
+        "D": "“Assistiu a senhora que atravessava a rua” = ajudou a senhora."
+      },
+      "teoria": [
+        "regencia-verbal"
+      ],
+      "essencial": [
+        "*Assistir* no sentido de ver pede a preposição *a*; no sentido de ajudar, não pede: “assistiu **o** paciente”.",
+        "Teste do masculino: se cabe “o”, é artigo (ajudar). Antes de *todos*, o *a* só pode ser preposição (ver)."
+      ],
+      "raciocinio": "1. No texto, “assistir a uma cena de um filme” = ver a cena, sentido que exige a preposição *a* (veja: *Regência verbal*).\n2. Faça o teste do masculino nas alternativas: “assistiu **o** paciente”, “**o** funcionário novo”, “**o** senhor”. Só cabe artigo, então o sentido é ajudar.\n3. Em C, “assistiu **a todos** os jogos”: antes de *todos* não cabe artigo feminino, então o *a* é preposição, e o sentido é ver.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia o trecho que engloba os artigos 3º ao 8º da Declaração Universal dos Direitos Humanos (1948) para responder à questão:\n\n> (...)\n> Artigo 3° **Todo** indivíduo tem direito à vida, à liberdade e à segurança pessoal.\n> Artigo 4° **Ninguém** será mantido em escravatura ou em servidão; a escravatura e o trato dos escravos, sob todas as formas, são proibidos.\n> Artigo 5° **Ninguém** será submetido a tortura nem a penas ou tratamentos cruéis, desumanos ou degradantes.\n> Artigo 6° **Todos** os indivíduos têm direito ao reconhecimento, em todos os lugares, da sua personalidade jurídica.\n> Artigo 7° **Todos** são iguais perante a lei e, sem distinção, têm direito a igual proteção da lei. Todos têm direito a proteção igual contra qualquer discriminação que viole a presente Declaração e contra qualquer incitamento a tal discriminação.\n> Artigo 8° **Toda** a pessoa tem direito a recurso efetivo para as jurisdições nacionais competentes contra os atos que violem os direitos fundamentais reconhecidos pela Constituição ou pela lei.\n> (...)\n>\n> <cite>Fonte: Declaração Universal dos Direitos Humanos (1948). Disponível em: https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos. Acesso em: 10 jul. 2023.</cite>\n\nOs termos destacados em cada um dos artigos pertencem ao grupo dos pronomes indefinidos. No contexto em que foram empregados, o valor semântico que emprestam às sentenças é de:",
+      "imagens": [],
+      "alternativas": {
+        "A": "individualização.",
+        "B": "empatia.",
+        "C": "dispersão.",
+        "D": "equidade."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Todo”, “todos” e “ninguém” fazem o contrário de individualizar: incluem qualquer pessoa.",
+        "B": "Empatia é se colocar no lugar do outro, um sentimento. Os pronomes indicam o alcance da regra, não um sentimento.",
+        "C": "Dispersão é espalhar, perder o foco. Os pronomes reúnem todos sob a mesma regra."
+      },
+      "teoria": [
+        "pronomes"
+      ],
+      "essencial": [
+        "Pronomes indefinidos como *todo* e *ninguém* generalizam: a regra vale para qualquer pessoa, sem exceção.",
+        "Direitos iguais para todos, sem distinção: é a ideia de equidade."
+      ],
+      "raciocinio": "1. Veja o efeito dos pronomes em cada artigo: “**Todo** indivíduo tem direito…”, “**Ninguém** será mantido em escravatura…”. Nos dois casos, a regra vale para qualquer pessoa, sem exceção (veja: *Pronomes*).\n2. Direitos que valem igualmente para todos expressam a ideia de **equidade**. O Artigo 7º confirma: “Todos são iguais perante a lei e, sem distinção, têm direito a igual proteção da lei”.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Observe os termos destacados na canção “Onde anda você”, de Toquinho e Vinícius de Morais\n\n> E por falar em saudade\n> **Onde (1)** anda você?\n> **Onde (2)** andam seus olhos?\n> Que a gente não vê\n> **Onde (3)** anda esse corpo?\n> Que me deixou morto\n> De tanto prazer\n>\n> E por falar em beleza\n> **Onde (4)** anda a canção?\n> Que se ouvia na noite\n> Dos bares de então\n> **Onde (5)** a gente ficava\n> **Onde (6)** a gente se amava\n> Em total solidão\n>\n> Hoje eu saio na noite vazia\n> Numa boemia\n> Sem razão de ser\n> Da rotina dos bares\n> Que apesar dos pesares\n> Me trazem você\n>\n> E por falar em paixão\n> Em razão de viver\n> Você bem que podia\n> Me aparecer\n> Nesses mesmos lugares\n> Na noite, nos bares\n> **Onde (7)** anda você?\n\nEscolha a alternativa que apresenta a justificativa correta para o emprego da palavra “**onde**”:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Todos os empregos equivalem ao uso de **onde** como advérbio.",
+        "B": "Todos os empregos equivalem ao uso de **onde** como pronome relativo.",
+        "C": "Os empregos 1, 2, 3, 4 e 7 equivalem ao uso de **onde** como advérbio.",
+        "D": "Os empregos 1, 2, 3, 5 e 6 equivalem ao uso de **onde** como pronome relativo."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Os “onde” 5 e 6 não iniciam perguntas: retomam “os bares” e são pronomes relativos.",
+        "B": "Os “onde” 1, 2, 3, 4 e 7 iniciam perguntas: são advérbios interrogativos, não relativos.",
+        "D": "Mistura os dois usos: 1, 2 e 3 são perguntas (advérbios); só 5 e 6 são relativos."
+      },
+      "teoria": [
+        "adverbios",
+        "pronomes"
+      ],
+      "essencial": [
+        "*Onde* em pergunta é advérbio interrogativo de lugar: “**Onde** anda você?” = em que lugar?",
+        "*Onde* que retoma um lugar já citado é pronome relativo: “os bares / **onde** a gente ficava” = nos quais."
+      ],
+      "raciocinio": "1. Os “onde” 1, 2, 3, 4 e 7 iniciam perguntas (“Onde anda você?”, “Onde andam seus olhos?”) e equivalem a “em que lugar?”. São advérbios interrogativos de lugar (veja: *Advérbios e adjuntos adverbiais*).\n2. Em “Dos bares de então / Onde a gente ficava / Onde a gente se amava”, os “onde” 5 e 6 retomam “os bares” e podem ser trocados por “nos quais”. São pronomes relativos (veja: *Pronomes*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Rã Zinza é personagem criada pelo cartunista Rafael Marçal. Leia a tirinha a seguir:\n\n![Tirinha da Rã Zinza em quatro quadros, com a rã falando.](img/2025-1-b/q10.jpg \"Quadro 1: Ei, você que me convida para eventos variados. | Quadro 2: Eu compreendo a convenção social estabelecida... | Quadro 3: ...e aprecio muito o gesto do convite. | Quadro 4: Mas nem por isso vou sair de casa.\")\n\n<cite>Fonte: https://vacilandia.com/ra-zinza-e-os-convites. Acesso em: 20 jul. de 2023.</cite>\n\nO humor da tirinha reside no tratamento que Rã Zinza dá à temática “convite para eventos”. Há nos quadrinhos, enunciados que se ligam sintaticamente por relação de coordenação. Assinale a qual quadrinho se liga o enunciado “mas nem por isso vou sair de casa” presente no último quadrinho e qual a relação semântica estabelecida.",
+      "imagens": [
+        "img/2025-1-b/q10.jpg"
+      ],
+      "alternativas": {
+        "A": "O enunciado se liga ao primeiro quadrinho indicando uma relação de alternância entre os enunciados.",
+        "B": "O enunciado assinalado se liga ao terceiro quadrinho, estabelecendo uma oposição em relação ao enunciado anterior.",
+        "C": "O enunciado se liga ao segundo quadrinho estabelecendo uma relação de adição a informação apresentada.",
+        "D": "O enunciado se liga ao terceiro quadrinho indicando uma relação de explicação para ele."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Mas” não indica alternância (que seria “ou… ou”). E ele se liga ao que vem logo antes, o 3º quadrinho.",
+        "C": "“Mas” não indica adição (que seria “e”). Quem soma ideias é o “e” do 3º quadrinho.",
+        "D": "“Mas” não explica nada (explicação seria “pois”, “porque”): ele opõe."
+      },
+      "teoria": [
+        "oracoes-coordenadas",
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "“Mas” é conjunção coordenativa adversativa: opõe uma ideia à que vem antes.",
+        "O humor está na quebra de expectativa: a rã “aprecia muito o gesto do convite”, **mas** recusa."
+      ],
+      "raciocinio": "1. Identifique a conjunção do último quadrinho: “**mas**”, coordenativa adversativa, de oposição (veja: *Orações coordenadas*).\n2. O que ela contraria? O que vem logo antes: “...e aprecio muito o gesto do convite” (3º quadrinho). Quem aprecia tanto um convite deveria aceitá-lo.\n3. O humor está nessa quebra de expectativa: depois de tanta educação, a rã recusa (veja: *Ironia e humor*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia o texto.\n\n> Daí nasce uma controvérsia, qual seja: se é melhor ser amado ou temido. Pode-se responder que todos gostariam de ser ambas as coisas; porém, como é difícil conciliá-las, é bem mais seguro ser temido <u>que</u> amado, <u>caso</u> venha a faltar uma das duas. <u>Porque</u>, de modo geral, pode-se dizer que os homens são ingratos, volúveis, fingidos e dissimulados, avessos ao perigo, ávidos de ganhos; assim, enquanto o príncipe agir com benevolência, eles se doarão inteiros, lhe oferecerão o próprio sangue, os bens, a vida e os filhos, mas só nos períodos de bonança, como se disse mais acima; entretanto, <u>quando</u> surgirem as dificuldades, eles passarão à revolta, e o príncipe que confiar inteiramente na palavra deles se arruinará ao ver-se despreparado para os reveses.\n>\n> <cite>Fonte: Maquiavel, Nicolau. O príncipe. São Paulo: Penguin/ Companhia das Letras, 2010. p. 102.</cite>\n\nEm relação às palavras destacadas no texto, assinale a alternativa **incorreta**.",
+      "imagens": [],
+      "alternativas": {
+        "A": "em “é bem mais seguro ser temido que amado”, a palavra que estabelece uma comparação.",
+        "B": "na oração “caso venha a faltar uma das duas”, é possível substituir, sem prejuízo de sentido, a palavra caso por embora.",
+        "C": "é possível substituir, sem prejuízo de sentido, a palavra porque por pois.",
+        "D": "a palavra quando expressa uma circunstância de tempo."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Está correta: “mais seguro ser temido **que** amado” é uma comparação. Como a questão pede a incorreta, não é a resposta.",
+        "C": "Está correta: “porque”, aqui, inicia uma explicação e pode ser trocado por “pois”.",
+        "D": "Está correta: “quando surgirem as dificuldades” indica tempo."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "*Caso* indica condição (= *se*): algo que pode ou não acontecer.",
+        "*Embora* indica concessão: admite o fato e diz que ele não impede o resto. Trocar um pelo outro muda o sentido."
+      ],
+      "raciocinio": "1. O comando pede a afirmação **incorreta**.\n2. Teste cada uma (veja: *Conectivos e relações de sentido*): “que” compara ✓; “porque” → “pois” ✓; “quando” indica tempo ✓.\n3. “Caso venha a faltar” = “**se** vier a faltar”: condição, algo que pode ou não acontecer. “Embora” é concessão: “embora venha a faltar” afirma que a falta acontece e não impede o resto. A troca muda o sentido, então a B é a incorreta.\n\nResposta: **B**.\n\n**Dica de prova:** quando o comando pede a incorreta, escreva V ou F ao lado de cada alternativa antes de escolher. Isso evita marcar, por reflexo, a primeira afirmação verdadeira.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia:\n\n#### Texto I\n> ### O raio X das escolas no país\n> Mais da metade das escolas sem esgoto encanado. Quase um terço sem rede de água. Um quarto sem coleta de lixo. É esse o retrato traçado pelo Censo Escolar 2014. Os números revelam que boa parte das instituições de ensino ainda não conta com o básico. Mas mostram também que alguns indicadores, como a oferta de internet, têm melhorado ano a ano.\n>\n> De 2010 a 2014, o percentual de escolas com rede de esgoto passou de 42% para 47% apenas. Já o percentual de escolas com internet foi de 47% para 61% no mesmo período. [...]\n>\n> Os dados do Inep mostram que o progresso tem sido lento na maioria dos itens estruturais. O percentual de escolas com bibliotecas, por exemplo, só passou de 33% para 36% de 2010 para 2014. Já em outros, houve um avanço mais significativo: 45% das escolas já contam com laboratórios de informática, ante 35% em 2010. [...]\n>\n> Há determinados espaços nas escolas, porém, que não têm recebido atenção dos gestores ao longo dos anos. A quadra de esportes é um exemplo. Só 32% das unidades contam com o espaço – número não muito diferente do de 2010 (28%). [...] Nos Estados Unidos e no Japão, o desporto escolar é valorizado. Nos EUA, a criança começa desde a escola até se profissionalizar, participando de competições. Só 1% vira, de fato, atleta, mas o objetivo é propiciar outros aprendizados com a prática”, afirma Thiago Alves, da UFPR. [...].\n>\n> Além das quadras, só 11% das escolas possuem um laboratório de ciências e 21%, uma sala de leitura. [...]\n>\n> **Um dos obstáculos para uma análise ainda mais apurada dos dados é o fato de não haver uma medida de acompanhamento da manutenção dos equipamentos.** “Os dados mostram os bens que a escola possui. Sobre o estado desses equipamentos, no entanto, não há dados disponíveis.” É possível, portanto, que escolas possuam computadores, mas eles não estejam funcionando, por exemplo. [...].\n>\n> <cite>REIS, Thiago; MORENO, Ana Carolina. O raio X das escolas no país. G1 – Globo. 17.08.2015 – Fragmento. Adaptado. Disponível em: http://especiais.g1.globo.com/educacao/2015/censo-escolar-2014/o-raio-x-das-escolas-do-pais.html. Acesso em: 21 jul. 2023.</cite>\n\n#### Texto II\n![Infográfico em forma de lousa: “O raio X das escolas do país (2014)”. Mostra porcentagens em círculos: laboratório de ciências 11%, acessibilidade 24%, quadra de esportes 32%, biblioteca 36%, rede de esgoto 47%, internet 61%, coleta de lixo 74% e rede de energia 94%.](img/2025-1-b/q12.jpg \"O RAIO X DAS ESCOLAS DO PAÍS (2014) | Laboratório de ciências: 11% | Acessibilidade: 24% | Quadra de esportes: 32% | Biblioteca: 36% | Rede de esgoto: 47% | Internet: 61% | Coleta de lixo: 74% | Rede de energia: 94%\")\n\n<cite>Quadro elaborado pela Fundação Lemann e pela Meritt, a partir dos dados do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Disponível em: http://especiais.g1.globo.com/educacao/2015/censo-escolar-2014/o-raio-x-das-escolas-do-pais.html. Acesso em: 21 jul. 2023.</cite>\n\nAnalisando as informações do documentário (texto I) e comparando-as com as do infográfico (texto II), é possível afirmar que",
+      "imagens": [
+        "img/2025-1-b/q12.jpg"
+      ],
+      "alternativas": {
+        "A": "o documentário dispensa a leitura do infográfico que o acompanha, já que ambos contêm as mesmas informações.",
+        "B": "o infográfico simplesmente sintetiza ao leitor todas as informações relativas ao cenário estrutural das escolas brasileiras, presentes no documentário.",
+        "C": "o infográfico não só resume, mas também acrescenta dados ao documentário, constituindo um todo relevante para o efeito de sentido pretendido.",
+        "D": "o documentário não põe em destaque aspectos relevantes da situação estrutural das escolas brasileiras, deixando esse papel ao infográfico."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Os textos não têm as mesmas informações: o infográfico traz acessibilidade e rede de energia, que o texto não cita.",
+        "B": "Não é “simplesmente” uma síntese: o infográfico deixa de fora dados do texto (laboratório de informática, sala de leitura) e acrescenta outros.",
+        "D": "O texto I destaca vários problemas de estrutura (esgoto, água, lixo, bibliotecas, quadras), inclusive com um trecho em negrito."
+      },
+      "teoria": [
+        "comparacao-entre-textos"
+      ],
+      "essencial": [
+        "Para comparar textos, liste o que aparece nos dois, só no primeiro e só no segundo.",
+        "O infográfico resume parte da reportagem e acrescenta dados (acessibilidade, energia): os dois se completam."
+      ],
+      "raciocinio": "1. Liste o que aparece nos dois textos (veja: *Comparação entre textos*): esgoto (47%), internet (61%), biblioteca (36%), quadra (32%), laboratório de ciências (11%).\n2. Só no infográfico: acessibilidade (24%) e rede de energia (94%).\n3. Só no texto: laboratórios de informática (45%), sala de leitura (21%) e a falta de dados sobre a manutenção dos equipamentos.\n4. O infográfico resume parte do texto e acrescenta dados: juntos, os dois formam a informação completa.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Ortografia e acentuação",
+      "enunciado": "Considerando que o Novo Acordo Ortográfico determinou o emprego do hífen em palavras compostas, qual sequência de palavras hifenizadas está totalmente correta?",
+      "imagens": [],
+      "alternativas": {
+        "A": "Contra-regra / antissemita / microondas.",
+        "B": "Autoaprendizagem / pré-história / micro-ondas.",
+        "C": "Auto-aprendizagem / mini-saia / portarretrato.",
+        "D": "Semi-histórico / semi-novo / semi-final."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Só “antissemita” está certa. O correto é **contrarregra** (junta e dobra o r) e **micro-ondas** (vogais iguais pedem hífen).",
+        "C": "Todas estão erradas: o correto é **autoaprendizagem**, **minissaia** e **porta-retrato**.",
+        "D": "Só “semi-histórico” está certa. O correto é **seminovo** e **semifinal**, sem hífen."
+      },
+      "teoria": [
+        "hifen"
+      ],
+      "essencial": [
+        "Prefixo em vogal + palavra com vogal diferente: junto (*autoaprendizagem*). Mesma vogal: hífen (*micro-ondas*).",
+        "Prefixo em vogal + *r* ou *s*: junta e dobra (*contrarregra*). Vogal + outra consoante: junto (*seminovo*).",
+        "*Pré-*, *pós-* e *pró-* tônicos levam hífen: *pré-história*."
+      ],
+      "raciocinio": "Teste as palavras de cada alternativa nas regras (veja: *Hífen*). Basta uma errada para eliminar a alternativa.\n\n1. A: “contra-regra” ✗ (contra + r → junta e dobra: contrarregra).\n2. C: “auto-aprendizagem” ✗ (vogais diferentes → junta).\n3. D: “semi-novo” ✗ (vogal + consoante → junta).\n4. B: autoaprendizagem (o + a, vogais diferentes → junta ✓), pré-história (*pré-* tônico → hífen ✓), micro-ondas (o + o → hífen ✓).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Analise as pistas linguísticas destacadas e escolha a alternativa que melhor representa a hierarquização das proposições e a síntese do conteúdo dos textos:\n\n> “<u>Em primeiro lugar</u>, devemos considerar a importância da educação para o desenvolvimento social. <u>Por outro lado</u>, é necessário <u>também</u> investir em infraestrutura e saúde pública. <u>Dito de outro modo</u>, tanto a educação quanto a infraestrutura e a saúde são pilares fundamentais para o progresso de uma sociedade. <u>Isto é</u>, esses aspectos estão interligados e influenciam diretamente no bem-estar da população. <u>Por exemplo</u>, um sistema educacional de qualidade contribui para a formação de cidadãos mais capacitados, que consequentemente terão mais oportunidades de emprego e uma melhor qualidade de vida.”",
+      "imagens": [],
+      "alternativas": {
+        "A": "A educação é o fator mais importante para o desenvolvimento social. pois é citada primeiro no texto.",
+        "B": "A educação, a infraestrutura e a saúde são igualmente importantes para o desenvolvimento social.",
+        "C": "A infraestrutura e a saúde são mais relevantes para o progresso da sociedade do que a educação.",
+        "D": "A infraestrutura e a saúde são aspectos secundários e não impactam diretamente no bem-estar da população."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Em primeiro lugar” só organiza a ordem, sem dizer que a educação é mais importante. O texto põe os três no mesmo nível.",
+        "C": "O texto não põe infraestrutura e saúde acima da educação: “**tanto** a educação **quanto** a infraestrutura e a saúde são pilares fundamentais”.",
+        "D": "Contradiz o texto: os três aspectos “influenciam **diretamente** no bem-estar da população”."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Organizadores textuais têm funções: enumerar (“Em primeiro lugar”), acrescentar (“também”), reformular (“Isto é”), exemplificar (“Por exemplo”).",
+        "As reformulações trazem a síntese: “tanto… quanto” põe educação, infraestrutura e saúde no mesmo nível."
+      ],
+      "raciocinio": "1. Identifique a função de cada organizador (veja: *Conectivos e relações de sentido*): “Em primeiro lugar” enumera; “Por outro lado” e “também” acrescentam; “Dito de outro modo” e “Isto é” reformulam; “Por exemplo” exemplifica.\n2. As expressões de reformulação trazem a síntese do parágrafo: “tanto a educação quanto a infraestrutura e a saúde são pilares fundamentais”. A estrutura “tanto… quanto” coloca os três no mesmo nível.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Agente da Passiva é o termo que indica quem ou o que executa a ação de um verbo na voz passiva. Para identificar uma oração na voz passiva, é necessário que se observe como o sujeito, o verbo e o objeto estão posicionados na oração, para assim estabelecer um efeito distinto da voz ativa.\n\nQual das orações a seguir, se encontra devidamente na voz passiva?",
+      "imagens": [],
+      "alternativas": {
+        "A": "Raquel trouxe o bolo para o lanche de Pedro.",
+        "B": "Para o lanche de Pedro, Raquel trouxe o bolo.",
+        "C": "Raquel, para o lanche de Pedro, trouxe bolo.",
+        "D": "O bolo foi trazido por Raquel para o lanche de Pedro."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Voz ativa: o sujeito (Raquel) pratica a ação de trazer.",
+        "B": "Continua na voz ativa: só mudou a ordem dos termos.",
+        "C": "Também é voz ativa, com “para o lanche de Pedro” deslocado."
+      },
+      "teoria": [
+        "vozes-verbais"
+      ],
+      "essencial": [
+        "Voz passiva analítica: verbo *ser* + particípio, com agente introduzido por *por*: “O bolo **foi trazido por** Raquel”.",
+        "Na passiva, o sujeito sofre a ação (o bolo), e o agente a pratica (Raquel)."
+      ],
+      "raciocinio": "1. Procure as marcas da voz passiva analítica (veja: *Vozes verbais*): verbo **ser + particípio** e agente da passiva com **por**.\n2. Só a D tem “**foi trazido por** Raquel”: o bolo (sujeito) sofre a ação, e Raquel (agente) a pratica.\n3. A, B e C são a mesma frase na voz ativa, em ordens diferentes.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "O dominó é um jogo tradicionalmente formado por 28 peças com formatos retangulares. Cada peça é constituída por duas seções de formatos quadrangulares, nos quais os pontos são marcados por pequenos círculos. Cada formato quadrangular comporta de 0 a 6 círculos.\n\nAo pegar quatro peças do jogo, um estudante percebeu uma regularidade entre os pontos das quatro peças de dominó. A imagem seguinte apresenta as quatro peças, na ordem em que o estudante identificou a regularidade:\n\n![Quatro peças de dominó lado a lado: a 1ª sem pontos (0 e 0), a 2ª com 1 e 2 pontos, a 3ª com 3 e 3 pontos e a 4ª com 4 e 5 pontos.](img/2025-1-b/q16.png)\n\nSe o estudante quiser manter a regularidade, para a quinta peça, ele deverá escolher:",
+      "imagens": [
+        "img/2025-1-b/q16.png"
+      ],
+      "alternativas": {
+        "A": "qualquer peça em que a soma dos pontos seja 9.",
+        "B": "qualquer peça em que a soma dos pontos seja um número par.",
+        "C": "uma peça em que a soma dos pontos seja 11.",
+        "D": "uma peça em que a soma dos pontos seja 12."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "9 é a soma da 4ª peça. A 5ª precisa ter 3 pontos a mais.",
+        "B": "A regra não é “soma par”: as somas 3 e 9 são ímpares. A regra é somar 3 a cada peça.",
+        "C": "11 seria somar 2 à 4ª peça, mas a sequência cresce de 3 em 3."
+      },
+      "teoria": [
+        "sequencias"
+      ],
+      "essencial": [
+        "Para achar a regularidade, transforme cada figura num número: aqui, a soma dos pontos da peça.",
+        "As somas 0, 3, 6, 9 crescem de 3 em 3: a próxima é 12."
+      ],
+      "raciocinio": "1. Transforme cada peça num número: a soma dos pontos (veja: *Sequências e progressão aritmética*). 0 + 0 = 0; 1 + 2 = 3; 3 + 3 = 6; 4 + 5 = 9.\n2. As somas crescem de 3 em 3. A próxima é \\(9 + 3 = 12\\).\n3. Como cada metade vai de 0 a 6, a única peça com 12 pontos é a 6|6; por isso a alternativa fala em “uma peça”.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Um adolescente deseja criar uma conta em uma nova rede social. Para isso, após escolher seu nome de usuário, ele deve criar uma senha usando exatamente quatro letras minúsculas, escolhidas entre as 26 do alfabeto utilizado na escrita da língua portuguesa. Ele decide, então, que as duas primeiras letras da sua senha serão consoantes diferentes entre si e que as duas últimas serão vogais, também diferentes entre si. Nestas condições, quantas senhas diferentes ele pode criar?",
+      "imagens": [],
+      "alternativas": {
+        "A": "8.400",
+        "B": "11.025",
+        "C": "358.800",
+        "D": "456.976"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "\\(11\\,025 = 21 \\cdot 21 \\cdot 5 \\cdot 5\\): permitiu repetir letras, mas as consoantes e as vogais têm de ser diferentes entre si.",
+        "C": "\\(358\\,800 = 26 \\cdot 25 \\cdot 24 \\cdot 23\\): usou as 26 letras em todas as posições, sem separar consoantes de vogais.",
+        "D": "\\(456\\,976 = 26^4\\): qualquer letra em qualquer posição, com repetição. Ignora todas as condições."
+      },
+      "teoria": [
+        "principio-multiplicativo"
+      ],
+      "essencial": [
+        "Princípio multiplicativo: multiplique as opções de cada posição: \\(21 \\cdot 20 \\cdot 5 \\cdot 4\\).",
+        "“Outra” consoante ou vogal tira uma opção: 21 consoantes e depois 20; 5 vogais e depois 4."
+      ],
+      "raciocinio": "Monte o quadro de posições (veja: *Princípio multiplicativo*):\n\n| Posição | 1ª | 2ª | 3ª | 4ª |\n|---|---|---|---|---|\n| Tipo | consoante | outra consoante | vogal | outra vogal |\n| Opções | 21 | 20 | 5 | 4 |\n\nTotal: \\(21 \\cdot 20 \\cdot 5 \\cdot 4 = 420 \\cdot 20 = 8\\,400\\).\n\nResposta: **A**.\n\n**Dica de prova:** em contagem, as alternativas erradas costumam ser o resultado de esquecer uma condição. Decompor cada uma (como \\(26^4\\)) mostra qual regra ela ignorou.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Em um terreno com a forma de um trapézio retângulo, um empreiteiro deseja construir um galpão cuja planta baixa tem o formato de um retângulo. A figura a seguir ilustra o projeto e apresenta algumas medidas.\n\n![Trapézio retângulo cinza com base maior de 18 m embaixo, base menor de 12 m em cima e altura de 20 m (5 m + 15 m). Dentro, um retângulo branco (o galpão) de 10 m de largura e 15 m de altura, apoiado na base. A parte cinza em volta é a área externa.](img/2025-1-b/q18.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nO empreiteiro decidiu que um terço da área externa (região cinza) ao galpão será pavimentado e o restante será coberto com grama. Deste modo, a área que o gramado ocupará na área externa, em m², é igual a:",
+      "imagens": [
+        "img/2025-1-b/q18.png"
+      ],
+      "alternativas": {
+        "A": "300",
+        "B": "150",
+        "C": "100",
+        "D": "50"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "300 m² é a área do terreno inteiro.",
+        "B": "150 m² é a área externa toda. Falta tirar a parte pavimentada.",
+        "D": "50 m² é a parte pavimentada (um terço). A grama ocupa os outros dois terços."
+      },
+      "teoria": [
+        "areas-de-figuras-planas"
+      ],
+      "essencial": [
+        "Área do trapézio: \\(\\frac{(B + b) \\cdot h}{2}\\); do retângulo: base × altura.",
+        "Área externa = terreno − galpão. Se \\(\\frac{1}{3}\\) é pavimentado, a grama ocupa os outros \\(\\frac{2}{3}\\)."
+      ],
+      "raciocinio": "1. Terreno (trapézio): \\(\\frac{(18 + 12) \\cdot 20}{2} = 300\\) m² (veja: *Áreas de figuras planas*).\n2. Galpão (retângulo): \\(10 \\cdot 15 = 150\\) m². Área externa: \\(300 - 150 = 150\\) m².\n3. Pavimentado: \\(\\frac{1}{3}\\) de 150 = 50 m². Grama: o restante, \\(150 - 50 = 100\\) m².\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Desprezando a espessura de seus lados, sabemos que um recipiente em formato cúbico de aresta igual a 10cm tem capacidade de armazenar 1 litro água. Nestas condições, quantos litros de água cabem em um recipiente cúbico cuja aresta é igual a 40cm?",
+      "imagens": [],
+      "alternativas": {
+        "A": "120 litros",
+        "B": "4 litros",
+        "C": "64 litros",
+        "D": "640 litros"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "120 é a aresta multiplicada por 3 (\\(40 \\cdot 3\\)). O volume é aresta × aresta × aresta.",
+        "B": "4 litros supõe que o volume cresce na mesma proporção da aresta (4 vezes), mas o volume cresce nas três dimensões.",
+        "D": "640 litros vem de converter 64 000 cm³ dividindo por 100. O certo é dividir por 1000: 64 L."
+      },
+      "teoria": [
+        "volumes",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Se a aresta do cubo fica \\(k\\) vezes maior, o volume fica \\(k^3\\) vezes maior: \\(4^3 = 64\\).",
+        "1 L = 1.000 cm³, então \\(40^3 = 64\\,000\\) cm³ = 64 L."
+      ],
+      "raciocinio": "1. A aresta passou de 10 cm para 40 cm: ficou 4 vezes maior.\n2. O volume cresce no comprimento, na largura e na altura, então fica \\(4^3 = 64\\) vezes maior (veja: *Volumes de sólidos*): \\(1\\ \\text{L} \\cdot 64 = 64\\ \\text{L}\\).\n\n<div data-interativo=\"25b-q19-cubo\"></div>\n\n3. Conferindo pela fórmula: \\(40^3 = 64\\,000\\) cm³ e, como \\(1\\ \\text{L} = 1000\\ \\text{cm}^3\\), são 64 L (veja: *Conversão de unidades*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Leia o texto a seguir sobre as distâncias entre a Terra e Marte.\n\n> “ (...) Marte é o segundo planeta mais próximo do nosso, depois de Vênus. Marte está localizado a 220 milhões de quilômetros do Sol (a Terra está a 150 milhões de quilômetros). O cálculo, portanto, parece simples: a distância entre a Terra e Marte é de 70 milhões de quilômetros. Mas, na realidade, os dois planetas estão em movimento ao redor do Sol, e em órbitas que não são circulares, mas elípticas. Teoricamente, a aproximação máxima que pode existir entre o Planeta Vermelho e a Terra é de 54,6 milhões de quilômetros (...)”\n>\n> <cite>Fonte: https://socientifica.com.br/viagem-a-marte-quanto-tempo-leva-para-chegar-la. (modificado). Acesso em: 21 jul. 2023.</cite>\n\nImagine que fosse possível viajar da Terra até Marte aproveitando que os planetas estejam na situação de aproximação máxima. Calcule, em notação científica, o total de quilômetros percorridos em uma viagem de ida e volta, de acordo com o fragmento de texto acima.",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(7{,}000 \\times 10^7\\)",
+        "B": "\\(5{,}460 \\times 10^7\\)",
+        "C": "\\(1{,}400 \\times 10^8\\)",
+        "D": "\\(1{,}092 \\times 10^8\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(7 \\times 10^7\\) = 70 milhões: é a conta “simples” que o próprio texto corrige, e só de ida.",
+        "B": "\\(5{,}46 \\times 10^7\\) = 54,6 milhões: é só a ida. Faltou a volta.",
+        "C": "\\(1{,}4 \\times 10^8\\) = 140 milhões: ida e volta, mas com a distância errada (70 milhões)."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Use o dado certo: a aproximação máxima é de 54,6 milhões de km; ida e volta é o dobro.",
+        "Notação científica: \\(109{,}2 \\times 10^6 = 1{,}092 \\times 10^8\\) (a vírgula anda 2 casas, e o expoente sobe 2)."
+      ],
+      "raciocinio": "1. O texto traz duas distâncias. A de 70 milhões de km é a conta que “parece simples” e que o texto desmente. A aproximação máxima é de 54,6 milhões de km.\n2. Ida e volta: \\(2 \\cdot 54{,}6 = 109{,}2\\) milhões de km.\n3. Em notação científica (veja: *Potências de 10 e notação científica*): \\(109{,}2 \\times 10^6 = 1{,}092 \\times 10^8\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Ao saltar de um avião, um Paraquedista aterrissou exatamente na metade do percurso entre uma árvore representada pelo ponto A (2, 3) e um rochedo representado pelo ponto B (4, -5). Utilizando os conhecimentos de geometria analítica, calcule o ponto médio M (Xm, Ym) onde o Paraquedista aterrissou.",
+      "imagens": [],
+      "alternativas": {
+        "A": "M (3, -1)",
+        "B": "M (3, 4)",
+        "C": "M (5, -1)",
+        "D": "M (3, -4)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Somou 3 e 5 sem o sinal: \\(\\frac{3 + 5}{2} = 4\\). Mas o \\(y\\) de B é −5: \\(\\frac{3 + (-5)}{2} = -1\\).",
+        "C": "O \\(x\\) do ponto médio é a média de 2 e 4, \\(\\frac{2 + 4}{2} = 3\\), e não 5.",
+        "D": "−4 é \\(\\frac{-5 - 3}{2}\\): subtraiu as coordenadas em vez de somá-las."
+      },
+      "teoria": [
+        "plano-cartesiano"
+      ],
+      "essencial": [
+        "Ponto médio é a média das coordenadas das pontas: \\(\\left(\\frac{x_A + x_B}{2}, \\frac{y_A + y_B}{2}\\right)\\).",
+        "Cuidado com o sinal: \\(\\frac{3 + (-5)}{2} = -1\\)."
+      ],
+      "raciocinio": "1. O ponto médio é a média das coordenadas das pontas (veja: *Plano cartesiano e ponto médio*).\n2. \\(x_M = \\frac{2 + 4}{2} = 3\\).\n3. \\(y_M = \\frac{3 + (-5)}{2} = \\frac{-2}{2} = -1\\).\n\nM(3, −1). Resposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "As Tranças Nagô (Figura 1) são um tipo de trança africana feita rente ao couro cabeludo. Nagô era o nome dado a todos os negros da Costa dos Escravos que falavam a língua Iorubá. Atualmente, as Tranças Nagô continuam sendo símbolo de resistência, e a quantidade de tranças, finas ou mais grossas, que é possível ser feita depende do volume de cabelo que a pessoa tenha.\n\n#### Figura 1: Diferentes tipos de Tranças Nagô\n![Duas cabeças vistas de cima com tranças nagô rentes ao couro cabeludo, em desenhos diferentes.](img/2025-1-b/q22-figura1.jpg)\n\n<cite>Fonte: https://www.vozdascomunidades.com.br/geral/trancas-africanas-eis-historia. Acesso em: 24 abr. 2024.</cite>\n\nUma cabelereira tem seu método próprio para definir a quantidade máxima de tranças finas que é possível ser feita em relação ao volume do cabelo sem que se precise utilizar cabelos sintéticos para dar mais volume. O seu método é representado pela figura 2:\n\n#### Figura 2: método para definição de quantidade máxima de tranças.\n![Tabela com a quantidade máxima de tranças finas para cada volume de cabelo: volume 1, 3 tranças; volume 2, 8 tranças; volume 3, 13 tranças; volume 4, 18 tranças; depois, reticências.](img/2025-1-b/q22-figura2.png \"Volume de cabelo 1: 3 tranças | Volume de cabelo 2: 8 tranças | Volume de cabelo 3: 13 tranças | Volume de cabelo 4: 18 tranças | ...\")\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nSuponha que uma pessoa tenha volume de cabelo 8 na escala elaborada pela cabelereira e que seu método se comporta como uma sequência. Diante disto, qual o número máximo de tranças finas que é possível ser feito no cabelo dessa pessoa?",
+      "imagens": [
+        "img/2025-1-b/q22-figura1.jpg",
+        "img/2025-1-b/q22-figura2.png"
+      ],
+      "alternativas": {
+        "A": "33.",
+        "B": "38.",
+        "C": "36.",
+        "D": "43."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "33 é o valor do volume 7. Faltou um passo.",
+        "C": "36 não está na sequência, que cresce de 5 em 5: 3, 8, 13, 18, 23, 28, 33, 38.",
+        "D": "43 é o valor do volume 9. Passou um passo."
+      },
+      "teoria": [
+        "sequencias"
+      ],
+      "essencial": [
+        "Progressão aritmética: a diferença entre termos seguidos é sempre a mesma (aqui, 5).",
+        "Termo geral: \\(a_n = a_1 + (n - 1) \\cdot r\\). Do 1º ao 8º termo há 7 saltos: \\(3 + 7 \\cdot 5 = 38\\)."
+      ],
+      "raciocinio": "1. Sequência: 3, 8, 13, 18. A diferença é sempre 5: é uma PA de razão 5 (veja: *Sequências e progressão aritmética*).\n2. \\(a_8 = a_1 + 7 \\cdot r = 3 + 7 \\cdot 5 = 38\\).\n\nResposta: **B**.\n\n**Dica de prova:** do 1º ao 8º termo há 7 saltos, e não 8. As alternativas A e D exploram esse erro: um termo a mais ou a menos.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Um grupo de amigos deseja jogar futebol de areia durante quatro horas no final de semana. A administração da quadra cobra o valor de R$ 40,00 a hora, porém, está com uma promoção que, se contratada pelo aplicativo, o cliente terá na segunda hora um desconto de 5% sobre o valor da primeira hora e, para três horas ou mais, um desconto de 10% sobre o valor da primeira hora para cada hora. Qual será o valor pago pelo grupo de amigos, se utilizarem o aplicativo?",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 148,00",
+        "B": "R$ 150,00",
+        "C": "R$ 154,00",
+        "D": "R$ 160,00"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "148 dá 10% de desconto também na 2ª hora (\\(40 + 36 + 36 + 36\\)), mas a 2ª hora tem só 5%.",
+        "C": "154 aplica os 10% em só uma das horas a partir da 3ª (\\(40 + 38 + 36 + 40\\)). A 3ª e a 4ª têm 10% cada.",
+        "D": "160 é o preço sem desconto nenhum (\\(4 \\cdot 40\\))."
+      },
+      "teoria": [
+        "porcentagem"
+      ],
+      "essencial": [
+        "Porcentagem de um valor: 5% de 40 = \\(0{,}05 \\cdot 40 = 2\\).",
+        "Veja sobre qual valor o desconto incide: aqui, sempre sobre a 1ª hora (R$ 40)."
+      ],
+      "raciocinio": "1. Todos os descontos são calculados sobre o valor da 1ª hora, R$ 40 (veja: *Porcentagem*).\n2. 2ª hora: 5% de 40 = 2 → R$ 38.\n3. 3ª e 4ª horas: 10% de 40 = 4 → R$ 36 cada.\n4. Total: \\(40 + 38 + 36 + 36 = 150\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Em 2023 o Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou os dados do Censo Demográfico realizado em 2022. Curioso em saber os resultados de sua região, um estudante do Oeste Paulista, encontrou a seguinte notícia:\n\n> ### Censo 2022: 26 cidades do Oeste Paulista perderam população; Irapuru foi a que mais encolheu\n> Das 56 cidades que compõem a região de Presidente Prudente (SP), 26 delas encolheram nos últimos 12 anos. É o que aponta o Censo 2022, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e divulgado nesta quarta-feira (28). Os municípios perderam, ao todo, 17.331 habitantes. A última pesquisa demográfica foi realizada em 2010 e, nesse período, o município de Irapuru (SP) foi o que mais perdeu habitantes, saindo de 7.789 pessoas morando na cidade para 5.938 habitantes em 2022. A cidade perdeu 1.851 moradores em 12 anos, o que representa uma queda de 23,76%.\n>\n> Logo em seguida, o município de Euclides da Cunha Paulista (SP) registrou diminuição de 17,33% no número de habitantes, indo de 9.585 para 7.924 pessoas. A cidade perdeu 1.661 moradores.\n>\n> Em terceiro lugar, o município de Flora Rica (SP) apresentou 15,13% de queda na taxa de crescimento populacional, saindo de 1.752 para 1.487 moradores. A cidade perdeu 265 pessoas em 12 anos.\n>\n> Na sequência, a pesquisa registrou que Santo Anastácio (SP) teve queda de 12,27% no número de habitantes, indo de 20.475 para 17.963 habitantes. O município contabilizou 2.512 pessoas a menos.\n>\n> Em quinto lugar, a cidade de Rosana (SP) apresentou 11,43% de queda na taxa de crescimento populacional, saindo de 19.691 pessoas em 2010 para 17.440 em 2022. O município perdeu 2.251 moradores.\n>\n> <cite>Disponível em: https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2023/06/28/censo-2022-26-cidades-do-oeste-paulista-perdem-populacao-irapuru-e-a-que-mais-encolheu.ghtml. Acesso em: 15 jul. 2023.</cite>\n\nConsiderando os dados da notícia, o estudante observou corretamente que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ao todo, os cinco municípios perderam 17.331 habitantes.",
+        "B": "Entre os cinco municípios da notícia, aquele que teve a maior queda percentual na taxa de crescimento populacional foi o que perdeu a maior quantidade de habitantes.",
+        "C": "Na região de Presidente Prudente, o resultado “a cidade encolheu” pode ser considerado como a moda dos dados.",
+        "D": "Os cinco municípios da notícia perderam, em média, 1.708 habitantes cada."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "17.331 é a perda das 26 cidades que encolheram. Os cinco municípios citados perderam, juntos, 8.540.",
+        "B": "A maior queda percentual foi a de Irapuru (23,76%, 1.851 pessoas), mas quem perdeu mais gente foi Santo Anastácio (2.512).",
+        "C": "Encolheram 26 das 56 cidades; as outras 30, não. O resultado mais frequente (a moda) é “não encolheu”."
+      },
+      "teoria": [
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Média aritmética = soma dos valores ÷ quantidade: \\(8\\,540 \\div 5 = 1\\,708\\).",
+        "A média resume o grupo: nenhum município precisa ter perdido exatamente 1.708 habitantes."
+      ],
+      "raciocinio": "1. Some as perdas dos cinco municípios: \\(1\\,851 + 1\\,661 + 265 + 2\\,512 + 2\\,251 = 8\\,540\\).\n2. Média: \\(8\\,540 \\div 5 = 1\\,708\\) (veja: *Média, mediana e moda*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "A semelhança de triângulos nos permite calcular distâncias inacessíveis. Também é utilizada quando é preciso medir uma distância muito longa ou algum obstáculo. Dentre suas aplicabilidades estão: medir a distância entre as margens de um rio, a altura de um prédio, a profundidade de um poço etc.\n\nA respeito de semelhança de triângulo, assinale cada questão como verdadeira (V) ou falsa (F) e depois escolha a alternativa que correspondente a sequência, de cima para baixo, de V e F obtida.\n\n[ ] Toda reta paralela a um dos lados do triângulo, que intercepta os outros dois lados, determina um segundo triângulo, que não é semelhante ao primeiro.\n[ ] Dizemos que dois triângulos são semelhantes se dois lados são proporcionais e os ângulos entre esses lados são congruentes, isto é, iguais.\n[ ] Dois triângulos que possuem apenas dois ângulos correspondentes congruentes não podem ser considerados semelhantes.\n[ ] O quociente comum entre as medidas dos lados correspondentes é chamado de razão de semelhança entre dois triângulos.",
+      "imagens": [],
+      "alternativas": {
+        "A": "V - V - F - F.",
+        "B": "V - F - V - F.",
+        "C": "F - V - F - V.",
+        "D": "F - F - V - V."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A 1ª afirmação é falsa: a paralela forma um triângulo semelhante. E a 4ª é verdadeira, não falsa.",
+        "B": "É o contrário da resposta: a 1ª e a 3ª são falsas, e a 2ª e a 4ª, verdadeiras.",
+        "D": "A 2ª é verdadeira (critério LAL), e a 3ª é falsa (dois ângulos bastam)."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Uma paralela a um lado do triângulo forma outro triângulo, semelhante ao original.",
+        "Critérios de semelhança: AA (dois ângulos iguais), LAL (dois lados proporcionais e o ângulo entre eles igual) e LLL."
+      ],
+      "raciocinio": "Avalie cada afirmação (veja: *Semelhança de triângulos*):\n\n1. 1ª: falsa. Pelo teorema fundamental, a paralela forma um triângulo **semelhante** ao original.\n2. 2ª: verdadeira. É o critério LAL.\n3. 3ª: falsa. Dois ângulos iguais bastam (critério AA), porque o terceiro também será igual.\n4. 4ª: verdadeira. É a definição de razão de semelhança.\n\nF – V – F – V. Resposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Um computador demora 6 minutos e 20 segundos para fazer o “download” de um arquivo de 1 GB. Se ele mantiver a mesma velocidade de download, quanto tempo esse computador levará para baixar um arquivo de 2,2 GB?",
+      "imagens": [],
+      "alternativas": {
+        "A": "13 minutos e 56 segundos.",
+        "B": "13 minutos e 20 segundos.",
+        "C": "12 minutos e 40 segundos.",
+        "D": "14 minutos e 04 segundos."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "13 min 20 s = 800 s, mas \\(380 \\cdot 2{,}2 = 836\\) s. Faltaram 36 segundos.",
+        "C": "12 min 40 s = 760 s = \\(2 \\cdot 380\\): é o tempo para 2 GB, e não 2,2 GB.",
+        "D": "Tratou 6 min 20 s como 6,20 minutos (\\(6{,}20 \\cdot 2{,}2 = 13{,}64\\)). Mas 20 segundos não são 0,20 minuto."
+      },
+      "teoria": [
+        "grandezas-proporcionais",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Com a mesma velocidade, tempo e tamanho do arquivo são diretamente proporcionais: 2,2 vezes os dados, 2,2 vezes o tempo.",
+        "Converta para uma unidade só: 6 min 20 s = 380 s. 20 segundos não são 0,20 minuto."
+      ],
+      "raciocinio": "1. Com a mesma velocidade, tempo e tamanho do arquivo são diretamente proporcionais: 2,2 vezes os dados levam 2,2 vezes o tempo (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Converta para uma unidade só (veja: *Conversão de unidades*): 6 min 20 s = \\(6 \\cdot 60 + 20 = 380\\) s.\n3. \\(380 \\cdot 2{,}2 = 836\\) s.\n4. \\(836 = 13 \\cdot 60 + 56\\): 13 min 56 s.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Um professor realizou uma pesquisa em uma turma composta por 40 alunos, perguntando a quantidade de livros que cada um leu no ano anterior. O quadro a seguir mostra o resultado desta pesquisa:\n\n| Quantidade de livros lidos no ano anterior | Número de alunos |\n|---|---|\n| 0 | 2 |\n| 1 | 4 |\n| 2 | 7 |\n| 3 | 7 |\n| 4 | 10 |\n| 5 | 7 |\n| 6 | 3 |\n\nSendo Y e Z, respectivamente, a mediana e a moda da quantidade de livros lidos no ano anterior pelos alunos desta turma, tem-se que Y+Z é igual a:",
+      "imagens": [],
+      "alternativas": {
+        "A": "7,0",
+        "B": "7,5",
+        "C": "10",
+        "D": "10,5"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "7,0 usa mediana 3 (só o 20º valor). Com 40 dados, a mediana é a média do 20º e do 21º: 3,5.",
+        "C": "10 é o número de alunos do grupo mais frequente, não a moda. A moda é o valor: 4 livros.",
+        "D": "10,5 = 3,5 + 7: tomou como moda o 7, que se repete na coluna de alunos. A moda é o número de livros mais frequente: 4."
+      },
+      "teoria": [
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Mediana com número par de dados: média dos dois valores centrais (aqui, o 20º e o 21º).",
+        "A frequência acumulada mostra quantos livros leram o 20º e o 21º aluno.",
+        "Moda é o valor mais frequente: a quantidade de livros lida pelo maior grupo de alunos (4)."
+      ],
+      "raciocinio": "1. São 40 alunos (número par): a mediana é a média do 20º e do 21º valores (veja: *Média, mediana e moda*).\n2. Frequência acumulada: 2, 6, 13, **20**, 30, 37, 40. O 20º aluno leu 3 livros; o 21º, 4. Mediana: \\(Y = \\frac{3 + 4}{2} = 3{,}5\\).\n3. Moda: o maior grupo é o de 10 alunos, que leram 4 livros. \\(Z = 4\\).\n4. \\(Y + Z = 3{,}5 + 4 = 7{,}5\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Observe o fluxograma abaixo. Siga os passos indicados e encontre uma expressão para Tn.\n\n![Fluxograma: Início → Considere uma variável n → Eleve a variável n ao quadrado → Encontre o triplo do resultado obtido no passo anterior → Acrescente 3/2 ao resultado obtido no passo anterior → Chame a expressão obtida de Tn → Fim.](img/2025-1-b/q28.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nSe n assumir os valores 1, 2, 3, 4, ... na expressão encontrada para Tn, obtém-se uma sequência de números (T1, T2, T3, T4, ...). Qual das alternativas a seguir apresenta 3 termos consecutivos dessa sequência?",
+      "imagens": [
+        "img/2025-1-b/q28.png"
+      ],
+      "alternativas": {
+        "A": "\\(\\dfrac{3}{2},\\ \\dfrac{9}{2},\\ \\dfrac{27}{2}\\)",
+        "B": "\\(\\dfrac{9}{2},\\ \\dfrac{18}{2},\\ \\dfrac{27}{2}\\)",
+        "C": "\\(\\dfrac{27}{2},\\ \\dfrac{57}{2},\\ \\dfrac{99}{2}\\)",
+        "D": "\\(\\dfrac{9}{2},\\ \\dfrac{57}{2},\\ \\dfrac{153}{2}\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(\\frac{3}{2}\\) seria \\(T_0\\), com \\(n = 0\\), mas \\(n\\) começa em 1. E os termos não se multiplicam por 3.",
+        "B": "Depois de \\(\\frac{9}{2}\\) vem \\(\\frac{27}{2}\\), e não \\(\\frac{18}{2}\\): a sequência não cresce de \\(\\frac{9}{2}\\) em \\(\\frac{9}{2}\\).",
+        "D": "\\(\\frac{9}{2}\\), \\(\\frac{57}{2}\\) e \\(\\frac{153}{2}\\) são \\(T_1\\), \\(T_3\\) e \\(T_5\\): pulam termos, não são consecutivos."
+      },
+      "teoria": [
+        "expressoes-algebricas",
+        "sequencias"
+      ],
+      "essencial": [
+        "Traduza o fluxograma caixa por caixa: \\(n \\to n^2 \\to 3n^2 \\to 3n^2 + \\frac{3}{2}\\).",
+        "Para achar termos consecutivos, calcule \\(T_n\\) para \\(n = 1, 2, 3…\\) e compare com as alternativas."
+      ],
+      "raciocinio": "1. Traduza o fluxograma, caixa por caixa (veja: *Expressões algébricas*): \\(n\\) → \\(n^2\\) → \\(3n^2\\) → \\(3n^2 + \\frac{3}{2}\\). Então \\(T_n = 3n^2 + \\frac{3}{2}\\).\n2. Calcule os primeiros termos (veja: *Sequências e progressão aritmética*):\n\n| \\(n\\) | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| \\(T_n\\) | \\(\\frac{9}{2}\\) | \\(\\frac{27}{2}\\) | \\(\\frac{57}{2}\\) | \\(\\frac{99}{2}\\) | \\(\\frac{153}{2}\\) |\n\n3. \\(\\frac{27}{2}\\), \\(\\frac{57}{2}\\) e \\(\\frac{99}{2}\\) são \\(T_2\\), \\(T_3\\) e \\(T_4\\): consecutivos.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Quadriláteros e polígonos",
+      "enunciado": "A figura a seguir ilustra a construção de um triângulo equilátero ABC de lado qualquer usando apenas uma régua e compasso:\n\n![Reta r com o segmento AB. Duas circunferências de mesmo raio, uma com centro em A e outra com centro em B, se cruzam no ponto C, acima da reta. O triângulo ABC está desenhado.](img/2025-1-b/q29.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nEste triângulo equilátero pode ser construído em **seis passos** executados em uma sequência lógica. Qual é a sequência correta de passos que permite a realização da construção ilustrada na figura acima?",
+      "imagens": [
+        "img/2025-1-b/q29.png"
+      ],
+      "alternativas": {
+        "A": "Construir a reta suporte r com o uso da régua. Sobre a reta r, determinar um segmento de reta cujo comprimento \\(\\overline{AB}\\) seja a medida do lado do triângulo desejado. Traçar, com o compasso, uma circunferência de raio qualquer e centro A. Traçar, com o compasso, outra circunferência de raio qualquer com centro em B. Encontrar o ponto de interseção C entre estas circunferências. Com a régua, traçar os segmentos \\(\\overline{AC}\\) e \\(\\overline{BC}\\).",
+        "B": "Construir a reta suporte r com o uso da régua. Sobre a reta r, determinar um segmento de reta cujo comprimento \\(\\overline{AB}\\) seja a medida do lado do triângulo desejado. Traçar, com o compasso, uma circunferência de centro A e raio maior que a medida do segmento \\(\\overline{AB}\\). Traçar, com o compasso, uma circunferência com centro em B e raio maior que a medida do segmento \\(\\overline{AB}\\). Encontrar o ponto de interseção C entre estas circunferências. Com a régua, traçar os segmentos \\(\\overline{AC}\\) e \\(\\overline{BC}\\).",
+        "C": "Construir a reta suporte r com o uso da régua. Sobre a reta r, determinar um segmento de reta cujo comprimento \\(\\overline{AB}\\) seja a medida do lado do triângulo desejado. Traçar, com o compasso, uma circunferência de centro A e raio menor que a medida do segmento \\(\\overline{AB}\\). Traçar, com o compasso, uma circunferência com centro em B e raio menor que a medida do segmento \\(\\overline{AB}\\). Encontrar o ponto de interseção C entre estas circunferências. Com a régua, traçar os segmentos \\(\\overline{AC}\\) e \\(\\overline{BC}\\).",
+        "D": "Construir a reta suporte r com o uso da régua. Sobre a reta r, determinar um segmento de reta cujo comprimento \\(\\overline{AB}\\) seja a medida do lado do triângulo desejado. Traçar, com o compasso, uma circunferência de centro A e raio \\(\\overline{AB}\\). Traçar outra circunferência, usando o compasso, com centro em B e raio \\(\\overline{AB}\\). Encontrar o ponto de interseção C entre estas circunferências. Com a régua, traçar os segmentos \\(\\overline{AC}\\) e \\(\\overline{BC}\\)."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com raio qualquer, AC e BC podem ser diferentes de AB (e diferentes entre si). O triângulo não seria equilátero.",
+        "B": "Com raio maior que AB, AC e BC ficam maiores que AB: o triângulo sai isósceles, não equilátero.",
+        "C": "Com raio menor que AB, AC e BC ficam menores que AB. Com raio abaixo da metade de AB, as circunferências nem se cruzam."
+      },
+      "teoria": [
+        "lugares-geometricos"
+      ],
+      "essencial": [
+        "Todo ponto de uma circunferência está à distância do raio até o centro.",
+        "Com centros em A e em B e raio AB, o ponto C fica a distância AB dos dois: o triângulo é equilátero."
+      ],
+      "raciocinio": "1. Para o triângulo ser equilátero, é preciso \\(AC = BC = AB\\).\n2. Todo ponto de uma circunferência está à distância do raio até o centro (veja: *Circunferência, mediatriz e bissetriz*). Com centro em A e raio AB, o ponto C fica a distância AB de A; com centro em B e raio AB, fica a distância AB de B.\n3. Só a D usa raio igual a AB nas duas circunferências.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Ao comprar um terreno de formato retangular, com dimensões de 30m por 20m, a nova proprietária pretende fazer um jardim semicircular, no canto superior esquerdo como mostrado na ilustração. Ela deseja que esse jardim tenha 5% da área total do terreno. Calcule a medida do raio a ser utilizado para o desenho do jardim. Utilize π = 3.\n\n![Retângulo pontilhado representando o terreno. No canto superior esquerdo, um semicírculo hachurado apoiado no lado de cima.](img/2025-1-b/q30.png)",
+      "imagens": [
+        "img/2025-1-b/q30.png"
+      ],
+      "alternativas": {
+        "A": "\\(5\\sqrt{2}\\) m",
+        "B": "\\(2\\sqrt{5}\\) m",
+        "C": "\\(\\sqrt{60}\\) m",
+        "D": "\\(\\sqrt{180}\\) m"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(5\\sqrt{2} = \\sqrt{50}\\), que daria \\(r^2 = 50\\). Pelas contas, \\(r^2 = 20\\).",
+        "C": "\\(\\sqrt{60}\\) aparece se esquecer de dividir por \\(\\pi = 3\\): \\(\\frac{r^2}{2} = 30 \\Rightarrow r^2 = 60\\).",
+        "D": "\\(\\sqrt{180}\\) aparece se multiplicar por \\(\\pi\\) em vez de dividir: \\(r^2 = 60 \\cdot 3\\)."
+      },
+      "teoria": [
+        "circulo-e-circunferencia",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Área do semicírculo: \\(\\frac{\\pi r^2}{2}\\). Com \\(\\pi = 3\\), \\(\\frac{3r^2}{2} = 30\\) dá \\(r^2 = 20\\).",
+        "Simplifique a raiz tirando um quadrado perfeito: \\(\\sqrt{20} = \\sqrt{4 \\cdot 5} = 2\\sqrt{5}\\)."
+      ],
+      "raciocinio": "1. Terreno: \\(30 \\cdot 20 = 600\\) m². Jardim: 5% de 600 = \\(0{,}05 \\cdot 600 = 30\\) m².\n2. Área do semicírculo (veja: *Círculo e circunferência*): \\(\\frac{\\pi r^2}{2} = 30\\). Com \\(\\pi = 3\\): \\(\\frac{3r^2}{2} = 30 \\Rightarrow 3r^2 = 60 \\Rightarrow r^2 = 20\\).\n3. \\(r = \\sqrt{20} = \\sqrt{4 \\cdot 5} = 2\\sqrt{5}\\) m (veja: *Raízes e radicais*).\n\nResposta: **B**.",
+      "interativo": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "transitividade-verbal",
+  "titulo": "Transitividade verbal: verbos e complementos",
+  "materia": "Português",
+  "grupo": "Transitividade e predicação verbal",
+  "texto": "**Transitividade** é a relação do verbo com os seus **complementos**. Pergunte: o verbo precisa de algo para ter sentido completo? Se precisa, esse algo vem com ou sem preposição?\n\n| Tipo | O que pede | Exemplo |\n|---|---|---|\n| **Intransitivo (VI)** | nenhum complemento | O bebê **dormiu**. Ele **chegou** cedo. |\n| **Transitivo direto (VTD)** | complemento **sem** preposição (objeto direto) | Ela **admirava** o boi. |\n| **Transitivo indireto (VTI)** | complemento **com** preposição (objeto indireto) | Ele **gosta** de música. |\n| **Transitivo direto e indireto (VTDI)** | os dois | Ela **deu** um livro ao irmão. |\n| **De ligação** | um predicativo | Ele **é** alto. (veja *Verbos de ligação e predicativo do sujeito*) |\n\n**Objeto direto × objeto indireto:**\n\n| Termo | Como reconhecer | Exemplo |\n|---|---|---|\n| Objeto direto | completa o verbo sem preposição; responde a “o quê?” ou “quem?” | Comprei **o pão**. |\n| Objeto indireto | completa o verbo com preposição obrigatória | Preciso **de ajuda**. |\n\n**Cuidado:**\n\n- O que vem depois de um intransitivo **não é complemento**. Em “Ele chegou **cedo**” e “Ele foi **à escola**”, *cedo* e *à escola* são adjuntos adverbiais (tempo e lugar).\n- Não confunda **artigo** com **preposição**. Em “Ela admirava **o** boi”, *o* é artigo e o objeto é direto. Para testar um *a*, troque o substantivo por um masculino: se virar *o*, era artigo (“afetam **a** capacidade” → “afetam **o** raciocínio”). **Antes de verbo no infinitivo, o *a* é sempre preposição** (“se propôs **a** analisar”), porque artigo só acompanha substantivo.\n- **A transitividade depende do sentido.** *Assistir* = ver pede preposição (“assistir **ao** filme”); *assistir* = ajudar não pede (“assistir **o** doente”). Veja *Regência verbal*.\n- **Verbos de fenômeno da natureza** (chover, ventar) são intransitivos e normalmente não têm sujeito. Em sentido figurado, podem ganhar sujeito: “**Choveram** pedaços” (*o que choveu?* pedaços).\n\n**Pronomes oblíquos como complemento:** *o, a, os, as* são objetos diretos (“Eu **o** vi”); *lhe, lhes* são objetos indiretos (“Eu **lhe** disse”).",
+  "videos": [
+    {
+      "titulo": "Tudo sobre transitividade verbal - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=y2haxLgR4BM"
+    },
+    {
+      "titulo": "Exercícios de transitividade verbal - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=vMD41IpgHBI"
+    }
+  ]
+}

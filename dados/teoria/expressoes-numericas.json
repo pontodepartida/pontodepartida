@@ -1,0 +1,17 @@
+{
+  "id": "expressoes-numericas",
+  "titulo": "Expressões numéricas e ordem das operações",
+  "materia": "Matemática",
+  "grupo": "Números e operações",
+  "texto": "Numa expressão com várias operações, a ordem é sempre a mesma:\n\n1. **Parênteses** \\(( \\ )\\), depois **colchetes** \\([ \\ ]\\), depois **chaves** \\(\\{ \\ \\}\\), de dentro para fora;\n2. **potências e raízes**;\n3. **multiplicações e divisões**, na ordem em que aparecem, da esquerda para a direita;\n4. **somas e subtrações**, também da esquerda para a direita.\n\n**Exemplo:**\n\n\\[3000 + 500\\,000 \\times 0{,}007 = 3000 + 3500 = 6500\\]\n\nA multiplicação vem antes da soma. Somar primeiro daria \\(503\\,000 \\times 0{,}007 = 3521\\), que está errado.\n\n**Regras de sinal:**\n\n| Operação | Regra | Exemplo |\n|---|---|---|\n| subtrair um negativo | vira soma | \\(1 - (-4) = 1 + 4 = 5\\) |\n| multiplicar ou dividir sinais iguais | resultado positivo | \\((-2) \\cdot (-3) = 6\\) |\n| multiplicar ou dividir sinais diferentes | resultado negativo | \\((-2) \\cdot 3 = -6\\) |\n\n**Número antes do parêntese** indica multiplicação: \\(100(100 \\div 2) = 100 \\cdot 50 = 5000\\).\n\n**Traço de fração** funciona como um parêntese: resolva o numerador e o denominador separadamente e só depois divida.",
+  "videos": [
+    {
+      "titulo": "Expressão numérica bugante – tente resolver - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=YLja3sI6_-c"
+    },
+    {
+      "titulo": "Expressão numérica fácil - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=BtXfhjYG4nQ"
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "id": "ps-2025-1-a",
+  "nome": "PS 2025.1 – Prova A",
+  "edital": "Edital nº 088/2024 – Prova A (manhã)",
+  "fonteGabarito": "Gabarito final – Prova A – Manhã – Edital 88 – PS 2025.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto a seguir:\n\n> ### Especialista em meio ambiente analisa impactos em Brumadinho\n> *Entre os pontos discutidos, vida do Rio Paraopeba e migração da fauna local são as maiores preocupações*\n>\n> Após uma semana do rompimento da barragem do complexo Córrego do Feijão, da mineradora Vale, em Brumadinho, as notícias referentes aos impactos da destruição causada pelos rejeitos de minérios na fauna e na flora local ainda não são muito claras, mesmo sendo óbvio que os prejuízos ambientais na cidade são incontáveis. O Jornal da USP no Ar conversou sobre o assunto com Pedro Luiz Côrtes, professor da Escola de Comunicações e Artes (ECA) da USP e do Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente (IEE) da Universidade, além de ser coordenador da Rede Internacional de Estudos Sobre Meio Ambiente e Sustentabilidade e de participar do Projeto Temático Fapesp Governança Ambiental da Macrometrópole Paulista Face à Variabilidade Climática.\n>\n> O professor Côrtes aponta que uma das consequências já perceptíveis está no Rio Paraopeba, que passa pela cidade de Brumadinho. “Com base na experiência de Mariana, é possível verificar certos impactos. O rio, no caso, sofre um aporte de sedimentos bastante significativo e isso provoca — literalmente — em algumas áreas um soterramento dos trechos menores, provoca uma turbidez e também prejudica a oxigenação. Isso inviabiliza o aproveitamento desse rio para a irrigação de cultivos, para o uso da população rural e urbana.” Além disso, Côrtes aponta uma outra preocupação com esse impacto no rio: “Vai levar a uma grande mortandade de peixes. Então, o rio, praticamente, perde sua vida. Se torna um rio morto”.\n>\n> No solo, por sua vez, a camada de lama de rejeitos de minério irá inviabilizar a germinação. “Aquela camada superficial que havia, aquela camada organicamente mais ativa do solo, ela deixa de existir, simplesmente pelo fato de ela estar soterrada. Isso dificulta a recomposição da flora nativa. Ao longo dos anos, nós teremos o surgimento de plantas, mas não com a mesma composição da flora que nós tínhamos originalmente.”\n>\n> A fauna, segundo o especialista, já sai prejudicada por essa situação devido à falta de alimentos com que antes ela poderia contar. “Além da mortandade grande de espécies por conta da lama, você tem uma migração das espécies restantes. Não vão encontrar alimento na região, então vão buscar em outro local.” Nesse cenário, com a forte migração de pássaros e, consequentemente, elevação da presença de insetos — muitos deles transmissores de doenças –, a tendência é um aumento de epidemias nas áreas rurais.\n>\n> <cite>Fonte: https://jornal.usp.br/?p=221938, publicado em 01 fev. 2019. Acesso em: 20 mar. 2023.</cite>\n\nQual dos excertos abaixo emprega a estrutura sujeito - verbo de ligação - predicativo do sujeito?",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Especialista em meio ambiente analisa impactos em Brumadinho.”",
+        "B": "“No solo, por sua vez, a camada de lama de rejeitos de minério irá inviabilizar a germinação.”",
+        "C": "“Vida do Rio Paraopeba e migração da fauna local são as maiores preocupações.”",
+        "D": "“A fauna, segundo o especialista, já sai prejudicada por essa situação devido à falta de alimentos com que antes ela poderia contar.”"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Analisa” é verbo de ação, com objeto direto (“impactos”): o que o especialista analisa.",
+        "B": "“Irá inviabilizar” também é ação, com objeto direto (“a germinação”).",
+        "D": "“Prejudicada” é uma característica da fauna, mas “sai” mantém o sentido de ação. É predicado verbo-nominal, não a estrutura com verbo de ligação."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica: sujeito + *ser*/*estar* + predicativo.",
+        "Em “Vida do Rio Paraopeba e migração da fauna local **são** as maiores preocupações”, *são* só liga sujeito e predicativo.",
+        "Na D, “prejudicada” é predicativo, mas o verbo *sair* é de ação, e não de ligação."
+      ],
+      "raciocinio": "1. Ache o verbo de cada excerto: analisa, irá inviabilizar, **são**, sai.\n2. Faça o teste da troca por “é” ou “está” (veja: *Verbos de ligação e predicativo do sujeito*). Só em C o verbo apenas liga o sujeito a uma característica: “são” é forma de *ser*.\n3. Sujeito: “Vida do Rio Paraopeba e migração da fauna local”; verbo de ligação: “são”; predicativo: “as maiores preocupações”.\n\nResposta: **C**.\n\n> Na D, “a fauna já sai prejudicada” também tem um predicativo (“prejudicada”), mas ligado a um verbo de ação. Por isso ela é a alternativa que mais confunde; a pergunta, porém, exige o verbo de ligação.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "O Projeto de Lei n. 490/2007, que trata do marco temporal das terras indígenas, gerou diversas manifestações e críticas em todo o país. Em entrevista a uma rede de televisão, a deputada e indígena Célia Xakriabá afirmou que:\n\n> “É hora de pensar em transição econômica. É hora de pensar em transição energética. É hora de pensar em transição humanitária. Do jeito que tá, pode até não nos escutar, mas as mudanças climáticas estão aí. O que está em jogo aqui é um projeto de existência. O que está em jogo aqui é um projeto de país. O que o Brasil decidir hoje vai refletir no mundo”.\n>\n> <cite>LIRA quer votar hoje projeto de lei que cria marco temporal pra demarcar terras indígenas. Globoplay. 30 de mai. 2023. Disponível em: https://globoplay.globo.com/v/11659594. Acesso em: 7 de jul. 2023.</cite>\n\nConsiderando que a repetição é uma estratégia típica de construção do texto falado, é correto afirmar a respeito da fala de Célia Xakriabá:",
+      "imagens": [],
+      "alternativas": {
+        "A": "repete a expressão “é hora de pensar…” para argumentar a favor da urgência de defender as florestas e comunidades indígenas brasileiras.",
+        "B": "repete a expressão “o que está em jogo aqui…” para alertar a população sobre a necessidade de aprovação do Projeto de Lei n. 490/2007.",
+        "C": "repete a palavra “projeto” seguida da locução adjetiva “de existência” para dar a coesão necessária à entrevista.",
+        "D": "repete a palavra “transição” para adequar sua linguagem à formalidade de uma entrevista."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A deputada é contra o marco temporal. “O que está em jogo” mostra o que se perde, e não pede a aprovação do projeto.",
+        "C": "“Projeto de existência” aparece uma vez só (a segunda é “projeto de país”). E a repetição serve para dar ênfase, não só coesão.",
+        "D": "Repetir palavras é marca da fala espontânea, não da formalidade. Aqui a repetição enfatiza."
+      },
+      "teoria": [
+        "repeticao-e-paralelismo"
+      ],
+      "essencial": [
+        "Na fala, a repetição organiza e reforça a ideia: “É hora de pensar em…” aparece três vezes.",
+        "Repetir “é hora” martela a urgência: é **agora** que se deve defender as florestas e os povos indígenas."
+      ],
+      "raciocinio": "1. Identifique as repetições: “É hora de pensar em…” (três vezes) e “O que está em jogo aqui é…” (duas vezes).\n2. Pense no efeito (veja: *Repetição, paralelismo e anáfora*): “É hora”, repetido três vezes, martela a ideia de que é **agora**, de que há urgência.\n3. Use o contexto: uma deputada indígena reagindo a um projeto sobre a demarcação de terras indígenas e lembrando as mudanças climáticas. Ela defende as florestas e os povos indígenas.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia trechos de uma entrevista com Kátia Queiroz Fenyves, Mestre em Políticas Públicas e Governança pela Sciences Po Paris e formada em Relações Internacionais pela Universidade de São Paulo. Eles servirão de base à questão.\n\n> **Quando se fala em sustentabilidade, pensa-se no tripé social, ambiental e econômico. Como você definiria esses princípios? Qual deles merece maior atenção, ou todos são interligados e afetam nossa qualidade de vida integralmente?**\n>\n> Exatamente, sustentabilidade é o conceito que revela as interligações entre os três pilares – social, ambiental e econômico e, portanto, são princípios interdependentes e insuficientes se tomados individualmente. Talvez, o ambiental seja realmente o único que escapa a isso. A natureza não depende da economia ou da sociedade para subsistir, mas, por outro lado, é impactada por ambos. Por isso, sustentabilidade é um conceito antrópico, ou seja, é uma noção que tem como referencial a presença humana no planeta. (…)\n>\n> **A questão climática está relacionada com a sustentabilidade? Como?**\n>\n> A mudança do clima intensificada pela ação antrópica tem relação com nossos padrões de produção e consumo em desequilíbrio com o meio ambiente: por um lado, vimos emitindo uma quantidade de gases de efeito estufa muito significativa e, por outro, vimos degradando ecossistemas que absorvem estes gases, diminuindo a capacidade natural do planeta de equilibrar as emissões. Assim, a questão climática está relacionada com um modo de vida insustentável. A notícia boa é que práticas sustentáveis geram diretamente um impacto positivo no equilíbrio climático do planeta. Por exemplo, o Brasil tem potencial para gerar mais de 25 mil gigawatts em energia solar, aproveitando sua excelente localização geográfica com abundância de luz solar, uma medida sustentável que, ao mesmo tempo, é considerada uma das melhores alternativas para a diminuição das emissões de CO2 na atmosfera, que é um dos principais gases intensificadores do efeito estufa.\n>\n> <cite>Fonte: FENYVES, Kátia Queiróz. Entrevista concedida ao Centro de Estudos sociedade e Tecnologia da USP. Disponível em: http://www.cest.poli.usp.br/pt/entrevista-com-katia-queiroz-fenyves-a-respeito-de-sustentabilidade-e-meio-ambiente. Acesso em: 18 jul. 2023.</cite>\n\nAssinale a alternativa cujos pares de conectivos substituem de forma correta e sem alterações de sentido o termo “por outro lado” presente em ambos os trechos da entrevista.",
+      "imagens": [],
+      "alternativas": {
+        "A": "porém – assim.",
+        "B": "entretanto – destarte.",
+        "C": "ainda assim – por conseguinte.",
+        "D": "apesar disso – mesmo assim."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Porém” funciona no primeiro trecho, mas “assim” indica conclusão, sentido que não existe no segundo.",
+        "B": "“Entretanto” funciona no primeiro trecho, mas “destarte” significa “deste modo”: também é conclusão.",
+        "C": "“Ainda assim” é concessão, mas “por conseguinte” é conclusão (= portanto)."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Para trocar um conectivo, descubra primeiro a relação de sentido: aqui, “por outro lado” indica oposição.",
+        "*Apesar disso* e *mesmo assim* são de concessão; *assim*, *destarte* e *por conseguinte*, de conclusão."
+      ],
+      "raciocinio": "1. Descubra o sentido de “por outro lado” no 1º trecho: a natureza **não depende** da economia, **mas** é impactada por ela. É oposição (veja: *Conectivos e relações de sentido*).\n2. Elimine os pares que trazem um conectivo de conclusão: assim (A), destarte (B), por conseguinte (C).\n3. Sobra a D, com “apesar disso” e “mesmo assim”, ambos de concessão. “Apesar disso” substitui bem o primeiro “por outro lado”.\n\nResposta: **D**.\n\n**Dica de prova:** quando a alternativa traz um par de conectivos, basta um deles estar errado para eliminá-la.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "> ### Poema tirado de uma notícia de jornal\n> João Gostoso era carregador de feira livre e morava no morro da Babilônia num [barracão sem número\n> Uma noite ele chegou no bar Vinte de Novembro\n> Bebeu\n> Cantou\n> Dançou\n> Depois se atirou na lagoa Rodrigo de Freitas e morreu afogado.\n>\n> <cite>Manoel BANDEIRA, Manuel. Estrela da Vida Inteira. Rio de Janeiro: José Olympio Editora, 16ª edição, 1989, p.107.</cite>\n\nA respeito do poema de Manuel Bandeira, marque a afirmativa correta:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“João Gostoso era carregador de feira livre e morava no morro da Babilônia num barracão sem número” é uma oração coordenada aditiva.",
+        "B": "“João Gostoso era carregador de feira livre e morava no morro da Babilônia num barracão sem número” é uma oração coordenada adversativa.",
+        "C": "“João Gostoso era carregador de feira livre e morava no morro da Babilônia num barracão sem número” é uma oração coordenada assindética.",
+        "D": "“João Gostoso era carregador de feira livre e morava no morro da Babilônia num barracão sem número” é uma oração coordenada explicativa."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Adversativa indica oposição (mas, porém). O “e” aqui só soma.",
+        "C": "Assindética é a coordenada sem conjunção. Aqui há o “e”, então ela é sindética.",
+        "D": "Explicativa justifica algo (pois, porque). Morar no morro não explica ser carregador de feira."
+      },
+      "teoria": [
+        "oracoes-coordenadas"
+      ],
+      "essencial": [
+        "Cada verbo forma uma oração: *era* e *morava* são duas orações.",
+        "Orações coordenadas são independentes; ligadas por “e”, que só soma informações, são coordenadas sindéticas aditivas."
+      ],
+      "raciocinio": "1. O verso tem dois verbos, *era* e *morava*: são duas orações.\n2. Elas são ligadas por “e”, que só acrescenta uma informação à outra (veja: *Orações coordenadas*). É coordenação sindética aditiva.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "Leia:\n\n![Tirinha de Laerte em quatro quadros. Um aluno pede a Fagundes que o ensine a ser puxa-saco; Fagundes começa a bajulá-lo sem que ele perceba.](img/2025-1-a/q05.jpg \"Quadro 1 – Aluno: Fagundes, você me ensina a ser um bom puxa-saco? Me dá umas aulas? Fagundes: Claro! | Quadro 2 – Fagundes: Um aluno como você faz a glória de qualquer professor! Dar aulas pra você é uma verdadeira pós-graduação! | Quadro 3 – Aluno: Ara, Fagundes... você me deixa sem jeito! Quando vou ter a primeira lição? | Quadro 4 – Fagundes: Você acaba de ter a primeira lição.\")\n\n<cite>LAERTE. [Laerte Coutinho]. Fagundes – um puxa-saco de mão cheira. Porto Alegre: L&PM Pocket, 2007, p.16.</cite>\n\nNa tira, um aluno pede que lhe seja ensinado como ser “um bom puxa-saco”. O professor, de modo bajulador e exagerado, inicia sua aula sem que o aluno perceba. A lição subentendida é anunciada por Fagundes no último quadrinho “você acaba de ter a primeira lição” e, cabe ao outro, o ouvinte/interlocutor, a responsabilidade de compreensão. Por definição, deixar uma mensagem subentendida é o mesmo que admitir ou supor o que não é manifestado de forma direta, mas que é implicitamente compreendido. Outro recurso utilizado na tira, foi o de formação de palavras. Esse recurso pode ser encontrado em:",
+      "imagens": [
+        "img/2025-1-a/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "“Puxa-sacos”, primeiro quadrinho, forma-se por um processo de aglutinação de palavras, havendo alteração fonética em um dos elementos formadores.",
+        "B": "“Puxa-sacos”, primeiro quadrinho, forma-se por um processo de justaposição de palavras, não havendo alteração fonética em nenhum dos elementos formadores.",
+        "C": "“Pós-graduação”, segundo quadrinho, forma-se por um processo de justaposição de palavras, não havendo alteração fonética em nenhum dos elementos formadores.",
+        "D": "“Pós-graduação”, segundo quadrinho, forma-se por derivação parassintética, pelo prefixo \"pós\" e sufixo “ção”, não havendo alteração fonética em nenhum dos elementos formadores."
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "Puxa-saco é formada por justaposição (puxa + saco, sem perda de som), e não por aglutinação.",
+        "B": "Acerta o processo de puxa-saco (justaposição), mas cita “puxa-sacos”, no plural, forma que não está na tirinha.",
+        "C": "Pós-graduação não é justaposição: *pós-* é prefixo, não palavra independente. O processo é derivação prefixal.",
+        "D": "Não é parassíntese: *graduação* existe sem o prefixo. É derivação prefixal (*pós-* + *graduação*)."
+      },
+      "teoria": [
+        "formacao-de-palavras"
+      ],
+      "essencial": [
+        "Composição por justaposição: duas palavras que existem sozinhas se juntam sem perder som: *puxa* + *saco*.",
+        "Derivação prefixal: prefixo + palavra. *Pós-* é prefixo, então *pós-graduação* é derivação."
+      ],
+      "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Mesmo assim, dá para analisar as alternativas (veja: *Formação de palavras*):\n\n1. *Puxa-saco* (1º quadrinho): verbo *puxa* + substantivo *saco*, duas palavras que existem sozinhas e não perdem som. É composição por justaposição, como diz a B.\n2. *Pós-graduação* (2º quadrinho): prefixo *pós-* + *graduação*, que existe sozinha. É derivação prefixal; C e D erram o processo.\n3. A B é a única que acerta o processo, mas cita “puxa-sacos”, no plural, e a tirinha traz “puxa-saco”. Esse descompasso pode ter motivado a anulação.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "O poema “O Trenzinho do Caipira” foi escrito pelo poeta Ferreira Gullar para acompanhar a composição musical de mesmo nome de Heitor Villa-Lobos. Leia-o abaixo:\n\n> ### O TRENZINHO DO CAIPIRA\n> Lá vai o trem com o menino\n> Lá vai a vida a rodar\n> Lá vai ciranda e destino\n> Cidade noite a girar\n> Lá vai o trem sem destino\n> Pro dia novo encontrar\n> Correndo vai pela terra, vai pela serra, vai pelo mar\n> Cantando pela serra do luar\n> Correndo entre as estrelas a voar\n> No ar, no ar, no ar... (...)\n\nFerreira Gullar faz uso de recursos estilísticos recorrentes no texto poético, como aliteração, assonância, rima interna e externa. Dentre eles, há a figura de sintaxe reconhecida como anáfora, que consiste na repetição de estruturas sintáticas iguais ou semelhantes nos versos que garantem ritmo ao poema. No poema “O Trenzinho do Caipira”, a partir da anáfora, interpreta-se que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O trem encontra-se parado em uma estação à espera do menino.",
+        "B": "O menino está conduzindo o trem em seu pensamento, pois é impossível o trem voar entre nuvens e ar.",
+        "C": "O destino do trem é atribuído a cada leitor, que imaginará seu movimento a partir das palavras e não dos recursos estilísticos empregados pelo poeta.",
+        "D": "O trem encontra-se em movimento, sendo que o ritmo, construído por meio das palavras, leva-nos a imaginar um trem subindo e descendo serras."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Lá **vai** o trem”: o trem já partiu e está em movimento. Nada indica que esteja parado.",
+        "B": "O poema não diz que o menino conduz o trem, e voar “entre as estrelas” é imagem poética, não prova de imaginação.",
+        "C": "O enunciado pede uma interpretação a partir da anáfora, que é justamente um recurso estilístico. A alternativa nega a importância desses recursos."
+      },
+      "teoria": [
+        "repeticao-e-paralelismo",
+        "figuras-sonoras"
+      ],
+      "essencial": [
+        "Anáfora é a repetição no início dos versos: “**Lá vai** o trem… / **Lá vai** a vida…”.",
+        "A repetição e as rimas (rodar, girar; terra, serra) criam um ritmo regular, como o das rodas nos trilhos."
+      ],
+      "raciocinio": "1. Identifique a anáfora: “**Lá vai** o trem… / **Lá vai** a vida… / **Lá vai** ciranda…”, e depois “vai pela terra, vai pela serra, vai pelo mar” (veja: *Repetição, paralelismo e anáfora*).\n2. O verbo que se repete é *ir*: tudo está em movimento. A repetição cria um ritmo regular, como o das rodas nos trilhos, reforçado pelas rimas (rodar, girar, encontrar) e pela rima interna terra/serra (veja: *Figuras sonoras: aliteração, assonância e rima*).\n3. Terra, serra, mar e ar sugerem o trem subindo e descendo pela paisagem.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o artigo 4° do Estatuto do Idoso e assinale a alternativa correta:\n\n> Art. 4º. Nenhum idoso será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei.\n> § 1º É dever de todos prevenir a ameaça ou violação aos direitos do idoso.\n> § 2º As obrigações previstas nesta Lei não excluem da prevenção outras decorrentes dos princípios por ela adotados.\n\nApós a leitura do trecho do artigo 4º do Estatuto do Idoso, é possível afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "o artigo garante que os idosos devem ser tratados com prioridade em todos os serviços públicos.",
+        "B": "o Estatuto do Idoso não prevê punições para a negligência no cuidado com os idosos.",
+        "C": "a lei abrange apenas ações diretas que atentem contra os direitos dos idosos.",
+        "D": "o Estatuto do Idoso assegura que qualquer forma de violação aos direitos dos idosos, seja por ação ou omissão, será punida conforme a lei."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O trecho não fala de prioridade no atendimento. A regra pode até existir em outro artigo do Estatuto, mas não está no texto lido.",
+        "B": "O texto diz o contrário: nenhum idoso será objeto de “negligência”, e todo atentado “será punido”.",
+        "C": "O texto inclui a omissão (deixar de fazer o que se deveria). Não são só ações diretas."
+      },
+      "teoria": [
+        "textos-normativos"
+      ],
+      "essencial": [
+        "Leis usam palavras que ampliam a regra: “**nenhum** idoso”, “**qualquer** tipo”, “**todo** atentado”.",
+        "“Por ação ou omissão”: fazer algo ou deixar de fazer o que devia. Os dois casos são punidos."
+      ],
+      "raciocinio": "1. Destaque as palavras que ampliam a regra (veja: *Textos normativos: leis, estatutos e regulamentos*): “**Nenhum** idoso”, “**qualquer** tipo de negligência”, “**todo** atentado”, “por ação **ou omissão**”, “será **punido**”.\n2. A D repete exatamente essas ideias: qualquer violação, por ação ou omissão, será punida.\n\nResposta: **D**.\n\n**Dica de prova:** em questões sobre um trecho de lei, a resposta tem de estar no trecho. Algo verdadeiro sobre o assunto, mas ausente do texto, está errado.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia:\n\n#### Texto 1\n![Infográfico do INCA: “Alimentação saudável é uma das formas de se proteger contra o câncer”. Mostra ilustrações de alimentos e as frases: “Evitar alimentos ultraprocessados”, “Preferir alimentos de origem vegetal”, “62% dos brasileiros não consomem a quantidade recomendada de frutas, verduras e legumes” e “Alimentos de origem vegetal previnem o excesso de peso e diversos tipos de câncer”.](img/2025-1-a/q08.jpg \"ALIMENTAÇÃO SAUDÁVEL é uma das formas de se proteger contra o câncer | Evitar alimentos ultraprocessados. | Preferir alimentos de origem vegetal. | 62% dos brasileiros não consomem a quantidade recomendada de frutas, verduras e legumes. (PNS, 2013) | Alimentos de origem vegetal previnem o excesso de peso e diversos tipos de câncer. (WCRF, 2018)\")\n\n<cite>Disponível em: https://www.inca.gov.br/sites/ufu.sti.inca.local/files//media/document//infografico-alimentacao-saudavel-protecao-contra-o-cancer.jpg. Acesso em: 08 jul. 2023.</cite>\n\n#### Texto 2\n> ### Rótulos e embalagens, o que você anda comendo?\n> A nossa alimentação, como há muito já se sabe, é importante para nos dar energia e garantir os nutrientes necessários para o nosso corpo. Mas, segundo a Agência Nacional de Vigilância Sanitária – ANVISA, ela envolve também valores culturais, afetivos, sociais, sensoriais e, muitas vezes, está relacionada com momentos de prazer e confraternização. Dessa forma, a alimentação envolve muito mais que a necessidade de nutrientes, tornando o consumo de alimentos um alvo ideal de manipulação dos meios de comunicação, como já citado por Miotto no seu artigo “A influência da mídia nos hábitos alimentares de crianças de baixa renda”, do projeto Nutrir.\n>\n> Com a evolução da sociedade, diferentes alimentos foram criados e industrializados, introduzindo novos ingredientes nos produtos com o objetivo de ganhar maior aceitação da população. Dentre esses novos componentes, podemos destacar o açúcar, as gorduras saturadas e trans para garantir maior maciez, leveza e cremosidade ao alimento, sódio para acentuar o sabor da comida, corantes e aromatizantes. O açúcar fornece energia ao organismo, no entanto, segundo a Pesquisa de Orçamentos Familiares (POF 2008/2009), 61% da população brasileira ingere açucares em excesso devido ao consumo de sucos, refrigerantes e refrescos, adicionados de açúcares, aliado ao baixo consumo de frutas e verduras. Por outro lado, o consumo de frutas e de outros vegetais ainda não atingiu a quantidade mínima de 400g por dia, considerada adequada pela Organização Mundial da Saúde. (...)\n>\n> <cite>MARESSA, A. *et al*. Rótulos e embalagens, o que você anda comendo? **Jornal Biosfera**. Disponível em: http://www1.rc.unesp.br/biosferas/Art0072.html. Acesso em: 08 jul. 2023.</cite>\n\nDe acordo com os textos 1 e 2, podemos concluir que:",
+      "imagens": [
+        "img/2025-1-a/q08.jpg"
+      ],
+      "alternativas": {
+        "A": "a maioria da população brasileira consome alimentos de origem vegetal e evita alimentos processados para se prevenir da obesidade e de diversos tipos de câncer.",
+        "B": "os alimentos consumidos pela maioria da população brasileira contêm ingredientes que apenas acentuam o sabor dos alimentos, mas não são nutritivos.",
+        "C": "o consumo de frutas, legumes e vegetais é baixo devido à falta de maciez, leveza e sabor desses alimentos, não garantindo, assim, energia suficiente ao organismo.",
+        "D": "há um equilíbrio entre consumo de alimentos industrializados, que envolve momentos de prazer e de confraternização, com o de frutas, verduras e legumes, que previnem câncer."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É o contrário: 62% dos brasileiros comem menos vegetais que o recomendado, e o consumo de frutas não atinge o mínimo da OMS.",
+        "C": "Maciez e cremosidade explicam por que a indústria acrescenta gorduras; não são defeito das frutas. Os textos não explicam o pouco consumo de vegetais.",
+        "D": "Os textos mostram desequilíbrio: excesso de açúcar e de industrializados, pouca fruta e verdura."
+      },
+      "teoria": [
+        "comparacao-entre-textos"
+      ],
+      "essencial": [
+        "Para comparar textos, resuma cada um em uma linha e elimine o que contradiz algum deles.",
+        "Texto 2: a indústria acrescenta sódio, corantes e aromatizantes para dar sabor e aparência, e não para nutrir."
+      ],
+      "raciocinio": "1. Resuma cada texto (veja: *Comparação entre textos*). Texto 1: evitar ultraprocessados e preferir vegetais; 62% comem poucas frutas e verduras. Texto 2: a indústria acrescenta açúcar, gorduras, sódio, corantes e aromatizantes para agradar ao consumidor; 61% ingerem açúcar em excesso.\n2. Elimine o que contradiz os textos: A (a maioria **não** come vegetais suficientes), C (inventa uma causa) e D (não há equilíbrio).\n3. Sobra a B, que se apoia no Texto 2: sódio, corantes e aromatizantes servem para dar sabor e aparência, não para nutrir.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Enquanto a publicidade preocupa-se em divulgar um produto ou um serviço, a propaganda pretende transmitir uma ideia ou um conceito, como acontece, por exemplo, na propaganda política. Leia o texto a seguir e responda:\n\n![Anúncio do PNUMA: fundo vermelho, uma garrafa reutilizável azul entre duas garrafas plásticas apagadas e o título “Repense a água em garrafinhas”.](img/2025-1-a/q09.jpg \"Se você pudesse fazer apenas uma coisa… | REPENSE A ÁGUA EM GARRAFINHAS | Quando você usa uma garrafa de água reutilizável em lugar de comprar mais uma garrafinha plástica, você economiza 3 litros de água para cada litro que bebe. | Imagine se sete bilhões de nós fizéssemos isso.\")\n\n<cite>Fonte: https://agenciabrasil.ebc.com.br/geral/noticia/2015-06/ascensao-de-familias-classe-media-deve-ser-associada-ao-consumo-consciente. Acesso em: 10 ago. 2023.</cite>\n\nTranscrição dos textos do anúncio: “Repense a água em garrafinhas” “Quando você usa uma garrafa de água reutilizável em lugar de comprar mais uma garrafinha plástica, você economiza 3 litros de água para cada litro que bebe.”\n\nNa oração “você economiza 3 litros de água para cada litro que bebe”, há a ideia de proporcionalidade. Qual das alternativas a seguir tem esse mesmo sentido de proporção?",
+      "imagens": [
+        "img/2025-1-a/q09.jpg"
+      ],
+      "alternativas": {
+        "A": "Ora bebo água em garrafa, ora em copos.",
+        "B": "Embora eu não goste de água em garrafas plásticas, aqui não há bebedouros disponíveis.",
+        "C": "Como não há bebedouro disponível, terei de comprar uma garrafa de água.",
+        "D": "Quanto mais bebo água, mais sede eu tenho."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Ora… ora” indica alternância: às vezes de um jeito, às vezes de outro.",
+        "B": "“Embora” indica concessão: uma ideia contrária que não impede a outra.",
+        "C": "“Como”, no início da frase, indica causa: porque não há bebedouro."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Proporção liga duas grandezas que variam juntas: “quanto mais… mais”, “para cada”.",
+        "Outros conectivos: *ora… ora* (alternância), *embora* (concessão), *como* (causa)."
+      ],
+      "raciocinio": "1. No anúncio, “3 litros **para cada** litro” estabelece uma proporção: quanto mais se bebe da garrafa reutilizável, mais água se economiza.\n2. Classifique o conectivo de cada alternativa (veja: *Conectivos e relações de sentido*): *ora… ora* (alternância), *embora* (concessão), *como* (causa), *quanto mais… mais* (proporção).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Em 8 de março de 2023, metroviários de Minas Gerais saíram às ruas da capital do estado contra a privatização do metrô de Belo Horizonte, ocasião em que os trabalhadores da categoria entoaram o grito de ordem transcrito a seguir: “Não, não, não à privatização”.\n\nIdentifique o advérbio presente na frase “saíram às ruas da capital do estado contra a privatização do metrô de Belo Horizonte”.",
+      "imagens": [],
+      "alternativas": {
+        "A": "Privatização.",
+        "B": "Contra.",
+        "C": "Saíram.",
+        "D": "Da."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Privatização” é substantivo: nomeia o ato de privatizar.",
+        "C": "“Saíram” é verbo.",
+        "D": "“Da” é a junção da preposição *de* com o artigo *a*."
+      },
+      "teoria": [
+        "adverbios"
+      ],
+      "essencial": [
+        "Advérbios e adjuntos adverbiais indicam circunstâncias do verbo: lugar, tempo, modo, oposição.",
+        "Saíram às ruas **contra** a privatização: *contra* traz a ideia de oposição ligada ao verbo."
+      ],
+      "raciocinio": "1. Classifique cada alternativa: *privatização* (substantivo), *saíram* (verbo), *da* (preposição + artigo). Nenhuma delas indica circunstância.\n2. Pergunte ao verbo: saíram às ruas **contra** o quê? “Contra a privatização do metrô” indica uma circunstância de oposição, função de adjunto adverbial (veja: *Advérbios e adjuntos adverbiais*).\n3. A palavra que traz essa ideia de oposição é *contra*.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Discurso direto e indireto",
+      "enunciado": "Leia:\n\n> “Pádua era empregado em repartição dependente do ministério da guerra. Não ganhava muito, mas a mulher [D. Fortunata] gastava pouco, e a vida era barata. (...) O administrador da repartição em que Pádua trabalhava teve de ir ao Norte, em comissão. Pádua, ou por ordem regulamentar, ou por especial designação, ficou substituindo o administrador com os respectivos honorários. Esta mudança de fortuna trouxe-lhe certa vertigem (...). Não se contentou de reformar a roupa e a copa, atirou-se às despesas supérfluas, deu joias à mulher, nos dias de festa matava um leitão, era visto em teatros, chegou aos sapatos de verniz. Viveu assim vinte e dois meses na suposição de uma eterna interinidade. Uma tarde entrou em nossa casa, aflito e desvairado, ia perder o lugar, porque chegara o efetivo naquela manhã. Pediu a minha mãe que velasse pelas infelizes que deixava; não podia sofrer a desgraça, matava-se. Minha mãe falou-lhe com bondade, mas ele não atendia a coisa nenhuma.\n>\n> \\- Não, minha senhora, não consentirei em tal vergonha! Fazer descer a família, tornar atrás... Já disse, mato-me! Não hei de confessar à minha gente esta miséria. E os outros? Que dirão os vizinhos? E os amigos? E o público? (...)\n>\n> Pádua enxugou os olhos e foi para casa, onde viveu prostrado alguns dias, mudo, fechado na alcova, - ou então no quintal, ao pé do poço, como se a ideia da morte teimasse nele. D. Fortunata ralhava (...).\n>\n> Mas, tanto lhe ouviu falar em morte que teve medo, e um dia correu a pedir a minha mãe que lhe fizesse o favor de ver se lhe salvava o marido que se queria matar. Minha mãe foi achá-lo à beira do poço, e intimou-lhe que vivesse. Que maluquice era aquela de parecer que ia ficar desgraçado, por causa de uma gratificação menor, e perder um emprego interino? Não, senhor, devia ser homem, pai de família, imitar a mulher e a filha... Pádua obedeceu; confessou que acharia forças para cumprir a vontade de minha mãe.”\n>\n> <cite>ASSIS, Machado de. O administrador interino. In. ASSIS, Machado de. Dom Casmurro. 13. ed. São Paulo: Ática, 1996. p. 32-34. Fragmento.</cite>\n\n**Vocabulário**\n- **alcova:** quarto de dormir.\n- **efetivo:** “o efetivo” é referência à pessoa que não era temporária no quadro dos funcionários.\n- **honorários:** remuneração, salário.\n- **interinidade:** o que é provisório, temporário.\n- **velar:** manter vigilância, não abandonar, cuidar.\n\nGeralmente os gêneros textuais que se compõem por estruturas da sequência narrativa se servem, de alguma maneira, dos tipos de discurso em sua construção: direto, indireto e indireto livre, dependendo das intenções do narrador. A esse respeito, observando o texto acima, assinale a alternativa correta:",
+      "imagens": [],
+      "alternativas": {
+        "A": "No excerto: “- Não, minha senhora, não consentirei em tal vergonha! Fazer descer a família, tornar atrás... Já disse, mato-me! Não hei de confessar à minha gente esta miséria. E os outros? Que dirão os vizinhos? E os amigos? E o público?”, o recurso ao discurso indireto, sem marcas linguísticas enunciadoras de fala, tem por finalidade mostrar o discurso de outro, o que atribui ao narrador o papel de apresentar a sua versão sobre a fala da personagem, que ele indiretamente reproduz subordinando-a a seu ponto de vista.",
+        "B": "No excerto: “Que maluquice era aquela de parecer que ia ficar desgraçado, por causa de uma gratificação menor, e perder um emprego interino? Não, senhor, devia ser homem, pai de família, imitar a mulher e a filha...”, as vozes do narrador e da personagem se confundem, já que não há marcas linguísticas que as separem, produzindo, assim, os efeitos de simultaneidade entre elas e de onisciência do narrador quanto aos pensamentos, sentimentos e reações da personagem.",
+        "C": "No excerto: “Pediu a minha mãe que velasse pelas infelizes que deixava; não podia sofrer a desgraça, matava-se. Minha mãe falou-lhe com bondade, mas ele não atendia a coisa nenhuma”, observamos o discurso indireto livre, em que é muito difícil delimitar o início e o fim da voz do narrador (o “eu” que fala) e a das personagens (o “Pádua” e a “mãe” de quem se fala), o que produz o efeito de mesclagem referencial no leitor.",
+        "D": "No excerto: “Pádua enxugou os olhos e foi para casa, onde viveu prostrado alguns dias, mudo, fechado na alcova, - ou então no quintal, ao pé do poço, como se a ideia da morte teimasse nele”, a fala enunciada pela personagem não se mistura com a voz do narrador; pelo contrário, ela é textualmente independente, dando a impressão de que a personagem fala “com a própria boca”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O trecho com travessão é discurso direto: a fala exata de Pádua. Não é indireto.",
+        "C": "“Pediu a minha mãe que velasse…” é discurso indireto: verbo de dizer + *que*. As vozes estão separadas, não misturadas.",
+        "D": "O trecho não tem fala de personagem: é narração (o narrador descreve o que Pádua fez)."
+      },
+      "teoria": [
+        "discurso-direto-e-indireto"
+      ],
+      "essencial": [
+        "Discurso direto: a fala vem com travessão ou aspas. Indireto: o narrador conta, com “disse que”, “pediu que”.",
+        "Indireto livre: a fala da personagem se mistura à narração, sem travessão: “Que maluquice era aquela…?”."
+      ],
+      "raciocinio": "Classifique cada trecho citado (veja: *Discurso direto, indireto e indireto livre*):\n\n1. A: começa com travessão → discurso **direto**. A alternativa diz indireto ✗.\n2. B: “Que maluquice era aquela…? Não, senhor, devia ser homem…” são palavras da mãe, com pergunta e expressão típica de fala, mas sem travessão nem “disse que”, no meio da narração → **indireto livre** ✓.\n3. C: “Pediu a minha mãe que velasse…” → **indireto**. A alternativa diz indireto livre ✗.\n4. D: só narração. A alternativa fala de uma fala independente da personagem ✗.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a informação do infográfico e compare com um trecho de uma notícia publicada sobre produtos alimentícios:\n\n![Infográfico do Senado Federal: “Você sabe a diferença? Propaganda enganosa: divulga informações falsas sobre produtos e serviços, ou omite informações importantes. Propaganda abusiva: divulga mensagens que induzem a comportamentos prejudiciais à saúde e à segurança do consumidor, ou gera discriminações. Se você se sentir lesado, denuncie ao Procon.”](img/2025-1-a/q12.jpg \"Você sabe a diferença? | Propaganda enganosa: divulga informações falsas sobre produtos e serviços, ou omite informações importantes | Propaganda abusiva: divulga mensagens que induzem a comportamentos prejudiciais à saúde e à segurança do consumidor, ou gera discriminações | Se você se sentir lesado, denuncie ao PROCON\")\n\n<cite>Infográfico Senado Federal disponível em https://pt-br.facebook.com/SenadoFederal/posts/1334592289889956:0. Acesso em: 19 jul. 2023.</cite>\n\n> “Na denúncia, o Idec apontou que os biscoitos da linha Nesfit: Aveia e Mel; Nesfit Leite e Mel; Nesfit Cookie Cacau, Aveia e Mel; e Nesfit Matinal Mel com Amêndoas, apesar de trazerem a palavra mel no nome, incluindo o alimento com destaque na embalagem, não trazem o ingrediente na lista de sua composição”.\n>\n> <cite>RIBEIRO, G. Nestlé é notificada por propaganda enganosa na linha fit. Diário do Nordeste. 13.jun.2022. Disponível em https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/germano-ribeiro/nestle-e-notificada-por-suposta-propaganda-enganosa-em-produtos-da-linha-fit-1.324337. Acesso em: 19 jul. 2023.</cite>\n\nAo relacionar o infográfico do Senado Federal sobre direitos do consumidor e o trecho da denúncia sobre os biscoitos Nesfit da Nestlé, é possível inferir que:",
+      "imagens": [
+        "img/2025-1-a/q12.jpg"
+      ],
+      "alternativas": {
+        "A": "O infográfico destaca a necessidade de regulamentação de propaganda em alimentos, enquanto o trecho revela uma violação dessas normas pela Nestlé.",
+        "B": "O infográfico apresenta dados sobre consumo de biscoitos no Brasil, enquanto o trecho discute a falta de ingredientes naturais nos biscoitos Nesfit.",
+        "C": "O infográfico lista os ingredientes dos biscoitos Nesfit, enquanto o trecho enfatiza a quantidade de calorias desses produtos.",
+        "D": "O infográfico discute os benefícios dos biscoitos Nesfit, enquanto o trecho analisa os impactos ambientais da produção desses alimentos."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O infográfico não traz dados de consumo de biscoitos; explica tipos de propaganda.",
+        "C": "O infográfico não fala dos biscoitos, e o trecho não menciona calorias.",
+        "D": "Nenhum dos dois textos fala de benefícios dos biscoitos ou de impactos ambientais."
+      },
+      "teoria": [
+        "comparacao-entre-textos"
+      ],
+      "essencial": [
+        "Propaganda enganosa traz informação falsa ou omite algo importante sobre o produto.",
+        "O biscoito tem “mel” no nome e na embalagem, mas não tem mel na composição: é propaganda enganosa."
+      ],
+      "raciocinio": "1. Resuma cada texto em uma linha (veja: *Comparação entre textos*). Infográfico: explica o que é propaganda enganosa (informação falsa ou omitida) e abusiva. Notícia: biscoitos com “mel” no nome e na embalagem, mas sem mel na composição.\n2. Relacione: o caso dos biscoitos é um exemplo do que o infográfico chama de propaganda enganosa.\n3. Só a A faz essa ligação; as outras falam de assuntos que não estão nos textos.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto:\n\n> Eu ia correndo à vida. Aos sete, a gente é assim. Pula de um doce pra um brinquedo. De um brinquedo pra uma tristeza. Tudo rápido, no demorado da infância. O pai chegava, Olha o que eu trouxe pra você!, e abria a mão: um punhado de balas Chita! O mundo, então, era aquele sabor em minha boca, eu concentrado em mastigar, querendo outra, e mais outra, satisfeito de estar ali, fiel ao meu instante.\n>\n> <cite>Carrascoza, João Anzanello. Aos 7 e aos 40. 1. ed. Rio de Janeiro: Alfaguara, 2016. p. 8.</cite>\n\nSobre o texto de João Anzanello Carrascoza, é correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O texto explora a ideia de que a infância é um período rápido e cheio de transições emocionais.",
+        "B": "O autor descreve sua infância como um período tranquilo e sem grandes mudanças emocionais.",
+        "C": "Aos sete anos, o autor já tinha uma visão crítica e madura sobre a vida e seus desafios.",
+        "D": "O autor reflete sobre a complexidade dos relacionamentos familiares na adolescência."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O texto diz o contrário: a criança “pula” de um doce para um brinquedo e daí “pra uma tristeza”. As emoções mudam o tempo todo.",
+        "C": "A criança vive “fiel ao meu instante”, concentrada na bala. Não há visão crítica ou madura.",
+        "D": "O texto fala dos sete anos, a infância, e não da adolescência. E a cena com o pai é simples e afetuosa."
+      },
+      "teoria": [
+        "tema-e-ideia-central",
+        "metafora-e-comparacao"
+      ],
+      "essencial": [
+        "A ideia central aparece nas palavras que se repetem: “correndo”, “Pula”, “Tudo rápido”.",
+        "Paradoxo junta ideias opostas: “Tudo rápido, no demorado da infância”. Os momentos passam rápido, mas a infância parece longa."
+      ],
+      "raciocinio": "1. Ache as palavras que descrevem a infância: “correndo”, “Pula”, “Tudo rápido”.\n2. Os saltos vão do doce ao brinquedo e do brinquedo à **tristeza**: as emoções também mudam depressa.\n3. “Tudo rápido, no demorado da infância” junta ideias opostas, um paradoxo: os momentos passam rápido, mas a infância parece longa (veja: *Metáfora e comparação*). A ideia central é a da infância como um tempo intenso e cheio de mudanças (veja: *Tema e ideia central*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "> ### O elogio\n> Ao saber que tinha sido elogiado por ex-alunos seus, disse o sr. K.: “<u>Depois que os alunos se esqueceram há muito dos erros do mestre</u>, ele ainda se lembra muito bem deles”.\n>\n> <cite>Bertolt Brecht, em Histórias do sr. Keuner, p. 43. Tradução de Paulo César de Souza, editora 34, 1ª edição, 2006.</cite>\n\nO excerto grifado no texto O elogio é uma oração:",
+      "imagens": [],
+      "alternativas": {
+        "A": "subordinada assindética.",
+        "B": "subordinada substantiva.",
+        "C": "subordinada adverbial.",
+        "D": "subordinada adjetiva."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Assindética” é um nome usado para orações coordenadas sem conjunção. E a oração grifada tem conectivo: “depois que”.",
+        "B": "A substantiva pode ser trocada por “isso”, e “Isso, ele ainda se lembra muito bem deles” não faz sentido.",
+        "D": "A adjetiva caracteriza um substantivo (“o aluno que estudou”). A oração grifada não caracteriza nenhum substantivo; indica tempo."
+      },
+      "teoria": [
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Oração subordinada adverbial funciona como advérbio: indica tempo, causa, condição.",
+        "Teste: troque a oração por um advérbio. “**Depois**, ele ainda se lembra muito bem deles” funciona: é adverbial temporal."
+      ],
+      "raciocinio": "1. Veja o conectivo: “**depois que**” indica tempo.\n2. Teste a troca por um advérbio (veja: *Orações subordinadas*): “**Depois**, ele ainda se lembra muito bem deles”. Funciona.\n3. É uma oração subordinada adverbial temporal.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "A lei n. 13.146, de 6 de julho de 2015, institui de forma abrangente a Inclusão da Pessoa com Deficiência. O Artigo 18 trata do atendimento à saúde a que as pessoas com deficiência têm direito:\n\n> Art. 18. É assegurada atenção integral à saúde da pessoa com deficiência em todos os níveis de complexidade, por intermédio do SUS, garantido acesso universal e igualitário.\n> § 1º É assegurada a participação da pessoa com deficiência na elaboração das políticas de saúde a ela destinadas.\n> § 2º É assegurado atendimento segundo normas éticas e técnicas, que regulamentarão a atuação dos profissionais de saúde e contemplarão aspectos relacionados aos direitos e às especificidades da pessoa com deficiência, incluindo temas como sua dignidade e autonomia.\n> § 3º Aos profissionais que prestam assistência à pessoa com deficiência, especialmente em serviços de habilitação e de reabilitação, deve ser garantida capacitação inicial e continuada.\n> § 4º As ações e os serviços de saúde pública destinados à pessoa com deficiência devem assegurar:\n> I - diagnóstico e intervenção precoces, realizados por equipe multidisciplinar;\n> II - serviços de habilitação e de reabilitação sempre que necessários, para qualquer tipo de deficiência, inclusive para a manutenção da melhor condição de saúde e qualidade de vida;\n> III - atendimento domiciliar multidisciplinar, tratamento ambulatorial e internação;\n> IV - campanhas de vacinação;\n> V - atendimento psicológico, inclusive para seus familiares e atendentes pessoais;\n> VI - respeito à especificidade, à identidade de gênero e à orientação sexual da pessoa com deficiência;\n> VII - atenção sexual e reprodutiva, incluindo o direito à fertilização assistida;\n> VIII - informação adequada e acessível à pessoa com deficiência e a seus familiares sobre sua condição de saúde;\n> IX - serviços projetados para prevenir a ocorrência e o desenvolvimento de deficiências e agravos adicionais;\n> X - promoção de estratégias de capacitação permanente das equipes que atuam no SUS, em todos os níveis de atenção, no atendimento à pessoa com deficiência, bem como orientação a seus atendentes pessoais;\n> XI - oferta de órteses, próteses, meios auxiliares de locomoção, medicamentos, insumos e fórmulas nutricionais, conforme as normas vigentes do Ministério da Saúde.\n> § 5º As diretrizes deste artigo aplicam-se também às instituições privadas que participem de forma complementar do SUS ou que recebam recursos públicos para sua manutenção.\n>\n> <cite>Fonte: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm , Acesso em: 12/07/2023.</cite>\n\nAs leis em geral são constituídas de artigos que podem vir acompanhados de parágrafos (§) e incisos (indicados por algarismos romanos). Sobre a estrutura do Artigo 18, a função dos incisos estaria corretamente descrita na alternativa:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Os incisos indicam a unidade básica da lei, ou seja, para indicar o asseguramento integral ao atendimento à saúde pela pessoa com deficiência.",
+        "B": "Os incisos apresentam-se como desdobramentos da unidade básica da lei, com a função de indicar condições ou exceções do artigo. Nesse artigo, eles apresentam as indicações de como a pessoa com deficiência deve ser tratada no atendimento integral à saúde.",
+        "C": "Os incisos presentes no parágrafo 4º do artigo 18 da lei 13.146/2015, enumeram as ações e serviços à saúde pública, os quais devem ser oferecidos às pessoas com deficiência pelo poder público, desde formas de prevenção às deficiências a garantias de acesso a tratamento e insumos de que as pessoas com deficiência necessitem.",
+        "D": "Os incisos indicam as restrições impostas à unidade da lei, ou seja, mostram o que o poder público não deve garantir à pessoa com deficiência, elencando desde a participação em formulação de política pública a tratamentos e insumos de que necessitem as pessoas com deficiência."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A unidade básica da lei é o artigo, e não o inciso.",
+        "B": "Os incisos deste artigo não trazem condições nem exceções: são uma lista de serviços garantidos.",
+        "D": "É o contrário: os incisos listam o que **deve** ser assegurado, e não restrições."
+      },
+      "teoria": [
+        "textos-normativos"
+      ],
+      "essencial": [
+        "Numa lei, o artigo traz a regra; o parágrafo (§) a complementa; os incisos (I, II, III…) enumeram itens.",
+        "Aqui, o § 4º termina em “devem assegurar:”, e os incisos I a XI listam o que deve ser garantido."
+      ],
+      "raciocinio": "1. Veja onde estão os incisos: logo depois do § 4º, que termina em “devem assegurar:”.\n2. Os incisos I a XI enumeram o que deve ser garantido, da prevenção (I e IX) ao acesso a próteses e medicamentos (XI). Enumerar é a função típica do inciso (veja: *Textos normativos: leis, estatutos e regulamentos*).\n3. A C descreve exatamente isso.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Em uma aula de matemática, a professora passou para sua turma uma lista de exercícios, na qual era necessário calcular o valor decimal de \\(\\sqrt{7}\\) e era permitido aos alunos o uso da calculadora. Um aluno falou que não iria conseguir realizar a atividade, pois a tecla de calcular raiz quadrada de sua calculadora estava quebrada. A professora sugeriu, então, que ele transformasse a raiz em potência com expoente fracionário. Qual a representação de \\(\\sqrt{7}\\) que o aluno precisa utilizar?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(2^{\\frac{1}{7}}\\)",
+        "B": "\\(2^{\\frac{7}{1}}\\)",
+        "C": "\\(7^{\\frac{2}{1}}\\)",
+        "D": "\\(7^{\\frac{1}{2}}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A base tem de ser 7, o número de dentro da raiz. \\(2^{\\frac{1}{7}}\\) é a raiz sétima de 2.",
+        "B": "\\(2^{\\frac{7}{1}} = 2^7 = 128\\): trocou a base, e nem é uma raiz.",
+        "C": "\\(7^{\\frac{2}{1}} = 7^2 = 49\\): é o quadrado de 7, o oposto da raiz."
+      },
+      "teoria": [
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Raiz como potência: o índice vai para o denominador do expoente: \\(\\sqrt[n]{a^m} = a^{\\frac{m}{n}}\\).",
+        "A raiz quadrada tem índice 2: \\(\\sqrt{7} = 7^{\\frac{1}{2}} = 7^{0{,}5}\\)."
+      ],
+      "raciocinio": "1. Na raiz escrita como potência, o índice vai para o denominador do expoente (veja: *Raízes e radicais*).\n2. A raiz quadrada tem índice 2 (que não se escreve), e o 7 tem expoente 1: \\(\\sqrt{7} = \\sqrt[2]{7^1} = 7^{\\frac{1}{2}}\\).\n3. Na calculadora, \\(7^{0{,}5} \\approx 2{,}6458\\), o mesmo valor de \\(\\sqrt{7}\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "O jogo de xadrez possui peças brancas e pretas. Entre elas, existem as torres que se movimentam em linhas retas, tanto na vertical quanto na horizontal, quantas casas o jogador quiser. Na imagem a seguir é possível ver um tabuleiro especial de xadrez, 4 por 4, contendo 16 casas e uma configuração na qual as referidas peças não estão alinhadas na vertical e nem na horizontal.\n\n![Tabuleiro 4 por 4 com uma torre preta no canto superior esquerdo e uma torre branca no meio. Setas mostram os movimentos das torres; as casas da linha e da coluna de cada torre estão hachuradas.](img/2025-1-a/q17.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nA quantidade de maneiras que podemos colocar uma torre branca e outra torre preta nesse tabuleiro de modo que não estejam alinhadas na vertical ou na horizontal, impossibilitando um ataque mútuo, é:",
+      "imagens": [
+        "img/2025-1-a/q17.png"
+      ],
+      "alternativas": {
+        "A": "63",
+        "B": "112",
+        "C": "144",
+        "D": "160"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "63 não sai de uma conta coerente: para cada uma das 16 casas da torre branca, há 9 casas para a preta.",
+        "B": "\\(112 = 16 \\cdot 7\\): deixou só 7 casas para a preta. A branca ocupa 1 e ataca 6: sobram 9.",
+        "D": "\\(160 = 16 \\cdot 10\\): faltou excluir uma das casas atacadas. São \\(16 - 1 - 6 = 9\\), e não 10."
+      },
+      "teoria": [
+        "principio-multiplicativo"
+      ],
+      "essencial": [
+        "Princípio multiplicativo: se uma escolha tem \\(m\\) opções e a seguinte tem \\(n\\), o total é \\(m \\cdot n\\).",
+        "A branca tem 16 casas. Em qualquer uma, ocupa 1 e ataca 6, e sobram 9 para a preta: \\(16 \\cdot 9\\)."
+      ],
+      "raciocinio": "1. A torre branca pode ficar em qualquer uma das 16 casas.\n2. Onde quer que esteja, ela ocupa 1 casa e ataca as outras 3 da sua linha e as 3 da sua coluna. A preta tem \\(16 - 1 - 6 = 9\\) casas seguras.\n\n<div data-interativo=\"25a-q17-torres\"></div>\n\n3. Pelo princípio multiplicativo (veja: *Princípio multiplicativo*): \\(16 \\cdot 9 = 144\\). Como as torres têm cores diferentes, trocá-las de lugar dá outra posição, e não se divide por 2.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "A figura a seguir representa um canteiro destinado a uma horta comunitária que está sendo planejada por um campus do IFSP. As plantações ficarão na área I, as áreas II e III serão para circulação e organização da colheita. Na área IV será criada uma cabana para guardar materiais que serão utilizados na horta.\n\n![Quadrado dividido em quatro regiões: o quadrado I, de lado 2x, no canto superior esquerdo; o retângulo II, de 2x por 2, à direita; o retângulo III, de 2 por 2x, embaixo; e o quadrado IV, de lado 2, no canto inferior direito.](img/2025-1-a/q18.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nSabendo que *x* > 0 e que a medida de área destinada para a plantação será de 81m², pode-se concluir que a área total do canteiro, em m², será de:",
+      "imagens": [
+        "img/2025-1-a/q18.png"
+      ],
+      "alternativas": {
+        "A": "1 .806,25",
+        "B": "121,00",
+        "C": "117,00",
+        "D": "102,01"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(1806{,}25 = 42{,}5^2\\): fez \\(2x = 81 \\div 2 = 40{,}5\\), dividindo a área por 2 em vez de tirar a raiz. Como \\((2x)^2 = 81\\), o certo é \\(2x = 9\\).",
+        "C": "117 = 81 + 18 + 18: somou I, II e III, mas esqueceu a área IV (\\(2 \\cdot 2 = 4\\)).",
+        "D": "\\(102{,}01 = 10{,}1^2\\). O lado do canteiro é \\(9 + 2 = 11\\), e não 10,1."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "expressoes-algebricas"
+      ],
+      "essencial": [
+        "Área do quadrado: lado ao quadrado. Se \\((2x)^2 = 81\\), o lado mede \\(2x = 9\\).",
+        "O canteiro inteiro é um quadrado de lado \\(2x + 2 = 11\\): área de 121 m²."
+      ],
+      "raciocinio": "1. A área I é um quadrado de lado \\(2x\\): \\((2x)^2 = 81\\), então \\(2x = \\sqrt{81} = 9\\) (veja: *Áreas de figuras planas*).\n2. O canteiro inteiro é um quadrado de lado \\(2x + 2 = 11\\). Área total: \\(11^2 = 121\\) m².\n3. Conferindo pelas partes: I = 81; II e III = \\(9 \\cdot 2 = 18\\) cada; IV = \\(2 \\cdot 2 = 4\\). Total: \\(81 + 18 + 18 + 4 = 121\\) ✓. É o quadrado da soma, \\((2x + 2)^2 = (2x)^2 + 2 \\cdot 2x \\cdot 2 + 2^2\\) (veja: *Expressões algébricas*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Um professor desenvolveu um dispositivo eletrônico, parecido com o ilustrado na figura a seguir, para utilizar em uma atividade com seus alunos.\n\n![Um botão B ao lado de um retângulo dividido em seis partes iguais, numeradas de 1 a 6.](img/2025-1-a/q19.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nO dispositivo é composto por um botão (B) e um retângulo dividido em 6 partes de tamanhos iguais, numeradas de 1 a 6. Cada vez que o botão é pressionado, uma única parte do retângulo fica iluminada. Cada uma das partes com um número par tem probabilidade P de ficar iluminada e cada uma das partes com um número ímpar tem probabilidade 3P de ficar iluminada. Dessa maneira, quando o professor pressionar o botão, a probabilidade de que uma parte com um número primo fique iluminada é:",
+      "imagens": [
+        "img/2025-1-a/q19.png"
+      ],
+      "alternativas": {
+        "A": "\\(\\dfrac{7}{12}\\)",
+        "B": "\\(\\dfrac{5}{6}\\)",
+        "C": "\\(\\dfrac{3}{4}\\)",
+        "D": "\\(\\dfrac{1}{2}\\)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "\\(\\frac{5}{6} = \\frac{10}{12}\\) conta o 1 como primo (\\(3P + P + 3P + 3P\\)). Mas 1 não é primo.",
+        "C": "\\(\\frac{3}{4} = \\frac{9}{12}\\) é a chance dos ímpares (1, 3 e 5), e não dos primos.",
+        "D": "\\(\\frac{1}{2}\\) seria o resultado se todas as partes tivessem a mesma chance (3 primos em 6). Aqui os pesos são diferentes."
+      },
+      "teoria": [
+        "probabilidade",
+        "divisibilidade-e-fatoracao"
+      ],
+      "essencial": [
+        "A soma das probabilidades de todos os resultados é 1: \\(12P = 1\\), então \\(P = \\frac{1}{12}\\).",
+        "Primos de 1 a 6: 2, 3 e 5. O 1 não é primo.",
+        "Para “um ou outro” resultado, some as probabilidades: \\(P + 3P + 3P = \\frac{7}{12}\\)."
+      ],
+      "raciocinio": "1. A soma de todas as probabilidades é 1 (veja: *Probabilidade*): três ímpares com \\(3P\\) e três pares com \\(P\\) dão \\(9P + 3P = 12P = 1\\), então \\(P = \\frac{1}{12}\\).\n2. Primos de 1 a 6 (veja: *Divisibilidade e fatoração em primos*): 2, 3 e 5. O 1 não é primo, e o 2 é o único primo par.\n3. Chance de um primo: \\(P(2) + P(3) + P(5) = P + 3P + 3P = 7P = \\frac{7}{12}\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Em um noticiário humorístico brasileiro que veicula notícias fictícias engraçadas, nas redes sociais, um estudante encontrou a seguinte frase:\n\n> *Brasileiros esperam que o preço do litro de combustível tenha aumento para que na Black Friday o desconto seja de 50%.*\n\nSe considerarmos que o preço inicial do litro da gasolina é de R$ 5,60, e que o desconto de 50% na Black Friday realmente aconteça, é correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "após um aumento de 40% e um desconto de 50% na Black Friday, o preço final do combustível será 10% menor que o preço inicial.",
+        "B": "após um aumento de 60% e um desconto de 50% na Black Friday, o preço final do combustível será 10% maior que o preço inicial.",
+        "C": "após um aumento de 70% e um desconto de 50% na Black Friday, o preço final do combustível será R$ 5,88.",
+        "D": "após um aumento de 100% e um desconto de 50% na Black Friday, o preço final do combustível será exatamente igual ao preço inicial."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(1{,}40 \\cdot 0{,}50 = 0{,}70\\): o preço final é 30% menor, e não 10%. Os 10% vêm de somar +40% e −50%.",
+        "B": "\\(1{,}60 \\cdot 0{,}50 = 0{,}80\\): o preço final é 20% menor, e não 10% maior. De novo, somou as porcentagens.",
+        "C": "\\(5{,}60 \\cdot 1{,}70 \\cdot 0{,}50 = 4{,}76\\), e não R$ 5,88."
+      },
+      "teoria": [
+        "aumentos-e-descontos-sucessivos"
+      ],
+      "essencial": [
+        "Variações em sequência se multiplicam: desconto de 50% é multiplicar por 0,5.",
+        "Para voltar ao preço inicial, o fator total tem de ser 1: \\(2 \\cdot 0{,}5 = 1\\). O aumento precisa ser de 100%."
+      ],
+      "raciocinio": "1. Variações em sequência se multiplicam (veja: *Aumentos e descontos sucessivos*). Desconto de 50% é multiplicar por 0,5.\n2. Para voltar ao preço inicial, o fator total tem de ser 1: \\(\\text{fator do aumento} \\cdot 0{,}5 = 1\\). O fator do aumento é 2, ou seja, um aumento de 100%.\n3. Conferindo: \\(5{,}60 \\cdot 2 = 11{,}20\\), e metade de 11,20 é 5,60 ✓.\n\n<div data-interativo=\"25a-q20-gasolina\"></div>\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Seja 2*x* - 2*y* = 4 uma equação linear de grau 1. A representação gráfica dessa equação no plano cartesiano é:",
+      "imagens": [
+        "img/2025-1-a/q21-a.png",
+        "img/2025-1-a/q21-b.png",
+        "img/2025-1-a/q21-c.png",
+        "img/2025-1-a/q21-d.png"
+      ],
+      "alternativas": {
+        "A": "![Reta que cruza o eixo x em −2 e o eixo y em 2, subindo da esquerda para a direita.](img/2025-1-a/q21-a.png)",
+        "B": "![Reta que cruza o eixo x em −2 e o eixo y em −2, descendo da esquerda para a direita.](img/2025-1-a/q21-b.png)",
+        "C": "![Reta que cruza o eixo y em 2 e o eixo x em 2, descendo da esquerda para a direita.](img/2025-1-a/q21-c.png)",
+        "D": "![Reta que cruza o eixo y em −2 e o eixo x em 2, subindo da esquerda para a direita.](img/2025-1-a/q21-d.png)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Esta reta passa por (0, 2). Na equação: \\(2 \\cdot 0 - 2 \\cdot 2 = -4 \\neq 4\\).",
+        "B": "Esta reta passa por (−2, 0). Na equação: \\(2 \\cdot (-2) - 2 \\cdot 0 = -4 \\neq 4\\).",
+        "C": "Esta reta passa por (0, 2), que não satisfaz a equação: \\(0 - 4 = -4 \\neq 4\\)."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Para achar a reta, veja onde ela corta os eixos: \\(x = 0\\) dá \\(y = -2\\); \\(y = 0\\) dá \\(x = 2\\).",
+        "Isolando \\(y\\): \\(y = x - 2\\). Com o coeficiente de \\(x\\) positivo, a reta sobe."
+      ],
+      "raciocinio": "1. Ache os cortes nos eixos (veja: *Funções afins e retas*). Com \\(x = 0\\): \\(-2y = 4 \\Rightarrow y = -2\\), ponto (0, −2). Com \\(y = 0\\): \\(2x = 4 \\Rightarrow x = 2\\), ponto (2, 0).\n2. Isolando o \\(y\\): \\(y = x - 2\\). Como \\(a = 1 > 0\\), a reta sobe.\n\n<div data-interativo=\"25a-q21-reta\"></div>\n\n3. O único gráfico que passa por (0, −2) e (2, 0) é o D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Uma pessoa deseja comprar um ingresso para o *show* que irá ocorrer na sua cidade. O *show* terá as seguintes categorias de ingressos: pista, pista *premium*, área vip e camarote. As formas de pagamentos são: Pix, cartão de débito e cartão de crédito. Considerando que todas as opções são igualmente prováveis, qual a probabilidade da pessoa comprar o ingresso de pista e pagamento por Pix?",
+      "imagens": [],
+      "alternativas": {
+        "A": "1/12",
+        "B": "1/7",
+        "C": "1/4",
+        "D": "1/3"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "7 = 4 + 3: somou as opções em vez de multiplicar. Cada ingresso combina com cada forma de pagamento.",
+        "C": "\\(\\frac{1}{4}\\) é só a chance de escolher pista, sem levar em conta o pagamento.",
+        "D": "\\(\\frac{1}{3}\\) é só a chance de pagar com Pix, sem levar em conta o ingresso."
+      },
+      "teoria": [
+        "probabilidade",
+        "principio-multiplicativo"
+      ],
+      "essencial": [
+        "Princípio multiplicativo: 4 tipos de ingresso × 3 formas de pagamento = 12 combinações.",
+        "Probabilidade = casos favoráveis ÷ casos possíveis. Só pista + Pix serve: \\(\\frac{1}{12}\\)."
+      ],
+      "raciocinio": "1. Casos possíveis: 4 ingressos × 3 formas de pagamento = 12 combinações (veja: *Princípio multiplicativo*).\n2. Caso favorável: só um, pista + Pix.\n3. Probabilidade: \\(\\frac{1}{12}\\). Ou, multiplicando as chances de eventos independentes, \\(\\frac{1}{4} \\cdot \\frac{1}{3} = \\frac{1}{12}\\) (veja: *Probabilidade*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Uma nutricionista analisou que para 325 alunos eram consumidos 195kg de alimentos em um restaurante estudantil do IFSP. Certo dia, ela percebeu que para 210 alunos foram consumidos apenas 126kg de alimentos. Com base nessas informações, ela elaborou o seguinte gráfico que relaciona a quantidade de alimentos (em kg) e a quantidade de alunos:\n\n![Gráfico com uma reta saindo da origem. Eixo horizontal: quantidade de alunos (0 a 450). Eixo vertical: kg de alimento (0 a 300). Pontos destacados: (210, 126) e (325, 195).](img/2025-1-a/q23.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nCom base no gráfico, é possível determinar que a quantidade de alimento consumido por aluno, em gramas, é de:",
+      "imagens": [
+        "img/2025-1-a/q23.png"
+      ],
+      "alternativas": {
+        "A": "60",
+        "B": "600",
+        "C": "1.667",
+        "D": "26.460"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "60 g seria 0,06 kg por aluno. Errou a conversão: 0,6 kg = 600 g.",
+        "C": "1.667 vem de \\(325 \\div 195 \\approx 1{,}667\\) vezes 1000: dividiu alunos por kg, invertendo a razão.",
+        "D": "26.460 = \\(210 \\cdot 126\\): multiplicou em vez de dividir."
+      },
+      "teoria": [
+        "grandezas-proporcionais",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Reta que passa pela origem indica grandezas diretamente proporcionais: a razão entre elas é constante.",
+        "Alimento por aluno = kg ÷ alunos: \\(195 \\div 325 = 0{,}6\\) kg, ou seja, 600 g."
+      ],
+      "raciocinio": "1. A reta passa pela origem: alimento e alunos são diretamente proporcionais, e a razão entre eles é constante (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Alimento por aluno = kg ÷ alunos: \\(195 \\div 325 = 0{,}6\\) kg. Conferindo com o outro ponto: \\(126 \\div 210 = 0{,}6\\) ✓.\n3. Em gramas (veja: *Conversão de unidades*): \\(0{,}6 \\cdot 1000 = 600\\) g.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Uma balança digital, comum em estabelecimentos comerciais, é um instrumento que além de calcular o peso de um produto, possibilita que o usuário calcule o valor a ser pago para sua aquisição. De modo geral, além de um teclado numérico (por meio do qual o usuário pode digitar o preço do produto que está sobre ela) e outros botões com funções que envolvem, entre outras coisas, memorizar resultados. A balança possui três painéis digitais que exibem ao consumidor: (1) o peso do produto, (2) o preço do produto digitado pelo usuário responsável pela pesagem e (3) o preço a ser pago para a aquisição do produto. As imagens a seguir ajudam a ilustrar essas informações:\n\n![Imagem 1: desenho de uma balança digital.](img/2025-1-a/q24-balanca.png)\n\n<cite>Imagem 1: Representação de uma balança digital. Disponível em: https://tinyurl.com/2s37f75v. Acesso em: 18 nov. 2023.</cite>\n\n![Imagem 2: painel da balança com três visores: Peso (em quilogramas) × Preço do produto (em reais) = Preço a ser pago (em reais).](img/2025-1-a/q24-painel.png)\n\n<cite>Imagem 2: Exemplo de um painel de uma balança digital. Fonte: IFSP, 2023.</cite>\n\nAo treinar um funcionário responsável pela balança digital de uma rede de supermercados presente nos estados das regiões Sudeste e Sul, um gerente construiu um quadro com os preços de determinados produtos, a partir das informações disponíveis no portal do *Programa Brasileiro de Modernização do Mercado Hortigranjeiro* (*Prohort*):\n\n| Produtos | ES (28/07/2023) | MG (28/07/2023) | PR (28/07/2023) | RJ (28/07/2023) | RS (13/07/2023) | SC (04/07/2023) | SP (26/07/2023) |\n|---|---|---|---|---|---|---|---|\n| Abacate (kg) | R$ 1,70 | R$ 3,25 | R$ 3,50 | R$ 4,00 | R$ 3,30 | R$ 3,00 | R$ 2,50 |\n| Berinjela (kg) | R$ 3,00 | R$ 3,00 | R$ 4,20 | R$ 3,00 | R$ 5,00 | R$ 3,50 | R$ 3,60 |\n| Limão Taiti (kg) | R$ 3,50 | R$ 3,50 | R$ 3,00 | R$ 3,25 | R$ 2,80 | R$ 2,25 | R$ 2,20 |\n\n<cite>Fonte: Disponível em: http://www.ceasa.gov.br/precos.php. Os valores foram arredondados. Acesso em: 25 jan. 2023.</cite>\n\nO gerente pediu ao funcionário para calcular o valor de uma compra de 1kg de Abacate, 2 kg de Berinjela e 3 kg de Limão Taiti, utilizando uma balança digital para a obter o valor total a pagar em cada estado. Considerando os valores apresentados acima e que foi possível realizar a pesagem exata de cada uma dessas quantidades, é correto afirmar que:",
+      "imagens": [
+        "img/2025-1-a/q24-balanca.png",
+        "img/2025-1-a/q24-painel.png"
+      ],
+      "alternativas": {
+        "A": "como os preços individuais dos três produtos são diferentes em cada um dos estados, os valores totais encontrados em todas as pesagens, em cada estado, serão diferentes.",
+        "B": "o maior valor para a aquisição dos três produtos, a partir das pesagens indicadas, está em um estado em que pelo menos um produto é mais caro, quando comparado a outros estados.",
+        "C": "o menor valor para a aquisição dos três produtos, a partir das pesagens indicadas, é obtido em dois estados distintos.",
+        "D": "se em dois estados os valores totais das compras forem iguais, então os valores individuais de cada produto também serão iguais."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "MG e RJ dão o mesmo total (R$ 19,75) com preços diferentes. E a berinjela custa R$ 3,00 em ES, MG e RJ.",
+        "C": "O menor total é só o de SP (R$ 16,30). O segundo menor, SC, dá R$ 16,75.",
+        "D": "MG e RJ têm o mesmo total (R$ 19,75) com preços diferentes de abacate e limão. Um contraexemplo derruba a afirmação."
+      },
+      "teoria": [
+        "tabelas",
+        "problemas-de-logica"
+      ],
+      "essencial": [
+        "Numa tabela de preços, multiplique cada preço pela quantidade comprada e some por linha.",
+        "Uma afirmação com “todos” ou “sempre” cai com um único contraexemplo: MG e RJ têm o mesmo total."
+      ],
+      "raciocinio": "1. Total de cada estado = 1 × abacate + 2 × berinjela + 3 × limão (veja: *Leitura de tabelas*):\n\n| Estado | Abacate (×1) | Berinjela (×2) | Limão (×3) | Total |\n|---|---|---|---|---|\n| ES | 1,70 | 6,00 | 10,50 | 18,20 |\n| MG | 3,25 | 6,00 | 10,50 | 19,75 |\n| PR | 3,50 | 8,40 | 9,00 | 20,90 |\n| RJ | 4,00 | 6,00 | 9,75 | 19,75 |\n| RS | 3,30 | 10,00 | 8,40 | **21,70** |\n| SC | 3,00 | 7,00 | 6,75 | 16,75 |\n| SP | 2,50 | 7,20 | 6,60 | **16,30** |\n\n2. Maior total: RS, R$ 21,70. Lá a berinjela custa R$ 5,00, a mais cara entre os estados. B é verdadeira.\n3. MG e RJ, com o mesmo total e preços diferentes, são o contraexemplo que derruba A e D (veja: *Problemas de lógica*). C cai porque só SP tem o menor total.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Ao explicar o Teorema de Pitágoras para a turma do 9º ano de uma escola paulista, um professor de matemática escreveu na lousa:\n\n> Chamamos de terno pitagórico um conjunto de três números que satisfazem o Teorema de Pitágoras, que é uma relação matemática entre os lados de um triângulo retângulo. O teorema diz que, em um triângulo retângulo, o quadrado do valor do comprimento da hipotenusa é igual à soma dos quadrados dos valores dos comprimentos dos outros dois lados, chamados catetos.\n>\n> O Teorema de Pitágoras é representado pela seguinte equação: \\(h^2 = a^2 + b^2\\)\n\nNa sequência, o professor colocou três conjuntos de números (que seriam medidas de lados de triângulos retângulos) para que os estudantes, usando o Teorema de Pitágoras, conseguissem encontrar alguns valores desconhecidos (X, Y e Z). Os conjuntos foram:\n\n- 1º Conjunto: \\(h = \\sqrt{3}\\), \\(a = X\\) e \\(b = 1\\)\n- 2º Conjunto: \\(h = 5\\), \\(a = 1\\) e \\(b = Y\\)\n- 3º Conjunto: \\(h = Z\\), \\(a = 2\\) e \\(b = \\sqrt{3}\\)\n\nO primeiro estudante que realizou essa tarefa identificou que X, Y e Z eram números irracionais. Ao colocar esses números em ordem crescente, a sequência correta é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "X, Z, Y",
+        "B": "X, Y, Z",
+        "C": "Y, X, Z",
+        "D": "Y, Z, X"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Põe Y antes de Z, mas \\(Y = \\sqrt{24} \\approx 4{,}9\\) é maior que \\(Z = \\sqrt{7} \\approx 2{,}6\\).",
+        "C": "Y é o maior dos três (\\(\\sqrt{24}\\)), e não o menor.",
+        "D": "Inverte a ordem: Y é o maior, e X, o menor."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Pitágoras: \\(h^2 = a^2 + b^2\\). Isole a medida que falta em cada triângulo.",
+        "Para comparar raízes quadradas, compare os números de dentro: \\(\\sqrt{2} < \\sqrt{7} < \\sqrt{24}\\)."
+      ],
+      "raciocinio": "1. Use \\(h^2 = a^2 + b^2\\) em cada conjunto (veja: *Teorema de Pitágoras*):\n   - 1º: \\((\\sqrt{3})^2 = X^2 + 1^2 \\Rightarrow 3 = X^2 + 1 \\Rightarrow X = \\sqrt{2}\\);\n   - 2º: \\(5^2 = 1^2 + Y^2 \\Rightarrow Y^2 = 24 \\Rightarrow Y = \\sqrt{24}\\);\n   - 3º: \\(Z^2 = 2^2 + (\\sqrt{3})^2 = 4 + 3 \\Rightarrow Z = \\sqrt{7}\\).\n2. Para comparar raízes quadradas, compare os números de dentro (veja: *Raízes e radicais*): \\(2 < 7 < 24\\), então \\(X < Z < Y\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "Observe atentamente os triângulos ABC e DEF representados na figura a seguir:\n\n![Dois triângulos: ABC pequeno, à esquerda, e DEF maior, à direita, com a mesma forma.](img/2025-1-a/q26.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nEstes triângulos foram construídos de maneira que \\(\\overline{DE} = 2 \\cdot \\overline{AB}\\), \\(\\overline{DF} = 2 \\cdot \\overline{AC}\\) e \\(\\overline{FE} = 2 \\cdot \\overline{BC}\\). Considerando essa informação, podemos afirmar que ABC e DEF são triângulos semelhantes porque:",
+      "imagens": [
+        "img/2025-1-a/q26.png"
+      ],
+      "alternativas": {
+        "A": "as medidas dos lados do triângulo ABC são proporcionais às medidas dos lados do triângulo DEF.",
+        "B": "nenhum dos dois triângulos possui um de seus ângulos internos igual a um ângulo reto.",
+        "C": "a medida da área do triângulo DEF é quatro vezes maior que a medida da área do triângulo ABC.",
+        "D": "a medida do perímetro do triângulo DEF é o dobro da medida do perímetro do triângulo ABC."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Ter ou não ângulo reto não decide semelhança: dois triângulos sem ângulo reto podem ter formas muito diferentes.",
+        "C": "A área fica 4 vezes maior, mas isso é consequência da semelhança, e não o motivo. Áreas na razão 4 não garantem a mesma forma.",
+        "D": "Também é verdade (o perímetro dobra), mas é consequência. Triângulos de formas diferentes podem ter perímetros na razão 2."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Triângulos semelhantes têm a mesma forma: lados proporcionais e ângulos iguais.",
+        "Critério LLL: os três lados na mesma razão (aqui, 2) garantem a semelhança. Área 4 vezes maior é consequência."
+      ],
+      "raciocinio": "1. Os três lados de DEF são o dobro dos lados correspondentes de ABC: \\(\\frac{DE}{AB} = \\frac{DF}{AC} = \\frac{FE}{BC} = 2\\).\n2. Três lados proporcionais garantem a semelhança pelo critério LLL (veja: *Semelhança de triângulos*).\n3. C e D são verdadeiras, mas são efeitos da semelhança. A pergunta quer saber **por que** os triângulos são semelhantes.\n\nResposta: **A**.\n\n**Dica de prova:** quando a pergunta pede o motivo (“porque”), procure a alternativa que traz a causa, e não uma consequência que também é verdadeira.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "A circunferência representada abaixo tem centro C e diâmetro AB.\n\nSobre o raio \\(\\overline{CD}\\) construiu-se um triângulo equilátero unindo-se os pontos B e C ao ponto D, que está sobre a circunferência. Qual é a medida (em graus) do arco \\(\\overset{\\frown}{AD}\\)?\n\n![Circunferência de centro C com o diâmetro AB na vertical (A em cima, B embaixo). O ponto D está na circunferência, à esquerda e abaixo. O triângulo BCD está desenhado.](img/2025-1-a/q27.png)\n\n<cite>Fonte: IFSP, 2023.</cite>",
+      "imagens": [
+        "img/2025-1-a/q27.png"
+      ],
+      "alternativas": {
+        "A": "60º",
+        "B": "90º",
+        "C": "120º",
+        "D": "180º"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "60° é o arco DB, que corresponde ao ângulo do triângulo equilátero no centro C, e não o arco AD.",
+        "B": "90° seria o caso se CD fosse perpendicular a AB. Não é: o ângulo DCB mede 60°.",
+        "D": "180° é a semicircunferência inteira, de A até B."
+      },
+      "teoria": [
+        "circulo-e-circunferencia",
+        "triangulos"
+      ],
+      "essencial": [
+        "Triângulo equilátero tem três ângulos de 60°. Como CB e CD são raios, BCD é equilátero.",
+        "O arco mede o mesmo que seu ângulo central; o diâmetro divide a circunferência em dois arcos de 180°."
+      ],
+      "raciocinio": "1. CB e CD são raios, e o triângulo BCD é equilátero: todos os ângulos dele medem 60° (veja: *Triângulos: classificação e propriedades*). Então o ângulo central \\(D\\hat{C}B\\) mede 60°, e o arco DB também (veja: *Círculo e circunferência*).\n2. AB é diâmetro: o arco de A até B, passando por D, mede 180°.\n3. Arco AD = \\(180^\\circ - 60^\\circ = 120^\\circ\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "> **O Brasil sobe a rampa do Planalto.**\n>\n> <cite>Fonte: https://www.cartacapital.com.br/politica/o-brasil-sobe-a-rampa-do-planalto. Acesso em: 26 set. 2023.</cite>\n\nEste foi o título de muitos jornais brasileiros no dia primeiro de janeiro de 2023, devido à posse do novo presidente da República. A imagem a seguir mostra a rampa citada no título da matéria e destaca um triângulo ABC.\n\n![Foto da rampa do Palácio do Planalto com um triângulo retângulo desenhado: o cateto vertical AC mede 4 m e o cateto horizontal AB mede 12√7 m; a hipotenusa BC acompanha a rampa.](img/2025-1-a/q28.jpg)\n\n<cite>Fonte: https://pt.wikipedia.org/wiki/Pal%C3%A1cio_do_Planalto. Acesso em: 26 set. 2023.</cite>\n\nSupondo que o triângulo ABC é retângulo em A e tem as medidas indicadas na figura (AC = 4 m e AB = \\(12\\sqrt{7}\\) m), quantos metros percorrerá uma pessoa que caminha em linha reta ao longo da rampa do planalto, do ponto B ao ponto C, indicados na figura? Use: \\((12\\sqrt{7}\\ \\text{m})^2 = 1008\\)",
+      "imagens": [
+        "img/2025-1-a/q28.jpg"
+      ],
+      "alternativas": {
+        "A": "1024 m",
+        "B": "1008 m",
+        "C": "32 m",
+        "D": "16 m"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "1024 é \\(BC^2\\), e não BC. Faltou tirar a raiz quadrada.",
+        "B": "1008 é só \\(AB^2\\), o quadrado de um dos catetos.",
+        "D": "16 é \\(4^2\\), o quadrado do outro cateto. Não é a hipotenusa."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "No triângulo retângulo, a hipotenusa é o lado oposto ao ângulo reto: aqui, a rampa BC.",
+        "\\((12\\sqrt{7})^2 = 144 \\cdot 7 = 1008\\). Depois, \\(\\sqrt{1024} = 32\\), porque \\(32^2 = 1024\\)."
+      ],
+      "raciocinio": "1. O ângulo reto está em A, então a hipotenusa é o lado oposto, BC: a própria rampa (veja: *Teorema de Pitágoras*).\n2. \\(BC^2 = AC^2 + AB^2 = 4^2 + 1008 = 16 + 1008 = 1024\\).\n3. \\(BC = \\sqrt{1024}\\). Fatorando, \\(1024 = 2^{10}\\), então \\(\\sqrt{1024} = 2^5 = 32\\) m (veja: *Raízes e radicais*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Durante o período de sua vida acadêmica, foi estudado que uma grandeza é tudo aquilo que pode ser medido e calculado. Volume, massa, comprimento, velocidade e o tempo são alguns exemplos de grandezas. Há situações em que duas ou mais grandezas podem estar relacionadas, sendo essa relação de proporcionalidade direta, inversa ou sem relação proporcional.\n\nRefletindo sobre a variação de proporcionalidade, resolva: um carro com velocidade de 60 km/h pode fazer certo percurso em 4 horas. Se a velocidade do carro aumentasse para 80 km/h, em quantas horas ele faria o mesmo percurso?",
+      "imagens": [],
+      "alternativas": {
+        "A": "5,3",
+        "B": "3,0",
+        "C": "2,0",
+        "D": "\\(1{,}\\overline{3}\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(5{,}3 \\approx \\frac{80 \\cdot 4}{60}\\): tratou como diretamente proporcional. Mas mais velocidade significa menos tempo.",
+        "C": "Em 2 h a 80 km/h, o carro faria só 160 km, e o percurso tem 240 km.",
+        "D": "\\(1{,}\\overline{3} = \\frac{80}{60}\\): é só a razão entre as velocidades, não o tempo."
+      },
+      "teoria": [
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Para o mesmo percurso, velocidade e tempo são inversamente proporcionais: o produto (a distância) é constante.",
+        "\\(60 \\cdot 4 = 240\\) km; a 80 km/h, \\(240 \\div 80 = 3\\) h."
+      ],
+      "raciocinio": "1. Para o mesmo percurso, velocidade e tempo são inversamente proporcionais: o produto (a distância) fica constante (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Distância: \\(60 \\cdot 4 = 240\\) km.\n3. A 80 km/h: \\(240 \\div 80 = 3\\) h.\n\n<div data-interativo=\"25a-q29-velocidade\"></div>\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Para responder uma questão encaminhada por seu professor de matemática, um estudante recorreu a um chatbot online de inteligência artificial. Ele digitou “Quais são as unidades de armazenamento de informações?” e obteve a seguinte resposta:\n\n> As unidades de armazenamento de informações são dispositivos ou meios utilizados para armazenar dados, seja em formato digital ou analógico. Elas são usadas para guardar arquivos, programas, documentos, mídias e qualquer tipo de informação que precise ser preservada. As principais unidades de armazenamento de informações incluem:\n>\n> **Bit:** A menor unidade de informação em um computador, representada como 0 ou 1.\n> **Byte:** É composto por 8 bits e pode representar um caractere, como uma letra, número ou símbolo.\n> **Kilobyte (KB):** Equivale a 1024 bytes, ou seja, \\(2^{10}\\) bytes.\n> **Megabyte (MB):** Equivale a 1024 kilobytes ou \\(2^{20}\\) bytes. É comumente usado para descrever o tamanho de arquivos e documentos.\n> **Gigabyte (GB):** Equivale a 1024 megabytes ou \\(2^{30}\\) bytes. É frequentemente utilizado para medir a capacidade de armazenamento de dispositivos como pen drives, discos rígidos e cartões de memória.\n> **Terabyte (TB):** Equivale a 1024 gigabytes ou \\(2^{40}\\) bytes. É comum encontrar discos rígidos com capacidades na faixa dos terabytes.\n> **Petabyte (PB):** Equivale a 1024 terabytes ou \\(2^{50}\\) bytes. É uma unidade de armazenamento de dados muito grande, geralmente associada a centros de dados e armazenamento em nuvem.\n> **Exabyte (EB):** Equivale a 1024 petabytes ou \\(2^{60}\\) bytes. É uma quantidade massiva de dados e geralmente é associada a grandes operações de armazenamento de dados.\n> **Zettabyte (ZB):** Equivale a 1024 exabytes ou \\(2^{70}\\) bytes. A quantidade de dados que atingem essa escala é difícil de imaginar.\n> **Yottabyte (YB):** Equivale a 1024 zettabytes ou \\(2^{80}\\) bytes. Atualmente, ainda não há dispositivos de armazenamento comercial que alcancem essa magnitude.\n>\n> Essas unidades de armazenamento são usadas para medir a quantidade de dados que podem ser armazenados em diferentes dispositivos e sistemas de computadores. É importante notar que o padrão binário é utilizado na computação, onde cada nível sucessivo é multiplicado por 1024, devido à natureza da base binária dos sistemas de computador. Isso pode levar a algumas diferenças quando comparado ao sistema decimal, que é utilizado em muitas outras áreas.\n\nNa tentativa de estabelecer relações entre as quantidades de bytes das unidades de medida presentes na resposta apresentada pelo chatbot online de inteligência artificial, o estudante escreveu quatro afirmações e entregou para seu professor de matemática. Das quatro, a única afirmação correta identificada pelo professor foi:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Dois Terabytes têm \\(2^{80}\\) bytes.",
+        "B": "Um Gigabyte tem a metade da quantidade de bytes de um Exabyte.",
+        "C": "Um Megabyte tem o dobro da quantidade de bytes de um Kilobyte.",
+        "D": "Um Petabyte tem mais bytes que a soma de um Gigabyte com um Terabyte."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(2 \\cdot 2^{40} = 2^{41}\\) bytes. Multiplicar por 2 soma 1 ao expoente; \\(2^{80}\\) seria \\((2^{40})^2\\).",
+        "B": "\\(2^{60} \\div 2^{30} = 2^{30}\\): o Exabyte tem mais de 1 bilhão de vezes os bytes do Gigabyte, e não o dobro.",
+        "C": "\\(2^{20} \\div 2^{10} = 2^{10} = 1024\\): o Megabyte tem 1024 vezes os bytes do Kilobyte, e não o dobro."
+      },
+      "teoria": [
+        "propriedades-de-potencias"
+      ],
+      "essencial": [
+        "Multiplicação de potências de mesma base: somam-se os expoentes. \\(2 \\cdot 2^{40} = 2^{41}\\), e não \\(2^{80}\\).",
+        "Divisão de potências de mesma base: subtraem-se os expoentes. EB ÷ GB = \\(2^{60 - 30} = 2^{30}\\).",
+        "\\(2^{30} + 2^{40}\\) é menor que \\(2^{41}\\), muito menor que \\(2^{50}\\)."
+      ],
+      "raciocinio": "Use as quantidades do texto (KB = \\(2^{10}\\), MB = \\(2^{20}\\), GB = \\(2^{30}\\), TB = \\(2^{40}\\), PB = \\(2^{50}\\), EB = \\(2^{60}\\) bytes) e as propriedades das potências (veja: *Propriedades das potências*):\n\n1. A: \\(2 \\cdot 2^{40} = 2^{41} \\neq 2^{80}\\). Falsa.\n2. B: o Exabyte é \\(2^{30}\\) vezes o Gigabyte. Falsa.\n3. C: o Megabyte é \\(2^{10}\\) vezes o Kilobyte. Falsa.\n4. D: \\(2^{30} + 2^{40} < 2^{40} + 2^{40} = 2^{41}\\), e \\(2^{41}\\) é bem menor que \\(2^{50}\\). Verdadeira.\n\nResposta: **D**.",
+      "interativo": null
+    }
+  ]
+}

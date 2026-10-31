@@ -1,0 +1,13 @@
+{
+  "id": "resenha-critica",
+  "titulo": "Resenha crítica",
+  "materia": "Português",
+  "grupo": "Gêneros textuais",
+  "texto": "**Resenha crítica** é o texto que **apresenta** uma obra (filme, livro, disco, série, peça, exposição) e a **avalia**.\n\n**Partes da resenha:**\n\n1. **Identificação da obra:** título, autor ou diretor, duração, gênero.\n2. **Resumo:** do que a obra trata.\n3. **Avaliação:** o que funciona e o que não funciona, na opinião do resenhista.\n\nAs partes costumam se misturar: a resenha alterna trechos que **descrevem** a obra com trechos que a **julgam**.\n\n| Descrição | Avaliação |\n|---|---|\n| “O filme tem cerca de 80 minutos.” | “O filme se arrasta nos 80 minutos.” |\n| “O livro é narrado pela protagonista.” | “A narração da protagonista é o ponto alto do livro.” |\n\n**Resenha × resumo:** o resumo só condensa o conteúdo, sem opinião. A resenha resume **e** avalia.",
+  "videos": [
+    {
+      "titulo": "Resenha, como escrever? - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=zUFccId5eGU"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "razoes-especiais",
+  "titulo": "Razões especiais: velocidade, densidade e escala",
+  "materia": "Matemática",
+  "grupo": "Razão, proporção e porcentagem",
+  "texto": "Algumas grandezas são definidas por uma **divisão** entre outras duas. Saber a fórmula e as unidades evita confusões.\n\n| Razão | Fórmula | Unidade | Para achar o “total” |\n|---|---|---|---|\n| **Velocidade média** | \\(\\dfrac{\\text{distância}}{\\text{tempo}}\\) | km/h, m/s | distância = velocidade × tempo |\n| **Densidade demográfica** | \\(\\dfrac{\\text{habitantes}}{\\text{área}}\\) | hab/km² | habitantes = densidade × área |\n| **Escala** | \\(\\dfrac{\\text{medida no desenho}}{\\text{medida real}}\\) | 1 : 100 000 | real = desenho × 100 000 |\n| **Consumo** | \\(\\dfrac{\\text{distância}}{\\text{litros}}\\) | km/L | litros = distância ÷ consumo |\n| **Preço por unidade** | \\(\\dfrac{\\text{preço}}{\\text{quantidade}}\\) | R$/kg | preço = preço por kg × massa |\n\n**Densidade não é população.** Um estado pequeno e muito ocupado (densidade alta) pode ter menos habitantes que um estado grande e pouco ocupado. Para comparar populações, multiplique cada densidade pela área.\n\n**Variação de uma quantidade entre duas datas:** se a área não muda, a variação de habitantes é \\((\\text{densidade nova} - \\text{densidade antiga}) \\times \\text{área}\\).\n\n**Velocidade e tempo:** cuidado com as unidades. Se a velocidade está em km/h, o tempo tem de estar em **horas**: \\(39\\ \\text{min} = \\frac{39}{60}\\ \\text{h} = 0{,}65\\ \\text{h}\\) (veja *Conversão de unidades*). Para o mesmo percurso, velocidade e tempo são inversamente proporcionais (veja *Grandezas diretamente e inversamente proporcionais*).\n\n**Ritmo constante:** “a cada metro, 40 segundos” é uma razão (40 s/m). O total é a razão vezes a quantidade: \\(1000\\ \\text{m} \\cdot 40\\ \\text{s/m} = 40\\,000\\ \\text{s}\\).",
+  "videos": [
+    {
+      "titulo": "Razão e proporção (1/21) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=zXtC6PgE9uc"
+    },
+    {
+      "titulo": "Manja de escala? #312 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=MK6sry_qKiM"
+    }
+  ]
+}

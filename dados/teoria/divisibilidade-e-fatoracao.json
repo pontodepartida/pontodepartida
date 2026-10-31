@@ -1,0 +1,17 @@
+{
+  "id": "divisibilidade-e-fatoracao",
+  "titulo": "Divisibilidade e fatoração em primos",
+  "materia": "Matemática",
+  "grupo": "Números e operações",
+  "texto": "**Número primo** tem exatamente dois divisores: 1 e ele mesmo. Os primeiros são 2, 3, 5, 7, 11, 13, 17, 19, 23, 29… O **1 não é primo** (tem um divisor só), e o **2 é o único primo par**.\n\n**Critérios de divisibilidade:**\n\n| Divisível por | Quando |\n|---|---|\n| 2 | termina em 0, 2, 4, 6 ou 8 |\n| 3 | a soma dos algarismos é divisível por 3 |\n| 5 | termina em 0 ou 5 |\n| 9 | a soma dos algarismos é divisível por 9 |\n| 10 | termina em 0 |\n| 7, 11, 13… | faça a divisão |\n\n**Fatoração em primos:** divida o número pelo menor primo possível e repita com o quociente até chegar a 1.\n\n\\[\n\\begin{array}{r|l}\n1024 & 2 \\\\\n512 & 2 \\\\\n\\vdots & \\vdots \\\\\n2 & 2 \\\\\n1 &\n\\end{array}\n\\qquad 1024 = 2^{10}\n\\]\n\n**Até onde testar:** para saber se um número \\(n\\) é primo, basta testar os primos até \\(\\sqrt{n}\\). Para 221, como \\(\\sqrt{221} \\approx 14{,}9\\), testamos 2, 3, 5, 7, 11 e 13, e \\(221 = 13 \\cdot 17\\).\n\n**Para que serve:** a fatoração mostra **todos** os jeitos de escrever um número como produto. Se \\(221 = 13 \\cdot 17\\) e os dois são primos, os únicos produtos possíveis são \\(1 \\cdot 221\\) e \\(13 \\cdot 17\\). Ela também ajuda a simplificar frações e a calcular raízes: \\(\\sqrt{1024} = \\sqrt{2^{10}} = 2^5 = 32\\).",
+  "videos": [
+    {
+      "titulo": "Nunca foi tão fácil fatorar! - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=U9JjVBi9--o"
+    },
+    {
+      "titulo": "Números primos – A Matemática é Linda #29 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=UOdqtiXrEnk"
+    }
+  ]
+}

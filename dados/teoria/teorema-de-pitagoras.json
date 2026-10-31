@@ -1,0 +1,17 @@
+{
+  "id": "teorema-de-pitagoras",
+  "titulo": "Teorema de Pitágoras",
+  "materia": "Matemática",
+  "grupo": "Teorema de Pitágoras e relações métricas",
+  "texto": "Em todo **triângulo retângulo**, o quadrado da **hipotenusa** (o lado oposto ao ângulo reto, o maior lado) é igual à soma dos quadrados dos **catetos** (os lados que formam o ângulo reto).\n\n\\[\\text{hipotenusa}^2 = \\text{cateto}^2 + \\text{cateto}^2 \\qquad a^2 = b^2 + c^2\\]\n\n**Para achar a hipotenusa:** some os quadrados dos catetos e tire a raiz. Catetos 6 e 8: \\(\\sqrt{36 + 64} = \\sqrt{100} = 10\\).\n\n**Para achar um cateto:** subtraia. \\(b^2 = a^2 - c^2\\).\n\n**Não esqueça a raiz:** o teorema dá o **quadrado** do lado. Se \\(BC^2 = 1024\\), então \\(BC = \\sqrt{1024} = 32\\).\n\n**Ternos pitagóricos** (lados inteiros) mais comuns: 3, 4, 5; 6, 8, 10; 5, 12, 13; 8, 15, 17. Múltiplos de um terno também são ternos.\n\n**Diagonal do quadrado** de lado \\(\\ell\\): \\(d^2 = \\ell^2 + \\ell^2 = 2\\ell^2\\), então \\(d = \\ell\\sqrt{2}\\). Com \\(\\ell = 1\\), \\(d = \\sqrt{2}\\).\n\n**Diagonal do retângulo** \\(b \\times h\\): \\(d = \\sqrt{b^2 + h^2}\\).\n\n**Onde aparece um triângulo retângulo:** um poste quebrado (a parte em pé, o chão e a parte tombada), uma escada encostada na parede, uma rampa (altura, distância no chão e a própria rampa), a altura de um triângulo isósceles (que divide a base ao meio).\n\n**Pitágoras ao contrário:** se \\(a^2 = b^2 + c^2\\) com \\(a\\) o maior lado, o triângulo é retângulo. Se não vale a igualdade, não é.\n\n**Relações métricas no triângulo retângulo** (altura \\(h\\) relativa à hipotenusa \\(a\\), que fica dividida em \\(m\\) e \\(n\\)):\n\n| Relação | |\n|---|---|\n| \\(h^2 = m \\cdot n\\) | a altura ao quadrado é o produto das projeções |\n| \\(b \\cdot c = a \\cdot h\\) | produto dos catetos = hipotenusa × altura |\n| \\(b^2 = a \\cdot n\\) e \\(c^2 = a \\cdot m\\) | cada cateto ao quadrado é a hipotenusa × a projeção dele |",
+  "videos": [
+    {
+      "titulo": "O Teorema de Pitágoras – tá, mas por quê? #5 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=3076a6BAThU"
+    },
+    {
+      "titulo": "Teorema de Pitágoras: aplicação #10 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=n3AgPQoALDY"
+    }
+  ]
+}

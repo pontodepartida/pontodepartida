@@ -1,0 +1,17 @@
+{
+  "id": "coesao-referencial",
+  "titulo": "Coesão referencial: retomar e anunciar",
+  "materia": "Português",
+  "grupo": "Coesão e coerência",
+  "texto": "**Coesão** é o conjunto de recursos que ligam as partes de um texto. Na **coesão referencial**, uma palavra aponta para algo que já foi dito ou que ainda vai ser dito, evitando repetições.\n\n**Recursos mais comuns:**\n\n| Recurso | Exemplo |\n|---|---|\n| pronome pessoal | “Os alunos chegaram. **Eles** estavam cansados.” |\n| pronome demonstrativo | “Choveu a semana toda. **Isso** atrasou a obra.” |\n| pronome relativo | “O livro **que** comprei é ótimo.” |\n| sinônimo ou expressão equivalente | “A escritora lançou o livro. **A autora** deu autógrafos.” |\n| palavra geral | “Comprei maçã, pera e uva. **As frutas** estavam caras.” |\n| omissão (elipse) | “Ana chegou cedo e [Ana] saiu tarde.” |\n\n**Retomar ou anunciar:**\n\n- **Anáfora** (retomada): a palavra aponta para trás. *Esse, essa, isso* costumam retomar.\n- **Catáfora** (anúncio): a palavra aponta para frente. *Este, esta, isto* costumam anunciar. “O problema é **este**: falta dinheiro.”\n\n**O demonstrativo pode retomar uma ideia inteira**, e não só uma palavra. Em “Choveu a semana toda. Isso atrasou a obra”, *isso* = “ter chovido a semana toda”.\n\n**Teste:** troque o pronome pelo trecho que você acha que ele retoma. Se a frase continuar fazendo sentido, você acertou.",
+  "videos": [
+    {
+      "titulo": "Anáfora x catáfora - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=iIQU2sb8GZU"
+    },
+    {
+      "titulo": "Coesão e coerência - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=IIU6i3UXyi0"
+    }
+  ]
+}

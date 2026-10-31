@@ -1,0 +1,916 @@
+{
+  "id": "ps-2024-1-b",
+  "nome": "PS 2024.1 – Prova B",
+  "edital": "Edital nº 449/2023 – Prova B (tarde)",
+  "fonteGabarito": "Gabarito final – Prova B – Tarde – Edital 449 – PS 2024.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "![Tirinha do Garfield em três quadros. Jon está no sofá com Garfield, que assiste à televisão.](img/2024-1-b/q01.jpg \"Quadro 1 – Jon: A que você está assistindo? Garfield (pensando): Sei lá. | Quadro 2 – Jon: Quem é o apresentador? Garfield (pensando): Sei lá! | Quadro 3 – Jon: Qual é o enredo? Garfield (pensando): Estou vendo televisão! Pare de me fazer pensar!\")\n\n<cite>Disponível em: &lt;https://i.pinimg.com/originals/b6/c5/c0/b6c5c044432ee5e13ccba22ea6ebba9b.jpg&gt;. Acesso em: 31 jul. 2023.</cite>\n\nConsiderando a regência verbal do verbo assistir, a resposta à pergunta de Jon no primeiro quadrinho que segue a norma padrão da língua portuguesa é:",
+      "imagens": [
+        "img/2024-1-b/q01.jpg"
+      ],
+      "alternativas": {
+        "A": "Estou assistindo uns filmes de terror.",
+        "B": "Estou assistindo à uma novela que estreiou ontem.",
+        "C": "Estou assistindo a uma série canadense.",
+        "D": "Estou assistindo à umas séries que você indicou."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Falta a preposição: na norma-padrão, *assistir* no sentido de ver pede *a* (“assistindo **a** uns filmes”).",
+        "B": "Tem dois erros: não há crase antes de artigo indefinido (*uma*), e o passado de *estrear* é **estreou**.",
+        "D": "Não há crase antes de *umas*, que é artigo indefinido. O certo é “assistindo **a** umas séries”."
+      },
+      "teoria": [
+        "regencia-verbal",
+        "crase"
+      ],
+      "essencial": [
+        "*Assistir*, no sentido de ver, pede a preposição *a*: “assistir **a** uma série”.",
+        "Crase é a fusão da preposição *a* com o artigo definido *a*. Antes de *uma* (artigo indefinido), não há crase."
+      ],
+      "raciocinio": "1. Na pergunta “A que você está assistindo?”, *assistir* = ver, sentido que exige a preposição *a* (veja: *Regência verbal*). Isso elimina a A, que não tem preposição.\n2. B e D usam crase antes de *uma* e *umas*. Crase é a fusão da preposição com o artigo **definido** feminino; antes de artigo indefinido, ela é impossível (veja: *Crase*).\n3. Sobra a C: “assistindo **a** uma série”, com a preposição e sem crase.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Os trechos a seguir foram retirados de **Os Estatutos do homem**, de Thiago de Mello.\n\n> ### Os Estatutos do Homem\n> ### (Ato Institucional Permanente)\n>\n> **Artigo I**\n> Fica decretado que agora vale a verdade.\n> agora vale a vida,\n> e de mãos dadas,\n> marcharemos todos pela vida verdadeira.\n> (…)\n>\n> **Artigo VII**\n> Por decreto irrevogável fica estabelecido\n> o reinado permanente da justiça e da claridade,\n> e a alegria será uma bandeira generosa\n> para sempre desfraldada na alma do povo.\n> (…)\n>\n> **Artigo X**\n> Fica permitido a qualquer pessoa,\n> qualquer hora da vida,\n> uso do traje branco.\n> (…)\n>\n> **Artigo XII**\n> Decreta-se que nada será obrigado\n> nem proibido,\n> tudo será permitido,\n> inclusive brincar com os rinocerontes\n> e caminhar pelas tardes\n> com uma imensa begônia na lapela\n> (…)\n>\n> <cite>MELLO, Thiago. **Os Estatutos do homem**. São Paulo: Martins Fontes, 1977.</cite>\n\nO poema de Mello, como pode ser observado a partir de sua leitura, mostra-se diferenciado ao apresentar semelhanças com os chamados gêneros textuais normativos (ou legais). Essa afirmação pode ser verificada por meio das seguintes caraterísticas, comuns a ambos:",
+      "imagens": [],
+      "alternativas": {
+        "A": "A divisão do texto em versos e a ausência de frases exclamativas e interrogativas.",
+        "B": "A divisão do texto em seções (intituladas “artigos” no poema) ordenadas numericamente e o uso da terceira pessoa (do singular, no caso do poema) como forma de universalizar o discurso do texto.",
+        "C": "A divisão do texto em versos e o uso de substantivos e adjetivos normalmente usados em textos normativos (ou legais), como “irrevogável” “luriss”, “decreto”, “irrevogável” “permitido” e “proibido”.",
+        "D": "O uso da terceira pessoa do singular como forma de universalizar o discurso do texto e a ausência de verbos no Futuro do Presente do Modo Indicativo, tempo verbal normalmente usado em textos normativos."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Leis não são escritas em versos, então essa característica não é comum aos dois. E a ausência de exclamações não liga o poema às leis.",
+        "C": "De novo os versos, que só o poema tem. Além disso, a lista repete “irrevogável” e traz “luriss”, palavra que nem aparece no poema.",
+        "D": "O poema usa muito o futuro do presente (“marcharemos”, “será”), e as leis também (“será punido”). A alternativa nega algo que existe nos dois."
+      },
+      "teoria": [
+        "textos-normativos",
+        "intertextualidade"
+      ],
+      "essencial": [
+        "Textos normativos têm marcas próprias: artigos numerados, 3ª pessoa impessoal (“Fica decretado”) e verbos no futuro.",
+        "Intertextualidade: o poema imita a forma da lei para “decretar” verdade, justiça e alegria."
+      ],
+      "raciocinio": "1. A pergunta quer características **comuns aos dois**: ao poema e aos textos normativos. Teste cada uma nos dois (veja: *Textos normativos: leis, estatutos e regulamentos*).\n2. Versos são só do poema: isso elimina A e C.\n3. D nega o futuro do presente, que aparece no poema e nas leis.\n4. B traz duas marcas comuns: seções numeradas (Artigo I, VII, X, XII) e a 3ª pessoa impessoal (“Fica decretado”, “Decreta-se”), que faz a regra valer para todos. O poema imita a forma da lei para “decretar” verdade, justiça e alegria (veja: *Intertextualidade*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Discurso direto e indireto",
+      "enunciado": "Leia o texto a seguir:\n\n> ### Especialista em meio ambiente analisa impactos em Brumadinho\n> *Entre os pontos discutidos, vida do Rio Paraopeba e migração da fauna local são as maiores preocupações*\n>\n> Após uma semana do rompimento da barragem do complexo Córrego do Feijão, da mineradora Vale, em Brumadinho, as notícias referentes aos impactos da destruição causada pelos rejeitos de minérios na fauna e na flora local ainda não são muito claras, mesmo sendo óbvio que os prejuízos ambientais na cidade são incontáveis. O Jornal da USP no Ar conversou sobre o assunto com Pedro Luiz Côrtes, professor da Escola de Comunicações e Artes (ECA) da USP e do Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente (IEE) da Universidade, além de ser coordenador da Rede Internacional de Estudos Sobre Meio Ambiente e Sustentabilidade e de participar do Projeto Temático Fapesp Governança Ambiental da Macrometrópole Paulista Face à Variabilidade Climática.\n>\n> O professor Côrtes aponta que uma das consequências já perceptíveis está no Rio Paraopeba, que passa pela cidade de Brumadinho. “Com base na experiência de Mariana, é possível verificar certos impactos. O rio, no caso, sofre um aporte de sedimentos bastante significativo e isso provoca — literalmente — em algumas áreas um soterramento dos trechos menores, provoca uma turbidez e também prejudica a oxigenação. Isso inviabiliza o aproveitamento desse rio para a irrigação de cultivos, para o uso da população rural e urbana.” Além disso, Côrtes aponta uma outra preocupação com esse impacto no rio: “Vai levar a uma grande mortandade de peixes. Então, o rio, praticamente, perde sua vida. Se torna um rio morto”.\n>\n> No solo, por sua vez, a camada de lama de rejeitos de minério irá inviabilizar a germinação. “Aquela camada superficial que havia, aquela camada organicamente mais ativa do solo, ela deixa de existir, simplesmente pelo fato de ela estar soterrada. Isso dificulta a recomposição da flora nativa. Ao longo dos anos, nós teremos o surgimento de plantas, mas não com a mesma composição da flora que nós tínhamos originalmente.”\n>\n> A fauna, segundo o especialista, já sai prejudicada por essa situação devido à falta de alimentos com que antes ela poderia contar. “Além da mortandade grande de espécies por conta da lama, você tem uma migração das espécies restantes. Não vão encontrar alimento na região, então vão buscar em outro local.” Nesse cenário, com a forte migração de pássaros e, consequentemente, elevação da presença de insetos — muitos deles transmissores de doenças –, a tendência é um aumento de epidemias nas áreas rurais.\n>\n> <cite>Disponível em: &lt;https://jornal.usp.br/?p=221938&gt;, publicado em 01 fev. 2019. Acesso em: 31 jul. 2023.</cite>\n\nQual das frases reescritas abaixo não reflete o conteúdo presente nas citações diretas das falas do professor Côrtes encontradas no texto?",
+      "imagens": [],
+      "alternativas": {
+        "A": "O aumento do número de insetos decorrente da elevada migração de aves influencia o crescimento de epidemias.",
+        "B": "As espécies que não morreram por causa da lama sofrem de falta de alimento na região, o que as obriga a migrarem.",
+        "C": "Dentre os impactos que são observados com base na experiência de Mariana, há o soterramento de algumas áreas dos trechos menores do rio devido ao grande fluxo de sedimentos, o que gera uma turbidez e prejuízo para a oxigenação da água. Como resultado, o rio se torna impróprio para o uso da população e para sua utilização na agricultura.",
+        "D": "A camada do solo organicamente mais ativa e mais superficial foi soterrada e não mais existe, o que torna mais difícil que a flora nativa se recomponha, dando lugar, no decorrer do tempo, ao surgimento de novas plantas que não mais expressam a composição original da flora."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Reflete a fala do professor: “você tem uma migração das espécies restantes. Não vão encontrar alimento na região, então vão buscar em outro local.”",
+        "C": "Reescreve a primeira fala entre aspas: sedimentos, soterramento dos trechos menores, turbidez, oxigenação e o rio sem uso para irrigação e para a população.",
+        "D": "Reescreve a fala sobre o solo: a camada ativa some soterrada, e a flora que surgir não terá a composição original."
+      },
+      "teoria": [
+        "discurso-direto-e-indireto"
+      ],
+      "essencial": [
+        "Citação direta é a fala reproduzida entre aspas; o resto é texto do jornalista.",
+        "A pergunta tem **não**: procure a informação que está no texto, mas fora das aspas, como a das epidemias."
+      ],
+      "raciocinio": "1. A pergunta tem um “não” e fala em **citações diretas**: procure a alternativa que não vem das falas entre aspas (veja: *Discurso direto, indireto e indireto livre*).\n2. As falas do professor entre aspas tratam do rio (sedimentos, turbidez, mortandade de peixes), do solo (camada ativa soterrada) e da fauna (migração por falta de alimento). B, C e D reescrevem essas falas.\n3. A fala de insetos e epidemias. A informação está no texto, mas **fora das aspas** (“Nesse cenário, […] a tendência é um aumento de epidemias nas áreas rurais”): é texto do jornalista.\n\nResposta: **A**.\n\n**Dica de prova:** quando a pergunta fala em citações diretas, procure as aspas. Uma informação verdadeira do texto, mas que está fora delas, é a armadilha.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "A Lei n. 8.069, de 1990, foi um importante dispositivo legal promulgado. A seguir há um trecho do Capítulo I, Das Disposições Preliminares da Lei:\n\n> *Art. 3º A criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade.*\n>\n> *Parágrafo único. Os direitos enunciados nesta Lei aplicam-se a todas as crianças e adolescentes, sem discriminação de nascimento, situação familiar, idade, sexo, raça, etnia ou cor, religião ou crença, deficiência, condição pessoal de desenvolvimento e aprendizagem, condição econômica, ambiente social, região e local de moradia ou outra condição que diferencie as pessoas, as famílias ou a comunidade em que vivem.*\n>\n> <cite>Disponível: &lt;https://www.planalto.gov.br/ccivil_03/leis/l8069.htm&gt;. Acesso em: 12 jul. 2023.</cite>\n\nA partir do excerto, é possível identificar a quem a lei pretende amparar e proteger. Assinale a alternativa que melhor identifica a forma como a Lei é reconhecida:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Estatuto da Criança e adolescente.",
+        "B": "Estatuto da Pessoa Idosa.",
+        "C": "Estatuto da Pessoa com deficiência.",
+        "D": "Constituição Federal."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O Estatuto da Pessoa Idosa protege quem tem 60 anos ou mais. O trecho fala o tempo todo de crianças e adolescentes.",
+        "C": "“Deficiência” aparece no texto só na lista de discriminações proibidas. O público protegido continua sendo criança e adolescente.",
+        "D": "A Constituição vale para todos os cidadãos e não é a “Lei n. 8.069”. O trecho se dirige a um grupo específico."
+      },
+      "teoria": [
+        "textos-normativos"
+      ],
+      "essencial": [
+        "A lei diz a quem se aplica logo no sujeito: “**A criança e o adolescente** gozam de todos os direitos”.",
+        "A lei que reúne os direitos desse grupo é o ECA, o Estatuto da Criança e do Adolescente."
+      ],
+      "raciocinio": "1. Procure quem recebe os direitos: “**A criança e o adolescente** gozam de todos os direitos fundamentais…”.\n2. O parágrafo único repete: os direitos “aplicam-se a todas as **crianças e adolescentes**”.\n3. A lei que reúne os direitos desse grupo é o Estatuto da Criança e do Adolescente (veja: *Textos normativos: leis, estatutos e regulamentos*).\n\nResposta: **A**.\n\n**Dica de prova:** palavras que aparecem numa lista (como “idade” e “deficiência” no parágrafo único) não indicam o público da lei. O público está no sujeito da frase principal.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia abaixo os parágrafos iniciais de dois textos jornalísticos para responder à questão.\n\n#### Texto 1\n> Empregadas domésticas conquistaram só em abril de 2013 direitos que outros trabalhadores já tinham décadas antes. A vitória teve gênero (feminino) e cor (negra), sendo um marco histórico num país desigual, que ainda reproduz dinâmicas de seu passado escravista. Em uma década, a PEC das Domésticas gerou resultados, mas brechas nas regras e falta de fiscalização, assim como de conscientização dos empregadores, ainda mantêm excluída da formalidade boa parte de quem integra a categoria.\n>\n> <cite>CRUZ, I. Trabalho doméstico: direitos tardios num país desigual. **Nexo Jornal**. 01 de abr. 2023. Disponível em: &lt;https://www.nexojornal.com.br/explicado/2023/04/01/Trabalho-doméstico-direitos-tardios-num-país-desigual&gt;. Acesso em: 07 jul. 2023.</cite>\n\n#### Texto 2\n> A informalidade sempre foi uma característica marcante e estrutural do mercado de trabalho brasileiro e no âmbito do emprego doméstico. Mas, na última década, entre 2012 e 2022, a informalidade no emprego doméstico cresceu ainda mais, aprofundando a desproteção social desse grupo vulnerável e dando sinais de mais precarização do mercado de trabalho. Hoje, de cada quatro trabalhadores domésticos no país, três não contam com a proteção da carteira de trabalho assinada. Um reflexo das desigualdades de raça e gênero do país, tendo em vista a grande predominância de mulheres negras ocupadas no trabalho doméstico.\n>\n> <cite>COSTANZI, R. N. A cada 4 trabalhadores domésticos, 3 não têm arteira assinada. Estadão. 06 de jul. 2023. Disponível em: &lt;https://www.estadao.com.br/politica/gestao-politica-e-sociedade/a-cada-4-trabalhadores-domesticos-3-nao-tem-carteira-assinada/&gt;. Acesso em: 07 jul. 2023.</cite>\n\nAo abordarem a temática do trabalho doméstico, os textos 1 e 2:",
+      "imagens": [],
+      "alternativas": {
+        "A": "fazem um recorte temporal com ênfase na atualidade, desconsiderando elementos históricos e estruturais no que se refere ao trabalho doméstico.",
+        "B": "declaram que as desigualdades de raça e gênero no trabalho doméstico são reflexos do passado escravista.",
+        "C": "sugerem que o trabalho doméstico no Brasil é sempre desenvolvido por mulheres negras, revelando um reflexo das desigualdades de raça e gênero.",
+        "D": "estabelecem uma relação entre a desproteção social dos trabalhadores domésticos e a taxa alta de informalidade da categoria."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Os dois consideram a história: o Texto 1 cita o “passado escravista”; o Texto 2, a informalidade “marcante e estrutural”.",
+        "B": "Só o Texto 1 liga as desigualdades ao passado escravista. A alternativa diz que os dois declaram isso.",
+        "C": "Nenhum texto diz “sempre”: o Texto 2 fala em “grande predominância” de mulheres negras, o que é diferente de “todas”."
+      },
+      "teoria": [
+        "comparacao-entre-textos"
+      ],
+      "essencial": [
+        "Para comparar textos, teste cada alternativa nos **dois**: ela tem de valer para ambos.",
+        "Os dois textos ligam informalidade e desproteção: sem carteira assinada, o trabalhador doméstico fica sem direitos."
+      ],
+      "raciocinio": "1. Teste cada alternativa nos dois textos (veja: *Comparação entre textos*).\n2. Texto 1: brechas e falta de fiscalização “ainda mantêm excluída da formalidade boa parte” da categoria. Texto 2: a informalidade cresceu, “aprofundando a desproteção social”; três em cada quatro não têm carteira assinada.\n3. Os dois relacionam a falta de proteção à informalidade.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Enquanto a publicidade preocupa-se em divulgar um produto ou um serviço, a propaganda pretende transmitir uma ideia ou um conceito, como acontece, por exemplo, na propaganda política. Leia o texto a seguir e responda:\n\n![Anúncio do PNUMA: fundo vermelho, uma garrafa reutilizável azul entre duas garrafas plásticas apagadas e o título “Repense a água em garrafinhas”.](img/2024-1-b/q06.jpg \"Se você pudesse fazer apenas uma coisa… | REPENSE A ÁGUA EM GARRAFINHAS | Quando você usa uma garrafa de água reutilizável em lugar de comprar mais uma garrafinha plástica, você economiza 3 litros de água para cada litro que bebe. | Imagine se sete bilhões de nós fizéssemos isso.\")\n\n<cite>Disponível em: &lt;https://agenciabrasil.ebc.com.br/geral/noticia/2015-06/ascensao-de-familias-classe-media-deve-ser-associada-ao-consumo-consciente&gt;. Acesso em: 10 ago. 2023.</cite>\n\n(Transcrição dos textos do anúncio: “Repense a água em garrafinhas” “Quando você usa uma garrafa de água reutilizável em lugar de comprar mais uma garrafinha plástica, você economiza 3 litros de água para cada litro que bebe.”)\n\nÉ possível afirmar em relação ao texto acima:",
+      "imagens": [
+        "img/2024-1-b/q06.jpg"
+      ],
+      "alternativas": {
+        "A": "O emprego dos verbos no imperativo apresenta dados estatísticos.",
+        "B": "Dados concretos (“3 litros de água para cada litro”) são empregados como estratégia narrativa.",
+        "C": "O anúncio estimula as pessoas a mudarem de comportamento.",
+        "D": "Espera-se que as pessoas não bebam mais água engarrafada."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O imperativo (“Repense”, “Imagine”) chama o leitor à ação; não apresenta números. O dado estatístico está em outra frase.",
+        "B": "O dado é usado como argumento, para convencer. Estratégia narrativa seria contar uma história, o que o anúncio não faz.",
+        "D": "O anúncio não proíbe água engarrafada: propõe usar uma garrafa reutilizável em vez de comprar mais garrafinhas plásticas."
+      },
+      "teoria": [
+        "publicidade-e-propaganda"
+      ],
+      "essencial": [
+        "A propaganda quer mudar um comportamento: o imperativo “**Repense**” chama o leitor à ação.",
+        "Dados concretos e apelo coletivo (“sete bilhões de nós”) reforçam o pedido."
+      ],
+      "raciocinio": "1. Pergunte o que o texto quer que o leitor faça (veja: *Publicidade e propaganda*): “**Repense** a água em garrafinhas”. Ele quer que o leitor mude um hábito.\n2. Os recursos apontam para isso: imperativo, dado concreto (“3 litros de água para cada litro”), apelo coletivo (“sete bilhões de nós”).\n3. C resume o objetivo. A e B confundem a função dos recursos; D exagera o que o anúncio pede.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia a seguir um trecho da entrevista que o filósofo da ciência Osvaldo Pessoa Jr., professor do Departamento de Filosofia da Universidade de São Paulo (USP), concedeu à BBC News Brasil sobre as teorias do multiverso:\n\n> (...)\n> **BBC News Brasil** - Dentro dessas discussões sobre hipóteses filosóficas, evidências científicas e misticismos, o senhor acredita que a popularização de alguns conceitos científicos — como o multiverso — tem potencial de trazer benefícios ou prejuízos à sociedade?\n>\n> **Pessoa Jr.** - A sua pergunta é sobre a exploração das ideias de ficção científica, e se isso é benéfico ou não. A princípio, eu diria que é benéfico. Principalmente quando a história é bem feita e tenta seguir uma lógica, com regras internas bem estabelecidas.\n>\n> Isso desperta a nossa imaginação, o nosso pensamento lógico, e passamos a imaginar os mundos possíveis.\n>\n> Por outro lado, uma coisa a ser examinada, e para a qual não tenho a resposta, é a conexão disso com ideologias fascistas e pseudociências. A ideia de Terra plana, por exemplo. Os terraplanistas passaram a levar isso a sério. Talvez a conexão com a ideologia aconteça aí: quando você pega cenários ficcionais e passa a defender que eles são reais. Aí você já está dando um passo para direcionar as ações das pessoas.\n>\n> Se você diz que universos paralelos são reais e todas as vezes que você toma uma decisão o mundo se bifurca, isso pode mudar a vida de algumas pessoas, com efeitos positivos ou negativos.\n>\n> Talvez a questão esteja ligada à hipótese de que isso não passa de uma ficção científica. Ou seja, no momento em que a pessoa passa a acreditar que aquilo é real, isso pode representar uma influência negativa da ficção na nossa cultura.\n>\n> <cite>PESSOA, Osvaldo J‘. ‘Tudo em Todo Lugar ao Mesmo Tempo’: filósofo analisa multiverso retratado em filmes. Entrevista concedida a BBC News Brasil. Disponível em: &lt;https://www.bbc.com/portuguese/articles/cjmznprmyvp&gt;. Acesso em: 12 jul. 2023.</cite>\n\nDe acordo com o Dicionário Houaiss da Língua Portuguesa, pode ser considerado “asseverativo” um enunciado em que se faz uma declaração que confere certeza ao discurso, seja ele afirmativo ou negativo. Por outro lado, os enunciados que conferem dúvida, incerteza ou caráter de possibilidade ao discurso, podem ser chamados de “quase asseverativos”. Dos trechos destacados nas alternativas, o único que pode ser considerado “quase asseverativo” é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Aí você já está dando um passo para direcionar as ações das pessoas”.",
+        "B": "“isso pode mudar a vida de algumas pessoas, com efeitos positivos ou negativos”.",
+        "C": "“Os terraplanistas passaram a levar isso a sério”.",
+        "D": "“Talvez a questão esteja ligada à hipótese de que isso não passa de uma ficção científica”."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É uma afirmação categórica: “você **já está dando** um passo”. Não há dúvida: é asseverativa.",
+        "B": "Confunde porque “pode” indica possibilidade. Mas é a consequência de uma condição (“**Se** você diz…”), e não dúvida do autor, como o “talvez” da D.",
+        "C": "Afirma um fato sem nenhuma ressalva: os terraplanistas **passaram** a levar a ideia a sério."
+      },
+      "teoria": [
+        "modalizacao"
+      ],
+      "essencial": [
+        "Modalização mostra o grau de certeza: o enunciado asseverativo afirma com certeza; o dubitativo mostra dúvida.",
+        "Marcas de dúvida: *talvez*, *possivelmente*, verbo no subjuntivo. “**Talvez** a questão **esteja** ligada…”."
+      ],
+      "raciocinio": "1. Procure marcas de dúvida (veja: *Modalização: o grau de certeza de quem fala*): *talvez*, *possivelmente*, verbo no subjuntivo.\n2. A e C usam o indicativo, sem ressalva: são asseverativas.\n3. D começa com “**Talvez**” e usa o subjuntivo (“**esteja**”): o autor levanta uma hipótese sem se comprometer com ela.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Em Língua Portuguesa, nos diferentes contextos de produção, podemos avaliar uma situação ou circunstância sobre um valor de verdade de diferentes formas, emitindo concordância quanto ao que é dito, escrito ou discursado. Das alternativas abaixo, qual apresenta uma avaliação com valor de verdade de concordância sobre a seguinte proposição: “A criação de animais selvagens em cativeiro é crime”.",
+      "imagens": [],
+      "alternativas": {
+        "A": "Realmente, a criação de animais selvagens em cativeiro é crime.",
+        "B": "Possivelmente, a criação de animais selvagens em cativeiro é crime.",
+        "C": "Presumidamente, a criação de animais selvagens em cativeiro é crime.",
+        "D": "Utopicamente, a criação de animais selvagens em cativeiro é crime."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "“Possivelmente” = talvez: indica dúvida, não concordância.",
+        "C": "“Presumidamente” = supõe-se que: é uma suposição, sem garantia.",
+        "D": "“Utopicamente” = num mundo ideal. Sugere que, na realidade, não é assim: o oposto de concordar."
+      },
+      "teoria": [
+        "modalizacao"
+      ],
+      "essencial": [
+        "Advérbios modalizadores mostram a posição de quem fala diante do que afirma.",
+        "Troque por uma expressão simples: *realmente* = é verdade que (concordância); *possivelmente* = talvez (dúvida)."
+      ],
+      "raciocinio": "1. A pergunta quer concordância: quem fala confirma que a afirmação é verdadeira.\n2. Troque cada advérbio por uma expressão simples (veja: *Modalização: o grau de certeza de quem fala*): *realmente* = é verdade que; *possivelmente* = talvez; *presumidamente* = supõe-se que; *utopicamente* = num mundo ideal.\n3. Só “é verdade que” confirma a afirmação.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Mafalda, personagem criada pelo cartunista argentino Quino em 1964, traz questões ainda bastante atuais. Leia a tira para responder a questão:\n\n![Tirinha da Mafalda em quatro quadros: Mafalda e Susanita passam por um homem pobre sentado na calçada e conversam sobre ele.](img/2024-1-b/q09.jpg \"Quadro 1 – Mafalda e Susanita passam por um homem pobre sentado na calçada. | Quadro 2 – Mafalda: Quando eu vejo um pobre fico com o coração apertado! Susanita: Eu também. | Quadro 3 – Mafalda: Deviam dar casa, trabalho, proteção e bem-estar aos pobres! | Quadro 4 – Susanita: Pra que tudo isso? Era só escondê-los!\")\n\n<cite>Disponível em: &lt;https://www.zinecultural.com/blog/melhores-tirinhas-da-mafalda&gt;. Acesso em: 20 jul. 2023.</cite>\n\nNo enunciado de Mafalda “Quando eu vejo um pobre **fico** com o coração apertado”, o termo destacado é sintaticamente classificado como verbo de ligação. No caso, ele denota o estado anímico de Mafalda. Assinale a alternativa em que há outro caso de verbo de ligação usado com a mesma função:",
+      "imagens": [
+        "img/2024-1-b/q09.jpg"
+      ],
+      "alternativas": {
+        "A": "Às vezes eu permaneço quieta para entender a situação.",
+        "B": "Estou aqui na rua da amargura.",
+        "C": "Era só escondê-los.",
+        "D": "Vou ficar com meus amigos nesse fim de semana."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Depois de “estou” vem “aqui na rua da amargura”, uma indicação de lugar (adjunto adverbial), e não uma característica do sujeito.",
+        "C": "“Era só escondê-los” fala de uma ação (esconder), não do estado de ânimo de alguém.",
+        "D": "“Ficar com meus amigos” é permanecer na companhia deles: *com meus amigos* indica companhia, não estado."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a um estado: “**fico** com o coração apertado”, “**permaneço** quieta”.",
+        "Teste: o que vem depois do verbo é característica do sujeito? *Quieta* é; *na rua* (lugar) não é."
+      ],
+      "raciocinio": "1. A função pedida: verbo de ligação que mostra o **estado** de quem fala, como em “fico com o coração apertado” (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Olhe o que vem depois do verbo e pergunte se é uma característica do sujeito.\n3. A: “permaneço **quieta**”: *quieta* é como a pessoa fica. É predicativo, e *permanecer* é de ligação.\n4. B (lugar), C (ação) e D (companhia) não trazem estado do sujeito.\n\nResposta: **A**.\n\n> Na B, “estar na rua da amargura” é uma expressão figurada de sofrimento, e o sentido lembra um estado. Sintaticamente, porém, *na rua da amargura* tem forma de adjunto adverbial de lugar, e por isso o verbo não é classificado como de ligação.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "Leia os textos I e II e responda ao que se pede:\n\n#### Texto I\n> ### Manter o sangue-frio\n> O que é que queremos na Ucrânia? De forma serena, quais são os nossos “objetivos” neste conflito? Continuam a ser os que foram enunciados, nomeadamente, enfraquecer de forma duradoura a capacidade bélica da Rússia? Para evitar equívocos, estas perguntas têm de ser repetidas, com resposta clara e inequívoca. De facto, a diferença entre as declarações de amor e a prática nunca deve ser demasiada. E é mais ou menos assim com a guerra e o apoio que declaramos - e depois levamos à prática – a uma das partes [...].\n>\n> <cite>LOPES, José Alberto Azeredo. Manter o sangue-frio. **CNN Portugal**, 11.06 2022. Disponível em: &lt;https://cnnportugal.iol.pt/guerra/ucrania/jose-alberto-azeredo-lopes-manter-o-sangue-frio/20220611/62a4ffff0cf2f9a86ea8d26c&gt; Acesso em: 14 jul. 2023. Fragmento.</cite>\n\n#### Texto II\n> ### Como os coalas se protegem do calor\n> *Quando o calor aperta na Austrália, os coalas sabem manter o sangue frio*\n>\n> Graças à tecnologia de fotografia com infravermelhos, os humanos conseguem agora ver como eles fazem. Em 2014, uma pesquisa da Universidade de Melbourne mostrou que, durante o verão, quando as temperaturas superam a fasquia de 40ºC, os coalas descem das árvores pressionando o corpo contra os troncos. Cada árvore possui um microclima próprio, que pode ter menos 7º C do que a temperatura do ar. Por isso, para o coala, cuja pele da barriga é relativamente fina, o abraço à árvore representa o mesmo que ficar parado em frente de um frigorífico com a porta aberta. Os coalas também podem ofegar ou lamber a pele para regular a temperatura do corpo, mas este método é mais eficiente pois consome-lhes menos água [...].\n>\n> <cite>BERLIN, Jeremy. Como os coalas se protegem do calor. **National Geographic Portugal**. 16.06. 2020. Disponível em: https://www.nationalgeographic.pt/meio-ambiente/como-os-coalas-se-protegem-do-calor_1513 Acesso em: 14 jul. 2023. Fragmento.</cite>\n\nO hífen é um sinal gráfico que, entre outras funções, pode ou não ser empregado – dependendo das regras estabelecidas pelo Novo Acordo Ortográfico da Língua Portuguesa – na formação de palavras compostas por meio da junção de radicais diferentes e sem alteração fonética. Comparando os textos I e II, podemos afirmar que",
+      "imagens": [],
+      "alternativas": {
+        "A": "em ambos os textos, tanto em “manter o sangue-frio”, quanto em “manter o sangue frio”, o sentido é o mesmo, indicando que um dos autores cometeu um equívoco no emprego do hífen.",
+        "B": "em ambos os textos, tanto em “manter o sangue-frio”, quanto em “manter o sangue frio”, o sentido é o mesmo, mostrando que, neste caso, o uso do hífen é apenas um sinal gráfico opcional.",
+        "C": "no texto I, a expressão com hífen “manter o sangue-frio” tem sentido literal que indica a importância de se tentar conservar o sangue em temperatura fria diante da situação geopolítica crítica entre a Ucrânia e a Rússia; no texto II, a expressão sem hífen “manter o sangue frio” aponta para a comprovada inteligência dos coalas que sempre se mantêm tranquilos apesar do calor.",
+        "D": "no texto I, a expressão com hífen “manter o sangue-frio” tem o sentido figurado de “autocontrole, de tranquilidade diante de situação difícil ou perigosa”, enquanto, no texto II, a expressão sem hífen “manter o sangue frio” se refere literalmente a técnicas de resfriamento da temperatura corporal."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O sentido não é o mesmo, e ninguém errou: cada autor usou a forma certa para o que queria dizer.",
+        "B": "Aqui o hífen não é opcional: ele muda o sentido. *Sangue-frio* (calma) é uma palavra só; *sangue frio* (sangue gelado) são duas.",
+        "C": "Inverte tudo. No Texto I o sentido é figurado; no Texto II é literal e fala da temperatura do corpo, não da calma dos coalas."
+      },
+      "teoria": [
+        "formacao-de-palavras",
+        "hifen"
+      ],
+      "essencial": [
+        "Palavra composta com hífen pode ganhar sentido novo: *sangue-frio* é calma, autocontrole (sentido figurado).",
+        "Sem hífen, as palavras mantêm o sentido literal: “sangue frio” é sangue em temperatura baixa, como no texto dos coalas."
+      ],
+      "raciocinio": "1. O Texto I fala de guerra e de decisões políticas: “manter o sangue-frio” = manter a calma, o autocontrole. Sentido figurado.\n2. O Texto II fala de como os coalas resfriam o corpo abraçando as árvores: “manter o sangue frio” = manter o sangue em temperatura baixa. Sentido literal.\n3. O hífen marca a palavra composta com sentido novo (veja: *Formação de palavras* e *Hífen*). Os sentidos são diferentes, o que elimina A e B; a C inverte os dois.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia o texto 1:\n\n![Montagem com dez personagens de anime lado a lado. Embaixo, a faixa: “Os dez melhores animes de 2016 – Tanaka”.](img/2024-1-b/q11-texto1.jpg \"OS DEZ MELHORES ANIMES DE 2016 | TANAKA\")\n\n<cite>**Portal Kanaka**. 19.02.2017. Disponível em: &lt;https://portaltanaka.wordpress.com/2017/02/19/os-dez-melhores-animes-de-2016/&gt;. Acesso em: 12 jul. 2023.</cite>\n\nLeia o texto 2:\n\n![Cabeçalho de matéria com o título “Os 10 melhores filmes de faroeste” e a foto de um homem de chapéu tocando gaita.](img/2024-1-b/q11-texto2.jpg \"Os 10 melhores filmes de faroeste | Por Sihan Felix | Editado por Jones Oliveira | 06 de Agosto de 2020 às 21h00\")\n\n<cite>**Canaltech**, 06.08.2020. Disponível em: &lt;https://canaltech.com.br/entretenimento/melhores-filmes-faroeste-169432/&gt;. Acesso em: 12 jul. 2023.</cite>\n\nNos textos I e II, verifica-se o emprego de adjuntos adnominais, com seus efeitos de sentido. Comparando os elementos verbais que estão em destaque em cada um desses documentos, podemos afirmar que",
+      "imagens": [
+        "img/2024-1-b/q11-texto1.jpg",
+        "img/2024-1-b/q11-texto2.jpg"
+      ],
+      "alternativas": {
+        "A": "em ambos os textos, o artigo “os” tem as funções de definir o numeral e de estabelecer o seu gênero.",
+        "B": "em ambos os textos, o adjetivo “melhores” qualifica os substantivos “animes” e “filmes”, respectivamente.",
+        "C": "as expressões “os dez melhores” e “de 2016” compõem o conjunto de adjuntos adnominais, formado por classes gramaticais diferentes, presente no texto I.",
+        "D": "as expressões “de 2016” (texto I) e “de faroeste” (texto II) são locuções adjetivas que especificam o substantivo a que estão ligadas, isto é, “animes” e “filmes”, respectivamente."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O artigo “os” acompanha o substantivo (*animes*, *filmes*), concordando com ele. Ele não “define o numeral”.",
+        "C": "Fala só do texto I. O enunciado pede para comparar os dois textos, e é a B que faz isso.",
+        "D": "“De faroeste” especifica o tipo de filme; “de 2016” indica o ano dos animes da lista, e não um tipo de anime."
+      },
+      "teoria": [
+        "adjunto-adnominal"
+      ],
+      "essencial": [
+        "Adjunto adnominal acompanha o núcleo de um nome: artigo, adjetivo, numeral, locução adjetiva.",
+        "Nos dois títulos, *melhores* é adjetivo que qualifica o núcleo: *animes* no texto I, *filmes* no texto II."
+      ],
+      "raciocinio": "1. Ache o núcleo de cada título: *animes* (texto I) e *filmes* (texto II). Os adjuntos adnominais giram em torno deles (veja: *Adjunto adnominal e locução adjetiva*).\n2. “Melhores” é adjetivo e qualifica *animes* e *filmes*. Isso vale para os dois textos, exatamente como diz a B.\n3. A erra a função do artigo, que se refere ao substantivo, e não ao numeral.\n\nResposta: **B**.\n\n**Dica de prova:** leia o comando até o fim. Aqui ele pede para **comparar** os textos, e só a B fala dos dois.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Pontuação",
+      "enunciado": "> Personagem A: “O que deu em você hoje?”\n> Personagem B: “Eu... bem, não tenho certeza se... eu realmente queria dizer isso, mas... ah, esquece!”\n> Personagem A: “Olha, se você não me disser o que está acontecendo, não vou querer mais sair com você!”\n> Personagem B: “Desculpe, mas não estou conseguindo colocar em palavras o que estou sentindo.”\n\nLeia o diálogo e escolha a alternativa que melhor explica o efeito de sentido das pausas e entonações presentes na fala do personagem B a seguir:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O personagem B demonstra confiança e certeza em suas palavras, utilizando pausas para dar ênfase e impacto ao que está dizendo.",
+        "B": "O personagem B mostra hesitação e dúvida ao falar, utilizando pausas e entonações descendentes para enfatizar sua insegurança.",
+        "C": "O personagem B expressa alegria e empolgação em sua fala, usando pausas para criar suspense e entonações ascendentes para demonstrar entusiasmo.",
+        "D": "O personagem B comunica raiva e impaciência, fazendo pausas para controlar suas emoções e entonações ascendentes para expressar insatisfação."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Quem tem certeza não diz “não tenho certeza se...” nem desiste no meio (“ah, esquece!”). As pausas mostram o contrário de confiança.",
+        "C": "Nada indica alegria: B pede desculpas e diz que não consegue explicar o que sente.",
+        "D": "Quem demonstra irritação é o personagem A (“não vou querer mais sair com você!”). B responde com um pedido de desculpas."
+      },
+      "teoria": [
+        "pontuacao"
+      ],
+      "essencial": [
+        "Reticências podem marcar interrupção e hesitação: quem fala começa, para e recomeça.",
+        "Outras pistas confirmam a insegurança: “bem”, “não tenho certeza”, “ah, esquece!”."
+      ],
+      "raciocinio": "1. Observe as reticências na fala de B: ele começa, para, recomeça e desiste. Aqui elas marcam interrupção e hesitação (veja: *Sinais de pontuação e seus efeitos*).\n2. Junte as outras pistas: “bem”, “não tenho certeza”, “ah, esquece!” e, depois, “não estou conseguindo colocar em palavras o que estou sentindo”.\n3. Tudo aponta para hesitação e insegurança.\n\nResposta: **B**.\n\n> A alternativa fala em “entonações descendentes”, que o texto escrito não tem como mostrar. Mesmo assim, a ideia central, hesitação e insegurança, é a única compatível com a fala.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia os textos para responder ao que se pede:\n\n#### Texto I\n> “O próprio sentido semântico do termo racismo reverso é curioso, pois o vocábulo ‘reverso’ pressupõe uma inversão, algo fora do lugar. Seria algo ‘normal’ ou ‘natural’ o racismo contra minorias - negros, latinos, judeus, árabes, ciganos etc. Para além desses grupos, o racismo seria atípico, reverso”.\n>\n> <cite>DOMINGUES, Petrônio. **Racismo reverso** ... Folha de S. Paulo, 19 jan. 2022. Disponível em: &lt;https://www1.folha.uol.com.br/ilustrissima/2022/01/racismo-reverso-de-riserio-busca-deslegitimar-luta-por-igualdade-racial.shtml&gt;. Acesso em: 08 jul 2023. Fragmento.</cite>\n\n#### Texto II\n![Charge dividida em duas partes. À esquerda, com o título “Racismo”, um homem branco de chapéu segura um chicote diante de um homem negro amarrado a um tronco, sangrando. À direita, com o título “Racismo reverso”, a mesma cena aparece espelhada: o homem branco continua com o chicote e o homem negro continua preso ao tronco.](img/2024-1-b/q13.jpg)\n\n<cite>Fonte: BENETT. **Folha de S. Paulo**. 18.01.2022.</cite>\n\nConsiderando a linguagem verbal e não verbal da charge, texto II, mais o contexto histórico do racismo no Brasil, texto I, podemos afirmar que",
+      "imagens": [
+        "img/2024-1-b/q13.jpg"
+      ],
+      "alternativas": {
+        "A": "a ilustração ironiza a expressão “racismo reverso” por meio da imagem invertida, visto que os brancos não passaram pelo processo de escravidão no Brasil.",
+        "B": "a ilustração mostra que ainda existe racismo reverso e que precisa ser combatido, pois toda violência deve ser banida.",
+        "C": "a ilustração ironiza o modo como o racismo reverso é visto no Brasil, pois desconsidera os casos de sucesso dos brancos.",
+        "D": "a ilustração revela o verdadeiro sentido de “reverso”, mostrando que brancos e não brancos sofreram racismo no Brasil."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A charge faz o oposto: critica a ideia de racismo reverso. Ao espelhar a cena sem trocar os papéis, mostra que não há inversão.",
+        "C": "A charge não fala de “casos de sucesso dos brancos”. A ideia não aparece em nenhum dos textos.",
+        "D": "A charge mostra justamente que o “reverso” é a mesma imagem espelhada: quem sofre a violência continua sendo a pessoa negra."
+      },
+      "teoria": [
+        "ironia-e-humor",
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Na charge, o sentido nasce da relação entre texto e imagem: o título promete uma coisa, e o desenho mostra outra.",
+        "Ironia: “Racismo reverso” promete inverter os papéis, mas a imagem espelhada não inverte nada: o branco segue com o chicote."
+      ],
+      "raciocinio": "1. Compare as duas metades da charge: a da direita é a da esquerda espelhada. O homem branco continua com o chicote, e o homem negro continua amarrado (veja: *Linguagem verbal e não verbal*).\n2. O título “Racismo reverso” promete uma inversão de papéis, mas o desenho não inverte nada. Essa contradição entre palavra e imagem é a ironia da charge (veja: *Ironia e humor*).\n3. O Texto I ajuda: a própria palavra “reverso” pressupõe que o racismo contra minorias seria o “normal”. O tronco e o chicote lembram a escravidão, imposta às pessoas negras.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia a seguir o fragmento de uma notícia para responder à questão.\n\n> “Israel encerrou nesta quarta-feira (5) uma grande operação militar no campo de refugiados da cidade de Jenin, ao norte da Cisjordânia, com saldo de 12 palestinos e um soldado israelense mortos.\n>\n> Foi a maior incursão do Exército israelense em 20 anos, realizada como “um extenso esforço contraterrorista na área”. Ela gerou reação na Faixa de Gaza, de onde partiram foguetes que acabaram derrubados, e também em Tel Aviv, onde um ataque do grupo radical Hamas deixou oito feridos”.\n>\n> <cite>ISRAEL encerra operação no campo de refugiados de Jenin. **Nexo Jornal**. 5 de jul. 2023. Disponível em: &lt;https://www.nexojornal.com.br/extra/2023/07/05/Israel-encerra-operação-no-campo-de-refugiados-de-Jenin&gt;. Acesso em: 07 jul 2023.</cite>\n\nO lide (do inglês *lead* : “primeiro”, “guia”) é um elemento fundamental para a funcionalidade do texto jornalístico, que expressa a função das linhas iniciais de uma matéria, no intuito de atrair e conduzir o leitor aos demais parágrafos. Considerando essa informação, assinale a alternativa que indica o título que comportaria o conteúdo da notícia com clareza:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Israel celebra o fim de sua maior operação militar em 20 anos.",
+        "B": "Doze palestinos e um soldado israelense são mortos em Jenin.",
+        "C": "Exército israelense deixa campo de refugiados na Cisjordânia.",
+        "D": "Faixa de Gaza e Tel Aviv reagem às ações do Exército de Israel."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A notícia não diz que Israel “celebra” nada: o verbo acrescenta uma emoção, e título de notícia deve ser objetivo.",
+        "B": "O número de mortos é o saldo da operação, e não o fato central do lide: o fim da operação em Jenin.",
+        "D": "A reação de Gaza e Tel Aviv é uma informação secundária, do segundo parágrafo."
+      },
+      "teoria": [
+        "noticia-e-lide"
+      ],
+      "essencial": [
+        "Lide é o primeiro parágrafo da notícia: responde quem, o quê, quando e onde.",
+        "O título resume o núcleo do lide de forma objetiva: quem fez o quê, e onde."
+      ],
+      "raciocinio": "1. Separe o lide nas perguntas básicas (veja: *Notícia: título e lide*): **quem?** Israel; **o quê?** encerrou uma grande operação militar; **quando?** nesta quarta-feira; **onde?** no campo de refugiados de Jenin, na Cisjordânia; **resultado:** 12 palestinos e um soldado israelense mortos.\n2. O título se constrói com o núcleo do lide: quem fez o quê, e onde. A C diz isso com outras palavras: o exército “deixa” o campo de refugiados, ou seja, encerra a operação ali.\n3. A referência da notícia mostra o título original: “Israel encerra operação no campo de refugiados de Jenin”. É o mesmo fato da alternativa C.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia com atenção ao meme abaixo e responda:\n\n![Meme com a foto de um gato de óculos lendo um livro, com um lápis na boca. Texto em cima: “Sempre que me dizem ‘a gente vamos’”. Texto embaixo: “Penso em desistir de ir seja aonde for!”](img/2024-1-b/q15.jpg \"SEMPRE QUE ME DIZEM “A GENTE VAMOS” | PENSO EM DESISTIR DE IR SEJA AONDE FOR!\")\n\n<cite>Disponível em: &lt;https://periodicos.ufba.br/index.php/inventario/article/download/38573/23774&gt;. Acesso em: 10 ago 2023.</cite>\n\nO meme apresenta uma inadequação de concordância verbal. Assinale a alternativa que contém opções de ajustes ou “correções” para o problema expresso pelo interlocutor do meme.",
+      "imagens": [
+        "img/2024-1-b/q15.jpg"
+      ],
+      "alternativas": {
+        "A": "A expressão “a gente” não deve ser usada, porque está no singular e o correto seria “nós”, para concordar com o verbo “ir”.",
+        "B": "A palavra “gente”, embora represente um grupo de pessoas, está no singular, logo o verbo deve concordar com ela, estando também no singular, em vez de “vamos”. Assim, deve-se usar o verbo conjugado na terceira pessoa do singular, “vai”.",
+        "C": "A palavra “gente” deveria estar no plural (“gentes”) para concordar com o verbo “vamos”, que também está no plural.",
+        "D": "A palavra “gente” está no plural, mas sua grafia deveria ser “agente”, concordando com o verbo “ir” que também está no plural."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“A gente” pode ser usada, e é muito comum, principalmente na fala. O problema é só a concordância: “a gente vai” ou “nós vamos”.",
+        "C": "“Gentes” significa “povos” e mudaria o sentido. A correção é manter “a gente” e pôr o verbo no singular.",
+        "D": "“Gente” está no singular. E “agente”, junto, é outra palavra: quem age (“agente de saúde”)."
+      },
+      "teoria": [
+        "concordancia-verbal"
+      ],
+      "essencial": [
+        "“A gente” tem sentido de grupo, mas forma singular: na norma-padrão, o verbo vai para a 3ª pessoa do singular.",
+        "Por isso o certo é “a gente **vai**”, e não “a gente vamos”."
+      ],
+      "raciocinio": "1. O sujeito é “a gente”. A palavra *gente* tem sentido de grupo, mas a forma é singular (veja: *Concordância verbal*).\n2. Na norma-padrão, quem manda na concordância é a forma: o verbo vai para a 3ª pessoa do singular, “a gente **vai**”.\n3. A B explica exatamente isso.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Dízima periódica é um número que quando escrito no sistema decimal apresenta uma série infinita de algarismos decimais que, a partir de certo algarismo, se repetem em grupos de um ou mais algarismos, ordenados sempre na mesma disposição, chamados de período.\n\n<cite>Fonte: &lt;pt.wikipedia.org/wiki/Dízima_periódica&gt;. Acesso em: 04 ago. 2023.</cite>\n\nAs dízimas periódicas sempre podem ser representadas na forma de fração, com números inteiros na posição do numerador e do denominador. Com base nestas informações, qual o resultado do produto de 0,333... por \\(\\frac{6}{5}\\)?:",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\dfrac{2}{5}\\)",
+        "B": "\\(\\dfrac{1}{3}\\)",
+        "C": "\\(\\dfrac{18}{5}\\)",
+        "D": "\\(\\dfrac{5}{18}\\)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "\\(\\frac{1}{3}\\) é só a fração de 0,333…; faltou multiplicar por \\(\\frac{6}{5}\\).",
+        "C": "\\(\\frac{18}{5} = 3 \\cdot \\frac{6}{5}\\): é o que sai ao confundir 0,333… com 3.",
+        "D": "\\(\\frac{5}{18} = \\frac{1}{3} \\cdot \\frac{5}{6}\\): inverteu a fração \\(\\frac{6}{5}\\), como numa divisão."
+      },
+      "teoria": [
+        "dizimas-periodicas",
+        "fracoes"
+      ],
+      "essencial": [
+        "Dízima com um algarismo no período: o período sobre 9. \\(0{,}333\\ldots = \\frac{3}{9} = \\frac{1}{3}\\).",
+        "Multiplicação de frações: numerador vezes numerador, denominador vezes denominador. Depois, simplifique."
+      ],
+      "raciocinio": "1. Transforme a dízima em fração (veja: *Dízimas periódicas*): \\(0{,}333\\ldots = \\frac{3}{9} = \\frac{1}{3}\\).\n2. Multiplique (veja: *Frações*): \\(\\frac{1}{3} \\cdot \\frac{6}{5} = \\frac{6}{15}\\).\n3. Simplifique por 3: \\(\\frac{6}{15} = \\frac{2}{5}\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Duas cidades têm seus marcos zero representados pelos pontos A e B de acordo com a imagem abaixo que estão conectados entre si pela Estrada 1. Em uma ação conjunta de reflorestamento elas decidiram plantar mudas de árvores ao longo da Estrada 2 que está a uma mesma distância dos pontos A e B e que conecta duas regiões rurais indicadas pelos pontos C e D. Sabendo destas informações, indique corretamente o nome dado, em Geometria, à reta suporte do segmento \\(\\overline{CD}\\), que representa a Estrada 2, em relação ao segmento de reta \\(\\overline{AB}\\) que representa a Estrada 1.\n\n![Dois segmentos que se cruzam: a Estrada 1 vai de A (no alto, à esquerda) até B (embaixo, à direita), e a Estrada 2 vai de C (embaixo, à esquerda) até D (no alto, à direita). Perto de A e de B há desenhos de casas.](img/2024-1-b/q17.png)\n\n<cite>Fonte: IFSP, 2023.</cite>",
+      "imagens": [
+        "img/2024-1-b/q17.png"
+      ],
+      "alternativas": {
+        "A": "A reta suporte de \\(\\overline{CD}\\) é a **secante** do segmento de reta \\(\\overline{AB}\\).",
+        "B": "A reta suporte de \\(\\overline{CD}\\) é a **mediatriz** do segmento de reta \\(\\overline{AB}\\).",
+        "C": "A reta suporte de \\(\\overline{CD}\\) é a **bissetriz** do segmento de reta \\(\\overline{AB}\\) .",
+        "D": "A reta suporte de \\(\\overline{CD}\\) é a **paralela** do segmento de reta \\(\\overline{AB}\\)."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Secante” é qualquer reta que corta outra. O nome não diz nada sobre estar à mesma distância de A e B.",
+        "C": "Bissetriz divide um ângulo ao meio, e não um segmento.",
+        "D": "Retas paralelas nunca se cruzam, e a Estrada 2 cruza a Estrada 1."
+      },
+      "teoria": [
+        "lugares-geometricos"
+      ],
+      "essencial": [
+        "Mediatriz de AB é a reta dos pontos que estão à mesma distância de A e de B.",
+        "Ela é perpendicular a AB e passa pelo ponto médio do segmento."
+      ],
+      "raciocinio": "1. A pista do enunciado: a Estrada 2 “está a uma mesma distância dos pontos A e B”.\n2. A reta formada pelos pontos que estão à mesma distância de A e de B é a mediatriz de AB (veja: *Circunferência, mediatriz e bissetriz*).\n\n<div data-interativo=\"q17-mediatriz\"></div>\n\nResposta: **B**.\n\n**Dica de prova:** “à mesma distância de dois pontos” → mediatriz. “À mesma distância dos dois lados de um ângulo” → bissetriz.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "O volume de um paralelepípedo pode ser obtido pelo produto de sua largura, altura e comprimento. Considere o paralelepípedo, mostrado na figura, em que representamos a largura por *x*, a altura por *x + 1* e seu comprimento por *x - 3*. Sendo x > 3, qual das alternativas a seguir apresenta uma expressão que calcula o volume deste paralelepípedo?\n\n![Paralelepípedo em pé, com as medidas x na largura, x − 3 no comprimento e x + 1 na altura.](img/2024-1-b/q18.png)\n\n<cite>Fonte: IFSP, 2023.</cite>",
+      "imagens": [
+        "img/2024-1-b/q18.png"
+      ],
+      "alternativas": {
+        "A": "\\(V = x^2 + x\\)",
+        "B": "\\(V = x^2 - 3x\\)",
+        "C": "\\(V = x^3 - 2x^2 - 3x\\)",
+        "D": "\\(V = x^2 - 2x - 3\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(x^2 + x = x(x + 1)\\): multiplicou só largura e altura (a área de uma face). Faltou o comprimento.",
+        "B": "\\(x^2 - 3x = x(x - 3)\\): de novo, só duas das três medidas.",
+        "D": "\\(x^2 - 2x - 3 = (x + 1)(x - 3)\\): multiplicou altura e comprimento, mas esqueceu a largura \\(x\\)."
+      },
+      "teoria": [
+        "volumes",
+        "expressoes-algebricas"
+      ],
+      "essencial": [
+        "Volume do bloco retangular: largura × altura × comprimento, ou seja, \\(x(x + 1)(x - 3)\\).",
+        "Distributiva: multiplique cada termo de um parêntese por cada termo do outro: \\((x + 1)(x - 3) = x^2 - 2x - 3\\)."
+      ],
+      "raciocinio": "1. Volume = largura × altura × comprimento (veja: *Volumes de sólidos*): \\(V = x \\cdot (x + 1) \\cdot (x - 3)\\).\n2. Distributiva nos dois parênteses (veja: *Expressões algébricas*): \\((x + 1)(x - 3) = x^2 - 3x + x - 3 = x^2 - 2x - 3\\).\n3. Agora vezes \\(x\\): \\(x^3 - 2x^2 - 3x\\).\n\nResposta: **C**.\n\n**Dica de prova:** são três medidas com \\(x\\) multiplicadas, então o volume precisa ter \\(x^3\\). Só a C tem, e dá para acertar sem fazer a conta toda.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Ao buscar informações a respeito dos clipes mais vistos da história do Youtube no Brasil, um estudante encontrou uma notícia de 2022.\n\n> ### Quais são os clipes mais vistos da história do YouTube no Brasil?\n> A artista que mais aparece é Marília Mendonça, com 16 clipes, seguida por Anitta (8), Henrique e Juliano (7) e Gusttavo Lima (6). Os cinco estilos mais presentes são o sertanejo, com 45 clipes, seguido pelo funk (16), forró e pop (8 cada um), rap (7) e gospel (6). [...] Um dos destaques é o canal de funk Kondzilla, que tem três dos cinco vídeos mais tocados, inclusive o campeão, \"Bum bum Tam Tam\", do MC Fioti. O levantamento considera todos os clipes brasileiros de música lançados desde o início do YouTube, em 2005. As visualizações são somadas de todos os países, não só da audiência no Brasil, até o dia 10 de junho de 2022. Não foram considerados vídeos de música infantil, como Galinha Pintadinha. Os dados são do próprio YouTube, coletados pelo site Kworb.\n>\n> Veja os clipes brasileiros mais vistos no YouTube:\n>\n> 1º Lugar: MC Fioti - Bum Bum Tam Tam (KondZilla) - 1.712.733.533\n> 2º Lugar: MC Kevinho - Olha a Explosão (KondZilla) - 1.181.620.288\n> 3º Lugar: Michel Teló - Ai Se Eu Te Pego - Video Oficial (Assim você me mata) - 1.069.753.979\n> 4º Lugar: Zé Neto e Cristiano – Largado às Traças - Zé Neto e Cristiano Acústico - 883.285.203\n> 5º Lugar: Amor de Verdade - MC Kekel e MC Rita (KondZilla) - 727.652.668\n> 6º Lugar: Zé Neto e Cristiano – Notificação Preferida - 727.050.893\n> 7º Lugar: Simone & Simaria - Loka ft. Anitta - 718.309.705\n> 8º Lugar: Preto no Branco - Ninguém Explica Deus (Ao Vivo) ft. Gabriela Rocha - 665.087.438\n> 9º Lugar: Anitta & J Balvin - Downtown - 632.360.723\n> 10º Lugar: MC Kevinho - O Grave Bater [Sintonia Soundtrack] (KondZilla) - 622.440.014\n> [...]\n>\n> <cite>Disponível em: &lt;https://g1.globo.com/pop-arte/musica/noticia/2022/06/28/quais-sao-os-clipes-mais-vistos-da-historia-do-youtube-no-brasil.ghtml&gt;. Acesso em 15 jul. 2023.</cite>\n\nAo olhar apenas para os dez primeiros clipes indicados na notícia, o estudante observou corretamente que",
+      "imagens": [],
+      "alternativas": {
+        "A": "as visualizações dos dois clipes de MC Kevinho, que estão entre os 10 primeiros, ultrapassam a visualização do 1º colocado na lista.",
+        "B": "dos dez clipes listados, sete têm menos de 1 milhão de visualizações.",
+        "C": "os clipes do canal KondZilla, que estão entre os 10 primeiros, não ultrapassam 4,2 bilhões de visualizações.",
+        "D": "os dois clipes da dupla Zé Neto e Cristiano, que estão entre os 10 primeiros, não ultrapassam 1.510.336.096 visualizações."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Todos os dez têm centenas de milhões de visualizações. O menor, “O Grave Bater”, tem mais de 622 milhões.",
+        "C": "São quatro clipes do KondZilla: 1.712.733.533 + 1.181.620.288 + 727.652.668 + 622.440.014 = 4.244.446.503, que passa de 4,2 bilhões.",
+        "D": "883.285.203 + 727.050.893 = 1.610.336.096, que passa de 1.510.336.096. O número da alternativa só troca o 6 das centenas de milhão por 5."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Leia números grandes por classes de três algarismos: 1.712.733.533 é 1 bilhão e 712 milhões.",
+        "Para comparar, estime em milhões: 1.181 + 622 milhões passam de 1.712 milhões."
+      ],
+      "raciocinio": "1. Leia os números por classes (veja: *Potências de 10 e notação científica*): 1.712.733.533 é 1 bilhão e 712 milhões.\n2. A: os clipes do MC Kevinho são o 2º (1.181.620.288) e o 10º (622.440.014). Soma: 1.804.060.302, mais que os 1.712.733.533 do 1º colocado. Verdadeira.\n3. B, C e D caem pelas contas mostradas nos comentários das alternativas.\n\nResposta: **A**.\n\n**Dica de prova:** estime em milhões antes de calcular. Faça a conta exata só quando a estimativa ficar apertada, como na D.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Um certo produto eletrônico teve seu preço diminuído durante duas semanas seguidas. Na primeira semana, o preço caiu 10%, e na segunda semana sofreu nova queda e teve seu preço reduzido em mais 5%. Se no começo da primeira semana este produto custava R$ 800,00, qual seu preço final após a aplicação dos dois descontos?",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 680,00",
+        "B": "R$ 684,00",
+        "C": "R$ 720,00",
+        "D": "R$ 760,00"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "R$ 680 é 800 com 15% de desconto de uma vez (10% + 5%). Mas o segundo desconto é sobre o preço já reduzido.",
+        "C": "R$ 720 é o preço depois só da primeira semana. Faltou o segundo desconto.",
+        "D": "R$ 760 é 800 com só 5% de desconto. Faltou o de 10%."
+      },
+      "teoria": [
+        "aumentos-e-descontos-sucessivos"
+      ],
+      "essencial": [
+        "O segundo desconto incide sobre o preço já reduzido: 5% de 720, e não de 800.",
+        "Em uma conta só: \\(800 \\cdot 0{,}90 \\cdot 0{,}95 = 684\\). O desconto total é de 14,5%, e não de 15%."
+      ],
+      "raciocinio": "1. 1ª semana: 10% de 800 = 80 → R$ 720.\n2. 2ª semana: 5% de **720** = 36 → R$ 684.\n3. Em uma conta só (veja: *Aumentos e descontos sucessivos*): \\(800 \\cdot 0{,}90 \\cdot 0{,}95 = 800 \\cdot 0{,}855 = 684\\). O desconto total foi de 14,5%, e não de 15%.\n\n<div data-interativo=\"porcentagens-sequencia\" data-inicial=\"800\" data-v1=\"-10\" data-v2=\"-5\" data-prefixo=\"R$ \" data-conclusao=\"Descontos de 10% e de 5% em sequência dão 14,5%: R$ 684 (B).\"></div>\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Minecraft é um jogo eletrônico em que seus jogadores exploram um mundo feito em blocos. Nesse mundo é possível construir inúmeras coisas a partir dos diferentes blocos disponíveis. No modo criativo, os jogadores têm acesso a todos os recursos e itens proporcionados pelo jogo. Um jogador pretende construir um prédio retangular com blocos de minério de diamante no modo criativo. O prédio tem comprimento de 5 blocos, largura de 4 blocos e altura de 8 blocos de minério de diamante como mostra a figura 1:\n\n#### Figura 1: prédio retangular\n![Prédio em forma de bloco retangular feito de cubos: 5 cubos de comprimento, 4 de largura e 8 de altura.](img/2024-1-b/q21.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nSabe-se que o prédio construído pelo jogador é oco por dentro e há somente blocos cobrindo o piso, o teto e as quatro paredes. Se cada bloco tem 1*cm*³ de volume, qual o volume da parte oca do prédio?",
+      "imagens": [
+        "img/2024-1-b/q21.png"
+      ],
+      "alternativas": {
+        "A": "160*cm*³",
+        "B": "124*cm*³",
+        "C": "42*cm*³",
+        "D": "36*cm*³"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "160 = 5 × 4 × 8 é o volume do prédio inteiro, blocos e parte oca juntos.",
+        "B": "124 = 160 − 36 é o volume dos blocos, a parte que **não** é oca.",
+        "C": "42 = 3 × 2 × 7: tirou as paredes, mas descontou só o piso ou só o teto. Sobram 8 − 2 = 6 andares com espaço oco."
+      },
+      "teoria": [
+        "volumes"
+      ],
+      "essencial": [
+        "Volume do bloco retangular: comprimento × largura × altura. O prédio todo tem \\(5 \\cdot 4 \\cdot 8 = 160\\) cm³.",
+        "A parte oca perde uma camada de cada lado: cada medida diminui 2. Fica \\(3 \\cdot 2 \\cdot 6 = 36\\) cm³."
+      ],
+      "raciocinio": "1. Volume total: \\(5 \\cdot 4 \\cdot 8 = 160\\) cm³ (veja: *Volumes de sólidos*).\n2. A parte oca também é um bloco retangular, com uma camada a menos de cada lado: comprimento \\(5 - 2 = 3\\), largura \\(4 - 2 = 2\\) e altura \\(8 - 2 = 6\\) (sem piso e teto).\n\n<div data-interativo=\"q21-predio\"></div>\n\n3. Volume oco: \\(3 \\cdot 2 \\cdot 6 = 36\\) cm³. (Os blocos ocupam \\(160 - 36 = 124\\) cm³.)\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Um estudante foi comer no intervalo das aulas e viu que seu lanche era como o da foto abaixo.\n\n![Foto de um sanduíche de pão de forma cortado na diagonal, formando dois triângulos.](img/2024-1-b/q22-sanduiche.jpg)\n\n<cite>UOL, 2017. Sanduíche na diagonal ou reto? Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2017/03/13/ate-corte-preferido-de-sanduiche-pode-ajudar-google-a-personalizar-android.htm. Acesso em: 31 jul. 2023</cite>\n\nConsiderando que o pão de forma, como o da foto, tem a forma de um **quadrado** de lado 12cm, qual dos pontos marcados na reta real abaixo está mais próximo da medida da **diagonal** desse pão?\n\n![Reta real de 8 a 19. O ponto A está pouco depois do 11, o ponto B pouco depois do 13, o ponto C pouco antes do 15 e o ponto D quase no 17.](img/2024-1-b/q22-reta.png)",
+      "imagens": [
+        "img/2024-1-b/q22-sanduiche.jpg",
+        "img/2024-1-b/q22-reta.png"
+      ],
+      "alternativas": {
+        "A": "Ponto A",
+        "B": "Ponto B",
+        "C": "Ponto C",
+        "D": "Ponto D"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O ponto A está perto de 11, menos que o lado do pão (12 cm). A diagonal é sempre maior que o lado.",
+        "B": "O ponto B está perto de 13; a diagonal mede quase 17 cm.",
+        "C": "O ponto C está perto de 15, ainda longe dos quase 17 cm da diagonal."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "A diagonal divide o quadrado em dois triângulos retângulos: \\(d^2 = 12^2 + 12^2 = 288\\).",
+        "Para estimar a raiz, use quadrados vizinhos: \\(17^2 = 289\\), então \\(\\sqrt{288}\\) fica quase em 17."
+      ],
+      "raciocinio": "1. A diagonal divide o quadrado em dois triângulos retângulos, com os lados como catetos (veja: *Teorema de Pitágoras*): \\(d^2 = 12^2 + 12^2 = 288\\).\n2. Estime a raiz pelos quadrados vizinhos (veja: *Raízes e radicais*): \\(16^2 = 256\\) e \\(17^2 = 289\\). Como 288 está quase em 289, \\(d \\approx 16{,}97\\) cm.\n3. Outro caminho: \\(d = 12\\sqrt{2} \\approx 12 \\cdot 1{,}41 \\approx 16{,}9\\).\n4. O ponto mais próximo de 17 é o D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Determinado engenheiro elaborou projetos de energia solar para uma residência e para um comércio. Foram previstos painéis solares de diferentes potências: menor potência para a residência e maior potência para a instalação comercial. Para isso foi realizado um pedido de 30 painéis solares que custam no total R$ 15.900,00. O painel residencial custa R$ 400,00 enquanto o comercial R$ 700,00. Diante disso, a quantidade de painéis solares residenciais e a de comerciais pedidos totaliza, respectivamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "15 e 15",
+        "B": "17 e 13",
+        "C": "24 e 6",
+        "D": "27 e 3"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(15 \\cdot 400 + 15 \\cdot 700 = 16\\,500\\). Passa de R$ 15.900.",
+        "C": "\\(24 \\cdot 400 + 6 \\cdot 700 = 13\\,800\\). Não chega a R$ 15.900.",
+        "D": "\\(27 \\cdot 400 + 3 \\cdot 700 = 12\\,900\\). Bem abaixo de R$ 15.900."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Duas informações, duas equações: \\(r + c = 30\\) (quantidade) e \\(400r + 700c = 15\\,900\\) (potência).",
+        "Substituição: isole \\(r = 30 - c\\) e troque na outra equação."
+      ],
+      "raciocinio": "1. Monte o sistema (veja: *Sistemas de equações do 1º grau*): \\(r + c = 30\\) e \\(400r + 700c = 15\\,900\\).\n2. Substituição: \\(r = 30 - c\\), então \\(400(30 - c) + 700c = 15\\,900\\), ou seja, \\(12\\,000 + 300c = 15\\,900\\) e \\(c = 13\\).\n3. \\(r = 30 - 13 = 17\\). Conferindo: \\(17 \\cdot 400 + 13 \\cdot 700 = 6800 + 9100 = 15\\,900\\) ✓.\n\nResposta: **B**.\n\n**Dica de prova:** quando todas as alternativas já cumprem uma das condições (aqui, todas somam 30), basta testar a outra.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Uma piscina com formato de um bloco retangular tem capacidade de 23.500 litros, quando completamente cheia. Comprou-se um produto para a clarificação da água, cuja embalagem indica que devem ser utilizados 3ml do produto a cada 0,5 metro cúbico de água. Considerando que a água da piscina precisa ser clarificada e que foi seguida a indicação da embalagem do produto, calcule a quantidade de produto a ser utilizada considerando que a piscina esteja completamente cheia.",
+      "imagens": [],
+      "alternativas": {
+        "A": "705 litros",
+        "B": "70,5 ml",
+        "C": "0,141 ml",
+        "D": "0,141 litros"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "705 litros seriam 3% da água da piscina, um absurdo para uma dose em mililitros. O valor vem de misturar litros, m³ e ml.",
+        "B": "70,5 ml = 23,5 × 3: aplicou 3 ml a cada 1 m³, mas a dose é para cada 0,5 m³. Ficou pela metade.",
+        "C": "O número 141 está certo, mas a unidade não: são 141 ml = 0,141 litro, e não 0,141 ml."
+      },
+      "teoria": [
+        "conversao-de-unidades",
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "1 m³ = 1.000 L, então 23.500 L = 23,5 m³.",
+        "Dose proporcional ao volume: conte quantas porções de 0,5 m³ cabem (47) e multiplique pela dose (3 ml)."
+      ],
+      "raciocinio": "1. Converta o volume (veja: *Conversão de unidades*): 23.500 L = 23,5 m³.\n2. A dose é proporcional ao volume (veja: *Grandezas diretamente e inversamente proporcionais*). Quantas porções de 0,5 m³ cabem em 23,5 m³? \\(23{,}5 \\div 0{,}5 = 47\\).\n3. Produto: \\(47 \\cdot 3 = 141\\) ml.\n4. Em litros: \\(141 \\div 1000 = 0{,}141\\) L.\n\nResposta: **D**.\n\n**Dica de prova:** antes de marcar, confira se o valor faz sentido. 705 litros de produto para clarificar uma piscina não fazem.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Em uma matéria sobre a produção de café no Brasil e no mundo, é citado que o mundo produziu, em 2022, 171,7 milhões de sacas de café.\nSabendo que uma saca é igual a 60Kg de café, qual alternativa apresenta a produção aproximada de café, no ano de 2022, em kg?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(10{,}3 \\times 10^9\\) *kg*",
+        "B": "\\(17{,}1 \\times 10^7\\) *kg*",
+        "C": "\\(10{,}3 \\times 10^3\\) *kg*",
+        "D": "\\(17{,}1 \\times 10^5\\) *kg*"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "\\(17{,}1 \\times 10^7 = 171\\) milhões: é o número aproximado de sacas, sem multiplicar por 60 kg.",
+        "C": "\\(10{,}3 \\times 10^3 = 10\\,300\\) kg: o expoente está muito pequeno. A produção passa de 10 bilhões de kg.",
+        "D": "\\(17{,}1 \\times 10^5 = 1{,}71\\) milhão: não é o número de sacas nem o de quilos."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Milhão = \\(10^6\\): 171,7 milhões = \\(171{,}7 \\times 10^6\\).",
+        "Mover a vírgula 3 casas para a esquerda soma 3 ao expoente: \\(10\\,302 \\times 10^6 = 10{,}302 \\times 10^9\\)."
+      ],
+      "raciocinio": "1. Sacas: \\(171{,}7\\) milhões \\(= 171{,}7 \\times 10^6\\).\n2. Quilos: \\(171{,}7 \\times 10^6 \\cdot 60 = 10\\,302 \\times 10^6 = 10\\,302\\,000\\,000\\) kg.\n3. Andando a vírgula (veja: *Potências de 10 e notação científica*): \\(10{,}302 \\times 10^9 \\approx 10{,}3 \\times 10^9\\) kg.\n\nResposta: **A**.\n\n> \\(10{,}3 \\times 10^9\\) e \\(1{,}03 \\times 10^{10}\\) são o mesmo valor: a vírgula andou uma casa, e o expoente mudou uma unidade.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "A densidade demográfica é um conceito utilizado para medir o número de habitantes de uma determinada localidade em relação ao tamanho do território ocupado por esses habitantes. Na prática, para encontrar o valor da densidade demográfica, é necessário realizar o seguinte cálculo:\n\n\\[\\text{Densidade Demográfica} = \\frac{\\text{número de habitantes}}{\\text{área ocupada por essa população (km}^2\\text{)}}\\]\n\nO quadro a seguir reúne as densidades demográficas dos estados da Região Sudeste e também a do Brasil, nos dois últimos Censos realizados pelo Instituto Brasileiro de Geografia e Estatística (IBGE).\n\n| | Densidade Demográfica – Censo 2010 | Densidade Demográfica – Censo 2022 | Área |\n|---|---|---|---|\n| Espirito Santo | 76,25 | 83,20 | 46.074 km² |\n| Minas Gerais | 33,41 | 35,02 | 586.514 km² |\n| Rio de Janeiro | 365,23 | 366,96 | 43.750 km² |\n| São Paulo | 166,25 | 178,96 | 248.219 km² |\n| Brasil | 22,43 | 23,86 | 8.510.418 km² |\n\n<cite>Adaptado de IBGE, 2023. Censo demográfico.</cite>\n\nA partir do conceito de densidade demográfica e os dados apresentados no quadro, é correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "o Brasil, com 8.510.418 km², tem alta densidade demográfica.",
+        "B": "o estado de Minas Gerais tem menos habitantes que o estado do Espirito Santo.",
+        "C": "o estado de São Paulo teve o maior aumento populacional.",
+        "D": "o estado do Rio de Janeiro é o mais populoso da Região Sudeste."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A densidade do Brasil (23,86 hab/km²) é menor que a de todos os estados do Sudeste. Área grande não significa densidade alta.",
+        "B": "Minas: \\(35{,}02 \\cdot 586\\,514 \\approx 20{,}5\\) milhões. Espírito Santo: \\(83{,}20 \\cdot 46\\,074 \\approx 3{,}8\\) milhões. Minas tem muito mais habitantes.",
+        "D": "O RJ tem a maior densidade, mas área pequena: \\(366{,}96 \\cdot 43\\,750 \\approx 16{,}1\\) milhões. São Paulo tem cerca de 44,4 milhões."
+      },
+      "teoria": [
+        "razoes-especiais"
+      ],
+      "essencial": [
+        "Densidade demográfica = habitantes ÷ área. Então habitantes = densidade × área.",
+        "Densidade maior não quer dizer aumento maior: o aumento é a diferença de densidade vezes a área do estado."
+      ],
+      "raciocinio": "1. Densidade não é população: habitantes = densidade × área (veja: *Razões especiais: velocidade, densidade e escala*). Como a área não mudou entre os censos, o aumento é (densidade 2022 − densidade 2010) × área.\n2. Calcule para cada estado:\n\n| Estado | Diferença de densidade | × Área | Aumento |\n|---|---|---|---|\n| Espírito Santo | 6,95 | × 46.074 | ≈ 320 mil |\n| Minas Gerais | 1,61 | × 586.514 | ≈ 944 mil |\n| Rio de Janeiro | 1,73 | × 43.750 | ≈ 76 mil |\n| São Paulo | 12,71 | × 248.219 | ≈ **3,15 milhões** |\n\n3. São Paulo teve o maior aumento.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Uma família passeando pela rua viu uma placa de venda de dois terrenos, um no formato de um triângulo retângulo e outro ao lado em forma de quadrado, conforme mostra a figura abaixo. Entretanto, por causa da chuva, as informações dos terrenos que constam na placa ficaram ilegíveis. A única leitura possível foi a medida de dois lados do triângulo retângulo, a=6 metros e b=8 metros. De acordo com as informações apresentadas, qual a área total do terreno (triangulo mais quadrado)?\n\n![Triângulo retângulo com catetos a (embaixo) e b (à esquerda) e hipotenusa c. Sobre a hipotenusa está desenhado um quadrado de lado c.](img/2024-1-b/q27.png)\n\n<cite>Fonte: IFSP, 2023</cite>",
+      "imagens": [
+        "img/2024-1-b/q27.png"
+      ],
+      "alternativas": {
+        "A": "10",
+        "B": "24",
+        "C": "100",
+        "D": "124"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "10 m é a medida do lado c (a hipotenusa), e não uma área.",
+        "B": "24 m² é só a área do triângulo. Faltou o quadrado.",
+        "C": "100 m² é só a área do quadrado. Faltou o triângulo."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "areas-de-figuras-planas"
+      ],
+      "essencial": [
+        "Pitágoras: \\(c^2 = a^2 + b^2\\). Como a área do quadrado é \\(c^2\\), nem precisa achar \\(c\\).",
+        "No triângulo retângulo, os catetos são base e altura: área \\(\\frac{6 \\cdot 8}{2} = 24\\) m²."
+      ],
+      "raciocinio": "1. O lado do quadrado é a hipotenusa \\(c\\), e a área do quadrado é \\(c^2\\). Pitágoras já entrega esse valor (veja: *Teorema de Pitágoras*): \\(c^2 = 6^2 + 8^2 = 36 + 64 = 100\\) m².\n2. No triângulo retângulo, os catetos são base e altura (veja: *Áreas de figuras planas*): \\(\\frac{6 \\cdot 8}{2} = 24\\) m².\n3. Total: \\(100 + 24 = 124\\) m².\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Sejam x, y e z os números reais definidos abaixo:\n\n\\[x = 4^{\\frac{3}{2}} \\qquad y = \\left(\\frac{1}{8}\\right)^{-2} \\qquad z = \\sqrt[4]{4}\\]\n\nEscreva x, y e z numa forma mais simplificada e analise as igualdades a seguir, avaliando se são verdadeiras ou não:\n\nI) \\(x = \\sqrt{y}\\)\nII) \\(\\dfrac{x}{z^2} = \\sqrt[3]{y}\\)\nIII) \\(y = 2x \\cdot z^2\\)\n\nAs igualdades verdadeiras são aquelas apresentadas em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e II, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I, II e III."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A III é falsa: \\(2x \\cdot z^2 = 2 \\cdot 8 \\cdot 2 = 32\\), e \\(y = 64\\).",
+        "C": "A III é falsa: \\(2x \\cdot z^2 = 32\\), e não 64.",
+        "D": "A III é falsa, então “I, II e III” não pode ser."
+      },
+      "teoria": [
+        "propriedades-de-potencias",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Expoente fracionário vira raiz: \\(4^{\\frac{3}{2}} = (\\sqrt{4})^3 = 8\\).",
+        "Expoente negativo inverte a base: \\(\\left(\\frac{1}{8}\\right)^{-2} = 8^2 = 64\\).",
+        "Raiz de uma potência divide o expoente: \\(\\sqrt[4]{2^2} = 2^{\\frac{2}{4}} = \\sqrt{2}\\)."
+      ],
+      "raciocinio": "1. Simplifique os três números (veja: *Propriedades das potências* e *Raízes e radicais*):\n   - \\(x = 4^{\\frac{3}{2}} = (\\sqrt{4})^3 = 2^3 = 8\\);\n   - \\(y = \\left(\\frac{1}{8}\\right)^{-2} = 8^2 = 64\\);\n   - \\(z = \\sqrt[4]{4} = \\sqrt[4]{2^2} = 2^{\\frac{2}{4}} = \\sqrt{2}\\), então \\(z^2 = 2\\).\n2. I) \\(\\sqrt{y} = \\sqrt{64} = 8 = x\\). Verdadeira.\n3. II) \\(\\frac{x}{z^2} = \\frac{8}{2} = 4\\) e \\(\\sqrt[3]{64} = 4\\). Verdadeira.\n4. III) \\(2x \\cdot z^2 = 2 \\cdot 8 \\cdot 2 = 32 \\neq 64\\). Falsa.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "A soma das idades dos primos X e Y é igual a 26 anos. Além disso, é sabido que o triplo da idade de X, menos metade da idade de Y é igual a 15 anos. Sendo X e Y as idades dos primos em anos, assinale a alternativa que apresenta o sistema de equações que satisfaz as condições apresentadas.",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\begin{cases} x + y = 26 \\\\ \\frac{y}{2} - 3x = 15 \\end{cases}\\)",
+        "B": "\\(\\begin{cases} x + y = 26 \\\\ 3y - 0.5x = 15 \\end{cases}\\)",
+        "C": "\\(\\begin{cases} x + y = 26 \\\\ 3x - \\frac{y}{2} = 15 \\end{cases}\\)",
+        "D": "\\(\\begin{cases} x + y = 26 \\\\ 3x - \\frac{3y}{2} = 15 \\end{cases}\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(\\frac{y}{2} - 3x\\) é “metade de Y menos o triplo de X”: a subtração está na ordem inversa.",
+        "B": "\\(3y - 0{,}5x\\) troca as letras: é o triplo de Y e a metade de X.",
+        "D": "\\(\\frac{3y}{2}\\) é “três metades de Y”, e não a metade de Y."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Traduza frase por frase: “o triplo de X” → \\(3x\\); “metade de Y” → \\(\\frac{y}{2}\\); “é igual a” → \\(=\\).",
+        "Duas condições formam um sistema: \\(x + y = 26\\) e \\(3x - \\frac{y}{2} = 15\\)."
+      ],
+      "raciocinio": "1. Traduza cada frase (veja: *Sistemas de equações do 1º grau*): “a soma das idades é 26” → \\(x + y = 26\\).\n2. “O triplo da idade de X” → \\(3x\\); “menos metade da idade de Y” → \\(-\\frac{y}{2}\\); “é igual a 15” → \\(= 15\\).\n3. Sistema: \\(x + y = 26\\) e \\(3x - \\frac{y}{2} = 15\\). (Resolvendo, \\(x = 8\\) e \\(y = 18\\): \\(8 + 18 = 26\\) e \\(24 - 9 = 15\\) ✓.)\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Ao aplicar o teorema de Pitágoras no triângulo retângulo *ABC* da figura a seguir, em que *AC* = 4 e *AB* = \\(12\\sqrt{7}\\), um estudante obteve o seguinte resultado:\n\n![Triângulo retângulo ABC com ângulo reto em A. O cateto vertical AC mede 4 e o cateto horizontal AB mede 12√7.](img/2024-1-b/q30.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\n\\[BC^2 = 4^2 + (12\\sqrt{7})^2 = 16 + 1008 = 1024\\]\n\nUtilizando seus conhecimentos de fatoração, potenciação e radiciação, e considerando que o estudante determinou a medida de *BC* corretamente, deixando o resultado em forma de potência, qual valor foi obtido para a medida da hipotenusa *BC*?",
+      "imagens": [
+        "img/2024-1-b/q30.png"
+      ],
+      "alternativas": {
+        "A": "\\(2^{10}\\)",
+        "B": "\\(2^8\\)",
+        "C": "\\(2^5\\)",
+        "D": "\\(2^{20}\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(2^{10} = 1024\\) é \\(BC^2\\), e não BC. Faltou tirar a raiz quadrada.",
+        "B": "\\(2^8 = 256\\): tirar a raiz quadrada é dividir o expoente por 2, e não subtrair 2.",
+        "D": "\\(2^{20} = (2^{10})^2\\): elevou ao quadrado em vez de tirar a raiz."
+      },
+      "teoria": [
+        "divisibilidade-e-fatoracao",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Fatorar é dividir pelos primos até chegar a 1: 1024 dividido por 2 dez vezes dá 1, então \\(1024 = 2^{10}\\).",
+        "A raiz quadrada de uma potência divide o expoente por 2: \\(\\sqrt{2^{10}} = 2^5\\)."
+      ],
+      "raciocinio": "1. O estudante já tem \\(BC^2 = 1024\\).\n2. Fatore (veja: *Divisibilidade e fatoração em primos*): 1024 dividido por 2 dez vezes chega a 1, então \\(1024 = 2^{10}\\).\n3. A raiz quadrada de uma potência divide o expoente por 2 (veja: *Raízes e radicais*): \\(BC = \\sqrt{2^{10}} = 2^5\\).\n4. Conferindo: \\(2^5 = 32\\) e \\(32^2 = 1024\\) ✓.\n\nResposta: **C**.",
+      "interativo": null
+    }
+  ]
+}

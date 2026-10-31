@@ -1,0 +1,13 @@
+{
+  "id": "principio-multiplicativo",
+  "titulo": "Princípio multiplicativo",
+  "materia": "Matemática",
+  "grupo": "Contagem, probabilidade e estatística",
+  "texto": "Se uma escolha é feita em **etapas independentes**, o total de possibilidades é o **produto** das opções de cada etapa.\n\n\\[\\text{total} = (\\text{opções da primeira etapa}) \\times (\\text{opções da segunda etapa}) \\times \\cdots\\]\n\n**Exemplo:** 3 camisetas e 2 bermudas formam \\(3 \\cdot 2 = 6\\) combinações de roupa.\n\n**Monte um quadro de posições:** desenhe um espaço para cada etapa e escreva quantas opções há em cada um. Depois multiplique.\n\n| Senha de 4 letras | 1ª | 2ª | 3ª | 4ª | Total |\n|---|---|---|---|---|---|\n| com repetição | 26 | 26 | 26 | 26 | \\(26^4\\) |\n| sem repetição | 26 | 25 | 24 | 23 | \\(26 \\cdot 25 \\cdot 24 \\cdot 23\\) |\n| 2 consoantes diferentes + 2 vogais diferentes | 21 | 20 | 5 | 4 | \\(8\\,400\\) |\n\n**“Diferentes entre si”** (sem repetição): cada escolha tem **uma opção a menos** que a anterior do mesmo grupo.\n\n**Comece pela etapa com mais restrições.** Se a primeira posição tem uma regra especial (por exemplo, não pode ser zero), preencha-a primeiro.\n\n**Letras do alfabeto:** 26 letras = 5 vogais (a, e, i, o, u) + 21 consoantes.\n\n**Restrições que eliminam opções:** num tabuleiro, se cada peça ocupa uma linha e uma coluna, a próxima peça tem uma linha e uma coluna a menos para escolher. Em 3 linhas e 3 colunas, 3 peças que não se atacam podem ser postas de \\(3 \\cdot 2 \\cdot 1 = 6\\) jeitos.\n\n**Ordem importa?** O princípio multiplicativo conta resultados em que a **ordem** faz diferença (senhas, filas, pódios). Quando a ordem não importa (grupos, comissões), veja *Combinações: escolher sem importar a ordem*.",
+  "videos": [
+    {
+      "titulo": "PFC – Princípio fundamental da contagem - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=a0GcRAWcoUY"
+    }
+  ]
+}

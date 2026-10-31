@@ -1,0 +1,17 @@
+{
+  "id": "infograficos",
+  "titulo": "Leitura de infográficos",
+  "materia": "Português",
+  "grupo": "Interpretação de texto",
+  "texto": "**Infográfico** é um texto que combina **números, imagens e textos curtos** para explicar um assunto de forma rápida e visual. É muito usado em jornais, sites e campanhas.\n\n**Como ler:**\n\n1. **Título e subtítulo** trazem a ideia principal. Leia com atenção os verbos e advérbios: “a evasão **já era** problema **antes** da pandemia” diz que o problema não começou com a pandemia.\n2. Em cada dado, confira **a que grupo ele se refere** (faixa de idade, região, ano). Dados de grupos diferentes não podem ser misturados.\n3. Veja a **fonte** e a **data** dos dados.\n4. Separe o que o infográfico **mostra** do que você **imagina**: a alternativa precisa estar apoiada num dado ou numa frase dele.\n\n**Armadilhas comuns em alternativas:**\n\n- palavras restritivas (“somente”, “apenas”) que ignoram outros dados do infográfico;\n- relações de causa que o infográfico não afirma;\n- números certos aplicados ao grupo errado.\n\n**Infográfico + texto:** quando o infográfico acompanha uma reportagem, os dois costumam se completar (veja *Comparação entre textos*).",
+  "videos": [
+    {
+      "titulo": "Infográfico, como fazer? - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=F3nR3g5Ol4g"
+    },
+    {
+      "titulo": "Como ler e interpretar um infográfico (com Libras) - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=joseq83vyXI"
+    }
+  ]
+}

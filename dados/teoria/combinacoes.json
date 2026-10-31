@@ -1,0 +1,17 @@
+{
+  "id": "combinacoes",
+  "titulo": "Combinações: escolher sem importar a ordem",
+  "materia": "Matemática",
+  "grupo": "Contagem, probabilidade e estatística",
+  "texto": "Em muitos problemas, a ordem da escolha **não importa**: o grupo {Ana, Bia} é o mesmo que {Bia, Ana}. Esses agrupamentos são **combinações**.\n\n**Combinação de \\(n\\) elementos tomados \\(p\\) a \\(p\\):**\n\n\\[C_{n,p} = \\frac{\\overbrace{n \\cdot (n-1) \\cdot (n-2) \\cdots}^{p\\ \\text{fatores}}}{p \\cdot (p-1) \\cdots 2 \\cdot 1}\\]\n\n| Situação | Conta | Resultado |\n|---|---|---|\n| duplas entre 5 pessoas | \\(\\dfrac{5 \\cdot 4}{2 \\cdot 1}\\) | 10 |\n| trios entre 5 pontos | \\(\\dfrac{5 \\cdot 4 \\cdot 3}{3 \\cdot 2 \\cdot 1}\\) | 10 |\n| trios entre 6 pessoas | \\(\\dfrac{6 \\cdot 5 \\cdot 4}{3 \\cdot 2 \\cdot 1}\\) | 20 |\n\n**Por que dividir?** Se a ordem importasse, trios de 5 pontos seriam \\(5 \\cdot 4 \\cdot 3 = 60\\). Mas cada trio aparece \\(3 \\cdot 2 \\cdot 1 = 6\\) vezes nessa conta (ABC, ACB, BAC, BCA, CAB, CBA). Dividindo, sobram 10.\n\n**Ordem importa ou não?** Pergunte: trocar a ordem dá um resultado diferente?\n\n- senha, placa, fila, pódio: **sim** → use o *Princípio multiplicativo*;\n- grupo, comissão, triângulo formado por pontos, salada de frutas: **não** → combinação.\n\n**Tire os casos inválidos.** Depois de contar todos os agrupamentos, descarte os que não servem. Exemplo: trios de pontos **alinhados** não formam triângulo.\n\n**Com poucos casos, liste.** Escrever todas as possibilidades em ordem (AB, AC, AD…, BC, BD…) evita esquecer ou repetir alguma.",
+  "videos": [
+    {
+      "titulo": "Combinação simples - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=fvPIb7Vtez4"
+    },
+    {
+      "titulo": "Arranjo ou combinação? Nunca mais confunda - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=6FgbzfSlBXw"
+    }
+  ]
+}

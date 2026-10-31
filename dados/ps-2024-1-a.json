@@ -1,0 +1,918 @@
+{
+  "id": "ps-2024-1-a",
+  "nome": "PS 2024.1 – Prova A",
+  "edital": "Edital nº 449/2023 – Prova A (manhã)",
+  "fonteGabarito": "Gabarito final – Prova A – Manhã – Edital 449 – PS 2024.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia os textos e responda ao que se pede.\n\n#### Texto 1\n> ### Temporal devastador no Litoral Norte de SP completa um mês\n> […]\n> A tragédia que devastou o **Litoral Norte de São Paulo** completa exatamente um mês neste domingo (19). Durante a madrugada do dia 19 de fevereiro, deslizamentos de terra provocados por um temporal histórico causaram mortes e destruição na região.\n>\n> <cite>Disponível em: https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2023/03/19/temporal-devastador-no-litoral-norte-de-sp-completa-um-mes-confira-um-resumo-da-tragedia.ghtml. Acesso em: 30 jul. 2023.</cite>\n\n#### Texto 2\n> São Sebastião, no litoral paulista, teve a maior área [de Mata Atlântica] devastada no estado de São Paulo. Em fevereiro, a região foi atingida por um grande volume de chuva, que provocou deslizamento de áreas de floresta; 64 pessoas morreram.\n>\n> <cite>Disponível em: https://g1.globo.com/jornal-nacional/noticia/2023/07/28/destruicao-da-mata-atlantica-tem-queda-surpreendente-nos-primeiros-5-meses-de-2023.ghtml. Acesso em: 30 jul. 2023.</cite>\n\nCom base na leitura de ambos os textos, assinale a alternativa em que a palavra ou expressão é menos neutra.",
+      "imagens": [],
+      "alternativas": {
+        "A": "tragédia (texto 1).",
+        "B": "deslizamentos (texto 1).",
+        "C": "atingida (texto 2).",
+        "D": "grande volume de chuva (texto 2)."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "“Deslizamentos” descreve um fato físico: a terra deslizou. É termo técnico, usado em relatórios, e não carrega opinião.",
+        "C": "“Atingida” só informa que a chuva chegou à região, sem dizer se isso foi bom ou ruim.",
+        "D": "“Grande volume de chuva” fala de uma quantidade, que pode ser medida em milímetros. “Grande” indica tamanho, mas não julga o fato."
+      },
+      "teoria": [
+        "fato-e-opiniao"
+      ],
+      "essencial": [
+        "Palavra neutra só informa; palavra marcada carrega o julgamento ou a emoção de quem escreve.",
+        "Teste: um relatório técnico usaria a palavra? “Deslizamentos” passa; “tragédia” não, porque avalia o fato como desgraça."
+      ],
+      "raciocinio": "1. “Menos neutra” é a palavra que mais carrega julgamento ou emoção (veja: *Fato e opinião*).\n2. Teste cada opção: um relatório técnico usaria essa palavra? “Deslizamentos”, “atingida” e “grande volume de chuva” passam no teste.\n3. “Tragédia” não passa: ela classifica o acontecimento como uma desgraça terrível. É uma avaliação de quem escreve, assim como o “temporal devastador” do título.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "O texto é um conjunto de elementos organizados com sentido. No caso abaixo, os parágrafos estão “embaralhados”. Assinale a alternativa que traz a correta ordenação desses trechos tendo em vista a hierarquização das ideias ao longo do texto.\n\n> ### Os perigos das mídias sociais e do vício em jogos eletrônicos\n> **A –** Além disso, há uma clara relação entre o uso excessivo de redes sociais, jogos violentos e aplicativos de filmes e séries com o surgimento de sintomas de depressão, ansiedade patológica, isolamento social e privação de sono. Na juventude, o excesso de tecnologia faz com que o indivíduo passe a maior parte do tempo interagindo virtualmente, o que afeta o desenvolvimento e faz perder outras experiências sociais importantes.\n>\n> **B -** Muitas delas estão intrinsecamente relacionadas ao desejo de autoafirmação e, quase sempre, ao medo de rejeição. Por isso, o uso muito passivo dos aplicativos de mídias sociais — somente a navegação pelas postagens alheias — geralmente está relacionado a sentimentos negativos como inveja, rancor e insatisfação com a vida.\n>\n> **C -** Não é segredo que a maioria das plataformas e aplicativos de mídia social foram intencionalmente projetados para prender a atenção dos usuários o máximo de tempo possível. O objetivo dessas ferramentas é, entre outras coisas imperceptíveis, explorar elementos como o preconceito e as vulnerabilidades psicológicas típicas da juventude.\n>\n> **D -** Por conseguinte, muitos jovens acabam substituindo a vida social pela online com muita naturalidade. Para eles isso é algo comum, já que cresceram na Era Hi-tech e sob a influência dos smartphones e de tantos outros dispositivos eletrônicos. Igualmente preocupante é o vício em jogos eletrônicos, problema que afeta consideravelmente a vida de muitos jovens internautas.\n>\n> **E -** Nesse universo virtual, há, ainda, outra problemática que não pode ser desconsiderada: a forma como as mídias sociais dominam a mente e influenciam o comportamento de adolescentes e jovens. Como esse grupo ainda está em fase de desenvolvimento, a menor capacidade crítica aumenta a vulnerabilidade a essas influências.\n>\n> <cite>Disponível em: https://hospitalsantamonica.com.br/impacto-da-tecnologia-na-saude-mental-dos-jovens-um-sinal-de-alerta/ . Acesso em: 31 jul. 2023.</cite>",
+      "imagens": [],
+      "alternativas": {
+        "A": "C - B - A - E - D",
+        "B": "C - A - D - B - E",
+        "C": "B - A - C - D - E",
+        "D": "A - B - C - D - E"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Depois de C vem B: “Muitas **delas**” retoma “as vulnerabilidades psicológicas”, do fim de C. Nesta ordem, “delas” fica sem referência.",
+        "C": "O texto não pode começar por B: “Muitas **delas**” retoma algo que ainda não foi dito.",
+        "D": "O texto não pode começar por A: “**Além disso**” acrescenta uma ideia a outra já apresentada."
+      },
+      "teoria": [
+        "coesao-referencial",
+        "conectivos"
+      ],
+      "essencial": [
+        "Conectivos de continuação (“Além disso”, “Por conseguinte”) dependem de algo dito antes: não abrem o texto.",
+        "Pronomes retomam termos anteriores: “Muitas **delas**” retoma “as vulnerabilidades psicológicas”, do fim de C. Por isso B vem logo depois de C."
+      ],
+      "raciocinio": "1. **Ache a abertura.** A (“Além disso”), B (“Muitas delas”), D (“Por conseguinte”) e E (“há, ainda, outra problemática”) dependem de algo dito antes (veja: *Conectivos e relações de sentido*). Só C (“Não é segredo que…”) pode abrir o texto. Isso elimina as alternativas C e D.\n2. **Ache o par obrigatório.** “Muitas delas” (B) retoma “as vulnerabilidades psicológicas”, que fecham o parágrafo C (veja: *Coesão referencial: retomar e anunciar*). Então vem C → B, e só a alternativa A começa assim.\n3. **Confira o resto:** A (“Além disso”) acrescenta mais efeitos negativos; E (“há, ainda, outra problemática”) traz um novo problema; D (“Por conseguinte”) apresenta a consequência e fecha o texto.\n\nOrdem: C - B - A - E - D. Resposta: **A**.\n\n**Dica de prova:** em questões de ordenar parágrafos, elimine primeiro as aberturas impossíveis (conectivos de continuação e pronomes que retomam algo). Muitas vezes isso derruba metade das alternativas.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia os textos a seguir para responder à questão.\n\n#### Texto 1\n> ### Ossos de preguiça gigante revelam presença humana no Brasil há 25 mil anos\n> A descoberta de pingentes feitos de ossos de preguiças gigantes extintas revela que há 25 mil anos os humanos já estavam na América do Sul — incluindo o Brasil. A análise foi publicada no periódico *Proceedings of the Royal Society B*. O estudo foi realizado por pesquisadores de instituições do Brasil, da França, dos Estados Unidos e da Irlanda.\n>\n> As três osteodermas — depósitos ósseos em forma de escamas ou placas — foram encontradas no Abrigo de Santa Elina, um sítio arqueológico localizado na cidade de Jangada, no Mato Grosso. Os ossos estavam perto de ferramentas de pedra com buracos que, segundo a pesquisa, só os humanos poderiam ter feito.\n>\n> A ideia de que esses detalhes foram feitos pelo *Homo sapiens* sugere que nossa espécie chegou ao Brasil antes do que se imaginava, entre 25 mil e 27 mil anos atrás. São informações importantes, já que faltam evidências dos primeiros humanos que se estabeleceram na América do Sul e de quando isso ocorreu. (…)\n>\n> <cite>GALILEU. Ossos de preguiça gigante revelam presença humana no Brasil há 25 anos. Disponível em: https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2023/07/ossos-de-preguica-gigante-revelam-presenca-humana-no-brasil-ha-25-mil-anos.ghtml. Acesso em: 17 jul. 2023. Texto adaptado.</cite>\n\n#### Texto 2\n> ### Machados gigantes de 300 mil anos são achados na Inglaterra\n> Um projeto para a construção de uma academia marítima acabou revelando um enorme tesouro arqueológico. Durante escavações no condado de Kent, no Reino Unido, uma equipe de pesquisadores do Instituto de Arqueologia da University College London (UCL) descobriu algumas das maiores ferramentas de pedra pré-históricas já encontradas na Grã-Bretanha.\n>\n> A descoberta, que foi registrada na publicação *Internet Archaeology*, revelou que objetos com mais de 300 mil anos estavam preservados em sedimentos. Esse material enchia um antigo canal numa encosta acima do Vale Medway na Idade do Gelo.\n>\n> Ao todo, os pesquisadores desenterraram 800 artefatos de pedra. Deles, dois eram facas de mais de 22 centímetros que, devido a esse tamanho, foram descritas pelos especialistas como “machados gigantes”.\n> (…)\n>\n> <cite>GALILEU. Machados gigantes de 300 mil anos são achados na Inglaterra. Disponível em: https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2023/07/artefatos-gigantes-e-rarissimos-da-era-do-gelo-sao-achados-na-inglaterra.ghtml. Acesso em: 17 jul. 2023. Texto adaptado.</cite>\n\nConsidere os seguintes trechos do TEXTO 1: *“Os ossos <u>estavam</u> perto de ferramentas de pedra com buracos que, segundo a pesquisa, só os humanos poderiam ter feito”* e do TEXTO 2: *“A descoberta, que foi registrada na publicação Internet Archaeology, revelou que objetos com mais de 300 mil anos <u>estavam</u> preservados em* sedimentos”. Em relação aos usos do verbo ESTAR, grifados nos trechos, é possível afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "ambos introduzem características sobre os substantivos relacionados a eles.",
+        "B": "no primeiro trecho destacado o verbo **estar** indica estado e no segundo, ação.",
+        "C": "no primeiro trecho destacado o verbo **estar** indica ação e no segundo, introduz uma característica ao substantivo “objetos”.",
+        "D": "nas duas ocorrências o verbo **estar** indica ações nos contextos em que foi utilizado."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Só o segundo “estavam” liga o substantivo a uma característica (“preservados”). No primeiro, “perto de ferramentas” diz onde os ossos se encontravam.",
+        "B": "Inverte a análise: no segundo trecho, “estavam preservados” liga “objetos” a um estado; não expressa ação.",
+        "D": "No segundo trecho o verbo não indica ação: é de ligação e conecta “objetos” à característica “preservados”."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica: “estavam **preservados**”.",
+        "Com sentido próprio, *estar* indica posição ou lugar: “estavam **perto de ferramentas**” não é característica dos ossos."
+      ],
+      "raciocinio": "1. Olhe o que vem logo depois de cada “estavam” (veja: *Verbos de ligação e predicativo do sujeito*).\n2. 1º trecho: “estavam **perto de ferramentas**” indica lugar, e não uma característica dos ossos. O verbo não é de ligação: tem sentido próprio.\n3. 2º trecho: “estavam **preservados**”. *Preservados* é um estado de “objetos”: o verbo é de ligação.\n4. A C diz “no 1º, ação; no 2º, característica”.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Armandinho é questionado pelo pai sobre o motivo de ele ter errado na prova uma questão que, para o pai, lhe parece fácil, óbvia. No entanto, o garoto deu uma resposta que atende a um tipo de elemento essencial à vida de todos os seres humanos: o amor. A qual perspectiva Armandinho se refere ao dar a sua resposta?\n\n![Tirinha do Armandinho em três quadros. O pai, de quem só aparecem as pernas, fala com o menino sobre uma questão da prova.](img/2024-1-a/q04.jpg \"Quadro 1 — Pai: “Essencial à vida de todos os seres vivos”, começa com a letra “A”... Como você conseguiu errar essa?! | Quadro 2 — Pai: É óbvio que é “água”! O que você colocou na prova?!! | Quadro 3 — Armandinho: Amor!\")\n\n<cite>Extraído do site: https://br.pinterest.com/pin/593490057140408054/visual-search/?x=10&y=10&w=530&h=530&imageSignature=d5a1388d55b32bfc9ca69494aaf22fcd. Acesso em 12 jul. 2023</cite>",
+      "imagens": [
+        "img/2024-1-a/q04.jpg"
+      ],
+      "alternativas": {
+        "A": "perspectiva das ciências biológicas",
+        "B": "perspectiva da geografia",
+        "C": "perspectiva da matemática",
+        "D": "perspectiva religiosa"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A perspectiva biológica é a do pai: a água é o que a Biologia considera essencial. Armandinho responde de outro ponto de vista.",
+        "B": "Nada na resposta “amor” tem relação com espaço, território, clima ou paisagem.",
+        "C": "Não há números, cálculos nem formas na tirinha."
+      },
+      "teoria": [
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "O humor vem da quebra de expectativa: o pai espera **água**, resposta da Biologia, e o menino diz **amor**.",
+        "Para achar a perspectiva, elimine as que nada têm a ver com o amor como algo essencial à vida."
+      ],
+      "raciocinio": "1. Identifique as duas respostas: o pai espera **água**, a resposta da Biologia; Armandinho diz **amor**.\n2. O humor vem da quebra de expectativa: a prova pedia um dado científico, e o menino respondeu com um valor humano (veja: *Ironia e humor*).\n3. Elimine o que não tem relação com a resposta do menino: Geografia (B) e Matemática (C). A Biologia (A) é a perspectiva do pai.\n4. Sobra a perspectiva religiosa: em muitas tradições religiosas, o amor é tratado como essencial à vida.\n\nResposta: **D**.\n\n**Dica de prova:** quando nenhuma alternativa parece perfeita, elimine as que estão claramente erradas e fique com a mais coerente com o texto.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "Leia:\n\n![Tirinha de Laerte em quatro quadros com Fagundes e um aluno.](img/2024-1-a/q05.jpg \"Quadro 1 — Aluno: Fagundes, você me ensina a ser um bom puxa-saco? Me dá umas aulas? Fagundes: Claro! | Quadro 2 — Fagundes: Um aluno como você faz a glória de qualquer professor! Dar aulas pra você é uma verdadeira pós graduação! | Quadro 3 — Aluno: Ara, Fagundes... Você me deixa sem jeito! Quando vou ter a primeira lição? | Quadro 4 — Fagundes: Você acaba de ter a primeira lição.\")\n\n<cite>Fonte: LAERTE. [Laerte Coutinho]. **Fagundes – um puxa-saco de mão cheira**. Porto Alegre: L&PM Pocket, 2007, p.16.</cite>\n\nNa tira, um aluno pede que lhe seja ensinado como ser “um bom puxa-saco”. O professor, de modo bajulador e exagerado, inicia sua aula sem que o aluno perceba. A lição subentendida é anunciada por Fagundes no último quadrinho “você acaba de ter a primeira lição” e, cabe ao outro, o ouvinte/interlocutor, a responsabilidade de compreensão. Por definição, deixar uma mensagem subentendida é o mesmo que admitir ou supor o que não é manifestado de forma direta, mas que é implicitamente compreendida. Outro recurso utilizado na tira foi o de formação de palavras. Esse recurso pode ser encontrado em:",
+      "imagens": [
+        "img/2024-1-a/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "“Puxa-sacos”, primeiro quadrinho, forma-se por um processo de aglutinação de palavras, havendo alteração fonética em um dos elementos formadores.",
+        "B": "“Puxa-sacos”, primeiro quadrinho, forma-se por um processo de justaposição de palavras, não havendo alteração fonética em nenhum dos elementos formadores",
+        "C": "“Pós-graduação”, segundo quadrinho, forma-se por um processo de justaposição de palavras, não havendo alteração fonética em nenhum dos elementos formadores.",
+        "D": "“Pós-graduação”, segundo quadrinho, forma-se por derivação parassintética, pelo prefixo pós e sufixo “ção”, não havendo alteração fonética em nenhum dos elementos formadores."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Na aglutinação, uma das palavras perde som (*plano + alto = planalto*). Em “puxa-saco”, *puxa* e *saco* continuam inteiras.",
+        "C": "“Pós” não é palavra independente, é prefixo. “Pós-graduação” se forma por derivação prefixal, e não por composição.",
+        "D": "Na parassíntese, a palavra não existe só com o prefixo ou só com o sufixo (*entardecer*). “Graduação” já existe sozinha; só se acrescentou o prefixo."
+      },
+      "teoria": [
+        "formacao-de-palavras"
+      ],
+      "essencial": [
+        "Composição: as partes existem sozinhas como palavras: *puxa* (verbo) + *saco* (substantivo).",
+        "Justaposição: nenhuma parte perde som. Se uma parte é prefixo, como *pós-* em *pós-graduação*, é derivação."
+      ],
+      "raciocinio": "1. Separe as partes de “puxa-saco”: *puxa* (verbo) + *saco* (substantivo). As duas existem sozinhas, então é composição (veja: *Formação de palavras*).\n2. Alguma das partes perdeu som? Não. Então é justaposição, como diz a B.\n3. Confira “pós-graduação”: *pós-* é prefixo, então é derivação prefixal. Isso elimina C e D.\n\nResposta: **B**.\n\n**Dica de prova:** pergunte se as partes existem sozinhas como palavras. Se sim, é composição; se uma delas é prefixo ou sufixo, é derivação.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto do líder indígena Ailton Krenak.\n\n> Ao longo da história, os humanos, aliás, esse clube exclusivo da humanidade – que está na declaração universal dos direitos humanos e nos protocolos das instituições –, foram devastando tudo ao seu redor. É como se tivessem elegido uma casta, a humanidade, e todos que estão fora dela são a sub-humanidade. Não são só os caiçaras, quilombolas e povos indígenas, mas toda vida que deliberadamente largamos à margem do caminho.\n>\n> <cite>KRENAK, Ailton. **A vida não é útil**. 1. ed. São Paulo: Companhia das Letras, 2020. p. 9-10.</cite>\n\nCom base no texto, assinale a alternativa correta.",
+      "imagens": [],
+      "alternativas": {
+        "A": "Os povos indígenas, caiçaras e quilombolas estão na mesma casta.",
+        "B": "O sentido da palavra *deliberadamente* é *involuntariamente*.",
+        "C": "A partir do uso do termo *aliás*, o líder indígena esclarece que os humanos são, na verdade, o clube exclusivo da humanidade, por oposição à sub-humanidade.",
+        "D": "O tom da fala de Ailton Krenak é de aceitação e resignação."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "No texto, a “casta” é a própria humanidade. Caiçaras, quilombolas e indígenas aparecem entre os que ficaram **fora** dela.",
+        "B": "“Deliberadamente” significa “de propósito”, “intencionalmente”: o oposto de “involuntariamente”.",
+        "D": "O tom é de crítica e denúncia (“foram devastando tudo”, “largamos à margem do caminho”), e não de aceitação."
+      },
+      "teoria": [
+        "conectivos",
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "“Aliás” corrige ou precisa o que foi dito: os humanos passam a ser vistos como “esse clube exclusivo”.",
+        "O sentido também vem da origem da palavra: *deliberadamente* vem de *deliberar*, decidir depois de pensar.",
+        "O texto opõe humanidade (o clube, a casta) e sub-humanidade (quem ficou de fora)."
+      ],
+      "raciocinio": "1. Leia o trecho com “aliás”: “os humanos, **aliás**, esse clube exclusivo da humanidade”. O “aliás” corrige e precisa o que foi dito: os humanos passam a ser vistos como um clube exclusivo (veja: *Conectivos e relações de sentido*).\n2. Veja a oposição do texto: humanidade (a casta, o clube) × sub-humanidade (todos que ficaram de fora). A C descreve exatamente isso.\n3. Confira as outras: A troca quem está dentro e fora da casta; B inverte o sentido de *deliberadamente*, que vem de *deliberar*, decidir depois de pensar (veja: *Sentido das palavras pelo contexto*); D ignora o tom crítico.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Especialista em meio ambiente analisa impactos em Brumadinho\n> *Entre os pontos discutidos, vida do Rio Paraopeba e migração da fauna local são as maiores preocupações*\n>\n> <u>Após uma semana do rompimento da barragem do complexo Córrego do Feijão, da mineradora Vale, em Brumadinho, as notícias referentes aos impactos da destruição causada pelos rejeitos de minérios na fauna e na flora local ainda não são muito claras, mesmo sendo óbvio que os prejuízos ambientais na cidade são incontáveis.</u> O Jornal da USP no Ar conversou sobre o assunto com Pedro Luiz Côrtes, professor da Escola de Comunicações e Artes (ECA) da USP e do Programa de Pós-Graduação em Ciência Ambiental do Instituto de Energia e Ambiente (IEE) da Universidade, além de ser coordenador da Rede Internacional de Estudos Sobre Meio Ambiente e Sustentabilidade e de participar do Projeto Temático Fapesp Governança Ambiental da Macrometrópole Paulista Face à Variabilidade Climática.\n>\n> O professor Côrtes aponta que uma das consequências já perceptíveis está no Rio Paraopeba, que passa pela cidade de Brumadinho. “Com base na experiência de Mariana, é possível verificar certos impactos. O rio, no caso, sofre um aporte de sedimentos bastante significativo e isso provoca — literalmente — em algumas áreas um soterramento dos trechos menores, provoca uma turbidez e também prejudica a oxigenação. Isso inviabiliza o aproveitamento desse rio para a irrigação de cultivos, para o uso da população rural e urbana.” Além disso, Côrtes aponta uma outra preocupação com esse impacto no rio: “Vai levar a uma grande mortandade de peixes. Então, o rio, praticamente, perde sua vida. Se torna um rio morto”.\n>\n> No solo, por sua vez, a camada de lama de rejeitos de minério irá inviabilizar a germinação. “Aquela camada superficial que havia, aquela camada organicamente mais ativa do solo, ela deixa de existir, simplesmente pelo fato de ela estar soterrada. Isso dificulta a recomposição da flora nativa. Ao longo dos anos, nós teremos o surgimento de plantas, mas não com a mesma composição da flora que nós tínhamos originalmente.”\n>\n> A fauna, segundo o especialista, já sai prejudicada por essa situação devido à falta de alimentos com que antes ela poderia contar. “Além da mortandade grande de espécies por conta da lama, você tem uma migração das espécies restantes. Não vão encontrar alimento na região, então vão buscar em outro local.” Nesse cenário, com a forte migração de pássaros e, consequentemente, elevação da presença de insetos — muitos deles transmissores de doenças –, a tendência é um aumento de epidemias nas áreas rurais.\n>\n> <cite>Fonte: <https://jornal.usp.br/?p=221938> , publicado em 01/02/2019.</cite>\n\nConsiderando o trecho sublinhado no texto, é possível afirmar que a ordem de acontecimentos implicada no texto se dá pela seguinte alternativa:",
+      "imagens": [],
+      "alternativas": {
+        "A": "1º Rompimento da barragem; 2º Destruição causada pelos rejeitos de minérios; 3º Fauna e flora impactados; 4º É óbvio serem incontáveis os prejuízos ambientais na cidade; 5º Notícias sobre os prejuízos não estão muito claras.",
+        "B": "1º Rompimento da barragem; 2º Destruição causada pelos rejeitos de minérios; 3º Fauna e flora impactados; 4º Notícias sobre os prejuízos não estão muito claras; 5º É óbvio serem incontáveis os prejuízos ambientais na cidade.",
+        "C": "1º É óbvio serem incontáveis os prejuízos ambientais na cidade; 2º Rompimento da barragem; 3º Destruição causada pelos rejeitos de minérios; 4º Fauna e flora impactados; 5º Notícias sobre os prejuízos não estão muito claras.",
+        "D": "1º Fauna e flora impactados; 2º É óbvio serem incontáveis os prejuízos ambientais na cidade; 3º Rompimento da barragem; 4º Destruição causada pelos rejeitos de minérios; 5º Notícias sobre os prejuízos não estão muito claras."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Segue a ordem em que as ideias **aparecem** na frase, e não a dos acontecimentos: os prejuízos vêm antes das notícias sobre eles.",
+        "C": "Põe a constatação dos prejuízos antes do próprio rompimento da barragem, que é o que dá início a tudo.",
+        "D": "Põe o impacto na fauna e na flora antes do rompimento. Sem rompimento não haveria rejeitos, e sem rejeitos não haveria impacto."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Conectivos indicam causa e consequência; a ordem dos fatos pode ser diferente da ordem das palavras na frase.",
+        "Aqui, a cadeia é: rompimento → rejeitos → impacto na fauna e flora → prejuízos → notícias sobre eles."
+      ],
+      "raciocinio": "1. A pergunta pede a **ordem de acontecimentos implicada** no trecho, e não a ordem em que as ideias aparecem (veja: *Conectivos e relações de sentido*).\n2. Siga a cadeia de causa e consequência: rompimento da barragem (1º) → destruição pelos rejeitos (2º) → fauna e flora impactadas (3º). C e D quebram essa cadeia.\n3. Entre A e B, decida o que vem antes: os prejuízos ou as notícias sobre eles. Os prejuízos são consequência direta do impacto; as notícias, uma semana depois, falam desses prejuízos e ainda não são claras. Então: prejuízos incontáveis (4º) → notícias pouco claras (5º).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Pontuação",
+      "enunciado": "Leia o texto a seguir:\n\n> ### Cabelos brancos\n> Numa pequena casa no interior da Turquia, Nasrudim se aproximou do pai e não tirou os olhos dos seus fartos cabelos.\n>\n> \\- O que foi filho, nunca me viu antes?\n>\n> \\- É que eu queria fazer uma pergunta para você – disse Nasrudim, cutucando o nariz com o dedo.\n>\n> \\- Fala logo, filho!\n>\n> \\- Pai, por que você tem tantos fios brancos na cabeça?\n>\n> O pai olhou sério para a cara do filho e respondeu:\n>\n> \\- Porque sempre que as crianças fazem perguntas bobas como essa, o cabelo vai ficando cada vez mais branco.\n>\n> \\- Ah! Agora eu entendi! - gritou Nasrudim, com um largo sorriso no rosto.\n>\n> \\- Entendeu o quê? – perguntou o pai.\n>\n> \\- Os cabelos brancos do vovô!\n>\n> <cite>Texto adaptado. BRENMAN, Ilan. *O turbante da Sabedoria e outras histórias de Nasrudim*. São Paulo: Comboia da Corda, 2008.</cite>\n\nO uso dos pontos de exclamação no diálogo refletem efeitos de sentido típicos da oralidade. É possível afirmar que nas orações “Fala logo, filho!” e “Ah! Agora entendi!” esses efeitos correspondem respectivamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "A surpresa do pai e ao medo do filho.",
+        "B": "A afobação do pai e a descoberta do filho.",
+        "C": "Aos cabelos brancos do avó e a pressa do pai.",
+        "D": "Ao desgosto do pai e aos cabelos do filho."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Fala logo, filho!” mostra pressa, não surpresa. E “Ah! Agora entendi!” vem com “um largo sorriso”: é alegria pela descoberta, não medo.",
+        "C": "Mistura as falas. A primeira exclamação é do pai e mostra pressa; nenhuma delas expressa “os cabelos brancos do avô”.",
+        "D": "Não há desgosto em “Fala logo, filho!”, e sim impaciência. E a exclamação do filho marca uma descoberta, não uma característica dos cabelos."
+      },
+      "teoria": [
+        "pontuacao"
+      ],
+      "essencial": [
+        "O ponto de exclamação marca emoção, e o contexto diz qual: pressa, surpresa, alegria.",
+        "“Fala logo, filho!” marca a afobação do pai; “Ah! Agora entendi!”, a descoberta do filho."
+      ],
+      "raciocinio": "1. Localize cada fala: “Fala logo, filho!” é do pai; “Ah! Agora eu entendi!” é do filho.\n2. O pai está impaciente: o filho fica encarando e não diz nada. A exclamação marca pressa, afobação (veja: *Sinais de pontuação e seus efeitos*).\n3. O filho “gritou […] com um largo sorriso no rosto”: acabou de descobrir o motivo dos cabelos brancos do avô. A exclamação marca a descoberta.\n\nResposta: **B**.\n\n**Dica de prova:** em questões de “respectivamente”, confira a ordem: a primeira emoção tem de corresponder à primeira fala, e a segunda, à segunda.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Discurso direto e indireto",
+      "enunciado": "Leia:\n\n> ### Dilma vai à TV para negar risco de apagão e ataca quem é “do contra”\n> Em pronunciamento em cadeia de rádio e televisão na noite desta quarta-feira, a presidente Dilma Rousseff <u>resolveu</u> levar a discussão do setor elétrico para o campo político. Depois de ser duramente criticada – no Brasil e no exterior – pela maneira como <u>impôs</u> novas regras de jogo às concessionárias de energia elétrica, de modo a baratear a conta de luz, a presidente foi questionada pela oposição sobre o risco de apagão. Escolheu a TV para <u>atacar</u> sem ser incomodada por réplicas. Dilma foi <u>categórica</u> ao dizer que não há risco de desabastecimento, da mesma forma que afirmou que o PIB cresceria de maneira substancial em 2012 – o que não ocorreu.\n>\n> <cite>BORGES, Larissa. Dilma vai à TV para negar risco de apagão e ataca quem é “do contra”. **Revista Veja**. 23 jan. 2013. Disponível em: https://veja.abril.com.br/economia/dilma-vai-a-tv-para-negar-risco-de-apagao-e-ataca-quem-e-do-contra. Acesso em: 11 jul. 2023.</cite>\n\nEm textos de caráter narrativo, é comum haver tipos de discurso – direto, indireto e indireto livre – com o objetivo de introduzir diversas vozes disponíveis (personagens e narrador / entrevistador e especialistas; estes últimos são comuns em notícias). O uso desses discursos contribui para os diversos efeitos de sentido, não sendo, portanto, neutro. A partir disso e da leitura feita do trecho da notícia da revista *Veja*, escolha a opção correta sobre o efeito de sentido desses recursos:",
+      "imagens": [],
+      "alternativas": {
+        "A": "o efeito de sentido provocado pelo uso do discurso indireto é possibilitar uma aproximação entre o leitor e o discurso dos envolvidos, sem a intervenção do jornalista, por meio dos verbos “resolveu”, “impôs”, “foi categórica” e “atacar” que descrevem como Dilma, de fato, agiu.",
+        "B": "o uso das aspas na manchete “do contra”, no trecho da notícia publicada na revista *Veja*, indica o uso do discurso direto da presidente Dilma, o que foi o mais relevante na opinião do jornal e o de maior interesse para a população.",
+        "C": "o uso dos verbos “resolveu”, “impôs”, “foi categórica” e “atacar” exprimem discurso direto e indireto livre, unindo tanto a fala da Dilma quanto o modo como o jornalista interpretou os atos dela, atribuindo um efeito autoritário à ex-presidente.",
+        "D": "o efeito de sentido causado pelo discurso indireto é definido como o registro da fala da personagem sob influência por parte do jornalista. Assim, nesse trecho da notícia, constrói-se uma imagem autoritária da presidente pelo uso dos verbos “resolveu”, impôs”, “foi categórica” e “atacar”."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "No discurso indireto, o jornalista conta com as palavras dele o que a pessoa disse. Há intervenção: “resolveu”, “impôs” e “atacar” são escolhas dele.",
+        "B": "As aspas em “do contra” destacam uma expressão, mas nada indica que ela foi “o mais relevante na opinião do jornal”.",
+        "C": "Não há discurso direto no trecho (nenhuma fala de Dilma é reproduzida como foi dita) nem discurso indireto livre."
+      },
+      "teoria": [
+        "discurso-direto-e-indireto",
+        "fato-e-opiniao"
+      ],
+      "essencial": [
+        "No discurso indireto, o narrador conta com as próprias palavras o que alguém disse ou fez.",
+        "A escolha dos verbos revela opinião: “impôs” e “atacar” julgam; “estabeleceu” e “respondeu” seriam neutros."
+      ],
+      "raciocinio": "1. Identifique o tipo de discurso: o jornalista **narra** o que Dilma disse e fez, sem reproduzir a fala dela. É discurso indireto (veja: *Discurso direto, indireto e indireto livre*).\n2. Olhe os verbos sublinhados: *resolveu*, *impôs*, *atacar*, *foi categórica*. Compare com versões neutras (decidiu, estabeleceu, respondeu, afirmou): as escolhas do jornalista carregam julgamento (veja: *Fato e opinião*).\n3. Somadas, elas constroem a imagem de uma presidente autoritária. A D junta discurso indireto, influência do jornalista e imagem autoritária.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Conforme a norma-padrão da língua portuguesa, os verbos transitivos exigem um complemento direto ou indireto. Quanto a isso, observe o fragmento abaixo:\n\n> “Os lugares de fala representados na mídia não só servem à expressão de diferentes pontos de vista, mas também moldam visões de mundo, afetam **a** capacidade de reflexão crítica e influenciam **a** formação de preferências e gostos. A partir dessa perspectiva, desenhamos uma pesquisa que se propôs **a** analisar os perfis dos autores de reportagens e textos de opinião em três dos principais jornais impressos do país: Folha de São Paulo (Folha), O Estado de São Paulo (Estadão) e O Globo”.\n>\n> <cite>PORTELA, P.; FERES JÚNIOR, J.; PETERSEN, I. Páginas em branco: raça e gênero nos principais jornais do país. **Nexo Jornal**. 24 de mai. 2023. Disponível em: <https://pp.nexojornal.com.br/opiniao/2023/Páginas-em-branco-raça-e-gênero-nos-principais-jornais-do-país>. Acesso em: 7 jul. 2023.</cite>\n\nConsiderando-se a transitividade de “afetam”, “influenciam” e “propôs”, presentes no texto, os termos destacados em negrito são, respectivamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "artigo - preposição - artigo.",
+        "B": "preposição - preposição - artigo.",
+        "C": "artigo - artigo - preposição.",
+        "D": "preposição - artigo - preposição."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Erra o 2º e o 3º termos: “influenciar” não pede preposição (“a formação” tem artigo), e antes de “analisar” o “a” é preposição.",
+        "B": "Erra os três. “Afetar” e “influenciar” são transitivos diretos: os dois primeiros “a” são artigos. E o “a” antes de “analisar” é preposição.",
+        "D": "Erra o primeiro: “afetar” é transitivo direto (afeta-se algo), e o “a” de “a capacidade” é artigo."
+      },
+      "teoria": [
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Verbo transitivo direto pede complemento sem preposição: o “a” antes desse complemento é artigo.",
+        "Teste do masculino: “afetam **o** raciocínio” mostra que, em “afetam a capacidade”, o “a” é artigo.",
+        "Antes de verbo no infinitivo, “a” é sempre preposição: “se propôs **a** analisar”."
+      ],
+      "raciocinio": "Use o teste do masculino e a regra do infinitivo (veja: *Transitividade verbal: verbos e complementos*):\n\n1. “afetam **a** capacidade”: quem afeta, afeta algo, sem preposição. No masculino, “afetam **o** raciocínio”. É artigo.\n2. “influenciam **a** formação”: “influenciam **o** gosto”. É artigo.\n3. “se propôs **a** analisar”: o *a* vem antes de verbo no infinitivo. É preposição (propor-se a fazer algo).\n\nArtigo – artigo – preposição. Resposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia:\n\n![Tirinha da Mafalda em quatro quadros com Manolito e Susanita.](img/2024-1-a/q11.jpg \"Quadro 1 — Manolito: A função das relações públicas é mostrar às pessoas que nós, empresários, somos humanos. | Quadro 2 — Manolito oferece um pote de doces: Sirva-se, Susanita. O armazém do meu pai convida você a saborear um delicioso caramelo. Susanita: Oh, obrigada! | Quadro 3 — Susanita tenta pegar mais de um, e Manolito grita, com a palavra UM em letras enormes: UM delicioso caramelo! | Quadro 4 — Manolito, sozinho: ...E que nós, empresários, não somos bobos!\")\n\n<cite>Fonte: QUINO. **Mafalda.** São Paulo: Martins Fontes, 1998. v. 1, p. 113.</cite>\n\nEntre os vários efeitos de sentido, pode-se destacar",
+      "imagens": [
+        "img/2024-1-a/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "a influência de um artigo antes de “caramelo”, que a torna adjetivo, no segundo quadrinho, significando a ideia de “qualquer caramelo”, e o numeral antes de “caramelo” no terceiro quadrinho, significando a ideia de “qualquer caramelo”.",
+        "B": "a influência de um numeral antes da palavra “caramelo””, que a torna substantivo, no segundo quadrinho, significando a ideia de “qualquer caramelo”, e o entendimento de Susanita, no terceiro quadrinho, de “caramelo” como outro substantivo.",
+        "C": "a influência de um artigo antes da palavra “caramelo”, que a torna adjetivo, no segundo quadrinho, significando a ideia de “qualquer caramelo”, e o entendimento de Susanita, no terceiro quadrinho, de “caramelo” como adjetivo.",
+        "D": "a influência de um artigo antes da palavra “caramelo”, que a torna substantivo, no segundo quadrinho, significando a ideia de “qualquer caramelo”, e numeral antes de “caramelo” no terceiro quadrinho, especificando a quantidade de caramelo que o personagem está oferecendo à Susanita."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O artigo não transforma “caramelo” em adjetivo. E o “UM” gigante do 3º quadrinho não quer dizer “qualquer caramelo”, e sim “só um”.",
+        "B": "No 2º quadrinho, “um” é artigo indefinido, e não numeral. E Susanita não entende “caramelo” de outro jeito: só tenta pegar mais.",
+        "C": "“Caramelo” não é adjetivo nos quadrinhos: é o nome do doce. E o humor não vem de Susanita entender a palavra como adjetivo."
+      },
+      "teoria": [
+        "classes-de-palavras"
+      ],
+      "essencial": [
+        "Artigo indefinido apresenta algo genérico: “saborear **um** delicioso caramelo”.",
+        "Numeral indica quantidade: o “**UM**” gigante quer dizer “só um”, e não mais.",
+        "A mesma palavra muda de classe conforme o uso na frase."
+      ],
+      "raciocinio": "1. 2º quadrinho: “convida você a saborear **um** delicioso caramelo”. É uma oferta gentil e genérica: *um* é artigo indefinido, e *caramelo* é substantivo (veja: *Classes de palavras*).\n2. 3º quadrinho: Susanita tenta pegar mais, e Manolito grita “**UM**” em letras enormes. Agora a palavra indica quantidade, só um: é numeral.\n3. O 4º quadrinho confirma: “nós, empresários, não somos bobos”.\n4. A D diz exatamente isso: artigo + substantivo no 2º quadrinho e numeral indicando quantidade no 3º.\n\nResposta: **D**.\n\n> A D diz que o artigo “torna” *caramelo* substantivo. A palavra já é substantivo; o artigo só a acompanha. O resto da alternativa está correto, e as outras têm erros maiores.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia o poema a seguir para responder à questão:\n\n> ### VENDO TUDO\n> vendo tudo\n> tudo que não é para vender\n> tudo que não é para se ver\n> vendo tudo\n> a alma à vista\n> o diabo a quatro\n> vendo tudo\n> tudo que não é para se olhar\n> tudo que não se pode comprar\n> vendo tudo\n> uma lente usada\n> um olho de vidro\n> vendo tudo\n>\n> <cite>Fonte: CHACAL. **Tudo (e mais um pouco)**: poesia reunida (1971-2016). São Paulo: Editora 34, 2016. p.176.</cite>\n\nA plurissignificação, ou seja, a possibilidade de atribuição de múltiplos sentidos ao texto literário, pode ser criada a partir de diferentes recursos linguísticos, tais como o trabalho com a forma e/ou o ritmo do texto, o uso de figuras de linguagem, intertextualidade, dentre outros. No caso do poema VENDO TUDO, de Chacal, a plurissignificação pode ser atribuída, sobretudo,",
+      "imagens": [],
+      "alternativas": {
+        "A": "à aliteração do som da fricativa labiodental “v”, presente em palavras repetidas no poema como “vendo”, “ver” “vista”, “vidro”.",
+        "B": "à ambiguidade (duplo sentido) presente em construções como “vendo tudo” e “alma à vista”, cujos sentidos podem ser relacionados tanto a termos referentes ao verbo “ver” como ao verbo “vender”.",
+        "C": "ao paralelismo (ou anáfora) que se constrói a partir da repetição de estruturas como “tudo que não é” e na repetição do refrão “vendo tudo”.",
+        "D": "à presença das metáforas “alma à vista” e “diabo a quatro”, que podem ser consideradas elementos-chave para a leitura do texto."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A aliteração do som de “v” existe, mas é um efeito sonoro. Sozinha, ela não faz o texto ter vários sentidos.",
+        "C": "A repetição de “vendo tudo” dá ritmo e estrutura, mas não explica por que o poema pode ser lido de mais de um jeito.",
+        "D": "“Alma à vista” e “o diabo a quatro” importam, mas o que gera os múltiplos sentidos é o jogo ver/vender, presente no poema inteiro."
+      },
+      "teoria": [
+        "ambiguidade",
+        "poesia"
+      ],
+      "essencial": [
+        "Ambiguidade proposital: “vendo tudo” pode vir de *ver* ou de *vender*; “à vista”, visível ou pagamento à vista.",
+        "O duplo sentido cria vários sentidos ao mesmo tempo: é a plurissignificação que a questão pede."
+      ],
+      "raciocinio": "1. Leia o título: “vendo tudo” pode ser “estou vendo tudo” (ver) ou “estou vendendo tudo” (vender) (veja: *Ambiguidade e duplo sentido*).\n2. Os versos seguintes confirmam o jogo: “tudo que não é para **vender**” / “tudo que não é para se **ver**”. E “à vista” pode ser “visível” ou “pagamento à vista”.\n3. O recurso que cria vários sentidos ao mesmo tempo é o duplo sentido. Aliteração, anáfora e metáforas existem no poema, mas são secundárias para a plurissignificação (veja: *Poesia: verso, eu lírico e poema visual*).\n\nResposta: **B**.\n\n**Dica de prova:** “sobretudo” pede o recurso **principal**. Cuidado com alternativas que citam algo verdadeiro, mas que não responde ao que foi pedido.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Ortografia e acentuação",
+      "enunciado": "> Como regra geral, nas palavras compostas o hífen é usado quando o primeiro termo, por extenso ou reduzido, está representando por forma substantiva, adjetiva, numeral ou verbal: decreto-lei, mesa-redonda, arco-íris, tio-avô, conta-gotas, porta-aviões, guarda-noturno, boa-fé, má-fé.\n>\n> Porém, alguns compostos perderam a noção de composição e passaram a ser escritos aglutinadamente: girassol, madressilva, pontapé, paraquedas, paraquedista, mandachuva.\n>\n> <cite>Manual de Comunicação da Secom Disponível em: https://www12.senado.leg.br/manualdecomunicacao/estilos/hifen#:~:text=Como%20regra%20geral%2C%20nas%20palavras,%2Dfé%2C%20má%2Dfé. Acesso em 17 jul. 2023</cite>\n\nDe acordo com o excerto, escolha a alternativa na qual todas as palavras estão grafadas corretamente segundo o Acordo Ortográfico da Língua Portuguesa:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Aeroespacial, pós-revolução, re-edição, recém-divulgados",
+        "B": "Antissocial, não governamental, benfeito, mal-entendidos",
+        "C": "Bem elaborado, afro-descendente, autorregulação, salário-mínimo",
+        "D": "Ultra-som, semiaberto, anti-homofobia, autossustentável"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Re-edição” está errada: o prefixo *re-* nunca leva hífen. O certo é **reedição**.",
+        "C": "“Afro-descendente” está errada: o certo é **afrodescendente**. E “salário mínimo” se escreve sem hífen.",
+        "D": "“Ultra-som” está errada: prefixo terminado em vogal antes de *s* junta e dobra o *s*. O certo é **ultrassom**."
+      },
+      "teoria": [
+        "hifen"
+      ],
+      "essencial": [
+        "Prefixo terminado em vogal + palavra iniciada por *r* ou *s*: dobra a consoante, sem hífen: *antissocial*, *ultrassom*.",
+        "Sem hífen também: *reedição* (o prefixo *re-* sempre se junta) e *afrodescendente* (vogal + consoante).",
+        "*Mal-* leva hífen antes de vogal ou *h*: *mal-entendido*. “Não” com valor de prefixo não leva hífen: *não governamental*."
+      ],
+      "raciocinio": "Em questões de “todas corretas”, basta achar uma palavra errada para eliminar a alternativa (veja: *Hífen*):\n\n1. A: “re-edição” ✗ (reedição).\n2. C: “afro-descendente” ✗ (afrodescendente).\n3. D: “ultra-som” ✗ (ultrassom).\n4. B: antissocial (dobra o s) ✓; não governamental (sem hífen) ✓; benfeito (aglutinada pelo uso, como diz o excerto) ✓; mal-entendidos (*mal-* antes de vogal) ✓.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Colocação pronominal",
+      "enunciado": "Dentre as atitudes poéticas dos escritores modernistas, podemos destacar a o reconhecimento do falar popular e a inserção da linguagem coloquial no texto literário. Leia o poema abaixo de Oswald de Andrade e responda o item a seguir:\n\n> ### Pronominais\n> Dê-me um cigarro\n> Diz a gramática\n> Do professor e do aluno\n> E do mulato sabido\n>\n> Mas o bom negro e o bom branco\n> Da Nação Brasileira\n> Dizem todos os dias\n> Deixa disso camarada\n> Me dá um cigarro\n>\n> <cite>ANDRADE, Oswald. **Poesias reunidas.** 4ª ed. Rio de Janeiro: Civilização Brasileira, 1974. pp. 123</cite>\n\nNo texto, o poeta brinca com as regras do emprego dos pronomes oblíquos para a escrita, normatizada pela gramática (“Dê-me um cigarro”), e para a fala, que não necessariamente segue a norma-padrão (“Me dá um cigarro”). A gramática normativa e tradicional conceitua a colocação pronominal como a posição que os pronomes pessoais oblíquos átonos ocupam na frase em relação ao verbo a que se referem. Assinale a alternativa cujo emprego do pronome oblíquo está em acordo com a norma-padrão:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ajudaria-me se os arquivos fossem enviados com rapidez.",
+        "B": "Me ajudaria se os arquivos fossem enviados com rapidez.",
+        "C": "Ajudar-me-ia se os arquivos fossem enviados com rapidez.",
+        "D": "Me ia ajudar se os arquivos fossem enviados com rapidez."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com o verbo no futuro do pretérito (*ajudaria*), a norma-padrão não aceita o pronome depois do verbo: “ajudaria-me” está errado.",
+        "B": "A norma-padrão não permite começar a frase com pronome oblíquo átono. “Me ajudaria” é comum na fala, mas não na escrita formal.",
+        "D": "Também começa a frase com pronome átono (“Me ia ajudar”), o que a norma-padrão não aceita."
+      },
+      "teoria": [
+        "colocacao-pronominal"
+      ],
+      "essencial": [
+        "Na norma-padrão, não se começa frase com pronome átono: “Me ajudaria” está fora da norma.",
+        "Com o verbo no futuro do pretérito (*ajudaria*) e sem palavra atrativa antes, usa-se mesóclise: “Ajudar-**me**-ia”."
+      ],
+      "raciocinio": "1. A frase começa direto com o verbo *ajudaria* (futuro do pretérito), sem palavra atrativa antes.\n2. Não se começa frase com pronome átono: elimine B e D (veja: *Colocação pronominal*).\n3. No futuro do pretérito, a ênclise é proibida: elimine A.\n4. Sobra a mesóclise: “Ajudar-**me**-ia”.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia o texto.\n\n> Em uma noite de verão, a família estava em volta da mesa e alguém comentou que a geladeira tinha quebrado. As portas abertas da casa traziam o ventinho e o barulho do mar. Naquela hora, meu avô fez um daqueles comentários típicos de gente que já viveu bastante:\n>\n> — Não reclama que até pouco tempo atrás a gente nem tinha geladeira!\n>\n> <cite>AUERBACH, Patricia. **Histórias de antigamente**. 1. ed. São Paulo: Companhia das Letrinhas, 2016. p. 11 e 13.</cite>\n\nNa fala do avô, a palavra <u>que</u> expressa a ideia de:",
+      "imagens": [],
+      "alternativas": {
+        "A": "causa.",
+        "B": "condição.",
+        "C": "consequência.",
+        "D": "comparação."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Condição seria expressa por “se” ou “caso” (“Se você reclamar…”). O avô não impõe nenhuma condição.",
+        "C": "Consequência aparece com “tão… que”, “de modo que”. Não ter geladeira no passado não é resultado de reclamar.",
+        "D": "Comparação seria “como”, “do que”. Não há duas coisas sendo comparadas."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "O “que” pode ter valor de causa: troque por “porque” e veja se o sentido se mantém.",
+        "“Não reclama **que** a gente nem tinha geladeira” = “não reclama, **porque**…”: o avô dá o motivo."
+      ],
+      "raciocinio": "1. Leia a fala: “Não reclama **que** até pouco tempo atrás a gente nem tinha geladeira!”.\n2. Troque o “que” por “porque” (veja: *Conectivos e relações de sentido*): “Não reclama, **porque** até pouco tempo atrás a gente nem tinha geladeira!”. O sentido se mantém.\n3. O avô dá o motivo para não reclamar: ideia de causa.\n\nResposta: **A**.\n\n**Dica de prova:** o “que” de consequência quase sempre vem com “tão” ou “tanto” antes. Sem eles, desconfie dessa leitura.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Fahrenheit é uma escala de temperatura proposta por Daniel Gabriel Fahrenheit em 1724 e que é muito utilizada por países que foram colonizados pelos britânicos. Sua unidade é o grau Fahrenheit (símbolo: °F). Nesta escala, o ponto de fusão da água é de 32°F e o ponto de ebulição é de 212°F. Para converter graus Celsius em graus Fahrenheit, usa-se a fórmula \\(C = \\frac{5}{9}(F - 32)\\) onde **F** é a temperatura em graus Fahrenheit e **C** é a temperatura em graus Celsius.\n\nNos Estados Unidos, uma determinada empresa importa carne brasileira e exige a temperatura de 29,3ºF durante o seu processo de logística. A temperatura em graus Celsius (°C) exigida por essa empresa é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "12,72°C",
+        "B": "– 0,3°C",
+        "C": "– 1,5°C",
+        "D": "– 13,5°C"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Não pode ser positiva: 29,3 °F está abaixo de 32 °F, o congelamento da água (0 °C). Em Celsius, a temperatura é negativa.",
+        "B": "Aparece ao dividir −2,7 por 9 e esquecer de multiplicar por 5: \\(-2{,}7 \\div 9 = -0{,}3\\).",
+        "D": "Aparece ao multiplicar −2,7 por 5 e esquecer de dividir por 9: \\(-2{,}7 \\cdot 5 = -13{,}5\\)."
+      },
+      "teoria": [
+        "expressoes-algebricas"
+      ],
+      "essencial": [
+        "Para usar uma fórmula, substitua o valor e resolva: \\(C = \\frac{5}{9}(29{,}3 - 32)\\).",
+        "Primeiro o parêntese, depois a multiplicação e a divisão: \\(\\frac{5 \\cdot (-2{,}7)}{9} = -1{,}5\\)."
+      ],
+      "raciocinio": "1. Substitua \\(F = 29{,}3\\) na fórmula (veja: *Expressões algébricas*): \\(C = \\frac{5}{9}(29{,}3 - 32)\\).\n2. Primeiro o parêntese: \\(29{,}3 - 32 = -2{,}7\\).\n3. Depois a fração: \\(C = \\frac{5 \\cdot (-2{,}7)}{9} = \\frac{-13{,}5}{9} = -1{,}5\\).\n\nResposta: **C**.\n\n**Dica de prova:** confira se o resultado faz sentido. 29,3 °F está um pouco abaixo do congelamento (32 °F), então a resposta deve ser um pouco abaixo de 0 °C.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Um terreno retangular cujos lados medem 5m e 12m será separado em duas partes a partir de uma de suas diagonais para que nelas sejam feitos cultivos diferentes. Pelo projeto inicial, a separação das duas regiões se dará pela instalação de uma cerca simples. A imagem abaixo ilustra como se pretende separar o terreno.\n\n![Retângulo cortado por uma linha tracejada que vai de um canto ao canto oposto, com a palavra “cerca” sobre a linha.](img/2024-1-a/q17.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nQual é a extensão da cerca que será instalada para separar o terreno nas duas regiões desejadas?",
+      "imagens": [
+        "img/2024-1-a/q17.png"
+      ],
+      "alternativas": {
+        "A": "12 metros",
+        "B": "13 metros",
+        "C": "17 metros",
+        "D": "\\(\\sqrt{34}\\) metros"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "12 m é só o lado maior. A diagonal de um retângulo é sempre maior que qualquer um dos lados.",
+        "C": "17 é a soma dos lados (5 + 12): seria andar pela borda. A diagonal é o caminho em linha reta, que é mais curto.",
+        "D": "\\(\\sqrt{34} \\approx 5{,}8\\) m, menos que o lado de 12 m. A diagonal tem de ser maior que os lados."
+      },
+      "teoria": [
+        "teorema-de-pitagoras"
+      ],
+      "essencial": [
+        "A diagonal de um retângulo é a hipotenusa de um triângulo retângulo cujos catetos são os lados: \\(d^2 = 5^2 + 12^2\\).",
+        "5, 12 e 13 é um terno pitagórico: vale a pena reconhecê-lo."
+      ],
+      "raciocinio": "1. A cerca é a diagonal do retângulo, que é a hipotenusa de um triângulo retângulo de catetos 5 m e 12 m (veja: *Teorema de Pitágoras*).\n2. \\(d^2 = 5^2 + 12^2 = 25 + 144 = 169\\).\n3. \\(d = \\sqrt{169} = 13\\) m. É o terno pitagórico 5, 12, 13.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Os destroços do navio Titanic estão acerca de \\(2^{\\frac{2974}{250}}\\) metros de profundidade no fundo do Oceano Atlântico. Titan, um submarino que fazia uma excursão aos destroços do Titanic recentemente implodiu, devido à alta pressão no fundo do oceano. Supondo que o submarino Titan tenha começado a ter sérios problemas quando estava na metade da profundidade, responda: qual a distância da superfície em que Titan começou a ter esses problemas?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\large 1^{\\frac{1487}{125}}\\)",
+        "B": "\\(\\large 2^{\\frac{1487}{125}}\\)",
+        "C": "\\(\\large 1^{\\frac{2974}{250}}\\)",
+        "D": "\\(\\large 2^{\\frac{2724}{250}}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Trocou a base 2 por 1. Mas 1 elevado a qualquer número é 1: daria uma profundidade de 1 metro.",
+        "B": "Só simplificou a fração do expoente: \\(\\frac{2974}{250} = \\frac{1487}{125}\\). Então \\(2^{\\frac{1487}{125}}\\) é o mesmo número da profundidade total, e não a metade.",
+        "C": "Dividiu a base por 2 (2 virou 1). Dividir a base não divide a potência ao meio, e \\(1\\) elevado a qualquer número é 1."
+      },
+      "teoria": [
+        "propriedades-de-potencias"
+      ],
+      "essencial": [
+        "Na divisão de potências de mesma base, subtraem-se os expoentes: \\(\\frac{2^m}{2} = 2^{m - 1}\\).",
+        "Para subtrair 1 de uma fração, escreva o 1 com o mesmo denominador: \\(1 = \\frac{250}{250}\\)."
+      ],
+      "raciocinio": "1. Metade da profundidade: \\(\\dfrac{2^{\\frac{2974}{250}}}{2}\\).\n2. Dividir uma potência de base 2 por 2 é tirar 1 do expoente (veja: *Propriedades das potências*). Escreva o 1 com o mesmo denominador: \\(1 = \\frac{250}{250}\\).\n3. \\(2^{\\frac{2974}{250} - \\frac{250}{250}} = 2^{\\frac{2724}{250}}\\).\n\nResposta: **D**.\n\n**Dica de prova:** teste a regra com números pequenos. A metade de \\(2^4 = 16\\) é \\(8 = 2^3\\): o expoente diminui 1. Não vira \\(1^4\\) nem \\(2^2\\).",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "A potência de Dez é um recurso matemático utilizado para representar de forma simplificada quantidades muito grandes ou muito pequenas por meio da multiplicação de um algarismo significativo pela base dez elevada a um expoente positivo ou negativo. Essa maneira de expressar quantidades é denominada notação científica. Com base nessa informação, identifique qual das potências representa de forma simplificada a expressão\n\n\\[\\frac{50000 \\text{x} 35000}{0{,}0007}\\]",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(2{,}5 \\text{ x } 10^{17}\\)",
+        "B": "\\(2{,}5 \\text{ x } 10^{12}\\)",
+        "C": "\\(2{,}5 \\text{ x } 10^{11}\\)",
+        "D": "\\(2{,}5 \\text{ x } 10^{4}\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O expoente ficou grande demais: o resultado seria 100 mil vezes maior que o correto. Há um erro na soma ou na subtração dos expoentes.",
+        "C": "Fica 10 vezes menor que o correto: um erro de uma casa ao contar zeros ou casas decimais (0,0007 = \\(7 \\times 10^{-4}\\)).",
+        "D": "Muito pequeno. Só \\(50\\,000 \\cdot 35\\,000\\) já passa de 1 bilhão, e dividir por 0,0007, um número menor que 1, aumenta o resultado."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Notação científica facilita contas grandes: \\(50\\,000 = 5 \\times 10^4\\); \\(0{,}0007 = 7 \\times 10^{-4}\\).",
+        "Multiplicando potências de 10, somam-se os expoentes; dividindo, subtraem-se: \\(10^{8 - (-4)} = 10^{12}\\)."
+      ],
+      "raciocinio": "1. Escreva tudo em notação científica (veja: *Potências de 10 e notação científica*): \\(\\dfrac{5 \\times 10^4 \\cdot 3{,}5 \\times 10^4}{7 \\times 10^{-4}}\\).\n2. Numerador: \\(5 \\cdot 3{,}5 = 17{,}5\\) e \\(10^{4 + 4} = 10^8\\).\n3. Divida: \\(\\frac{17{,}5}{7} = 2{,}5\\) e \\(\\frac{10^8}{10^{-4}} = 10^{8 - (-4)} = 10^{12}\\).\n\nResultado: \\(2{,}5 \\times 10^{12}\\). Resposta: **B**.\n\n**Dica de prova:** cuidado com o sinal ao subtrair expoente negativo: \\(8 - (-4) = 8 + 4 = 12\\).",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "As pirâmides são estruturas estudadas desde a Antiguidade. Hoje, a beleza de suas formas continua extasiando a todos, como é o caso da pirâmide de vidro do Museu do Louvre, em Paris. Elas são poliedros cuja base é um polígono qualquer e suas faces laterais são triângulos que concorrem para um vértice comum. Analise e calcule o volume da seguinte pirâmide, sabendo que sua base é um quadrado de aresta a = 6 cm e que a altura h mede 15 cm.\n\n![Pirâmide de base quadrada. A aresta da base está marcada com a letra a, e a altura, tracejada do vértice até o centro da base, com a letra h.](img/2024-1-a/q20.png)\n\n<cite>Fonte: IFSP, 2023.</cite>",
+      "imagens": [
+        "img/2024-1-a/q20.png"
+      ],
+      "alternativas": {
+        "A": "540 cm³",
+        "B": "450 cm³",
+        "C": "180 cm³",
+        "D": "90 cm³"
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "540 = 36 × 15 é a área da base vezes a altura: o volume de um prisma. Para a pirâmide, falta dividir por 3.",
+        "B": "450 não sai da fórmula do volume da pirâmide com estes dados.",
+        "C": "180 cm³ é o resultado da fórmula: \\(\\frac{36 \\cdot 15}{3} = 180\\).",
+        "D": "90 aparece ao dividir por 6 em vez de 3, ou ao multiplicar a aresta pela altura (6 × 15) sem calcular a área da base."
+      },
+      "teoria": [
+        "volumes"
+      ],
+      "essencial": [
+        "Volume da pirâmide: área da base × altura ÷ 3.",
+        "A base é um quadrado de lado 6: área \\(6^2 = 36\\) cm². Simplifique antes de multiplicar: \\(\\frac{36}{3} = 12\\)."
+      ],
+      "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Veja as contas:\n\n1. Área da base, um quadrado de lado 6: \\(6^2 = 36\\) cm².\n2. Volume da pirâmide (veja: *Volumes de sólidos*): \\(V = \\frac{36 \\cdot 15}{3}\\).\n3. Simplifique antes de multiplicar: \\(\\frac{36}{3} = 12\\), e \\(12 \\cdot 15 = 180\\) cm³.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Quadriláteros e polígonos",
+      "enunciado": "Quatro pontos distintos, A, B, C e D, estão dispostos em um plano de modo que o polígono ABCD seja um quadrilátero convexo. Analise as seguintes afirmações e identifique quais estão corretas:\n\nI. Se ABCD for um losango, então suas diagonais são perpendiculares.\nII. Se as diagonais de ABCD se intersectarem em seus respectivos pontos médios, então ABCD é, necessariamente, um paralelogramo.\nIII. Se ABCD for um paralelogramo e as suas diagonais tiverem comprimentos iguais, então ABCD é, necessariamente, um retângulo.\n\nAs afirmações corretas são:",
+      "imagens": [],
+      "alternativas": {
+        "A": "I, II e III.",
+        "B": "II e III apenas.",
+        "C": "I e III apenas.",
+        "D": "I e II apenas."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Deixa de fora a afirmação I, que é verdadeira: todo losango tem diagonais perpendiculares.",
+        "C": "Deixa de fora a afirmação II, que é verdadeira: se as diagonais se cortam ao meio, o quadrilátero é um paralelogramo.",
+        "D": "Deixa de fora a afirmação III, que é verdadeira: um paralelogramo com diagonais iguais é um retângulo."
+      },
+      "teoria": [
+        "quadrilateros"
+      ],
+      "essencial": [
+        "Diagonais que se cortam no ponto médio formam um paralelogramo; perpendiculares, um losango.",
+        "Paralelogramo com diagonais iguais é retângulo: os ângulos vizinhos ficam iguais e, somando 180°, medem 90° cada."
+      ],
+      "raciocinio": "Analise uma afirmação de cada vez (veja: *Quadriláteros e polígonos*):\n\n1. **I – verdadeira.** Diagonais perpendiculares são propriedade de todo losango.\n2. **II – verdadeira.** Se as diagonais se cortam no ponto médio, os triângulos opostos formados por elas são congruentes, e os lados opostos ficam paralelos: é um paralelogramo.\n3. **III – verdadeira.** Num paralelogramo com diagonais iguais, os triângulos ABC e BAD têm os três lados iguais, então os ângulos A e B são iguais. Como somam 180°, cada um mede 90°: é um retângulo.\n\nAs três estão corretas. Resposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Um professor de Matemática passou o seguinte exercício para seus alunos: “Escreva duas equações distintas de 1º grau com duas incógnitas que apresentem como solução o ponto (2,3). Depois, esboce a representação gráfica de tais equações no plano cartesiano”. Considere as duas incógnitas como “números reais”. Um estudante perguntou à inteligência artificial (IA) ChatGPT como resolver o primeiro comando do exercício. O ChatGPT retornou a resposta apresentada na imagem a seguir:\n\n![Captura de tela de uma conversa com o ChatGPT.](img/2024-1-a/q22-chatgpt.png \"Pergunta: Escreva duas equações distintas de 1º grau com duas incógnitas que apresentem como solução o ponto (2, 3) | Resposta: Com certeza! Aqui estão duas equações de primeiro grau com duas incógnitas que têm como solução o ponto (2, 3): | 1. Equação 1: x + 2y = 8. Nesta equação, se substituirmos x por 2 e y por 3, obtemos: 2 + 2(3) = 2 + 6 = 8. Portanto, o ponto (2, 3) é uma solução dessa equação. | 2. Equação 2: 3x - y = 1. Nesta equação, se substituirmos x por 2 e y por 3, obtemos: 3(2) - 3 = 6 - 3 = 3 - 3 = 0. Novamente, o ponto (2, 3) é uma solução dessa equação. | Essas são duas equações lineares de primeiro grau com duas incógnitas que possuem o ponto (2, 3) como solução. Lembre-se de que existem muitas outras equações possíveis que também têm essa solução.\")\n\n<cite>Fonte: https://chat.openai.com/</cite>\n\nA partir das respostas do ChatGPT o estudante optou por usar o GeoGebra, um *software* de geometria, para esboçar as representações gráficas solicitadas pelo segundo comando do exercício e, com as representações em mãos, fez uma análise adequada da resposta inicialmente dada pelo ChatGPT.\n\nDentre as alternativas a seguir, qual apresenta as representações gráficas das duas equações fornecidas pelo ChatGPT e ao mesmo tempo fornece a análise correta do estudante?",
+      "imagens": [
+        "img/2024-1-a/q22-chatgpt.png",
+        "img/2024-1-a/q22-graficos-ac.png",
+        "img/2024-1-a/q22-graficos-bd.png"
+      ],
+      "alternativas": {
+        "A": "![Gráfico com duas retas. Equação1 desce, passando por (0, 4) e (8, 0). Equação2 sobe, cortando o eixo x perto de 0,3. As retas se cruzam perto de (1,4; 3,3).](img/2024-1-a/q22-graficos-ac.png)\n\nA partir das representações gráficas das equações, é possível concluir que o ChatGPT está correto, pois as duas equações distintas de 1º grau apresentam o ponto (2,3) como solução.",
+        "B": "![Gráfico com duas retas. Equação1 desce, passando por (0, 4) e (8, 0). Equação2 sobe, cortando o eixo x em 1. As retas se cruzam no ponto (2, 3).](img/2024-1-a/q22-graficos-bd.png)\n\nA partir das representações gráficas das equações, é possível concluir que o ChatGPT está correto, pois as duas equações distintas de 1º grau apresentam o ponto (2,3) como solução.",
+        "C": "![Gráfico com duas retas. Equação1 desce, passando por (0, 4) e (8, 0). Equação2 sobe, cortando o eixo x perto de 0,3. As retas se cruzam perto de (1,4; 3,3).](img/2024-1-a/q22-graficos-ac.png)\n\nA partir das representações gráficas das equações, é possível concluir que o ChatGPT está errado, pois uma das duas equações distintas de 1º grau não apresenta o ponto (2,3) como solução.",
+        "D": "![Gráfico com duas retas. Equação1 desce, passando por (0, 4) e (8, 0). Equação2 sobe, cortando o eixo x em 1. As retas se cruzam no ponto (2, 3).](img/2024-1-a/q22-graficos-bd.png)\n\nA partir das representações gráficas das equações, é possível concluir que o ChatGPT está errado, pois uma das duas equações distintas de 1º grau não apresenta o ponto (2,3) como solução."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O gráfico está certo, mas a análise não: as retas se cruzam fora de (2, 3), então o ChatGPT errou.",
+        "B": "A Equação2 desenhada corta o eixo x em 1, e não em \\(\\frac{1}{3}\\). E “o ChatGPT está correto” é falso.",
+        "D": "A conclusão está certa, mas o gráfico não: a Equação2 foi desenhada passando por (1, 0) e (2, 3), o que não representa \\(3x - y = 1\\)."
+      },
+      "teoria": [
+        "funcao-afim",
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Um ponto é solução de uma equação se, substituído, torna a igualdade verdadeira. Em (2, 3): \\(3 \\cdot 2 - 3 = 3 \\neq 1\\).",
+        "A solução de um sistema é o ponto onde as duas retas se cruzam.",
+        "Para conferir o gráfico de \\(y = 3x - 1\\), veja onde ele corta os eixos: y em −1; x em \\(\\frac{1}{3}\\)."
+      ],
+      "raciocinio": "1. Confira a Equação 1 em (2, 3): \\(2 + 2 \\cdot 3 = 8\\) ✓ (veja: *Funções afins e retas*).\n2. Confira a Equação 2: \\(3 \\cdot 2 - 3 = 3\\), e não 1 ✗. O ChatGPT errou a conta (“6 − 3 = 3 − 3 = 0” não faz sentido). Isso deixa só C ou D.\n3. Ache o gráfico certo de \\(3x - y = 1\\), ou seja, \\(y = 3x - 1\\): corta o eixo y em −1 e o eixo x em \\(\\frac{1}{3} \\approx 0{,}33\\).\n4. No gráfico de C, a Equação2 corta o eixo x perto de 0,3, e as retas se cruzam fora de (2, 3): a solução do sistema não é (2, 3) (veja: *Sistemas de equações do 1º grau*). No de D, ela corta o eixo x em 1, então não é a reta certa.\n\n<div data-interativo=\"24a-q22-retas\"></div>\n\nResposta: **C**.\n\n**Dica de prova:** não confie em contas prontas, nem de uma IA. Substituir os valores para conferir leva poucos segundos.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Carlinhos ganhou de sua mãe R$100,00. Ao invés de guardar o dinheiro, ele decidiu comprar um saquinho de figurinhas da Copa do Mundo por dia até acabar o dinheiro. Cada saquinho custa R$4,00. A tabela a seguir mostra a quantidade de pacotes comprada(p) e a quantia de dinheiro(D) que Carlinhos possui após a compra do pacote de figurinhas.\n\n| Pacotes(p) | Dinheiro(D) |\n|:---:|:---:|\n| 0 | 100 |\n| 1 | 96 |\n| 2 | 92 |\n| 3 | 88 |\n| 4 | 84 |\n| ... | ... |\n\nAssinale a alternativa que apresenta a expressão correta da relação existente entre D e a quantidades de pacotes de figurinhas e quantos pacotes ele precisou comprar para ter D=R$40,00.",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(D=100-p\\), 60 pacotes",
+        "B": "\\(D=100-2p\\), 30 pacotes",
+        "C": "\\(D=100-3p\\), 20 pacotes",
+        "D": "\\(D=100-4p\\), 15 pacotes"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Nessa fórmula, cada pacote custaria R$ 1,00. Com \\(p = 1\\), daria 99, e a tabela mostra 96.",
+        "B": "Nessa fórmula, cada pacote custaria R$ 2,00. Com \\(p = 1\\), daria 98, e não 96.",
+        "C": "Nessa fórmula, cada pacote custaria R$ 3,00. Com \\(p = 1\\), daria 97, e não 96."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Função afim \\(y = ax + b\\): \\(b\\) é o valor inicial (100), e \\(a\\), a variação por unidade (−4 por pacote).",
+        "Para achar \\(p\\), substitua \\(D = 40\\): \\(100 - 4p = 40\\), então \\(p = 15\\)."
+      ],
+      "raciocinio": "1. Monte a fórmula (veja: *Funções afins e retas*): o valor inicial é 100 (\\(b = 100\\)) e o dinheiro cai 4 a cada pacote (\\(a = -4\\)). Então \\(D = 100 - 4p\\).\n2. Faça \\(D = 40\\): \\(100 - 4p = 40 \\Rightarrow 4p = 60 \\Rightarrow p = 15\\) pacotes.\n\nResposta: **D**.\n\n**Dica de prova:** aqui, toda alternativa dá \\(D = 40\\) com a própria fórmula. O número de pacotes não decide: teste a fórmula com uma linha da tabela.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "No mapa abaixo a Avenida Costa do Marfim e a Rua Gana são transversais às ruas Etiópia e Senegal, que são paralelas.\n\n![Mapa com quatro vias. As ruas Etiópia e Senegal são quase verticais e paralelas. A Avenida Costa do Marfim desce da esquerda para a direita, e a Rua Gana sobe da esquerda para a direita, cruzando a avenida entre as duas ruas. Ângulos marcados: 50° entre a Rua Etiópia e a Avenida Costa do Marfim; 120° entre a Avenida Costa do Marfim e a Rua Gana, acima do cruzamento; 2x entre a Rua Senegal e a Rua Gana.](img/2024-1-a/q24.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nConhecendo alguns ângulos envolvendo o encontro dessas vias, tem-se que o valor de *x* é igual a:",
+      "imagens": [
+        "img/2024-1-a/q24.png"
+      ],
+      "alternativas": {
+        "A": "35°",
+        "B": "70°",
+        "C": "85°",
+        "D": "170°"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "70° é o valor de \\(2x\\), e não de \\(x\\). Faltou dividir por 2.",
+        "C": "Aparece ao somar 50° + 120° = 170° e dividir por 2. Não há motivo geométrico para \\(2x\\) ser essa soma.",
+        "D": "170° é só a soma 50° + 120°. Se \\(x\\) fosse 170°, \\(2x\\) seria 340°, um ângulo impossível nesse cruzamento."
+      },
+      "teoria": [
+        "angulos-e-paralelas"
+      ],
+      "essencial": [
+        "Ângulos opostos pelo vértice são iguais; ângulos suplementares somam 180°.",
+        "A soma dos ângulos internos de um triângulo é 180°.",
+        "Uma reta que corta duas paralelas forma ângulos correspondentes iguais: aqui, \\(2x = 70^\\circ\\)."
+      ],
+      "raciocinio": "A Avenida Costa do Marfim, a Rua Etiópia e a Rua Gana formam um triângulo (veja: *Ângulos e retas paralelas*):\n\n1. Vértice Avenida × Etiópia: o ângulo interno é oposto pelo vértice ao de 50°, então mede 50°.\n2. Vértice Avenida × Gana: o ângulo interno é suplementar ao de 120°: \\(180^\\circ - 120^\\circ = 60^\\circ\\).\n3. Vértice Gana × Etiópia: \\(180^\\circ - 50^\\circ - 60^\\circ = 70^\\circ\\).\n4. Etiópia e Senegal são paralelas, e a Rua Gana corta as duas: o ângulo de 70° e o ângulo \\(2x\\) são correspondentes. \\(2x = 70^\\circ\\), então \\(x = 35^\\circ\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "O triângulo ABC da figura abaixo é retângulo em C e o segmento \\(\\overline{CD}\\) representa a sua altura. Qual é a medida, em unidades de comprimento (u.c.) do lado \\(\\overline{AC}\\) ?\n\n![Triângulo ABC com o vértice C no alto e o lado AB na horizontal. O segmento CD é vertical, de C até D, no lado AB. Medidas: AD = 12, DB = 6, CD = 8 e CB = 10.](img/2024-1-a/q25.png)\n\n<cite>Fonte: IFSP, 2023.</cite>",
+      "imagens": [
+        "img/2024-1-a/q25.png"
+      ],
+      "alternativas": {
+        "A": "8,0 u.c.",
+        "B": "14,4 u.c.",
+        "C": "20,0 u.c",
+        "D": "9,0 u.c"
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "8 é a medida de CD, e não de AC. AC é hipotenusa do triângulo ACD: tem de ser maior que 8 e que 12.",
+        "B": "É o que Pitágoras dá no triângulo ACD (\\(\\approx 14{,}4\\)). Mas \\(AC^2 = AB \\cdot AD\\) dá \\(\\approx 14{,}7\\): os dados da figura não combinam.",
+        "C": "20 = 12 + 8, a soma de AD com a altura. A hipotenusa é sempre menor que a soma dos catetos.",
+        "D": "9 é menor que AD = 12. Como AC é a hipotenusa do triângulo ACD, precisa ser maior que 12."
+      },
+      "teoria": [
+        "teorema-de-pitagoras"
+      ],
+      "essencial": [
+        "Pitágoras só vale em triângulo retângulo: \\(a^2 = b^2 + c^2\\), com \\(a\\) a hipotenusa.",
+        "Em ACD, retângulo em D: \\(AC^2 = 12^2 + 8^2\\). Mas o triângulo ABC não fecha: \\(208 + 100 \\neq 324\\)."
+      ],
+      "raciocinio": "A questão foi **anulada** e vale ponto para todos. Veja onde está o problema (veja: *Teorema de Pitágoras*):\n\n1. Caminho mais direto: no triângulo ACD, retângulo em D, \\(AC^2 = 12^2 + 8^2 = 208\\), então \\(AC \\approx 14{,}4\\).\n2. Conferindo com o triângulo inteiro: se ABC é retângulo em C, deveria valer \\(AC^2 + BC^2 = AB^2\\). Mas \\(208 + 100 = 308\\), e \\(AB^2 = 18^2 = 324\\).\n3. A relação da altura também falha: \\(CD^2 = 64\\), mas \\(AD \\cdot DB = 12 \\cdot 6 = 72\\).\n\nCom essas medidas, o triângulo não pode ser retângulo em C. Os dados se contradizem, e por isso a questão foi anulada.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Uma promoção de um mercado define que a cada 50 reais em compras, o cliente recebe 1 cupom para participar de um sorteio de um vale-compras de 500 reais. Os cupons são recebidos na hora do pagamento da compra no caixa e os valores que não foram convertidos em cupons não são cumulativos. Sendo x o valor da compra do cliente e y o número de cupons que o cliente recebe, qual a função que mostra a relação entre as variáveis x e y e que calcula a quantia de cupons a ser recebido pelo cliente a cada compra?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(y(x) = 50x\\)",
+        "B": "\\(y(x) = 50 + x\\)",
+        "C": "\\(y(x) = 50 - x\\)",
+        "D": "\\(y(x) = \\dfrac{x}{50}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Daria 50 cupons para cada real gasto: uma compra de R$ 100 renderia 5000 cupons, e não 2.",
+        "B": "Uma compra de R$ 0 já daria 50 cupons. Para R$ 100, seriam 150.",
+        "C": "Quanto mais o cliente compra, menos cupons recebe. Acima de R$ 50, o número de cupons fica até negativo."
+      },
+      "teoria": [
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Grandezas diretamente proporcionais: \\(y = kx\\). “1 cupom a cada 50 reais” dá \\(k = \\frac{1}{50}\\).",
+        "Para escolher a fórmula, teste um valor simples: R$ 100 deve dar 2 cupons."
+      ],
+      "raciocinio": "1. “1 cupom a cada 50 reais”: cupons e valor da compra são diretamente proporcionais, com \\(k = \\frac{1}{50}\\) (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Teste com um valor fácil, \\(x = 100\\), que deve dar 2 cupons: A dá 5000; B, 150; C, −50; D, \\(\\frac{100}{50} = 2\\) ✓.\n\nResposta: **D**.\n\n**Dica de prova:** em questões de “qual é a fórmula”, testar um valor simples nas alternativas é rápido e seguro.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "A violência nas escolas é uma questão atual e um problema complexo que demanda de educadores, estudantes, responsáveis, governo e sociedade medidas para que se busque e se promova a Cultura de Paz, que tem no diálogo e na mediação seus focos para a resolução de conflitos. A pesquisa “Juventudes na escola, sentidos e buscas: Por que frequentam?” escutou as juventudes brasileiras para entender seus olhares sobre o contexto escolar e uma das perguntas feitas aos 8.283 participantes e que ajuda a compreender fatores que incitam violências foi: Qual das pessoas você não queria ter como colega de classe? A tabela abaixo indica as respostas à pergunta:\n\n**Tabela:** Indicação das pessoas que não se queria ter como colega de classe, segundo modalidade de ensino dos alunos\n\n| ASPECTO | EJA | EM | PJU | Total |\n|:---:|:---:|:---:|:---:|:---:|\n| Bagunceiros | 55,1% | 35,7% | 58,7% | 44,4% |\n| “Puxa-saco” dos professores | 23,6% | 29,5% | 23,5% | 27,8% |\n| Travestis | 4,3% | 8,3% | 3,7% | 7,1% |\n| Egressos de Unidades Prisionais | 4,0% | 6,2% | 1,9% | 5,5% |\n| Homossexuais | 3,4% | 6,1% | 2,7% | 5,3% |\n| Transexuais | 2,6% | 5,2% | 1,8% | 4,4% |\n| “Nerds” | 3,3% | 3,6% | 2,2% | 3,5% |\n| Transgêneros | 1,2% | 3,0% | 0,7% | 2,5% |\n| Pessoas de outros estados ou região | 1,2% | 0,7% | 1,8% | 0,9% |\n| Pobres | 0,4% | 0,8% | 1,6% | 0,7% |\n| Pessoas com deficiência | 0,6% | 0,6% | 0,7% | 0,6% |\n| Negros | 0,2% | 0,3% | 0,8% | 0,3% |\n| Total | 100,0% | 100,0% | 100,0% | 100,0% |\n\n<cite>ABRAMOVAY, Miriam. Coord. **Juventudes na escola, sentidos e buscas:** Por que frequentam? / Miriam Abramovay, Mary Garcia Castro, Júlio Jacobo Waiselfisz. Brasília-DF: Flacso - Brasil, OEI, MEC, 2015.\nSiglas: EJA: Educação de Jovens e Adultos. EM: Ensino Médio Regular. PJU: Projovem Urbano.</cite>\n\nUm professor do IFSP que atua na modalidade do Ensino Médio Regular (EM), preocupado com os dados presentes na tabela referentes à população LGBTQIA+, desenvolverá um projeto para dialogar sobre o respeito às diversidades e sobre o cultivo da Cultura de Paz. Ele observou a tabela e, para iniciar o debate sobre os preconceitos e violências, buscou saber a quantidade de participantes da pesquisa, na modalidade de ensino em que atua, que responderam que não queriam ter como colega de classe uma pessoa travesti, homossexual, transexual ou transgênero.\n\nSabe-se que o professor utilizou uma calculadora para saber tal quantidade, que cada participante respondeu à pergunta indicando apenas um aspecto e que aproximadamente 69,4% dos participantes são do EM. O visor da calculadora, que mostra o possível cálculo feito pelo professor e a quantidade aproximada encontrada, estão representados em qual das alternativas abaixo?",
+      "imagens": [],
+      "alternativas": {
+        "A": "`(8283x69,4)x(8,3+6,1+5,2+3) =` e 1299 participantes aproximadamente",
+        "B": "`8283x(8,3+6,1+5,2+3) =` e 1872 participantes aproximadamente",
+        "C": "`8283(0,083+0,061+0,052+0,03) =` e 1872 participantes aproximadamente",
+        "D": "`(8283x0,694)x(0,083+0,061+0,052+0,03) =` e 1299 participantes aproximadamente"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Usa as porcentagens como inteiros (69,4 e 8,3, em vez de 0,694 e 0,083). A conta daria quase 13 milhões, e não 1299.",
+        "B": "Usa os 8283 participantes de todas as modalidades e não transforma as porcentagens em decimal. A conta daria 187 195,8.",
+        "C": "Usa os 8283 participantes de todas as modalidades. Faltou multiplicar por 0,694 para ficar só com os alunos do EM."
+      },
+      "teoria": [
+        "porcentagem"
+      ],
+      "essencial": [
+        "Porcentagem de uma porcentagem: primeiro ache o grupo (69,4% de 8283), depois a parte dele.",
+        "Na calculadora, use a forma decimal: 69,4% = 0,694; 8,3% = 0,083.",
+        "Se cada pessoa marcou um só aspecto, as porcentagens podem ser somadas."
+      ],
+      "raciocinio": "1. As porcentagens da coluna EM valem **dentro do grupo do EM**. Primeiro, ache o tamanho do grupo (veja: *Porcentagem*): \\(8283 \\cdot 0{,}694 \\approx 5748\\) alunos.\n2. Na coluna EM, some as linhas pedidas: travestis (8,3%), homossexuais (6,1%), transexuais (5,2%) e transgêneros (3,0%). Como cada participante indicou um só aspecto, as porcentagens podem ser somadas: 22,6% = 0,226.\n3. Multiplique: \\(5748 \\cdot 0{,}226 \\approx 1299\\).\n4. A conta \\((8283 \\times 0{,}694) \\times (0{,}083 + 0{,}061 + 0{,}052 + 0{,}03)\\), com resultado 1299, é a da D.\n\nResposta: **D**.\n\n**Dica de prova:** em tabelas com várias colunas, sublinhe a coluna certa (aqui, EM) antes de pegar os números. É fácil se confundir com a coluna “Total”.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "A lei 13.104/2015 alterou o Código Penal Brasileiro, incluindo como qualificador do crime de homicídio o feminicídio. Feminicídio é o homicídio cometido contra mulheres que é motivado por violência doméstica ou discriminação de gênero. Em março/2023 foram divulgados números do Monitor da Violência, do portal G1, em parceria com o Núcleo de Estudos da Violência da USP (NEV-USP) e o Fórum Brasileiro de Segurança Pública (FBV). O estudo mostra uma preocupação, já que os casos de assassinatos de mulheres pelo fato de serem mulheres crescem em um cenário no qual os homicídios, como um todo, têm caído.\n\nO gráfico abaixo compara entre os anos de 2017 e 2022 o número total de mulheres assassinadas (homicídio doloso) e o número de assassinatos causados por feminicídios:\n\n![Gráfico de barras “Mulheres assassinadas no Brasil”, com duas barras por ano: total de homicídios dolosos e feminicídios.](img/2024-1-a/q28.png \"2017 — total de homicídios dolosos: 4558; feminicídios: 1046 | 2018 — total: 4353; feminicídios: 1225 | 2019 — total: 3966; feminicídios: 1330 | 2020 — total: 3999; feminicídios: 1354 | 2021 — total: 3831; feminicídios: 1337 | 2022 — total: 3930; feminicídios: 1410\")\n\n\\*3 estados não contabilizavam dados de feminicídio em 2017.\n\n<cite>Monitor da Violência/G1. Disponível em: https://g1.globo.com/monitor-da-violencia/noticia/2023/03/08/brasil-bate-recorde-de-feminicidios-em-2022-com-uma-mulher-morta-a-cada-6-horas.ghtml. Acesso em: 24 jul. 2023 (adaptado).</cite>\n\nPode-se concluir que nos últimos quatro anos a maior proporção de feminicídios em relação ao número total de mulheres assassinadas foi de aproximadamente 35,9%, no ano de:",
+      "imagens": [
+        "img/2024-1-a/q28.png"
+      ],
+      "alternativas": {
+        "A": "2022",
+        "B": "2021",
+        "C": "2020",
+        "D": "2019"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Em 2021: \\(1337 \\div 3831 \\approx 34{,}9\\%\\). É alta, mas menor que a de 2022.",
+        "C": "Em 2020: \\(1354 \\div 3999 \\approx 33{,}9\\%\\).",
+        "D": "Em 2019: \\(1330 \\div 3966 \\approx 33{,}5\\%\\)."
+      },
+      "teoria": [
+        "graficos",
+        "porcentagem"
+      ],
+      "essencial": [
+        "Proporção é parte ÷ total: feminicídios ÷ total de mulheres assassinadas, ano a ano.",
+        "O maior número de casos não garante a maior proporção: compare as divisões, e não as colunas."
+      ],
+      "raciocinio": "1. “Últimos quatro anos” do gráfico: 2019, 2020, 2021 e 2022.\n2. A pergunta é sobre **proporção**, não sobre número de casos: divida feminicídios pelo total de cada ano (veja: *Leitura de gráficos* e *Porcentagem*).\n\n| Ano | Feminicídios | Total | Proporção |\n|---|---|---|---|\n| 2019 | 1330 | 3966 | ≈ 33,5% |\n| 2020 | 1354 | 3999 | ≈ 33,9% |\n| 2021 | 1337 | 3831 | ≈ 34,9% |\n| 2022 | 1410 | 3930 | **≈ 35,9%** |\n\n3. A maior é a de 2022.\n\nResposta: **A**.\n\n**Dica de prova:** quando a questão já dá o valor (35,9%), faça a conta ao contrário: 35,9% de 3930 ≈ 1411, que bate com os 1410 feminicídios de 2022.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Uma estudante colocou três dados de seis faces, exatamente iguais, sobre uma mesa. Após essa organização, ela chamou um amigo para um desafio: identificar o resultado correto de algumas operações matemáticas. A imagem abaixo mostra a perspectiva de visão do amigo desafiado:\n\n![Três dados vistos de cima e de frente, mostrando três faces cada. Dado 1: face de cima com 1 ponto, face da esquerda com 3, face da direita com 5. Dado 2: cima com 2, esquerda com 1, direita com 4. Dado 3: cima com 3, esquerda com 1, direita com 2.](img/2024-1-a/q29.png)\n\n<cite>Disponível em: https://tinyurl.com/mr3k2r5n. Acesso em: 31 jul. 2023.</cite>\n\nSe o estudante desafiado sabe que a soma dos pontos de duas faces opostas de um dado sempre resulta em sete, e ele continuar olhando apenas as faces que estão indicadas na figura acima, sem se movimentar, ele acertará se responder que",
+      "imagens": [
+        "img/2024-1-a/q29.png"
+      ],
+      "alternativas": {
+        "A": "a soma dos pontos das faces que estão sobre a mesa é um número par.",
+        "B": "a soma dos pontos das faces, em um dos dados, que eu não vejo, é o dobro da soma dos pontos das faces que eu consigo ver.",
+        "C": "a soma dos pontos das faces que eu vejo é maior que a soma dos pontos das faces que eu não vejo.",
+        "D": "a soma dos pontos das faces que eu não consigo ver nos três dados é um número par."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "As faces sobre a mesa são as opostas às de cima (1, 2 e 3): 6, 5 e 4. A soma é 15, ímpar.",
+        "C": "É o contrário: as faces vistas somam \\(9 + 7 + 6 = 22\\), e as escondidas, \\(63 - 22 = 41\\).",
+        "D": "As faces escondidas dos três dados somam 41, que é ímpar."
+      },
+      "teoria": [
+        "problemas-de-logica"
+      ],
+      "essencial": [
+        "Faces opostas de um dado somam 7, então as seis faces somam 21.",
+        "Se você vê três faces, as três escondidas somam 21 menos a soma vista."
+      ],
+      "raciocinio": "As faces opostas de um dado somam 7, então cada dado tem 21 pontos no total (veja: *Problemas de lógica*). Se você vê três faces, as três escondidas são as opostas a elas: soma escondida = 21 − soma vista.\n\n| Dado | Faces vistas | Soma vista | Soma escondida |\n|---|---|---|---|\n| 1 | 1, 3, 5 | 9 | 12 |\n| 2 | 2, 1, 4 | 7 | **14** |\n| 3 | 3, 1, 2 | 6 | 15 |\n\n1. No dado 2, a soma escondida (14) é o dobro da vista (7): a afirmação B é verdadeira.\n2. As outras caem pelas contas dos comentários (faces na mesa somam 15; escondidas somam 41).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "Ao se construir um castelo com cartas de baralho é necessário uma superfície plana e que não seja lisa, um baralho feito em material que seja áspero, um ambiente sem vento e uma estrutura de torre em que, quando vista de frente, as cartas criem triângulos congruentes. Na figura 1 está representada uma torre de quatro andares em que \\(B\\hat{A}C \\cong E\\hat{G}F\\) e \\(A\\hat{B}C \\cong F\\hat{E}G\\).\n\n#### Figura 1\n![Torre de cartas com quatro andares, formando um triângulo grande dividido em triângulos menores iguais, apoiada numa mesa. Num triângulo do terceiro andar estão os vértices A (em cima), C e B (embaixo); o lado AB mede 8x − 8. No andar de baixo, na ponta direita, há o triângulo EFG, com E e G sobre a mesa; o lado EG mede 73 − x. Os ângulos em A e em G têm a mesma marca, e os ângulos em B e em E têm outra marca igual.](img/2024-1-a/q30.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nA partir dessas informações, e sabendo que o tamanho de uma carta é medido em milímetros, qual a altura aproximada da torre de cartas a partir da superfície plana?",
+      "imagens": [
+        "img/2024-1-a/q30.png"
+      ],
+      "alternativas": {
+        "A": "221,7 milímetros",
+        "B": "256,0 milímetros",
+        "C": "128,0 milímetros",
+        "D": "491,5 milímetros"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "256 mm é o comprimento da base da torre (4 cartas de 64 mm lado a lado), e não a altura.",
+        "C": "128 mm é a metade da base (2 cartas). Também não é a altura.",
+        "D": "É maior até que a base (256 mm). Numa torre de triângulos equiláteros, a altura é menor que a base: cerca de 87% dela."
+      },
+      "teoria": [
+        "congruencia-de-triangulos",
+        "triangulos"
+      ],
+      "essencial": [
+        "Em triângulos congruentes, lados correspondentes são iguais: AB = GE, então \\(8x - 8 = 73 - x\\).",
+        "Altura do triângulo equilátero de lado \\(\\ell\\): \\(\\frac{\\ell\\sqrt{3}}{2}\\)."
+      ],
+      "raciocinio": "1. Correspondência: A corresponde a G e B corresponde a E, então o lado AB (entre A e B) corresponde ao lado GE (entre G e E), e os dois são iguais (veja: *Congruência de triângulos*).\n2. Equação: \\(8x - 8 = 73 - x \\Rightarrow 9x = 81 \\Rightarrow x = 9\\).\n3. Lado da carta: \\(8 \\cdot 9 - 8 = 64\\) mm (confira: \\(73 - 9 = 64\\) ✓).\n4. Os triângulos da torre são equiláteros. Altura de um andar (veja: *Triângulos: classificação e propriedades*): \\(\\frac{64\\sqrt{3}}{2} = 32\\sqrt{3} \\approx 55{,}4\\) mm.\n5. Quatro andares: \\(4 \\cdot 32\\sqrt{3} = 128\\sqrt{3} \\approx 128 \\cdot 1{,}732 \\approx 221{,}7\\) mm.\n\nResposta: **A**.",
+      "interativo": null
+    }
+  ]
+}

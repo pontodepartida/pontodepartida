@@ -1,0 +1,17 @@
+{
+  "id": "concordancia-nominal",
+  "titulo": "Concordância nominal",
+  "materia": "Português",
+  "grupo": "Concordância, regência e crase",
+  "texto": "**Concordância nominal** é o acordo, em **gênero** (masculino/feminino) e **número** (singular/plural), entre o substantivo e as palavras que se referem a ele: artigos, adjetivos, numerais, pronomes e particípios.\n\n- “jornada**s** excessivamente long**as**”: *longas* concorda com *jornadas*.\n- “os motorista**s** correm o risco de ser**em** excluíd**os**”: *excluídos* concorda com *motoristas*.\n\n**Adjetivo ou advérbio?** O **adjetivo** se refere a um substantivo e varia. O **advérbio** se refere a um verbo, adjetivo ou outro advérbio e **não varia**.\n\n| Frase | Palavra | Classe | Varia? |\n|---|---|---|---|\n| jornadas **longas** | longas | adjetivo (de *jornadas*) | sim |\n| jornadas **excessivamente** longas | excessivamente | advérbio (de *longas*) | não |\n| Elas estão **meio** cansadas. | meio | advérbio (= um pouco) | não |\n| Comeu **meia** pizza. | meia | numeral (= metade) | sim |\n\n**Casos que caem em prova:**\n\n- **Um adjetivo para vários substantivos**, depois deles: vai para o plural ou concorda com o mais próximo. “Camisa e calça **novas**” ou “camisa e calça **nova**”.\n- **Anexo, incluso, obrigado, mesmo, próprio**: concordam com o nome. “As fotos seguem **anexas**.” “Ela disse: **obrigada**.”\n- **É proibido, é necessário, é bom**: sem artigo, ficam invariáveis (“É proibido entrada”); com artigo, concordam (“É proibid**a** **a** entrada”).\n- **Menos** e **alerta** são invariáveis: “**menos** pessoas”, “soldados **alerta**”.",
+  "videos": [
+    {
+      "titulo": "Concordância nominal – aula 02 - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=ISPEMEtMprA"
+    },
+    {
+      "titulo": "Exercícios de concordância nominal - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=dTg_MMjz33Y"
+    }
+  ]
+}

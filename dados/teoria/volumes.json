@@ -1,0 +1,17 @@
+{
+  "id": "volumes",
+  "titulo": "Volumes de sólidos",
+  "materia": "Matemática",
+  "grupo": "Volumes e sólidos",
+  "texto": "**Volume** é o espaço ocupado por um sólido, em unidades cúbicas (cm³, m³…).\n\n| Sólido | Volume |\n|---|---|\n| Paralelepípedo (bloco retangular) | \\(V = a \\cdot b \\cdot c\\) (comprimento × largura × altura) |\n| Cubo de aresta \\(a\\) | \\(V = a^3\\) |\n| Prisma qualquer | \\(V = A_{\\text{base}} \\cdot h\\) |\n| Cilindro | \\(V = \\pi r^2 \\cdot h\\) |\n| Pirâmide | \\(V = \\dfrac{A_{\\text{base}} \\cdot h}{3}\\) |\n| Cone | \\(V = \\dfrac{\\pi r^2 \\cdot h}{3}\\) |\n\n**Pirâmide × prisma:** com a mesma base e a mesma altura, a pirâmide tem **um terço** do volume do prisma.\n\n**Ampliação:** se todas as arestas de um sólido são multiplicadas por \\(k\\), o volume é multiplicado por \\(k^3\\). Aresta 4 vezes maior → volume \\(4^3 = 64\\) vezes maior.\n\n**Volume de líquido:** use a **altura do líquido**, e não a altura do recipiente. Lembre que \\(1\\ \\text{L} = 1000\\ \\text{cm}^3\\) e \\(1\\ \\text{m}^3 = 1000\\ \\text{L}\\).\n\n**Deslocamento de água:** um objeto totalmente mergulhado faz o nível subir. O volume de água “empurrado” é igual ao **volume do objeto**:\n\n\\[V_{\\text{objeto}} = \\text{área da base do recipiente} \\times \\text{quanto o nível subiu}\\]\n\n**Quantos objetos cabem numa caixa:**\n\n1. Divida o volume da caixa pelo volume de cada objeto: isso dá o **máximo possível**.\n2. Confirme com a arrumação: divida cada medida da caixa por uma medida do objeto. Se todas as divisões forem exatas, o máximo é alcançado sem sobra de espaço.\n\n**Sólido oco:** volume da parte oca = volume total − volume do material.",
+  "videos": [
+    {
+      "titulo": "Prismas: áreas e volumes - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=_sKcgx590J4"
+    },
+    {
+      "titulo": "Cilindro - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=rpbFsCa7D4E"
+    }
+  ]
+}

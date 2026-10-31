@@ -1,0 +1,13 @@
+{
+  "id": "tabelas",
+  "titulo": "Leitura de tabelas",
+  "materia": "Matemática",
+  "grupo": "Gráficos e tabelas",
+  "texto": "**Tabela simples:** cada linha é um item e cada coluna é uma informação sobre ele.\n\n**Tabela de dupla entrada:** cada célula cruza uma **linha** com uma **coluna**. Para ler uma célula, pergunte: *qual linha, qual coluna?*\n\n**Exemplo (placares de um torneio):** se a célula da linha *Bayern* com a coluna *Barça* mostra “3 – 1”, e a regra diz que o primeiro número é do time da linha, o Bayern fez 3 gols e o Barça, 1. O mesmo jogo aparece de novo na linha do Barça como “1 – 3”.\n\n**Estratégias:**\n\n1. Leia a **legenda** ou a regra da tabela antes de qualquer conta.\n2. Para responder sobre um item, percorra **só a linha (ou a coluna) dele**.\n3. Para achar o maior ou o menor, compare valores da **mesma** unidade.\n4. Quando for preciso somar ou fazer médias, escreva os números ao lado antes de calcular.\n\n**Escolher as maiores células:** para atingir o maior total com poucas escolhas (por exemplo, 3 horários), pegue as células de **maior valor** que respeitem as regras do problema.",
+  "videos": [
+    {
+      "titulo": "Noções de estatística: conceitos iniciais - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=DLOQvKvbBW8"
+    }
+  ]
+}

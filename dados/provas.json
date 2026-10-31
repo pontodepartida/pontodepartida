@@ -1,0 +1,13 @@
+{
+  "provas": [
+    { "id": "ps-2022-1-a", "nome": "PS 2022.1 – Prova A", "arquivo": "ps-2022-1-a.json" },
+    { "id": "ps-2022-1-b", "nome": "PS 2022.1 – Prova B", "arquivo": "ps-2022-1-b.json" },
+    { "id": "ps-2023-1-a", "nome": "PS 2023.1 – Prova A", "arquivo": "ps-2023-1-a.json" },
+    { "id": "ps-2023-1-b", "nome": "PS 2023.1 – Prova B", "arquivo": "ps-2023-1-b.json" },
+    { "id": "ps-2024-1-a", "nome": "PS 2024.1 – Prova A", "arquivo": "ps-2024-1-a.json" },
+    { "id": "ps-2024-1-b", "nome": "PS 2024.1 – Prova B", "arquivo": "ps-2024-1-b.json" },
+    { "id": "ps-2025-1-a", "nome": "PS 2025.1 – Prova A", "arquivo": "ps-2025-1-a.json" },
+    { "id": "ps-2025-1-b", "nome": "PS 2025.1 – Prova B", "arquivo": "ps-2025-1-b.json" },
+    { "id": "ps-2026-1", "nome": "PS 2026.1", "arquivo": "ps-2026-1.json" }
+  ]
+}

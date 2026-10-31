@@ -1,0 +1,13 @@
+{
+  "id": "noticia-e-lide",
+  "titulo": "Notícia: título e lide",
+  "materia": "Português",
+  "grupo": "Gêneros textuais",
+  "texto": "A **notícia** informa um fato recente de interesse público, com linguagem **objetiva** e em **3ª pessoa**.\n\n**Estrutura:**\n\n| Parte | Função |\n|---|---|\n| **Título (manchete)** | anuncia o fato principal em poucas palavras, em geral com verbo no presente |\n| **Linha fina (subtítulo)** | complementa o título com mais um dado |\n| **Lide** | primeiro parágrafo; resume o essencial |\n| **Corpo** | desenvolve os detalhes, as falas e as consequências, do mais ao menos importante |\n\n**O lide responde às perguntas básicas:** **quem?** fez **o quê?**, **quando?**, **onde?**, **como?** e **por quê?**\n\n> “**Israel** [quem] **encerrou** [o quê] **nesta quarta-feira** [quando] **uma grande operação militar** [o quê] **no campo de refugiados de Jenin** [onde], com saldo de 12 palestinos e um soldado israelense mortos [resultado].”\n\n**O título** é construído a partir do **núcleo do lide**: quem fez o quê, e onde. Em geral, o verbo vai para o **presente** (“Israel **encerra** operação…”), mesmo que o fato tenha acontecido antes. Detalhes como números, consequências e reações costumam ficar para a linha fina ou para o corpo.\n\n**Objetividade:** a notícia evita opinião. Verbos e adjetivos que acrescentam emoção ou julgamento (“celebra”, “massacre”, “heroica”) não cabem num título que só deve informar, a menos que estejam no próprio fato relatado.\n\n**Citações:** o corpo da notícia traz falas dos envolvidos, entre aspas (citação direta) ou resumidas pelo jornalista (citação indireta). Veja *Discurso direto, indireto e indireto livre*.",
+  "videos": [
+    {
+      "titulo": "Notícia, como fazer? - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=_GfbMXqx50I"
+    }
+  ]
+}

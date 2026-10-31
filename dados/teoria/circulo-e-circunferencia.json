@@ -1,0 +1,17 @@
+{
+  "id": "circulo-e-circunferencia",
+  "titulo": "Círculo e circunferência",
+  "materia": "Matemática",
+  "grupo": "Áreas e perímetros",
+  "texto": "**Circunferência** é a linha formada pelos pontos que estão à mesma distância (o **raio** \\(r\\)) de um ponto (o **centro**). **Círculo** é a região limitada por ela. O **diâmetro** mede \\(2r\\).\n\n| Medida | Fórmula |\n|---|---|\n| comprimento da circunferência | \\(C = 2\\pi r\\) |\n| área do círculo | \\(A = \\pi r^2\\) |\n| área do semicírculo | \\(\\dfrac{\\pi r^2}{2}\\) |\n| área de um quarto de círculo | \\(\\dfrac{\\pi r^2}{4}\\) |\n\n**Setor circular** é uma “fatia” do círculo. A área é proporcional ao ângulo central:\n\n\\[A_{\\text{setor}} = \\frac{\\alpha}{360^\\circ} \\cdot \\pi r^2\\]\n\n| Ângulo | Fração do círculo |\n|---|---|\n| 90° | \\(\\frac{1}{4}\\) |\n| 180° | \\(\\frac{1}{2}\\) |\n| 270° | \\(\\frac{3}{4}\\) |\n\n**Círculo inscrito num quadrado** (encostando nos quatro lados): o diâmetro é igual ao lado. Num quadrado de lado 40, o raio é 20.\n\n**Ângulo central:** o ângulo com vértice no centro tem a **mesma medida** do arco que ele determina. Se a circunferência é dividida em 6 arcos iguais, cada arco mede \\(\\frac{360^\\circ}{6} = 60^\\circ\\).\n\n**Ângulo inscrito:** o vértice fica **sobre** a circunferência, e os lados são cordas. Ele mede a **metade** do ângulo central que determina o mesmo arco. Se o ângulo inscrito \\(B\\hat{A}C\\) mede 30°, o central \\(B\\hat{O}C\\) mede 60°.\n\n**Raios formam triângulos isósceles:** se O é o centro e A e B estão na circunferência, \\(OA = OB\\), então os ângulos em A e em B do triângulo OAB são iguais.",
+  "videos": [
+    {
+      "titulo": "Círculo e circunferência – parte 1 (aula 17) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=j4OaU_uudoc"
+    },
+    {
+      "titulo": "Área do círculo e de suas partes (aula 28) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=M2BTPluvjBQ"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "semelhanca-de-triangulos",
+  "titulo": "Semelhança de triângulos",
+  "materia": "Matemática",
+  "grupo": "Congruência e semelhança",
+  "texto": "Dois triângulos são **semelhantes** quando têm a **mesma forma**: os ângulos correspondentes são iguais e os lados correspondentes são **proporcionais**. Um é uma ampliação ou redução do outro.\n\n**Critérios** (basta um deles para garantir a semelhança):\n\n| Critério | Basta ter… |\n|---|---|\n| **AA** | dois ângulos iguais (o terceiro também será, porque a soma é 180°) |\n| **LAL** | dois lados proporcionais e o **ângulo entre eles** igual |\n| **LLL** | os três lados proporcionais |\n\n**Razão de semelhança (\\(k\\)):** o quociente entre lados correspondentes, igual para todos os pares.\n\n\\[k = \\frac{a'}{a} = \\frac{b'}{b} = \\frac{c'}{c}\\]\n\n**Ampliação:** se os lados são multiplicados por \\(k\\), o perímetro também é multiplicado por \\(k\\), e a área é multiplicada por \\(k^2\\). Dobrar os lados dobra o perímetro e **quadruplica** a área.\n\n**Teorema fundamental:** uma reta **paralela** a um lado de um triângulo, que corta os outros dois lados, forma um triângulo **semelhante** ao original.\n\n**Aplicações:** sombras (o poste e a pessoa fazem sombras proporcionais às alturas), rampas (a cada metro percorrido, sobe-se sempre a mesma altura), distâncias inacessíveis.\n\n**Monte a proporção com lados correspondentes**, ou seja, opostos a ângulos iguais:\n\n\\[\\frac{\\text{altura do prédio}}{\\text{sombra do prédio}} = \\frac{\\text{altura da pessoa}}{\\text{sombra da pessoa}}\\]\n\n**Semelhança × congruência:** triângulos congruentes são semelhantes com \\(k = 1\\): mesma forma **e** mesmo tamanho. Veja *Congruência de triângulos*.",
+  "videos": [
+    {
+      "titulo": "Semelhança de triângulos (aula 12) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=vc9xrDFx7J4"
+    },
+    {
+      "titulo": "Aplicação de semelhança – A Matemática é Linda #25 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=d0S0z7f6nqQ"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "concordancia-verbal",
+  "titulo": "Concordância verbal",
+  "materia": "Português",
+  "grupo": "Concordância, regência e crase",
+  "texto": "O verbo concorda com o **núcleo do sujeito** em **número** (singular ou plural) e **pessoa** (1ª, 2ª ou 3ª).\n\n> **Os alunos** chegaram. / **O aluno** chegou.\n\n**Casos que mais caem:**\n\n| Caso | Regra | Exemplo |\n|---|---|---|\n| **A gente** | a palavra *gente* é singular → verbo na 3ª pessoa do singular | A gente **vai**. (= Nós **vamos**.) |\n| **Coletivo no singular** | verbo no singular | A turma **saiu**. O povo **votou**. |\n| **Sujeito composto antes do verbo** | verbo no plural | Ana e Bia **chegaram**. |\n| **Sujeito posposto** (depois do verbo) | o verbo concorda do mesmo jeito | **Chegaram** as encomendas. **Choveram** pedaços. |\n| **Voz passiva sintética** (verbo + *se*) | concorda com o sujeito | Vendem-**se** casas. Aluga-**se** um quarto. |\n| **Voz passiva analítica** | *ser* + particípio concordam com o sujeito | Que **sejam salientados** os efeitos. |\n| **Verbo com preposição + se** (sujeito indeterminado) | fica no singular | Precisa-**se** de ajudantes. Para que **se reflita** sobre o tema. |\n| **Haver** = existir | impessoal: fica no singular | **Havia** muitas pessoas. |\n| **Fazer** (tempo) | impessoal: fica no singular | **Faz** dez anos. |\n\n**O verbo *ser*:** em geral concorda com o sujeito, mas pode concordar com o **predicativo** em alguns casos:\n\n- quando o predicativo está no plural e o sujeito é *tudo*, *isso*, *aquilo*: “Tudo **são** flores.”;\n- em horas, datas e distâncias: “**São** dez horas.” / “**É** uma hora.”;\n- quando o predicativo é pronome pessoal ou nome de pessoa: “O culpado **sou** eu.”\n\n**Sentido × forma:** “a gente” e os coletivos indicam várias pessoas, mas a **forma** da palavra é singular, e é a forma que manda na concordância da norma-padrão. Na fala informal, “a gente vamos” é comum, mas não segue a norma.\n\n**Concordância nominal** (adjetivos, artigos, numerais): concordam em gênero e número com o substantivo a que se referem. “Os efeitos **negativos**”, “as meninas **cansadas**”.",
+  "videos": [
+    {
+      "titulo": "Concordância verbal – aula 01 - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=4ZJnTqTk4_Y"
+    },
+    {
+      "titulo": "Concordância verbal – aula 02 - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=iZ7Ryffdoc0"
+    }
+  ]
+}

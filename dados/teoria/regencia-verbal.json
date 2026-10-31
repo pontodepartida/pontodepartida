@@ -1,0 +1,17 @@
+{
+  "id": "regencia-verbal",
+  "titulo": "Regência verbal",
+  "materia": "Português",
+  "grupo": "Concordância, regência e crase",
+  "texto": "**Regência verbal** é a relação entre o verbo e o seu complemento: se o verbo exige ou não uma **preposição**, e qual. Alguns verbos mudam de regência quando mudam de sentido.\n\n| Verbo | Sentido | Regência | Exemplo |\n|---|---|---|---|\n| **assistir** | ver, presenciar | com **a** | Assisti **ao** jogo. Assisti **a** uma cena. |\n| | ajudar, dar assistência | sem preposição | O enfermeiro assistiu **o** paciente. |\n| | caber, pertencer (direito) | com **a** | Esse direito assiste **ao** cidadão. |\n| **visar** | mirar; dar visto | sem preposição | Visou **o** alvo. Visou **o** cheque. |\n| | ter como objetivo | com **a** | Visa **ao** lucro. |\n| **aspirar** | respirar | sem preposição | Aspirou **o** ar. |\n| | desejar | com **a** | Aspira **ao** cargo. |\n| **obedecer / desobedecer** | — | com **a** | Obedeça **às** regras. |\n| **preferir** | — | uma coisa **a** outra | Prefiro chá **a** café. (e não “do que”) |\n| **ir, chegar** | movimento | com **a** | Fui **à** escola. Cheguei **ao** colégio. |\n| **gostar, precisar** | — | com **de** | Gosto **de** música. |\n| **namorar** | — | sem preposição | Ela namora **o** vizinho. |\n\n**Artigo ou preposição?** O “a” antes do complemento pode ser **artigo** (feminino) ou **preposição**. Para descobrir, troque o complemento por uma palavra masculina:\n\n- “Assistiu **a** paciente” → “Assistiu **o** paciente”: só artigo → sentido de ajudar.\n- “Assistiu **a** cena” → “Assistiu **ao** filme”: preposição + artigo → sentido de ver.\n\nAntes de palavras que não aceitam artigo feminino (*todos*, *uma*, verbos), o “a” só pode ser preposição: “assistiu **a todos** os jogos”.\n\n**Crase:** a preposição *a* + o artigo *a* viram **à**. Por isso a regência explica a crase: “Fui **à** escola” (ir **a** + **a** escola). Antes de palavra masculina, não há crase: “Fui **ao** clube”.",
+  "videos": [
+    {
+      "titulo": "Regência verbal – aula 02 - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=r4Pew3CliXI"
+    },
+    {
+      "titulo": "Regência verbal: mudança de sentido - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=9VtYU-dSOCM"
+    }
+  ]
+}

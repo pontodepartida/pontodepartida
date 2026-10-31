@@ -1,0 +1,17 @@
+{
+  "id": "quadrilateros",
+  "titulo": "Quadriláteros e polígonos",
+  "materia": "Matemática",
+  "grupo": "Quadriláteros e polígonos",
+  "texto": "**Quadriláteros notáveis:**\n\n| Quadrilátero | Definição | Diagonais |\n|---|---|---|\n| **Trapézio** | um par de lados paralelos (as bases) | — |\n| **Paralelogramo** | lados opostos paralelos (e iguais) | cortam-se no ponto médio |\n| **Retângulo** | paralelogramo com 4 ângulos retos | cortam-se no ponto médio e são **iguais** |\n| **Losango** | paralelogramo com 4 lados iguais | cortam-se no ponto médio e são **perpendiculares** |\n| **Quadrado** | retângulo e losango ao mesmo tempo | iguais e perpendiculares |\n\n**As propriedades também funcionam como critérios:**\n\n- se as diagonais se cortam no ponto médio → é paralelogramo;\n- se é paralelogramo e as diagonais são iguais → é retângulo;\n- se é paralelogramo e as diagonais são perpendiculares → é losango.\n\n**Trapézio isósceles:** os lados não paralelos são iguais. Traçando as alturas a partir das pontas da base menor, sobram dois triângulos retângulos iguais nas laterais; cada um tem base \\(\\frac{B - b}{2}\\).\n\n**Soma dos ângulos internos** de um polígono de \\(n\\) lados: \\((n - 2) \\cdot 180^\\circ\\). Quadrilátero: 360°; pentágono: 540°; hexágono: 720°; octógono: 1080°.\n\n**Polígono regular** tem todos os lados e todos os ângulos iguais. Cada ângulo interno mede \\(\\frac{(n - 2) \\cdot 180^\\circ}{n}\\): 90° no quadrado, 120° no hexágono, 135° no octógono.\n\n**Simetria:** num polígono regular, a distância do centro a um lado é a mesma para todos os lados. Isso ajuda a transportar medidas de um lado para o oposto.",
+  "videos": [
+    {
+      "titulo": "Polígonos (aula 10) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=SRa7sWNT_Yc"
+    },
+    {
+      "titulo": "Retângulo, losango e quadrado (aula 09) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=uNAxuFa0xsE"
+    }
+  ]
+}

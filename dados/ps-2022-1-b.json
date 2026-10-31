@@ -1,0 +1,969 @@
+{
+  "id": "ps-2022-1-b",
+  "nome": "PS 2022.1 – Prova B",
+  "edital": "Edital nº 400/2021 – Prova B (tarde)",
+  "fonteGabarito": "Gabarito final pós-recurso – Ensino Médio Integrado – Prova Tarde – Edital 400/2021 – PS 2022.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Ortografia e acentuação",
+      "enunciado": "A sequência de palavras abaixo segue determinadas regras do uso do hífen segundo o novo acordo ortográfico.\n\n| 1. Auto-organização | 3. Inter-racial |\n|---|---|\n| 2. Autoajuda | 4. Antirreligioso |\n\nAo saber quais são as regras adotadas no exemplo da tabela, pode-se afirmar que todas as alternativas adotam a mesma sequência de regras em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Anti-inflamatório, hiper-raquítico, ultraelevado, contrarregra.",
+        "B": "Micro-ondas, infraestrutura, super-revista, minissaia.",
+        "C": "Anti-ibérico, semiárido, autoajuda, biorritmo.",
+        "D": "Infra-axilar, intraocular, ciberespaço, ultrassom."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O 2º item da tabela junta vogais diferentes (*autoajuda*); aqui, o 2º é *hiper-raquítico*, com r + r e hífen.",
+        "C": "O 3º item deveria ter r + r com hífen, como *inter-racial*; aqui, é *autoajuda*, sem hífen.",
+        "D": "O 3º item deveria ter r + r com hífen; *ciberespaço* junta r + e, sem hífen."
+      },
+      "teoria": [
+        "hifen"
+      ],
+      "essencial": [
+        "Vogais iguais: hífen (*micro-ondas*). Vogais diferentes: junto (*infraestrutura*).",
+        "Prefixo terminado em *r* + palavra com *r*: hífen (*super-revista*, *inter-racial*).",
+        "Prefixo terminado em vogal + palavra com *r* ou *s*: junta e dobra (*minissaia*, *antirreligioso*)."
+      ],
+      "raciocinio": "1. Descubra a regra de cada palavra da tabela (veja: *Hífen*): *auto-organização*, vogais iguais → hífen; *autoajuda*, vogais diferentes → junto; *inter-racial*, r + r → hífen; *antirreligioso*, vogal + r → junta e dobra.\n2. Teste a mesma ordem em B: *micro-ondas* (o + o, hífen); *infraestrutura* (a + e, junto); *super-revista* (r + r, hífen); *minissaia* (vogal + s, dobra).\n3. As quatro regras aparecem na mesma sequência.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Observe o *cartoon* abaixo, adaptado da revista *The New Yorker* e escolha a alternativa correta.\n\n> ### Desculpas em 2021\n>\n> Professora: “Onde está sua lição de casa?”\n> Aluno: “A pandemia comeu.”\n\n![Cartum de uma sala de aula: a professora, de máscara, segura uns papéis e fala com um aluno sentado, também de máscara, entre outros alunos.](img/2022-1-b/q02.png)\n\n<cite>Disponível em https://www.newyorker.com/cartoons/daily-cartoon/thursday-september-9th-school-excuse. Acesso em: 02 out. 2021.</cite>\n\nAo analisar o diálogo entre professora e aluno, pode-se afirmar que o efeito de humor apresentado no texto:",
+      "imagens": [
+        "img/2022-1-b/q02.png"
+      ],
+      "alternativas": {
+        "A": "É uma atualização do enunciado “meu cachorro comeu minha lição”.",
+        "B": "Reside no uso de máscaras em sala de aula.",
+        "C": "Refere-se ao cachorro do aluno que se chama Pandemia.",
+        "D": "Só está completo com a imagem da professora e do aluno."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "As máscaras situam a cena na pandemia, mas o humor está na fala do aluno, que retoma a velha desculpa.",
+        "C": "Nada indica um cachorro chamado Pandemia: o cachorro da desculpa original foi trocado pela própria pandemia.",
+        "D": "A fala sozinha já é engraçada para quem conhece a desculpa do cachorro; a imagem só situa a cena."
+      },
+      "teoria": [
+        "intertextualidade",
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Intertextualidade: um texto retoma outro conhecido. Aqui, “meu cachorro comeu minha lição”.",
+        "O humor vem da atualização: em 2021, a desculpa troca o cachorro pela pandemia.",
+        "O título “Desculpas em 2021” ajuda a reconhecer a referência."
+      ],
+      "raciocinio": "1. Reconheça a frase de origem: “Meu cachorro comeu minha lição” é a desculpa clássica de quem não fez a tarefa (veja: *Intertextualidade*).\n2. O cartum troca o cachorro pela pandemia, a desculpa “da moda” em 2021, como avisa o título.\n3. O humor vem dessa atualização: a velha desculpa ganha um culpado novo (veja: *Ironia e humor*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "A rivalidade entre as redes de lanchonete *Mc Donald’s* e *Burger King* se faz presente em diversas peças publicitárias. Sabendo que o sanduíche mais famoso da rede *Mc Donald’s* chama-se *Big Mac* e que a palavra *big*, em inglês, significa grande, analise a imagem e o texto a seguir:\n\n![Peça publicitária: foto de um hambúrguer alto, com alface, tomate e carne, sobre fundo escuro, com o logotipo do Burger King desfocado ao fundo.](img/2022-1-b/q03.jpg \"Whopper: bem mais Big que o Big\")\n\n<cite>Disponível em: https://marcasmais.com.br/minforma/noticias/comunicacao. Acesso em: 26 out. 2021.</cite>\n\nSegundo a peça publicitária acima, é possível afirmar que:",
+      "imagens": [
+        "img/2022-1-b/q03.jpg"
+      ],
+      "alternativas": {
+        "A": "Trata-se de uma campanha da rede *Mc Donald’s*, uma vez que utiliza o adjetivo em inglês *big*.",
+        "B": "Trata-se de uma campanha da rede *Burger King*, uma vez que utiliza a imagem de um sanduíche.",
+        "C": "Trata-se de uma campanha da rede *Mc Donald’s*, uma vez que retrata a foto do sanduíche *Big Mac*.",
+        "D": "Trata-se de uma campanha da rede *Burger King*, uma vez que retrata o sanduíche *Whopper* como maior que o da concorrente."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É do Burger King: o produto é o *Whopper*, e o logotipo ao fundo é dessa rede. *Big* ali provoca o concorrente.",
+        "B": "É do Burger King, mas não por mostrar um sanduíche: o que caracteriza a peça é a comparação com o Big Mac.",
+        "C": "O sanduíche da foto é o *Whopper*, e a peça é do Burger King, e não do Mc Donald’s."
+      },
+      "teoria": [
+        "publicidade-e-propaganda",
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Publicidade comparativa: o anúncio coloca o produto acima do concorrente.",
+        "“Bem mais Big que o Big”: o primeiro *Big* é “grande”; o segundo lembra o *Big Mac*.",
+        "Imagem e slogan juntos dizem que o Whopper é maior que o sanduíche rival."
+      ],
+      "raciocinio": "1. Identifique o produto: *Whopper*, o sanduíche do Burger King, cujo logotipo aparece ao fundo (veja: *Publicidade e propaganda*).\n2. Leia o slogan: “bem mais Big que o Big”. O primeiro *Big* é o adjetivo “grande”; o segundo lembra o *Big Mac*, do concorrente.\n3. A peça compara: o Whopper seria maior que o Big Mac. Imagem e texto juntos sustentam a comparação (veja: *Linguagem verbal e não verbal*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia abaixo o poema “Versos Íntimos”, de Augusto dos Anjos.\n\n> ### Versos Íntimos\n>\n> Vês! Ninguém assistiu ao formidável\n> Enterro de tua última quimera.\n> Somente a Ingratidão – esta pantera –\n> Foi tua companheira inseparável!\n>\n> Acostuma-te à lama que te espera!\n> O homem, que, nesta terra miserável,\n> Mora, entre feras, sente inevitável\n> Necessidade de também ser fera.\n>\n> Toma um fósforo. Acende teu cigarro!\n> O beijo, amigo, é a véspera do escarro,\n> A mão que afaga é a mesma que apedreja.\n>\n> Se alguém causa inda pena a tua chaga,\n> Apedreja essa mão vil que te afaga,\n> Escarra nessa boca que te beija!\n>\n> <cite>ANJOS, A. “Versos Íntimos”. In: MARICONI, I. (Org.). *Os cem melhores poemas brasileiros do século*. Rio de Janeiro: Objetiva, 2001.</cite>\n\nA conjunção **se**, no primeiro verso da última estrofe, tem valor semântico de",
+      "imagens": [],
+      "alternativas": {
+        "A": "concessão.",
+        "B": "condição.",
+        "C": "conformidade.",
+        "D": "consequência."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Concessão seria “embora alguém cause pena”: um fato que não impede o outro. Aqui, o *se* levanta uma hipótese.",
+        "C": "Conformidade seria “conforme” ou “como”: acordo com algo. O *se* não tem esse sentido.",
+        "D": "Consequência seria “de modo que”. O *se* introduz a hipótese, e não o resultado."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Conjunção condicional apresenta uma hipótese: “**Se** alguém causa pena…, apedreja essa mão”.",
+        "Teste: troque por *caso*. “Caso alguém cause pena…” mantém o sentido.",
+        "Concessão = *embora*; conformidade = *conforme*; consequência = *de modo que*."
+      ],
+      "raciocinio": "1. Leia a estrofe: “**Se** alguém causa inda pena a tua chaga, / Apedreja essa mão vil que te afaga”.\n2. O *se* apresenta uma hipótese: caso alguém sinta pena de ti, então apedreja essa mão. A segunda parte só vale se a primeira acontecer (veja: *Conectivos e relações de sentido*).\n3. Teste a troca: “**Caso** alguém cause pena…”. O sentido se mantém: é condição.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia o texto da notícia a seguir e responda à questão:\n\n![Foto de um leito de hospital: um paciente deitado, com máscara de oxigênio, e um fisioterapeuta ao lado. No alto, a palavra “Teresina”; embaixo, a manchete e o logotipo do Portal AZ.](img/2022-1-b/q05.jpg \"Internado em UPA com covid-19, paciente assiste vitória do Flamengo na companhia de fisioterapeuta: ‘emocionante’\")\n\n<cite>SOUSA, Emilia Alves de. Paciente internado com Covid-19 assiste vitória do Flamengo na companhia de um Fisioterapeuta. 27 fev. 2021. *Rede Humaniza SUS*. Disponível em: https://redehumanizasus.net/paciente-internado-com-covid-19-assiste-vitoria-do-flamengo-na-companhia-de-um-fisioterapeuta. Acesso em: 05 out. 2021.</cite>\n\nQuanto à regência do verbo “assistir” e o sentido que produz, assinale a opção correta, de acordo com a norma culta:",
+      "imagens": [
+        "img/2022-1-b/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "O verbo “assistir”, no sentido de “ver”, “estar presente”, é transitivo indireto e, portanto, rege, pela norma-padrão, complemento precedido da preposição “a”, de modo que a notícia transgride a regra e quer manter o sentido do verbo.",
+        "B": "O verbo “assistir”, no sentido de “ver”, “estar presente”, é transitivo direto e, portanto, rege, pela norma-padrão, complemento sem preposição, de modo que a notícia segue a regra e mantém o sentido do verbo.",
+        "C": "O verbo “assistir”, no sentido de “ajudar”, é transitivo indireto e, portanto, rege, pela norma-padrão, complemento precedido da preposição “a”, de modo que a notícia transgride a regra e quer manter o sentido do verbo.",
+        "D": "O verbo “assistir”, no sentido de “ajudar”, é transitivo direto e, portanto, rege, pela norma-padrão, complemento sem preposição, de modo que a notícia segue a regra e mantém o sentido do verbo."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "No sentido de ver, *assistir* é transitivo indireto e pede *a*: “assiste à vitória”.",
+        "C": "O paciente viu o jogo; não ajudou ninguém. O sentido é ver, e não ajudar.",
+        "D": "O sentido é ver, e não ajudar. E, no sentido de ver, o verbo pede preposição."
+      },
+      "teoria": [
+        "regencia-verbal"
+      ],
+      "essencial": [
+        "*Assistir*, no sentido de ver, pede a preposição *a*: “assistir **à** vitória”.",
+        "No sentido de ajudar, não pede preposição: “o fisioterapeuta assiste **o** paciente”.",
+        "A manchete escreve “assiste vitória”, sem preposição: uso comum, mas fora da norma-padrão."
+      ],
+      "raciocinio": "1. Na manchete, o paciente **viu** a vitória do Flamengo: *assistir* tem sentido de ver, estar presente.\n2. Nesse sentido, a norma-padrão pede a preposição *a*: “assiste **à** vitória” (veja: *Regência verbal*).\n3. A manchete escreve “assiste vitória”, sem preposição: foge à regra, mas o sentido de ver continua claro. É o que diz a A.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Leia o texto:\n\n> ### Declarações de Macron reabrem antigas feridas entre Argélia e França\n>\n> [...] o que acabou com a paciência do governo argelino foram as palavras que o presidente francês, Emmanuel Macron, disse na quinta-feira passada durante um almoço no Palácio do Eliseu com um grupo de jovens de origem argelina.\n>\n> Ele declarou que o “sistema político-militar” que comanda a Argélia desde a independência “foi construído às custas dessa memória”, <u>**quer dizer**</u>, baseado nas queixas relacionadas à guerra e à colonização que servem para atiçar “o ódio à França”. Macron ainda questionou a base da identidade de muitos argelinos, não apenas do regime:\n>\n> — Por acaso havia uma nação argelina antes da colonização francesa? — perguntou.[...]\n>\n> <cite>PEREGIL, Francisco; BASSETS, Marc. Declarações de Macron reabrem antigas feridas entre Argélia e França. *O Globo Mundo*. Rio de janeiro, 06 out. 2021. Disponível em: https://oglobo.globo.com/mundo/declaracoes-de-macron-reabrem-antigas-feridas-entre-argelia-franca-25225728. Acesso em: 06 out. 2021. Fragmento.</cite>\n\nEm relação à expressão “quer dizer” em destaque, podemos afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Aponta o desejo do jornalista de “querer dizer algo” a respeito da afirmação de Emmanuel Macron, revelando ao leitor a sua avaliação positiva quanto ao posicionamento político do presidente da França.",
+        "B": "Ilustra o critério inadequado de escolha léxica de que se serviu o jornalista, pois, na forma em que se apresenta e no contexto em que está inserida, a sua funcionalidade tornou-se de difícil identificação.",
+        "C": "Introduz uma paráfrase, pois, dito sob forma estrutural diferente, o conteúdo é reapresentado com reformulação e desenvolvimento, a fim de aumentar as chances de êxito de compreensão da mensagem.",
+        "D": "Estabelece uma ideia de retificação em relação à afirmação que a antecede, já que, ao reapresentar o assunto na declaração que a sucede, ela torna completamente outra a direção do sentido."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Quer dizer” não expressa desejo do jornalista nem avaliação de Macron: equivale a “isto é”.",
+        "B": "A expressão é clara no contexto: liga a declaração à sua explicação, como “isto é”.",
+        "D": "Não há correção nem mudança de direção: a segunda parte explica a primeira, no mesmo sentido."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "“Quer dizer”, “isto é” e “ou seja” introduzem uma reformulação: a mesma ideia, com outras palavras.",
+        "Teste: troque por *isto é*. “…dessa memória, isto é, baseado nas queixas…” mantém o sentido.",
+        "Paráfrase explica e desenvolve; retificação corrigiria o que foi dito."
+      ],
+      "raciocinio": "1. Veja o que vem antes e depois de “quer dizer”: o sistema “foi construído às custas dessa memória”, **quer dizer**, “baseado nas queixas relacionadas à guerra e à colonização”.\n2. A segunda parte repete a ideia da primeira com outras palavras e a desenvolve: é uma reformulação, uma paráfrase (veja: *Conectivos e relações de sentido*).\n3. “Quer dizer” funciona como “isto é”: ajuda o leitor a entender a declaração.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia os trechos a seguir:\n\n#### Trecho 1\n\n> “Não sei por que, <u>**desde que**</u> o vi simpatizei com ele. Tinha eu ido passar uma tarde em casa de uma família de Catumbi, onde me falaram das singularidades do velho. Tive curiosidade de conhecê-lo”.\n>\n> <cite>ASSIS, Machado de. História de uma lágrima. *Jornal das Famílias*, 1867. Disponível em: https://www.literaturabrasileira.ufsc.br/_documents/0037-01433.html. Acesso em: 08 out. 2021. Fragmento.</cite>\n\n#### Trecho 2\n\n> Feliz aniversário, meu amor! Tenha um dia lindo e feliz, assim como são todos os momentos que compartilho com você. <u>**Desde que**</u> tenho ao meu lado a melhor namorada do mundo, minha vida se tornou perfeita.\n>\n> <cite>Disponível em: https://www.mundodasmensagens.com/mensagem/dia-lindo-para-namorada-perfeita.html. Acesso em: 08 out. 2021. Fragmento.</cite>\n\n#### Trecho 3\n\n> Entretanto existem algumas regras para ser um microempreendedor individual (...) Precisa estar enquadrada na lista de atividades permitidas para MEI. No entanto o MEI pode possuir mais de uma atividade econômica cadastrada, <u>**desde que**</u> faça parte da lista das atividades permitidas.\n>\n> <cite>Disponível em: https://www.casadocontabilistamarilia.com.br/capa.asp?infoid_noticia=5126. Acesso em: 08 out. 2021. Fragmento.</cite>\n\nHá exemplo(s) de oração subordinada condicional, introduzida por “desde que”, no(s) trecho(s)",
+      "imagens": [],
+      "alternativas": {
+        "A": "1.",
+        "B": "2 e 3.",
+        "C": "1 e 2.",
+        "D": "3."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "No trecho 1, “desde que o vi” marca tempo: a partir do momento em que o viu.",
+        "B": "No trecho 2, “desde que tenho” marca tempo; só o trecho 3 é condicional.",
+        "C": "Nos trechos 1 e 2, “desde que” indica tempo, e não condição."
+      },
+      "teoria": [
+        "conectivos",
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "“Desde que” pode indicar tempo (= a partir do momento em que) ou condição (= se, contanto que).",
+        "Com verbo no indicativo (*vi*, *tenho*), costuma indicar tempo; com subjuntivo (*faça*), condição.",
+        "Teste trocando por *se*: “se fizer parte da lista” mantém o sentido no trecho 3."
+      ],
+      "raciocinio": "1. Teste a troca de “desde que” por *se* (condição) ou por *a partir do momento em que* (tempo) (veja: *Conectivos e relações de sentido*).\n2. Trecho 1: “desde que o vi” = a partir do momento em que o vi. Tempo.\n3. Trecho 2: “desde que tenho ao meu lado” = a partir do momento em que tenho. Tempo.\n4. Trecho 3: “desde que faça parte da lista” = **se** fizer parte da lista. Condição; o subjuntivo *faça* reforça a hipótese (veja: *Orações subordinadas*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a tira a seguir e responda à questão:\n\n![Tira da Mafalda em quatro quadros. O pai sai para o trabalho e se despede de Mafalda, que cuida de um globo terrestre. Na rua, ele ri da filha; depois, cruza com um menino de rua, descalço e malvestido. No escritório, os colegas olham para ele.](img/2022-1-b/q08.png \"Quadro 1 – Pai: Até logo, Mafalda, melhoras para o mundo. Mafalda: Obrigada. | Quadro 2 – Pai: O mundo doente! Essa Mafalda tem cada ideia!... Ha-ha-ha. | Quadro 3 – O pai, diante do menino de rua: H... | Quadro 4 – No escritório. Pai: Como? Colega: O mundo está o quê?\")\n\n<cite>Mafalda e o Mundo Doente. QUINO. *10 anos com Mafalda*. Tradução de Monica Stahel. São Paulo: Editora Martins Fontes, 2010. p. 68.</cite>\n\nO pai de Mafalda reage com ironia ao “mundo doente” da filha. Entretanto, ocorre ruptura abrupta em sua opinião:",
+      "imagens": [
+        "img/2022-1-b/q08.png"
+      ],
+      "alternativas": {
+        "A": "No terceiro quadrinho, quando ele vê um menino de rua, descalço, vivendo em condições precárias.",
+        "B": "No primeiro quadrinho, quando Mafalda – ainda preocupada – agradece-lhe no momento em que ele sai para trabalhar.",
+        "C": "No segundo quadrinho, quando ele, não acreditando que o mundo esteja doente, ri da fala da Mafalda e ironiza a situação.",
+        "D": "No último quadrinho, quando os colegas de trabalho, ignorantes quanto aos eventos anteriores, reagem ao seu comentário implícito."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "No 1º quadro, o pai ainda brinca com a ideia: nada muda na opinião dele.",
+        "C": "No 2º quadro, ele ri e mantém a opinião: é a ironia, e não a ruptura.",
+        "D": "No último quadro, a mudança já aconteceu; os colegas só reagem à conclusão dele."
+      },
+      "teoria": [
+        "ironia-e-humor",
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Na tira, a mudança de opinião pode aparecer só na imagem: no 3º quadro, o pai vê um menino de rua.",
+        "O “H...” e o silêncio mostram o pai pensando: a ironia dos primeiros quadros acaba ali.",
+        "Ironia: o pai ri da ideia do “mundo doente”, que a realidade confirma logo depois."
+      ],
+      "raciocinio": "1. Quadros 1 e 2: o pai trata o “mundo doente” como bobagem de criança e ri (veja: *Ironia e humor*).\n2. Quadro 3: sem fala, ele vê um menino de rua, descalço, em condições precárias. O “H...” mostra que ele parou para pensar (veja: *Linguagem verbal e não verbal*).\n3. A mudança de opinião acontece aí: diante da cena, ele percebe que o mundo está mesmo doente.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia atentamente o texto a seguir:\n\n> ### Mulher divide opiniões ao descontar aluguel, luz e internet da mesada do filho\n>\n> Toda tarde, um menino estadunidense, 7 anos, está ocupado em casa cumprindo suas obrigações para receber 1 dólar (cerca de R$ 5,40) a cada tarefa que conclui. A lista consiste em arrumar a cama e o quarto, escovar os dentes, pôr as roupas sujas na área de serviço.\n>\n> A lição de finanças não termina aí, conforme a mãe explicou em vídeo que viralizou no TikTok. Se cumprir todas as atividades determinadas, o menino fatura até 31 dólares (R$ 168) por mês. Só que a mãe é exigente e desconta, mensalmente, 9 dólares da “conta” do menino: 5 dólares (R$ 27) para ajudar no aluguel da casa, 2 dólares (R$ 10,80) pela energia elétrica e outros 2 dólares como taxa de internet.\n>\n> “Ele então entende que ao longo do mês ele tem dois baldes - um para o dinheiro da diversão e outro para o dinheiro das contas”, explicou a americana.\n>\n> A mãe parece feliz em trabalhar o senso de responsabilidade da criança. O menino precisa organizar os gastos para chegar ao fim do mês com uma quantia que dê para honrar as suas “obrigações”. Muitos elogiaram a atitude da mãe, enquanto outros disseram que não se trata de uma responsabilidade adequada para a idade.\n>\n> <cite>Texto adaptado de: https://extra.globo.com/noticias/page-not-found/mulher-divide-opinioes-ao-descontar-aluguel-luz-internet-da-mesada-do-filho-25221321.html. Acesso em: 04 out. 2021.</cite>\n\nEscolha a alternativa que apresenta dois exemplos, retirados do texto, de orações com a estrutura **sujeito - verbo de ligação - predicativo**:",
+      "imagens": [],
+      "alternativas": {
+        "A": "A mãe parece feliz / A lição de finanças não termina aí.",
+        "B": "Só que a mãe é exigente / O menino precisa se organizar.",
+        "C": "Toda tarde, um menino estadunidense, 7 anos, está ocupado em casa / A mãe parece feliz.",
+        "D": "Toda tarde, um menino estadunidense, 7 anos, está ocupado em casa / Muitos elogiaram a atitude da mãe."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“A lição de finanças não termina aí”: *terminar* indica ação, e não liga o sujeito a uma característica.",
+        "B": "“O menino precisa se organizar”: *precisar* pede complemento; não é verbo de ligação.",
+        "D": "“Muitos elogiaram a atitude da mãe”: *elogiar* é verbo de ação, com objeto direto."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a um estado ou característica: *ser*, *estar*, *parecer*, *ficar*.",
+        "“A mãe **parece** feliz” e “o menino **está** ocupado”: *feliz* e *ocupado* são predicativos.",
+        "Verbos como *terminar*, *precisar* e *elogiar* indicam ação ou pedem complemento."
+      ],
+      "raciocinio": "1. Procure verbos que liguem o sujeito a um estado ou característica (veja: *Verbos de ligação e predicativo do sujeito*).\n2. “Um menino […] **está** ocupado em casa”: *ocupado* é um estado do menino. “A mãe **parece** feliz”: *feliz* é um estado da mãe. Os dois verbos são de ligação.\n3. Nas outras alternativas, uma das frases tem verbo de ação ou que pede complemento: *termina*, *precisa*, *elogiaram*.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Analise o gráfico a seguir e responda ao que se pede:\n\n![Gráfico de pizza “Fabricação de equipamentos de informática e produtos eletrônicos no Brasil”, com cinco fatias.](img/2022-1-b/q10.png \"São Paulo: 40,7% | Amazonas: 33,3% | Outros: 12,3% | Paraná: 7,85% | Minas Gerais: 5,8%\")\n\n<cite>Fonte: IBGE, 2011. *TECNOLOGIA da Informação e Comunicação*. INVESTE SP (Agência Paulista de Promoção de Investimentos e Competitividade). Disponível em: https://www.investe.sp.gov.br/setores-de-negocios/tecnologia-da-informacao-e-comunicacao/. Acesso em: 04 out. 2021.</cite>\n\nSegundo o gráfico sobre a fabricação de equipamentos de informática e produtos eletrônicos no Brasil, é possível afirmar que:",
+      "imagens": [
+        "img/2022-1-b/q10.png"
+      ],
+      "alternativas": {
+        "A": "São Paulo e Minas Gerais produzem, juntos, mais da metade dos equipamentos de informática e produtos eletrônicos do Brasil.",
+        "B": "O estado de Minas Gerais é o menor produtor de equipamentos de informática e produtos eletrônicos do Brasil.",
+        "C": "Amazonas e Paraná produzem, juntos, mais equipamentos de informática e produtos eletrônicos do que o estado de São Paulo.",
+        "D": "Amazonas e Minas Gerais produzem, juntos, mais equipamentos de informática e produtos eletrônicos do que o estado de São Paulo."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(40{,}7 + 5{,}8 = 46{,}5\\%\\): não chega à metade (50%).",
+        "B": "MG é o menor entre os estados do gráfico, mas “Outros” reúne estados que podem produzir ainda menos.",
+        "D": "\\(33{,}3 + 5{,}8 = 39{,}1\\%\\), menos que os 40,7% de São Paulo."
+      },
+      "teoria": [
+        "graficos",
+        "porcentagem"
+      ],
+      "essencial": [
+        "No gráfico de pizza, cada fatia é uma parte do total (100%).",
+        "Para comparar grupos, some as porcentagens: Amazonas + Paraná = 41,15%.",
+        "“Mais da metade” exige passar de 50%."
+      ],
+      "raciocinio": "1. Leia as fatias (veja: *Leitura de gráficos*): SP, 40,7%; AM, 33,3%; PR, 7,85%; MG, 5,8%; outros, 12,3%.\n2. Some o que cada alternativa compara (veja: *Porcentagem*): A, \\(40{,}7 + 5{,}8 = 46{,}5\\%\\); C, \\(33{,}3 + 7{,}85 = 41{,}15\\%\\); D, \\(33{,}3 + 5{,}8 = 39{,}1\\%\\).\n3. Amazonas e Paraná somam 41,15%, mais que os 40,7% de São Paulo.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia o texto I:\n\n> ### Pedro II reabre com sucesso de público\n>\n> [...] Para retomar as atividades com segurança, o Theatro Pedro II foi adaptado <u>**com**</u> medidas sanitárias de contenção ao novo coronavírus. O local, que tem capacidade para receber 1.588 pessoas, disponibilizou 500 lugares ao público. Aferição da temperatura e disponibilização de álcool em gel também foram adotados. [...]\n>\n> <cite>*Prefeitura da cidade de Ribeirão Preto*. 27 set. 2021. Disponível em: https://www.ribeiraopreto.sp.gov.br/portal/noticia/pedro-ii-reabre-com-sucesso-de-publico. Acesso em: 10 out. 2021. Fragmento.</cite>\n\nLeia o texto II:\n\n> ### Parceria entre a Prefeitura do Rio e Firjan Senai abre 400 vagas gratuitas para cursos profissionalizantes\n>\n> [...] – Essa é uma grande oportunidade para quem busca uma colocação e até mesmo uma recolocação no mercado de trabalho. É importante expandir o horizonte para estar preparado para os novos desafios e adaptado às demandas. A parceria da Firjan SENAI <u>**com**</u> a Prefeitura do Rio visa a contribuir para o aumento da produtividade do trabalho, do desempenho profissional e da empregabilidade – observa Edson Melo, gerente de Educação Profissional da Firjan Senai. [...]\n>\n> <cite>*Rio Prefeitura*. 01 out. 2021. Disponível em: https://prefeitura.rio/trabalho-e-renda/parceria-entre-a-prefeitura-do-rio-e-firjan-senai-abre-400-vagas-gratuitas-para-cursos-profissionalizantes/. Acesso em: 10 out. 2021. Fragmento adaptado.</cite>\n\nQuanto à regência nominal, observe as preposições em destaque e assinale a alternativa correspondente ao que se observa nos textos I e II:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Todas as ocorrências presentes nos textos I e II estão adequadas à norma-padrão.",
+        "B": "Todas as ocorrências presentes nos textos I e II seguem o uso coloquial da língua.",
+        "C": "Somente as ocorrências presentes no texto II estão adequadas à norma-padrão.",
+        "D": "Somente as ocorrências presentes no texto I estão adequadas à norma-padrão."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "No texto I, *adaptado* pede a preposição *a* (“adaptado às medidas”), e não *com*.",
+        "B": "No texto II, “parceria com” segue a norma-padrão: não é uso coloquial.",
+        "D": "É o contrário: o texto II está adequado (“parceria com”), e o texto I não (“adaptado com”)."
+      },
+      "teoria": [
+        "regencia-nominal"
+      ],
+      "essencial": [
+        "Regência nominal é a preposição que um nome pede: *parceria* **com**, *adaptado* **a**, *favorável* **a**.",
+        "“A parceria da Firjan **com** a Prefeitura”: regência adequada.",
+        "Adapta-se algo **a** uma situação: “adaptado **às** medidas sanitárias”. O próprio texto II usa “adaptado às demandas”."
+      ],
+      "raciocinio": "1. Regência nominal é a preposição que um nome (substantivo ou adjetivo) pede (veja: *Regência nominal*).\n2. Texto II: *parceria* pede **com**: “a parceria da Firjan SENAI **com** a Prefeitura”. Adequado.\n3. Texto I: *adaptado* pede **a**: adapta-se algo **a** uma situação, como no próprio texto II, “adaptado **às** demandas”. “Adaptado com” foge à norma-padrão.\n4. Só a ocorrência do texto II está adequada.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "As histórias em quadrinhos reproduzem, por escrito, a linguagem falada, utilizando algumas estratégias de equivalência para recriar efeitos da oralidade.\n\nLeia a seguinte tirinha e responda ao que se pede:\n\n![Tira da Mafalda em quatro quadros. Susanita, ao telefone, grita em letras enormes. Mafalda, ao telefone, conta a novidade, sorrindo. No último quadro, Susanita chora de raiva diante dos pais, à mesa.](img/2022-1-b/q12.png \"Quadro 1 – Susanita, ao telefone, em letras enormes: UM IRMÃOZINHO? | Quadro 2 – Voz de Susanita pelo telefone: Mas... é sério? Mafalda: Sério, Susanita!... Meus pais me disseram que daqui a uns meses vou ganhar um irmãozinho!! | Quadro 3 – Voz de Susanita pelo telefone: Bem... fico muito contente... de verdade!... Parabéns, Mafalda. Mafalda: Obrigada, Susanita, obrigada. | Quadro 4 – Susanita, chorando, aos pais: Nós nos deixamos derrotar, como uns estúpidos!!!\")\n\n<cite>QUINO. *Toda Mafalda*. São Paulo: Martins Fontes, 2010.</cite>\n\nAssinale a alternativa correta a respeito dos recursos empregados para levar ao leitor uma experiência de leitura próxima à da fala:",
+      "imagens": [
+        "img/2022-1-b/q12.png"
+      ],
+      "alternativas": {
+        "A": "O tamanho das letras está relacionado à importância de cada enunciado para a compreensão da tirinha.",
+        "B": "As letras maiúsculas e minúsculas se relacionam à presença ou ausência de ênfase.",
+        "C": "Os traços que constroem os balões têm relação com o volume de voz das personagens.",
+        "D": "Os gestos e as expressões faciais das personagens transmitem sua intenção de fala."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O tamanho das letras marca o volume da voz, o grito, e não a importância do que é dito.",
+        "B": "Todas as falas estão em maiúsculas: a tira não usa a diferença entre maiúsculas e minúsculas.",
+        "C": "O balão em zigue-zague marca a voz que sai do telefone, e não o volume."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Nos quadrinhos, a imagem completa a fala: rostos e gestos mostram a intenção de quem fala.",
+        "O “Parabéns” educado de Susanita contrasta com o choro de raiva do último quadro.",
+        "Recursos gráficos: letras grandes indicam grito; balão em zigue-zague, voz pelo telefone."
+      ],
+      "raciocinio": "1. Observe rostos e gestos (veja: *Linguagem verbal e não verbal*): no 1º quadro, Susanita grita ao telefone; nos quadros 2 e 3, Mafalda sorri satisfeita; no 4º, Susanita chora de raiva diante dos pais.\n2. Essas expressões mostram a intenção por trás das falas: o “Parabéns” de Susanita pelo telefone soa educado, mas o último quadro revela a inveja.\n3. É a D: gestos e expressões faciais transmitem a intenção de fala.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia o anúncio:\n\n> GABRIELA VIVIA SONHANDO\n> COM SEU PRÍNCIPE ENCANTADO.\n> MAS, DEPOIS QUE ELA PASSOU A USAR\n> O BOTICÁRIO, FORAM OS PRÍNCIPES\n> QUE PERDERAM O SONO.\n\n![Anúncio de O Boticário: uma mulher de cabelos longos, com uma coroa de flores, cercada de mãos que lhe oferecem sapatinhos de cristal.](img/2022-1-b/q13.jpg)\n\n<cite>O Boticário. *Campanha Contos de fadas*. Disponível em: https://creativitate2013.files.wordpress.com/2013/03/960x720_287.jpg. Acesso em: 02 out. 2021.</cite>\n\nConsiderando tanto os elementos verbais quanto os não-verbais, é possível verificar que, quanto ao efeito de sentido, o uso do pretérito imperfeito do indicativo no enunciado em destaque:",
+      "imagens": [
+        "img/2022-1-b/q13.jpg"
+      ],
+      "alternativas": {
+        "A": "Descreve ações momentâneas e temporalmente determinadas na vida dos príncipes antes mesmo de Gabriela ter se tornado usuária dos produtos d’O Boticário, provocando, assim, significativas mudanças nos rumos do enredo, o que gerou uma atmosfera propícia para o desenrolar do enredo.",
+        "B": "Remete a uma condição habitual, que perdurou por tempo indeterminado em passado impreciso na vida de Gabriela, antes de ela passar a usar os produtos d’O Boticário, o que situa a protagonista em enredo que remete a ambiente fantasioso, adequado ao objetivo pretendido pela propaganda.",
+        "C": "Refere-se a acontecimentos inusitados e imprecisos ocorridos na vida dos príncipes, que tiveram seus hábitos de sono drasticamente alterados após Gabriela passar a usar os produtos d’O Boticário, reforçando, assim, o ambiente fantasioso, adequado ao objetivo pretendido pela propaganda.",
+        "D": "Indica uma época passada indeterminada em que sucede um evento recorrente e durativo na vida de Gabriela, simultâneo a todos os outros relacionados às experiências dos príncipes, que passaram a ter insônia após a protagonista tornar-se uma nova usuária dos produtos d’O Boticário."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O imperfeito não indica ação momentânea e datada: *vivia sonhando* é um hábito que durou.",
+        "C": "*Vivia* fala de Gabriela, e não dos príncipes. A insônia deles vem depois, no pretérito perfeito (*perderam*).",
+        "D": "O sonho de Gabriela não é simultâneo à insônia dos príncipes: vem antes do perfume."
+      },
+      "teoria": [
+        "tempos-e-modos-verbais",
+        "publicidade-e-propaganda"
+      ],
+      "essencial": [
+        "Pretérito imperfeito indica hábito ou estado que durou no passado: “Gabriela **vivia** sonhando”.",
+        "Pretérito perfeito indica ação concluída: “**passou** a usar”, “**perderam** o sono”.",
+        "O imperfeito lembra os contos de fadas (“era uma vez”), como a coroa e os sapatinhos de cristal."
+      ],
+      "raciocinio": "1. Ache o verbo no pretérito imperfeito: “Gabriela **vivia** sonhando” (veja: *Tempos e modos verbais*).\n2. O imperfeito indica um hábito que durou no passado, sem data precisa: por muito tempo, Gabriela sonhava com o príncipe.\n3. É o tempo típico dos contos de fadas (“era uma vez”). A imagem confirma: coroa de flores e sapatinhos de cristal lembram a Cinderela (veja: *Publicidade e propaganda*).\n4. A virada vem no pretérito perfeito: “**passou** a usar”, “**perderam** o sono”.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o seguinte excerto de um texto de divulgação científica para responder à questão:\n\n> “A alimentação humana é importante para fornecer energia e garantir os nutrientes necessários para o organismo. Segundo a Agência Nacional de Vigilância Sanitária – ANVISA, ela envolve também valores culturais, afetivos, sociais, sensoriais e, muitas vezes, está relacionada com momentos de prazer e confraternização. Dessa forma, a alimentação envolve muito mais que a necessidade de nutrientes, tornando o consumo de alimentos um alvo ideal de manipulação dos meios de comunicação, como já citado por Miotto no seu artigo “A influência da mídia nos hábitos alimentares de crianças de baixa renda do projeto Nutrir”. Com a evolução da sociedade, diferentes alimentos foram criados e industrializados, introduzindo novos ingredientes nos produtos com o objetivo de ganhar maior aceitação da população. Dentre esses novos componentes, destacam-se o açúcar, as gorduras saturadas e trans para garantir maior maciez, leveza e cremosidade ao alimento, sódio para acentuar o sabor da comida, corantes e aromatizantes. O açúcar fornece energia ao organismo; no entanto, segundo a Pesquisa de Orçamentos Familiares (POF 2008/2009), 61% da população brasileira ingere açúcares em excesso devido ao consumo de sucos, refrigerantes e refrescos, adicionados de açúcares, aliado ao baixo consumo de frutas e verduras. Por outro lado, o consumo de frutas e de outros vegetais ainda não atingiu a quantidade mínima de 400g por dia, considerada adequada pela Organização Mundial da Saúde.”\n>\n> <cite>GODOI, Sabrina et al. Rótulos e embalagens, o que você anda comendo. *In*: Jornal Biosferas. Disponível em: http://www.rc.unesp.br/biosferas/Art0072.html. Acesso em: 25 out. 2021.</cite>\n\nPode-se afirmar que a única alternativa que apresenta características diferentes de um texto de divulgação científica é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Citação para fundamentar uma afirmação.",
+        "B": "Análise de material ou documento.",
+        "C": "Vocabulário técnico e especializado.",
+        "D": "Linguagem parcial, complexa e subjetiva."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O texto cita a ANVISA, Miotto e a OMS para apoiar o que diz: citação é típica do gênero.",
+        "B": "O texto analisa dados de uma pesquisa (61% ingerem açúcar em excesso): é característica do gênero.",
+        "C": "Termos como *nutrientes*, *gorduras trans* e *sódio* são vocabulário técnico, comum na divulgação científica."
+      },
+      "teoria": [
+        "divulgacao-cientifica"
+      ],
+      "essencial": [
+        "Divulgação científica explica ciência para o público geral, com linguagem clara e objetiva.",
+        "Marcas do gênero: citação de fontes (ANVISA, OMS), análise de dados e termos técnicos.",
+        "Linguagem parcial e subjetiva é o oposto: o gênero se apoia em dados, e não em opinião."
+      ],
+      "raciocinio": "1. Liste as marcas do texto (veja: *Divulgação científica*): cita a ANVISA, a Pesquisa de Orçamentos Familiares e a OMS; analisa dados (61% da população); usa termos técnicos (*nutrientes*, *gorduras saturadas e trans*, *sódio*).\n2. A, B e C aparecem no texto: são características do gênero.\n3. A divulgação científica busca linguagem clara, objetiva e impessoal. “Parcial, complexa e subjetiva” é o oposto disso.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o seguinte quadrinho da Dona Anésia:\n\n![Quadrinho em quatro quadros, em tons de rosa. A neta reclama do latido do cachorro da vizinha; Dona Anésia, sentada, responde; a neta se irrita; Dona Anésia dá um conselho.](img/2022-1-b/q15.png \"Quadro 1 – Neta: O cachorro da vizinha tá latindo o dia todo. (Ao fundo: Au au au.) | Quadro 2 – Dona Anésia: Cachorros latem! Ele deve estar irritado com algo. | Quadro 3 – Neta: Irritada estou eu, com esse latido infernal. | Quadro 4 – Dona Anésia: Você tem muito o que aprender com esse cachorro. Por que não vai latir lá fora?\")\n\n<cite>WILLTIRANDO. *Dona Anésia*. Disponível em: https://www.instagram.com/dona.anesia/. Acesso em: 06 out. 2021.</cite>\n\nEscolha a alternativa que completa corretamente o espaço na seguinte afirmação:\nNa oração “Irritada estou eu, com esse latido infernal”, o termo **irritada estou eu** desempenha a função de \\_\\_\\_\\_\\_\\_\\_\\_, uma vez que está modificando um substantivo com função de sujeito.",
+      "imagens": [
+        "img/2022-1-b/q15.png"
+      ],
+      "alternativas": {
+        "A": "Complemento nominal.",
+        "B": "Adjunto adnominal.",
+        "C": "Predicativo do sujeito.",
+        "D": "Predicado."
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "Complemento nominal completa o sentido de um nome, com preposição (“medo **de**…”). *Irritada* não completa nenhum nome.",
+        "B": "Adjunto adnominal acompanha o substantivo no mesmo termo. *Irritada* se liga a *eu* pelo verbo *estar*.",
+        "C": "Na ordem direta, “eu estou irritada”: *irritada* é o estado do sujeito, ligado por *estar*. É a função de predicativo do sujeito.",
+        "D": "Predicado é a parte da oração que diz algo sobre o sujeito (“estou irritada”), e não a função de um termo."
+      },
+      "teoria": [
+        "verbos-de-ligacao",
+        "adjunto-adnominal"
+      ],
+      "essencial": [
+        "Na ordem direta, “Irritada estou eu” vira “Eu estou irritada”.",
+        "*Estar* é verbo de ligação; o estado que ele atribui ao sujeito é o predicativo do sujeito.",
+        "Adjunto adnominal acompanha o substantivo dentro do mesmo termo: “o cachorro **da vizinha**”."
+      ],
+      "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Mesmo assim, dá para analisar a frase (veja: *Verbos de ligação e predicativo do sujeito*):\n\n1. Na ordem direta: “Eu **estou** irritada”. *Estar* é verbo de ligação, e *irritada* é um estado atribuído ao sujeito *eu*.\n2. O termo que atribui um estado ao sujeito por meio de verbo de ligação é o predicativo do sujeito.\n3. Adjunto adnominal é outra função: acompanha um substantivo dentro do mesmo termo, como “o cachorro **da vizinha**” (veja: *Adjunto adnominal e locução adjetiva*).",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "O Pensador Profundo é o supercomputador do livro “O guia do Mochileiro das Galáxias”, de Douglas Adams (Editora Arqueiro, 2011). Ele foi criado por seres hiperinteligentes para tentar encontrar a resposta para a vida, o universo e tudo mais. Ao ser questionado pela primeira vez, o Pensador Profundo respondeu que precisaria refletir e disse que teria uma resposta em 7,5 milhões de anos. Após esse tempo, o supercomputador chegou à conclusão de que a resposta para a vida, o universo e tudo mais é 42.\n\nOs seres hiperinteligentes não ficaram contentes com a resposta. Não fazia sentido para eles. Suponha que tais seres decidiram fazer um teste com o Pensador Profundo para saber se ele ainda estava funcionando perfeitamente. Então os seres fizeram a seguinte pergunta ao computador: 0,999... é igual a 1?\n\nComo o Pensador Profundo estava funcionando corretamente, uma possível justificativa para a pergunta poderia ser expressa como:",
+      "imagens": [],
+      "alternativas": {
+        "A": "— Oh, seres hiperinteligentes, a resposta é definitivamente sim. Ao encontrar uma fração geratriz da dízima periódica 0,999... constatei que tal fração é igual a 1.",
+        "B": "— Oh, seres hiperinteligentes, a resposta é definitivamente sim. Ao comparar os dois numerais cheguei à conclusão de que os algarismos são iguais entre si e por isso a igualdade é satisfeita.",
+        "C": "— Oh, seres hiperinteligentes, a resposta é definitivamente não. Ao comparar os dois numerais cheguei à conclusão de que os algarismos são diferentes entre si e por isso a igualdade não é satisfeita.",
+        "D": "— Oh, seres hiperinteligentes, a resposta é definitivamente não. Ao encontrar uma fração geratriz da dízima periódica 0,999... constatei que tal fração é menor do que 1."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Os algarismos de 0,999… e 1 são diferentes, mas os números são iguais. A justificativa não vale.",
+        "C": "A resposta “não” está errada: a fração geratriz de 0,999… é \\(\\frac{9}{9} = 1\\).",
+        "D": "A geratriz de 0,999… é \\(\\frac{9}{9}\\), que é igual a 1, e não menor."
+      },
+      "teoria": [
+        "dizimas-periodicas"
+      ],
+      "essencial": [
+        "Fração geratriz de dízima com período de um algarismo: o período sobre 9. \\(0{,}999\\ldots = \\frac{9}{9}\\).",
+        "\\(\\frac{9}{9} = 1\\): então \\(0{,}999\\ldots = 1\\).",
+        "Confirmação: \\(3 \\cdot 0{,}333\\ldots = 0{,}999\\ldots\\) e \\(3 \\cdot \\frac{1}{3} = 1\\)."
+      ],
+      "raciocinio": "1. Ache a fração geratriz (veja: *Dízimas periódicas*): período de um algarismo, 9, sobre 9: \\(0{,}999\\ldots = \\frac{9}{9} = 1\\).\n2. Outro caminho: \\(\\frac{1}{3} = 0{,}333\\ldots\\). Multiplicando por 3: \\(3 \\cdot \\frac{1}{3} = 1\\) e \\(3 \\cdot 0{,}333\\ldots = 0{,}999\\ldots\\).\n3. Então 0,999… e 1 são o mesmo número, escrito de dois jeitos.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Nas Paralimpíadas de Tóquio de 2021, o Brasil terminou na sétima colocação do quadro geral de medalhas. Com essa conquista, a delegação brasileira conseguiu igualar a melhor colocação de todos os tempos, alcançada em 2012 em Londres.\n\nEm Tóquio, considerando apenas ouros e pratas, o total de medalhas foi de 42. Se, hipoteticamente, a quantidade de ouros fosse o dobro do que a delegação conquistou e a quantidade de medalhas de prata permanecesse a mesma, o Brasil conseguiria a segunda colocação no quadro de medalhas com um total de 64, entre ouros e pratas, e ficaria apenas atrás da China.\n\nCaso essa hipótese se concretizasse, quantas medalhas de ouro seriam necessárias para o Brasil conquistar o segundo lugar no quadro de medalhas?",
+      "imagens": [],
+      "alternativas": {
+        "A": "22",
+        "B": "32",
+        "C": "44",
+        "D": "64"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "22 é o número real de ouros em Tóquio. Na hipótese, seria o dobro: 44.",
+        "B": "32 não sai do sistema: os ouros reais são 22, e o dobro, 44.",
+        "D": "64 é o total de ouros e pratas na hipótese, e não só os ouros."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Duas situações, duas equações: \\(o + p = 42\\) e \\(2o + p = 64\\).",
+        "Subtraindo uma da outra, a prata some: \\(o = 22\\).",
+        "Leia o que a pergunta pede: os ouros da hipótese, \\(2 \\cdot 22 = 44\\)."
+      ],
+      "raciocinio": "1. Chame de \\(o\\) os ouros e de \\(p\\) as pratas (veja: *Sistemas de equações do 1º grau*): \\(o + p = 42\\).\n2. Com o dobro de ouros: \\(2o + p = 64\\).\n3. Subtraia a primeira da segunda: \\(o = 22\\). Então \\(p = 20\\).\n4. Na hipótese, o Brasil teria o dobro dos ouros: \\(2 \\cdot 22 = 44\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "A professora de uma sala de ensino fundamental resolveu na lousa uma equação de segundo grau e, como resultado, encontrou as raízes 5 e 8. Um aluno que chegou depois encontrou a lousa parcialmente apagada, faltando os coeficientes **b** e **c**, como ilustrado a seguir:\n\n![Trecho da lousa com a equação x² … x … = 0: os coeficientes b e c estão apagados.](img/2022-1-b/q18.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nQual a soma **b** + **c**?",
+      "imagens": [
+        "img/2022-1-b/q18.png"
+      ],
+      "alternativas": {
+        "A": "13",
+        "B": "27",
+        "C": "40",
+        "D": "53"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "13 é a soma das raízes. O coeficiente é \\(b = -13\\), e falta somar \\(c = 40\\).",
+        "C": "40 é só o \\(c\\), o produto das raízes. Falta somar \\(b = -13\\).",
+        "D": "53 soma 13 e 40, esquecendo o sinal: \\(b = -13\\)."
+      },
+      "teoria": [
+        "equacoes-do-2o-grau"
+      ],
+      "essencial": [
+        "Raízes \\(r_1\\) e \\(r_2\\) dão a equação \\((x - r_1)(x - r_2) = 0\\).",
+        "Em \\(x^2 + bx + c = 0\\): \\(b = -(r_1 + r_2)\\) e \\(c = r_1 \\cdot r_2\\).",
+        "Raízes 5 e 8: \\(b = -13\\) e \\(c = 40\\)."
+      ],
+      "raciocinio": "1. Se as raízes são 5 e 8, a equação é \\((x - 5)(x - 8) = 0\\) (veja: *Equações do 2º grau*).\n2. Distributiva: \\(x^2 - 8x - 5x + 40 = x^2 - 13x + 40\\). Então \\(b = -13\\) e \\(c = 40\\).\n3. Pela soma e produto, dá o mesmo: \\(b = -(5 + 8) = -13\\) e \\(c = 5 \\cdot 8 = 40\\).\n4. \\(b + c = -13 + 40 = 27\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "O *origami*, ou arte da dobradura de papel, foi criado no Japão entre os séculos V e VI e parece ter surgido de modo espontâneo após a invenção do papel.\n\n<cite>ESCOLA, Equipe Brasil. “Origami”; *Brasil Escola*. Disponível em: https://brasilescola.uol.com.br/artes/origami.htm. Acesso em: 04 out. 2021.</cite>\n\nAlguns movimentos de dobradura de papel são considerados comuns, como o de dobrar um quadrado ao longo de suas diagonais. A figura a seguir indica estes movimentos:\n\n![À esquerda, o quadrado ABCD apoiado num vértice, com A no alto, D embaixo, B à esquerda e C à direita; as diagonais AD e BC, tracejadas, se cruzam em O. À direita, o mesmo quadrado com o triângulo AOC em cinza claro e o triângulo BDC em cinza escuro.](img/2022-1-b/q19.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nDobrando-se um quadrado de papel ABCD, ao longo de suas diagonais AD e BC, é possível construir os triângulos AOC e BDC, cujos lados podem ser observados como vincos da dobra, quando o quadrado de papel é desdobrado.\n\nOs triângulos AOC e BDC são triângulos semelhantes porque:",
+      "imagens": [
+        "img/2022-1-b/q19.png"
+      ],
+      "alternativas": {
+        "A": "AOC e BDC são triângulos retângulos.",
+        "B": "a área de ABC é o dobro da área de AOC.",
+        "C": "o lado AC de AOC tem a mesma medida que o lado BD de BDC.",
+        "D": "os ângulos dos vértices A e C de AOC são congruentes aos ângulos dos vértices B e C de BDC, respectivamente."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Ser retângulo garante só um ângulo igual (90°). Para a semelhança, falta pelo menos mais um.",
+        "B": "Relação entre áreas não prova semelhança: triângulos de formas diferentes podem ter áreas em qualquer razão.",
+        "C": "AC e BD são lados do quadrado e têm a mesma medida, mas um lado igual não prova semelhança."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Critério AA: dois ângulos iguais bastam para a semelhança, porque o terceiro também fica igual.",
+        "A diagonal do quadrado divide o ângulo reto em dois ângulos de 45°.",
+        "AOC e BDC têm ângulos de 45°, 45° e 90°: são semelhantes."
+      ],
+      "raciocinio": "1. Critério AA: dois triângulos são semelhantes se dois ângulos de um são iguais a dois ângulos do outro (veja: *Semelhança de triângulos*).\n2. As diagonais do quadrado dividem os ângulos de 90° ao meio. Em AOC, os ângulos em A e em C medem 45°; em BDC, os ângulos em B e em C também medem 45°.\n3. Ângulos correspondentes iguais (A com B, C com C): é exatamente o que diz a D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Em um determinado supermercado, quanto mais itens são comprados, mais desconto no valor de cada item é obtido. A relação do preço pago pela quantia de itens comprados, no caso de pacotes de biscoitos, pode ser observada no gráfico linear a seguir:\n\n![Gráfico de Preço em R$ por Número de pacotes de biscoitos: uma reta crescente que corta o eixo vertical em 1 e passa pelos pontos (2, 2) e (6, 4).](img/2022-1-b/q20.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nAnalisando o gráfico, qual das afirmativas a seguir é correta?",
+      "imagens": [
+        "img/2022-1-b/q20.png"
+      ],
+      "alternativas": {
+        "A": "Comprando 2 pacotes, cada um destes custará R$ 2,00.",
+        "B": "Comprando 4 pacotes, o preço total será R$ 3,00.",
+        "C": "Comprando 6 pacotes, cada um destes custará R$ 1,50.",
+        "D": "Comprando 7 pacotes, o preço total será R$ 5,00."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com 2 pacotes, o total é R$ 2,00, e cada um sai por R$ 1,00.",
+        "C": "Com 6 pacotes, o total é R$ 4,00: cada um sai por cerca de R$ 0,67.",
+        "D": "Com 7 pacotes: \\(0{,}5 \\cdot 7 + 1 = 4{,}50\\) reais, e não 5,00."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Taxa de variação pelos dois pontos: \\(a = \\frac{4 - 2}{6 - 2} = 0{,}5\\).",
+        "Valor inicial: onde a reta corta o eixo vertical, \\(b = 1\\). Preço total \\(= 0{,}5n + 1\\).",
+        "Preço de cada item = preço total ÷ número de pacotes."
+      ],
+      "raciocinio": "1. Ache a reta pelos pontos (2, 2) e (6, 4) (veja: *Funções afins e retas*): \\(a = \\frac{4 - 2}{6 - 2} = 0{,}5\\) e \\(b = 2 - 0{,}5 \\cdot 2 = 1\\). Preço total \\(= 0{,}5n + 1\\).\n2. O gráfico dá o preço total pago pelos \\(n\\) pacotes.\n3. Com 4 pacotes: \\(0{,}5 \\cdot 4 + 1 = 3\\) reais. É a B.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "A pandemia do novo coronavírus afetou várias empresas do setor alimentício devido às restrições impostas por decretos estaduais e municipais. Com a impossibilidade do funcionamento presencial, uma determinada lanchonete iniciou o uso de dois aplicativos de *delivery* para manter suas vendas. A tabela a seguir representa a venda nos primeiros quatro meses, usando os dois aplicativos.\n\n| Meses | Nº de vendas – Aplicativo 01 | Nº de vendas – Aplicativo 02 |\n|---|---|---|\n| Maio | 22 | 35 |\n| Junho | 51 | 48 |\n| Julho | 110 | 120 |\n| Agosto | 80 | 70 |\n\nA seguir são apresentados quatro gráficos de colunas. Qual deles apresenta corretamente todos os dados fornecidos pela tabela?",
+      "imagens": [
+        "img/2022-1-b/q21-a.png",
+        "img/2022-1-b/q21-b.png",
+        "img/2022-1-b/q21-c.png",
+        "img/2022-1-b/q21-d.png"
+      ],
+      "alternativas": {
+        "A": "![Gráfico de colunas com uma coluna por mês: maio 22, junho 51, julho 110, agosto 80.](img/2022-1-b/q21-a.png)",
+        "B": "![Gráfico de colunas com uma coluna por mês: maio 35, junho 48, julho 120, agosto 70.](img/2022-1-b/q21-b.png)",
+        "C": "![Gráfico de colunas com duas colunas por mês, uma clara e uma escura: maio 22 e 35, junho 48 e 51, julho 110 e 120, agosto 70 e 80.](img/2022-1-b/q21-c.png)",
+        "D": "![Gráfico de colunas com duas colunas por mês, uma clara e uma escura: maio 22 e 35, junho 51 e 48, julho 110 e 120, agosto 80 e 70.](img/2022-1-b/q21-d.png)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Mostra só o Aplicativo 01 (22, 51, 110, 80). Faltam as vendas do Aplicativo 02.",
+        "B": "Mostra só o Aplicativo 02 (35, 48, 120, 70). Faltam as vendas do Aplicativo 01.",
+        "C": "Troca os aplicativos em junho e agosto: o 01 vendeu 51 e 80, mais que o 02."
+      },
+      "teoria": [
+        "graficos",
+        "tabelas"
+      ],
+      "essencial": [
+        "Para mostrar duas séries de dados, o gráfico precisa de duas colunas por mês.",
+        "Confira mês a mês: em junho (51 × 48) e em agosto (80 × 70), o Aplicativo 01 vendeu mais.",
+        "Uma alternativa errada pode ter as colunas certas na ordem trocada."
+      ],
+      "raciocinio": "1. Um gráfico com todos os dados precisa de duas colunas por mês, uma para cada aplicativo (veja: *Leitura de gráficos*). A e B mostram só um aplicativo.\n2. Compare C e D com a tabela, mês a mês (veja: *Leitura de tabelas*). Em junho, o Aplicativo 01 vendeu mais (51 × 48); em agosto, também (80 × 70).\n3. Em C, essas colunas estão trocadas; em D, batem com a tabela.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "A placa de veículos no padrão Mercosul começou a ser implementada no Brasil em 2018. A nova placa é composta de uma sequência de 4 letras e 3 números. A figura a seguir ilustra o novo modelo de placa onde, na posição do símbolo L, encontra-se uma letra, e, na posição do símbolo N, encontra-se um algarismo numérico.\n\n![Placa de carro no padrão Mercosul com a inscrição LLLNLNN.](img/2022-1-b/q22.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nQuantas placas poderão ser formadas apenas com vogais distintas e números primos também distintos?",
+      "imagens": [
+        "img/2022-1-b/q22.png"
+      ],
+      "alternativas": {
+        "A": "14400",
+        "B": "7200",
+        "C": "2880",
+        "D": "1440"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "14400 é \\(120 \\cdot 120\\): usa para os números as mesmas 120 opções das letras.",
+        "B": "7200 é \\(120 \\cdot 60\\): considera 5 primos. Os algarismos primos são só 2, 3, 5 e 7.",
+        "D": "1440 é \\(120 \\cdot 12\\): considera só duas posições de número. A placa tem três."
+      },
+      "teoria": [
+        "principio-multiplicativo",
+        "divisibilidade-e-fatoracao"
+      ],
+      "essencial": [
+        "Princípio multiplicativo: multiplique as opções de cada posição.",
+        "Vogais distintas em 4 posições: \\(5 \\cdot 4 \\cdot 3 \\cdot 2 = 120\\).",
+        "Algarismos primos: 2, 3, 5 e 7. Três distintos: \\(4 \\cdot 3 \\cdot 2 = 24\\)."
+      ],
+      "raciocinio": "1. Letras: só vogais, sem repetir, em 4 posições: \\(5 \\cdot 4 \\cdot 3 \\cdot 2 = 120\\) (veja: *Princípio multiplicativo*).\n2. Algarismos primos: 2, 3, 5 e 7 (veja: *Divisibilidade e fatoração em primos*). Três posições, sem repetir: \\(4 \\cdot 3 \\cdot 2 = 24\\).\n3. Total: \\(120 \\cdot 24 = 2880\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "O Brasil está dividido em 26 estados e 1 Distrito Federal. Esses entes federativos estão, também, agrupados em regiões.\n\nA tabela a seguir mostra os estados que compõem a região sudeste do Brasil, assim como a área territorial aproximada de cada estado.\n\n| Estado | Área Aprox. (em 1000 km²) |\n|---|---|\n| Minas Gerais (MG) | 587,5 |\n| São Paulo (SP) | 248,2 |\n| Espírito Santo (ES) | 46,0 |\n| Rio de Janeiro (RJ) | 43,6 |\n\n<cite>https://www.geografiaopinativa.com.br/2013/09/lista-de-estados-brasileiros-por.html. Acesso em: 01 out. 2021.</cite>\n\nCom base nos dados da tabela, podemos dizer que o estado de São Paulo (onde estão localizados os campi do IFSP) ocupa uma parcela da área total da região sudeste que corresponde a, aproximadamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "24,82%",
+        "B": "26,82%",
+        "C": "29,70%",
+        "D": "36,66%"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "24,82% do total daria cerca de 229,7 mil km², e SP tem 248,2 mil km².",
+        "C": "29,70% do total daria cerca de 274,8 mil km², mais que os 248,2 mil km² de SP.",
+        "D": "36,66% é \\(248{,}2 \\div 677{,}1\\): divide pela área dos outros três estados, e não pelo total da região."
+      },
+      "teoria": [
+        "porcentagem"
+      ],
+      "essencial": [
+        "Parcela em porcentagem = parte ÷ total × 100.",
+        "O total é a soma das áreas dos quatro estados: 925,3 mil km².",
+        "\\(248{,}2 \\div 925{,}3 \\approx 0{,}2682 = 26{,}82\\%\\)."
+      ],
+      "raciocinio": "1. Área total do Sudeste: \\(587{,}5 + 248{,}2 + 46{,}0 + 43{,}6 = 925{,}3\\) mil km².\n2. Parcela de São Paulo (veja: *Porcentagem*): \\(\\frac{248{,}2}{925{,}3} \\approx 0{,}2682 = 26{,}82\\%\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Dados cúbicos têm suas faces numeradas de 1 a 6 e obedecem à regra: “faces opostas têm números cuja soma é igual a 7”.\n\nTrês dados foram lançados sobre a superfície de uma mesa e os respectivos resultados estão mostrados na figura a seguir:\n\n![Três dados sobre uma mesa. Da esquerda para a direita, as faces de cima mostram 6, 2 e 3. As faces laterais visíveis mostram 4 e 2 no primeiro dado, 4 e 1 no segundo e 6 e 2 no terceiro.](img/2022-1-b/q24.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nConsidere como “A”, “B” e “C”, respectivamente e da esquerda para a direita, os números das faces que estão em contato com a mesa (voltadas para baixo), a partir da figura mostrada.\n\nDessa maneira, calculando o valor da expressão numérica \\(A + B \\times C\\) sob as regras das operações matemáticas, obteremos:",
+      "imagens": [
+        "img/2022-1-b/q24.png"
+      ],
+      "alternativas": {
+        "A": "13",
+        "B": "16",
+        "C": "21",
+        "D": "24"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "13 não sai das faces de baixo: com A = 1, B = 5 e C = 4, a expressão vale 21.",
+        "B": "16 não sai das faces de baixo; com A = 1, B = 5 e C = 4, a expressão vale \\(1 + 20 = 21\\).",
+        "D": "24 é \\((1 + 5) \\times 4\\): fez a soma antes. A multiplicação vem primeiro."
+      },
+      "teoria": [
+        "problemas-de-logica",
+        "expressoes-numericas"
+      ],
+      "essencial": [
+        "Num dado, faces opostas somam 7: a de baixo é 7 menos a de cima.",
+        "Faces de cima 6, 2 e 3 dão, embaixo, A = 1, B = 5 e C = 4.",
+        "Ordem das operações: multiplicação antes da soma. \\(1 + 5 \\times 4 = 21\\)."
+      ],
+      "raciocinio": "1. As faces de cima são 6, 2 e 3. A face de baixo é a oposta, e as duas somam 7 (veja: *Problemas de lógica*).\n2. A = 7 − 6 = 1; B = 7 − 2 = 5; C = 7 − 3 = 4.\n3. Multiplicação antes da soma (veja: *Expressões numéricas e ordem das operações*): \\(1 + 5 \\times 4 = 1 + 20 = 21\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Três amigos criaram um jogo chamado “Colmeia de Açúcar”. Para jogar, os amigos fizeram vários biscoitos redondos de açúcar e desenharam nos biscoitos bonecos, guarda-chuvas e triângulos (Figura 1a). O objetivo do jogo é remover a parte do biscoito que contém o desenho sem quebrá-lo ou trincá-lo (Figura 1b).\n\n![Figura 1a: três biscoitos redondos, com o desenho de um boneco, de um guarda-chuva e de um triângulo. Figura 1b: os três desenhos já separados dos biscoitos.](img/2022-1-b/q25-figuras.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nApós um sorteio, cada amigo ficou com os biscoitos de um tipo de desenho: boneco, guarda-chuva ou triângulo. O jogo é constituído por etapas e, para cada uma delas, o jogador possui um tempo maior para a remoção da figura do restante do biscoito. A tabela a seguir apresenta o desempenho de cada um dos amigos nas três primeiras etapas do jogo:\n\n![Tabela com o número de figuras removidas por etapa: o Amigo A remove bonecos, o Amigo B guarda-chuvas e o Amigo C triângulos.](img/2022-1-b/q25-tabela.png \"Etapa 1 – Amigo A: 1 boneco; Amigo B: 2 guarda-chuvas; Amigo C: 3 triângulos | Etapa 2 – Amigo A: 1 boneco; Amigo B: 4 guarda-chuvas; Amigo C: 9 triângulos | Etapa 3 – Amigo A: 1 boneco; Amigo B: 8 guarda-chuvas; Amigo C: 27 triângulos\")\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nCaso essa regularidade permaneça nas próximas etapas do jogo, qual será o total de figuras removidas pelos três amigos na quinta etapa (E₅)?",
+      "imagens": [
+        "img/2022-1-b/q25-figuras.png",
+        "img/2022-1-b/q25-tabela.png"
+      ],
+      "alternativas": {
+        "A": "276",
+        "B": "275",
+        "C": "244",
+        "D": "243"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "275 esquece o boneco do amigo A, que aparece em todas as etapas: \\(1 + 32 + 243 = 276\\).",
+        "C": "244 é \\(1 + 243\\): faltaram as 32 figuras do amigo B.",
+        "D": "243 conta só os triângulos do amigo C."
+      },
+      "teoria": [
+        "progressao-geometrica"
+      ],
+      "essencial": [
+        "Transforme as figuras em números: A: 1, 1, 1; B: 2, 4, 8; C: 3, 9, 27.",
+        "B dobra e C triplica a cada etapa: são progressões geométricas.",
+        "Na etapa 5: \\(1 + 2^5 + 3^5 = 1 + 32 + 243 = 276\\)."
+      ],
+      "raciocinio": "1. Conte as figuras de cada amigo por etapa: A: 1, 1, 1; B: 2, 4, 8; C: 3, 9, 27.\n2. A é constante. B dobra a cada etapa, e C triplica: são progressões geométricas de razão 2 e 3 (veja: *Progressão geométrica*).\n3. Etapa 5: A = 1; B = \\(2^5 = 32\\); C = \\(3^5 = 243\\).\n4. Total: \\(1 + 32 + 243 = 276\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "A fim de produzir os enfeites de uma festa de *Halloween*, enquanto ensinava conceitos matemáticos, uma professora entregou aos seus alunos um molde de asa de morcego, como o representado na imagem a seguir:\n\n![Circunferência de centro O com os pontos A (embaixo), B e C (em cima). Os segmentos AB, AC, OB e OC formam o molde da asa de morcego.](img/2022-1-b/q26-molde.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nNo molde, os pontos A, B e C são pontos da circunferência de centro O. A professora, então, solicitou aos seus alunos que, com o auxílio de um transferidor, medissem o ângulo \\(B\\hat{A}C\\). A medição realizada pelos alunos está reproduzida na imagem a seguir:\n\n![O molde com um transferidor apoiado no ponto A, medindo o ângulo entre AB e AC.](img/2022-1-b/q26-transferidor.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nCom a medição, os alunos encontraram o valor de 30º para o ângulo \\(B\\hat{A}C\\). Dessa forma, poderiam concluir que:\n\nI – a soma dos ângulos \\(A\\hat{B}O\\) e \\(A\\hat{C}O\\) mede 30º\nPORQUE\nII – o ângulo \\(B\\hat{O}C\\) mede 60º\n\nA respeito dessas afirmações, assinale a opção correta:",
+      "imagens": [
+        "img/2022-1-b/q26-molde.png",
+        "img/2022-1-b/q26-transferidor.png"
+      ],
+      "alternativas": {
+        "A": "As afirmativas I e II são proposições verdadeiras, e a II é uma afirmação que implica I.",
+        "B": "As afirmativas I e II são proposições verdadeiras, e a II não é uma implicação da I.",
+        "C": "A afirmativa I é verdadeira, enquanto a afirmativa II é falsa.",
+        "D": "A afirmativa I é falsa, enquanto a afirmativa II é verdadeira."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A II justifica a I: no molde ABOC, o ângulo em O é a soma dos outros três, \\(60^\\circ = 30^\\circ + 30^\\circ\\).",
+        "C": "A II é verdadeira: o ângulo central mede o dobro do inscrito, \\(2 \\cdot 30^\\circ = 60^\\circ\\).",
+        "D": "A I é verdadeira: os triângulos OAB e OAC são isósceles, e os ângulos em B e C somam 30°."
+      },
+      "teoria": [
+        "circulo-e-circunferencia",
+        "triangulos"
+      ],
+      "essencial": [
+        "Ângulo inscrito vale metade do ângulo central do mesmo arco: \\(B\\hat{O}C = 2 \\cdot 30^\\circ = 60^\\circ\\).",
+        "OA, OB e OC são raios: os triângulos OAB e OAC são isósceles.",
+        "No molde em forma de seta, o ângulo em O é a soma dos outros três: \\(60^\\circ = 30^\\circ + 30^\\circ\\)."
+      ],
+      "raciocinio": "1. **II é verdadeira.** O ângulo inscrito vale metade do ângulo central que vê o mesmo arco (veja: *Círculo e circunferência*): \\(B\\hat{O}C = 2 \\cdot 30^\\circ = 60^\\circ\\).\n2. **I é verdadeira.** OA, OB e OC são raios, então os triângulos OAB e OAC são isósceles (veja: *Triângulos: classificação e propriedades*): \\(A\\hat{B}O = B\\hat{A}O\\) e \\(A\\hat{C}O = C\\hat{A}O\\). Somando: \\(A\\hat{B}O + A\\hat{C}O = B\\hat{A}C = 30^\\circ\\).\n3. **II implica I.** No molde ABOC, o ângulo em O é a soma dos outros três: \\(60^\\circ = 30^\\circ + (A\\hat{B}O + A\\hat{C}O)\\), o que dá os 30°.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "Um clube está com um projeto de ampliação da piscina e do solário. O projeto possui uma piscina em formato de triângulo retângulo, com laterais de 6 e 8 metros, e uma área para tomar sol, como ilustrado na Figura I. Quando o projeto foi apresentado, os associados sugeriram um solário molhado de 3 metros de largura, como ilustrado na Figura II.\n\n![Figura I: retângulo de 6 m por 8 m dividido pela diagonal em dois triângulos, a piscina e o solário. Figura II: o mesmo projeto, agora com uma faixa de 3 metros de largura, o solário molhado, ocupando a parte de baixo da piscina.](img/2022-1-b/q27.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSabendo que as figuras estão fora de escala e considerando que seja executado o projeto da Figura II, como ficam as medidas da piscina triangular, em metros?",
+      "imagens": [
+        "img/2022-1-b/q27.png"
+      ],
+      "alternativas": {
+        "A": "3, 4 e 5",
+        "B": "3, 6 e 8",
+        "C": "6, 8 e 10",
+        "D": "6, 8 e 14"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Só um lado foi reduzido. Na semelhança, todos os lados mudam na mesma razão: 6, 8 e 10 viram 3, 4 e 5.",
+        "C": "6, 8 e 10 são as medidas da piscina original, antes da faixa de solário molhado.",
+        "D": "6 + 8 = 14 não é a hipotenusa: por Pitágoras, ela mede 10. E a piscina diminuiu."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos",
+        "teorema-de-pitagoras"
+      ],
+      "essencial": [
+        "Uma reta paralela a um lado do triângulo forma outro triângulo, semelhante ao original.",
+        "Na semelhança, todos os lados mudam na mesma razão. A altura passa de 6 para 3: razão \\(\\frac{1}{2}\\).",
+        "Os lados originais 6, 8 e 10 viram 3, 4 e 5."
+      ],
+      "raciocinio": "1. Piscina original: triângulo retângulo de catetos 6 e 8. Hipotenusa (veja: *Teorema de Pitágoras*): \\(\\sqrt{6^2 + 8^2} = 10\\).\n2. A faixa de 3 m corta a piscina por uma reta paralela ao lado de 8 m: a piscina nova é um triângulo semelhante ao original (veja: *Semelhança de triângulos*).\n3. A altura passou de 6 para \\(6 - 3 = 3\\): razão \\(\\frac{1}{2}\\). Os outros lados também caem pela metade: 8 vira 4, e 10 vira 5.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "A estrela mais próxima do Sol é chamada de *Proxima Centauri*, situada a 40 trilhões de quilômetros da Terra. Uma das naves espaciais mais rápidas já construída se chama *Voyager 1*, que pode alcançar uma velocidade de 280.000 km/h. Considere que a velocidade média é calculada pela razão entre a distância percorrida e o intervalo de tempo gasto ao percorrer tal distância. Se uma nave similar fosse enviada da Terra rumo à *Proxima Centauri*, o tempo gasto na viagem, em horas, seria da ordem de:",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(10^{18}\\)",
+        "B": "\\(10^{15}\\)",
+        "C": "\\(10^{8}\\)",
+        "D": "\\(10^{5}\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(10^{18}\\) multiplica as potências (\\(10^{13} \\cdot 10^5\\)). O tempo é a distância **dividida** pela velocidade.",
+        "B": "\\(10^{15}\\) não sai da divisão: \\(10^{13} \\div 10^5 = 10^8\\).",
+        "D": "\\(10^5\\) é a ordem da velocidade, e não do tempo da viagem."
+      },
+      "teoria": [
+        "razoes-especiais",
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Tempo = distância ÷ velocidade.",
+        "Trilhão = \\(10^{12}\\): 40 trilhões = \\(4 \\times 10^{13}\\).",
+        "Na divisão de potências de 10, subtraem-se os expoentes: \\(10^{13} \\div 10^5 = 10^8\\)."
+      ],
+      "raciocinio": "1. Tempo = distância ÷ velocidade (veja: *Razões especiais: velocidade, densidade e escala*).\n2. Em notação científica (veja: *Potências de 10 e notação científica*): 40 trilhões \\(= 4 \\times 10^{13}\\) km; 280.000 \\(= 2{,}8 \\times 10^5\\) km/h.\n3. \\(\\frac{4 \\times 10^{13}}{2{,}8 \\times 10^5} \\approx 1{,}4 \\times 10^8\\) horas.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Devido à escassez hídrica enfrentada em 2021 no Brasil, foram necessárias medidas para reduzir o consumo de energia elétrica. O governo federal lançou um programa para concessão de desconto na conta de energia elétrica, considerando o último quadrimestre de 2021 e as condições seguintes:\n\n- Se a economia total nesse período for de 10% a 20% quando comparada com o mesmo período de 2020, o consumidor receberá um desconto de R$0,50 para cada kWh economizado;\n- Para índices inferiores a 10%, o programa não prevê descontos;\n- É estabelecido um limite máximo para a base de cálculo do desconto igual a 20% da quantidade de quilowatt-hora economizada em relação ao mesmo período de 2020.\n\nConsidere que o consumo total no último quadrimestre de 2020 de uma residência foi de 580 kWh. O gráfico que representa o valor do desconto total concedido em função da quantidade de quilowatt-hora economizada é:",
+      "imagens": [
+        "img/2022-1-b/q29-a.png",
+        "img/2022-1-b/q29-b.png",
+        "img/2022-1-b/q29-c.png",
+        "img/2022-1-b/q29-d.png"
+      ],
+      "alternativas": {
+        "A": "![Gráfico do desconto total pela quantidade economizada: zero até 58 kWh, depois uma reta que sobe até R$ 58 em 116 kWh e fica constante.](img/2022-1-b/q29-a.png)",
+        "B": "![Gráfico do desconto total pela quantidade economizada: uma reta que sai da origem e passa por R$ 29 em 58 kWh e por R$ 58 em 116 kWh, sempre subindo.](img/2022-1-b/q29-b.png)",
+        "C": "![Gráfico do desconto total pela quantidade economizada: zero, depois R$ 0,50 constante entre 58 e 116 kWh, e zero de novo.](img/2022-1-b/q29-c.png)",
+        "D": "![Gráfico do desconto total pela quantidade economizada: zero até 58 kWh; em 58 kWh salta para R$ 29, sobe até R$ 58 em 116 kWh e depois fica constante.](img/2022-1-b/q29-d.png)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Em 58 kWh, o desconto já é de R$ 29 (\\(58 \\cdot 0{,}50\\)). O gráfico A começa a subir do zero.",
+        "B": "Abaixo de 10% (58 kWh) não há desconto, e acima de 116 kWh ele não cresce mais.",
+        "C": "R$ 0,50 é o desconto por kWh, e não o desconto total, que cresce com a economia."
+      },
+      "teoria": [
+        "funcao-afim",
+        "porcentagem"
+      ],
+      "essencial": [
+        "Calcule os limites: 10% de 580 = 58 kWh; 20% de 580 = 116 kWh.",
+        "De 58 a 116 kWh, desconto total = 0,50 × kWh economizados: de R$ 29 a R$ 58.",
+        "Fora dessa faixa: zero antes de 58 kWh; constante em R$ 58 depois de 116 kWh."
+      ],
+      "raciocinio": "1. 10% e 20% de 580 kWh são 58 e 116 kWh (veja: *Porcentagem*).\n2. Abaixo de 58 kWh economizados, não há desconto: o gráfico fica em zero.\n3. De 58 a 116 kWh, desconto de R$ 0,50 por kWh: em 58, \\(58 \\cdot 0{,}50 = 29\\) reais; em 116, 58 reais. É um trecho de reta (veja: *Funções afins e retas*).\n4. Acima de 116 kWh, o limite segura o desconto em R$ 58.\n5. O gráfico salta de 0 para 29 em 58 kWh, sobe até 58 e fica constante: é o D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "O *WhatsApp* é um aplicativo por meio do qual os usuários podem realizar múltiplas atividades, sendo o compartilhamento de imagens e vídeos as funcionalidades mais frequentemente utilizadas. Ao buscar informações a respeito do envio de arquivos via *WhatsApp* no *site* oficial do aplicativo, um usuário encontrou a seguinte informação:\n\n![Trecho da Central de Ajuda do WhatsApp com o título “Como enviar arquivos de mídia”.](img/2022-1-b/q30.png \"Como enviar arquivos de mídia | Enviar fotos, vídeos, documentos ou contatos | 1. Abra uma conversa individual ou em grupo. | 2. Clique no ícone de anexar. Em seguida, clique em: Fotos e vídeos para selecionar fotos ou vídeos do seu computador. Você pode enviar até 30 fotos ou vídeos por vez e pode adicionar legendas para cada foto ou vídeo. Se preferir, você também pode arrastar e soltar uma foto ou um vídeo diretamente no campo de texto. Cada vídeo pode ter no máximo 16 MB.\")\n\n<cite>Fonte: Central de Ajuda do WhatsApp – Como enviar arquivos de mídia. Disponível em: https://faq.whatsapp.com/web/chats/how-to-send-media/?lang=pt_br. Acesso em: 02 out. 2021.</cite>\n\nEsse mesmo usuário possui um *pendrive* (dispositivo portátil de armazenamento de dados) com capacidade total de 32 Gigabytes (GB) de armazenamento. Na tentativa de compreender as diferenças entre essas unidades de medida, em uma pesquisa na internet, ele encontrou a informação de que 1 GB tem 1.024 Megabytes (MB).\n\nA partir das duas pesquisas realizadas, o usuário identificou corretamente que:",
+      "imagens": [
+        "img/2022-1-b/q30.png"
+      ],
+      "alternativas": {
+        "A": "Ao compartilhar 64 vídeos, cada um com o tamanho máximo permitido, o usuário ultrapassaria 1 GB de dados enviados.",
+        "B": "Metade da capacidade de armazenamento do *pendrive* reúne mais de 1.000 vídeos de 16 MB.",
+        "C": "O *pendrive* consegue armazenar apenas dois vídeos, considerando o tamanho máximo individual permitido para envio pelo *WhatsApp*.",
+        "D": "O *pendrive* consegue armazenar no máximo 64 vídeos de 16 MB."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(64 \\cdot 16 = 1024\\) MB = 1 GB exatamente: não ultrapassa.",
+        "C": "O *pendrive* tem 32.768 MB: cabem 2.048 vídeos de 16 MB, e não só dois.",
+        "D": "64 vídeos ocupam só 1 GB; no *pendrive* de 32 GB cabem 2.048."
+      },
+      "teoria": [
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "1 GB = 1.024 MB, então 16 GB = 16.384 MB.",
+        "Quantos cabem = capacidade ÷ tamanho de cada vídeo: \\(16\\,384 \\div 16 = 1024\\).",
+        "*Pendrive* inteiro: \\(32 \\cdot 1024 \\div 16 = 2048\\) vídeos."
+      ],
+      "raciocinio": "1. Metade do *pendrive*: 16 GB. Em MB (veja: *Conversão de unidades*): \\(16 \\cdot 1024 = 16\\,384\\) MB.\n2. Vídeos de 16 MB: \\(16\\,384 \\div 16 = 1024\\) vídeos, mais de 1.000.\n\nResposta: **B**.",
+      "interativo": null
+    }
+  ]
+}

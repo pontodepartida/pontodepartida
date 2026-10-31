@@ -1,0 +1,17 @@
+{
+  "id": "propriedades-de-potencias",
+  "titulo": "Propriedades das potências",
+  "materia": "Matemática",
+  "grupo": "Potências e notação científica",
+  "texto": "**Potência** é uma multiplicação repetida: \\(a^n = a \\cdot a \\cdots a\\) (\\(n\\) fatores). \\(a\\) é a **base**, \\(n\\) é o **expoente**.\n\n| Propriedade | Regra | Exemplo |\n|---|---|---|\n| produto de mesma base | soma os expoentes | \\(2^{3} \\cdot 2^{4} = 2^{7}\\); \\(2 \\cdot 2^{40} = 2^{41}\\) |\n| quociente de mesma base | subtrai os expoentes | \\(\\dfrac{2^{60}}{2^{30}} = 2^{30}\\) |\n| potência de potência | multiplica os expoentes | \\((2^{40})^2 = 2^{80}\\) |\n| potência de um produto | eleva cada fator | \\((2 \\cdot 5)^3 = 2^3 \\cdot 5^3\\) |\n| expoente zero | vale 1 | \\(7^0 = 1\\) |\n| expoente negativo | inverte a base | \\(2^{-3} = \\dfrac{1}{2^3} = \\dfrac{1}{8}\\) |\n| expoente fracionário | é uma raiz | \\(7^{\\frac{1}{2}} = \\sqrt{7}\\) (veja *Raízes e radicais*) |\n\n**Dobro × quadrado:** o **dobro** de \\(2^{40}\\) é \\(2^{41}\\) (soma 1 ao expoente). O **quadrado** de \\(2^{40}\\) é \\(2^{80}\\) (dobra o expoente). São coisas muito diferentes.\n\n**Dividir por 2 uma potência de 2:** tira 1 do expoente. \\(\\frac{2^{10}}{2} = 2^9\\).\n\n**Comparar potências de mesma base:** com base maior que 1, quem tem o maior expoente é maior. Quando os expoentes diferem em \\(k\\), uma é \\(2^k\\) vezes a outra: \\(2^{20}\\) é \\(2^{10} = 1024\\) vezes \\(2^{10}\\).\n\n**Soma não é produto:** \\(2^{30} + 2^{40}\\) **não** é \\(2^{70}\\). Para estimar, note que \\(2^{30} + 2^{40} < 2^{40} + 2^{40} = 2 \\cdot 2^{40} = 2^{41}\\).\n\n**Sinal:** base negativa com expoente par dá positivo, \\((-2)^4 = 16\\); com expoente ímpar, negativo, \\((-2)^3 = -8\\). Cuidado: \\(-2^4 = -16\\), porque o expoente vale só para o 2.",
+  "videos": [
+    {
+      "titulo": "Potenciação: propriedades básicas - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=PA8dyyTNykU"
+    },
+    {
+      "titulo": "Propriedades de potências #168 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=UwVpSOHwfcY"
+    }
+  ]
+}

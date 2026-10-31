@@ -1,0 +1,13 @@
+{
+  "id": "congruencia-de-triangulos",
+  "titulo": "Congruência de triângulos",
+  "materia": "Matemática",
+  "grupo": "Congruência e semelhança",
+  "texto": "Dois triângulos são **congruentes** quando têm a **mesma forma e o mesmo tamanho**: os lados correspondentes são iguais e os ângulos correspondentes são iguais. Um pode ser colocado exatamente sobre o outro.\n\n**Critérios** (basta um para garantir a congruência):\n\n| Critério | O que precisa ser igual |\n|---|---|\n| **LLL** | os três lados |\n| **LAL** | dois lados e o ângulo **entre** eles |\n| **ALA** | dois ângulos e o lado **entre** eles |\n| **LAA₀** | um lado, um ângulo adjacente e o ângulo oposto ao lado |\n\n**Correspondência:** a ordem das letras importa. Se o ângulo em A corresponde ao ângulo em G, e o ângulo em B ao ângulo em E, então o lado **AB** (entre A e B) corresponde ao lado **GE** (entre G e E). Lados correspondentes de triângulos congruentes são iguais, o que permite montar uma equação:\n\n\\[AB = GE \\;\\Rightarrow\\; 8x - 8 = 73 - x \\;\\Rightarrow\\; x = 9\\]\n\n**Congruência × semelhança:** triângulos semelhantes têm a mesma forma, mas podem ter tamanhos diferentes (lados proporcionais). Congruentes são semelhantes com razão 1 (veja *Semelhança de triângulos*).\n\n**Triângulos não congruentes:** num quadrilátero sem simetria, os triângulos formados por diagonais e lados costumam ser todos diferentes; numa figura simétrica (quadrado, retângulo), aparecem pares congruentes.",
+  "videos": [
+    {
+      "titulo": "Triângulos (aula 05) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=OA4qRsc7nSA"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "conversao-de-unidades",
+  "titulo": "Conversão de unidades",
+  "materia": "Matemática",
+  "grupo": "Razão, proporção e porcentagem",
+  "texto": "**Comprimento:** cada degrau da escada multiplica ou divide por 10.\n\n\\[\\text{km} \\xrightarrow{\\times 10} \\text{hm} \\xrightarrow{\\times 10} \\text{dam} \\xrightarrow{\\times 10} \\text{m} \\xrightarrow{\\times 10} \\text{dm} \\xrightarrow{\\times 10} \\text{cm} \\xrightarrow{\\times 10} \\text{mm}\\]\n\n\\(1\\ \\text{km} = 1000\\ \\text{m}\\); \\(1\\ \\text{m} = 100\\ \\text{cm}\\); \\(1\\ \\text{m} = 1\\,000\\,000\\ \\mu\\text{m}\\) (micrômetros).\n\n**Área e volume:** ao converter, o fator vai ao quadrado (área) ou ao cubo (volume). \\(1\\ \\text{m}^2 = 10\\,000\\ \\text{cm}^2\\); \\(1\\ \\text{m}^3 = 1\\,000\\,000\\ \\text{cm}^3\\).\n\n**Volume e capacidade:**\n\n| Relação | |\n|---|---|\n| \\(1\\ \\text{L} = 1\\ \\text{dm}^3 = 1000\\ \\text{cm}^3\\) | |\n| \\(1\\ \\text{mL} = 1\\ \\text{cm}^3\\) | |\n| \\(1\\ \\text{m}^3 = 1000\\ \\text{L}\\) | |\n\n**Massa:** \\(1\\ \\text{t} = 1000\\ \\text{kg}\\); \\(1\\ \\text{kg} = 1000\\ \\text{g}\\).\n\n**Tempo** (não é decimal!):\n\n| De | Para | Faça |\n|---|---|---|\n| horas | minutos | \\(\\times 60\\) |\n| minutos | segundos | \\(\\times 60\\) |\n| horas | segundos | \\(\\times 3600\\) |\n\n**Segundos para “h min s”:** divida por 3600; a parte inteira são as horas. Divida o resto por 60; a parte inteira são os minutos. O que sobra são os segundos.\n\n\\[40\\,000\\ \\text{s}: \\quad 40\\,000 = 11 \\cdot 3600 + 400 \\quad\\text{e}\\quad 400 = 6 \\cdot 60 + 40 \\;\\Rightarrow\\; 11\\ \\text{h}\\ 6\\ \\text{min}\\ 40\\ \\text{s}\\]\n\n**Minutos em fração de hora:** \\(39\\ \\text{min} = \\frac{39}{60}\\ \\text{h} = 0{,}65\\ \\text{h}\\). Cuidado: 1,5 h é 1 h **30 min**, e não 1 h 50 min.\n\n**Armazenamento de dados:** \\(1\\ \\text{byte} = 8\\ \\text{bits}\\); \\(1\\ \\text{KB} = 2^{10}\\ \\text{bytes} = 1024\\ \\text{bytes}\\); \\(1\\ \\text{MB} = 2^{10}\\ \\text{KB}\\); \\(1\\ \\text{GB} = 2^{10}\\ \\text{MB}\\); \\(1\\ \\text{TB} = 2^{10}\\ \\text{GB}\\).",
+  "videos": [
+    {
+      "titulo": "Sabe converter unidades? - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=pR9izbfOXRQ"
+    },
+    {
+      "titulo": "Ao vivo Enem: conversão de unidades e cálculos simples - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=4KLxDZnsmJg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tempos-e-modos-verbais",
+  "titulo": "Tempos e modos verbais",
+  "materia": "Português",
+  "grupo": "Classes de palavras",
+  "texto": "O verbo indica **quando** algo acontece (tempo) e **como** quem fala vê o fato (modo).\n\n**Modos:**\n\n| Modo | O que expressa | Exemplo |\n|---|---|---|\n| **indicativo** | fato dado como certo | Eu **estudo**. Eles **são** felizes. |\n| **subjuntivo** | dúvida, desejo, hipótese | Talvez eu **estude**. Se eu **estudasse**… |\n| **imperativo** | ordem, pedido, conselho | **Estude**! **Comece** a preservar. |\n\n**Tempos do indicativo:**\n\n| Tempo | Uso | Exemplo |\n|---|---|---|\n| presente | o que acontece agora ou sempre | Nós **estamos** vendo. As cotas **são** uma vitória. |\n| pretérito perfeito | ação concluída | Ela **passou** a usar. Eles **perderam** o sono. |\n| pretérito imperfeito | hábito ou estado que durou no passado, sem data precisa | Gabriela **vivia** sonhando. Era uma vez… |\n| futuro do presente | o que vai acontecer | Nós **teremos** plantas novas. |\n\n**Perfeito × imperfeito:** o perfeito mostra um fato fechado (“**passou** a usar”); o imperfeito mostra algo que se repetia ou durava (“**vivia** sonhando”). Por isso o imperfeito é o tempo dos contos de fadas e das lembranças.\n\n**Pessoa e número** aparecem na terminação:\n\n| Pessoa | Singular | Plural |\n|---|---|---|\n| 1ª | eu estud**o** | nós estud**amos** |\n| 2ª | tu estud**as** | vós estud**ais** |\n| 3ª | ele estud**a** | eles estud**am** |\n\nAlgumas formas são iguais em dois tempos: “nós **ampliamos**” pode ser presente ou pretérito perfeito. Nesses casos, o contexto decide.",
+  "videos": [
+    {
+      "titulo": "Verbo + exercícios resolvidos - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=OgZFm6udINE"
+    },
+    {
+      "titulo": "Conjugação verbal – verbos regulares - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=SSWbcOQS9hc"
+    }
+  ]
+}

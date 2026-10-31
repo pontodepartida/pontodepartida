@@ -1,0 +1,950 @@
+{
+  "id": "ps-2022-1-a",
+  "nome": "PS 2022.1 – Prova A",
+  "edital": "Edital nº 400/2021 – Prova A (manhã)",
+  "fonteGabarito": "Gabarito final pós-recurso – Ensino Médio Integrado – Prova Manhã – Edital 400/2021 – PS 2022.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Ortografia e acentuação",
+      "enunciado": "No dia 1º de janeiro de 2016, o novo acordo ortográfico, que visa a unificar a escrita da língua portuguesa nas diversas nações que têm o Português como língua materna, tornou-se o formato padrão em nosso país. Entre as mudanças, o emprego do hífen sofreu algumas alterações como apontado a seguir:\n\n| ANTES DO ACORDO | DEPOIS DO ACORDO |\n|---|---|\n| Auto-escola | Autoescola |\n| Microondas | Micro-ondas |\n| Semi-aberto | Semiaberto |\n| Extra-oficial | Extraoficial |\n| Ultra-som | Ultrassom |\n\nAo analisar as palavras acima, assinale a alternativa que corresponde à regra do uso de hífen segundo o novo acordo ortográfico:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Usa-se o hífen quando o segundo elemento começa com vogal diferente à do final do prefixo.",
+        "B": "Usa-se o hífen quando a vogal do final do prefixo for igual à do início do segundo elemento.",
+        "C": "Há hífen quando o segundo elemento começa com s ou r, sendo optativo duplicar as consoantes.",
+        "D": "Usa-se o hífen se a vogal do final do prefixo for diferente à do início do segundo elemento."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É o contrário: com vogais diferentes, junta-se sem hífen, como em *autoescola* (o + e) e *extraoficial* (a + o).",
+        "C": "Antes de *s* ou *r*, não há hífen: a consoante se dobra, e isso é obrigatório, como em *ultrassom*.",
+        "D": "Repete o erro da A: *semiaberto* (i + a) e *autoescola* (o + e) têm vogais diferentes e ficam sem hífen."
+      },
+      "teoria": [
+        "hifen"
+      ],
+      "essencial": [
+        "Prefixo terminado em vogal + palavra que começa com a **mesma** vogal: usa-se hífen, como em *micro-ondas*.",
+        "Vogais diferentes: junta sem hífen: *autoescola*, *semiaberto*, *extraoficial*.",
+        "Antes de *r* ou *s*, junta e dobra a consoante: *ultrassom*."
+      ],
+      "raciocinio": "1. Veja qual palavra **ganhou** hífen (veja: *Hífen*): só *micro-ondas*. O prefixo termina em **o**, e a palavra seguinte começa com **o**.\n2. As outras perderam o hífen: *autoescola* (o + e), *semiaberto* (i + a) e *extraoficial* (a + o) têm vogais diferentes e se juntam; *ultrassom* dobra o *s*.\n3. A regra que explica o hífen da tabela é a da vogal igual dos dois lados.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Para responder à questão, leia o texto a seguir:\n\n![Foto de Laura de Freitas e Ana Bonassa, de braços cruzados, num laboratório, vestindo camisetas com o nome do canal “Nunca vi 1 cientista”.](img/2022-1-a/q02.jpg)\n\n<cite>Laura de Freitas e Ana Bonassi, idealizadoras do Nunca vi 1 cientista. Arquivo pessoal.</cite>\n\n> ### Nunca vi 1 cientista\n>\n> “A gente está aqui para te aproximar da ciência e dos cientistas! Mostrar como a ciência funciona e como você pode aplicar no seu dia a dia!” – é assim que o Nunca vi 1 cientista se apresenta no seu canal do YouTube. O projeto surgiu em 2018 durante o FameLab Brasil, uma das maiores competições de divulgação científica do mundo, quando a Laura de Freitas decidiu recrutar alguns dos colegas participantes e a Ana Bonassa topou se juntar à equipe, dando a ideia do nome.\n>\n> A Ana é bióloga, mestre e doutora em Ciências pela Universidade de São Paulo (USP), e a Laura é farmacêutica-bioquímica, mestre e doutora em Biociências e Biotecnologia pela Universidade Estadual Paulista (UNESP). Atualmente, as duas são pós-doutorandas na USP.\n>\n> <cite>https://www.blogs.unicamp.br/cienciapelosolhosdelas/2020/05/01/divulgadoras-cientificas-pandemia-do-coronavirus/. Acesso em: 07 out. 2021.</cite>\n\nO nome do canal do YouTube idealizado pela dupla de cientistas faz uso do algarismo 1 em vez do artigo indefinido. Levando-se em conta o meio de circulação da matéria, dentre outros elementos do texto, o efeito de sentido esperado por essa escolha é:",
+      "imagens": [
+        "img/2022-1-a/q02.jpg"
+      ],
+      "alternativas": {
+        "A": "Reduzir palavras, como se faz comumente na linguagem da internet.",
+        "B": "Evidenciar o caráter quantitativo das ciências, sobretudo as exatas.",
+        "C": "Neutralizar o gênero do substantivo sobrecomum que antecede.",
+        "D": "Facilitar a leitura no meio digital, buscando mais adesão ao canal."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“1” e “um” têm quase o mesmo tamanho: a troca não economiza nada. O efeito está no gênero que o artigo marcaria.",
+        "B": "O nome fala de conhecer um cientista, e não de números; as autoras são da biologia e da farmácia.",
+        "D": "O algarismo não deixa a leitura mais fácil. A troca tem a ver com o gênero que *um* ou *uma* marcaria."
+      },
+      "teoria": [
+        "classes-de-palavras"
+      ],
+      "essencial": [
+        "O artigo indefinido marca o gênero: *um* (masculino), *uma* (feminino).",
+        "*Cientista* serve para homens e mulheres; na frase, é o artigo que define o gênero.",
+        "O algarismo “1” não tem gênero: “Nunca vi 1 cientista” não escolhe entre masculino e feminino."
+      ],
+      "raciocinio": "1. Pense no que o artigo faria: “Nunca vi **um** cientista” ou “Nunca vi **uma** cientista”. A palavra *cientista* serve para homens e mulheres; quem marca o gênero é o artigo (veja: *Classes de palavras*).\n2. O algarismo “1” não tem masculino nem feminino: com ele, o nome não escolhe um gênero.\n3. O contexto reforça a escolha: o canal foi criado por duas mulheres cientistas, e “um cientista” puxaria a imagem para o masculino.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "O período composto, aquele que é formado por duas ou mais orações, pode ser classificado como período composto por coordenação ou subordinação. As orações subordinadas se diferenciam das coordenadas porque dependem do termo de outra oração para terem sentido.\n\nObserve a seguinte explicação adaptada da Nova Gramática do Português Brasileiro:\n\n> “Moleque Nicanor arregalou os olhos, e eu pensei que ia ouvir as pancadas do seu coração” (Guimarães Rosa)\n>\n> Temos um período aqui composto de 3 orações:\n>\n> 1ª = Moleque Nicanor arregalou os olhos (oração coordenada – tem sentido próprio)\n>\n> 2ª = e eu pensei (oração coordenada – tem sentido próprio)\n>\n> 3ª = que ia ouvir as pancadas do seu coração (oração subordinada – depende da oração anterior).\n>\n> <cite>Referência: CUNHA, Celso; CINTRA, Lindeley. *Nova Gramática do Português Brasileiro*, 3ª ed. Rio de Janeiro: Nova Fronteira, 2001.</cite>\n\nApós a leitura da explicação e do exemplo acima, analise as seguintes orações:\n\n1. “Ouço música, logo ainda não me enterraram” (P. Mendes Campos).\n2. “Insisti no oferecimento da madeira, e ele estremeceu” (G. Ramos).\n3. “Estava frio, mas ela não o sentia” (M. J. de Carvalho).\n4. “Susana, que não se sentia bem, estava de cama” (M. Torga).\n\nEscolha a alternativa correta de acordo com as orações 1 a 4:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Apenas uma delas é uma oração coordenada.",
+        "B": "Todas são orações coordenadas.",
+        "C": "Todas são orações subordinadas.",
+        "D": "Apenas uma delas é uma oração subordinada."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Três períodos, e não um, são formados por coordenadas: 1 (*logo*), 2 (*e*) e 3 (*mas*).",
+        "B": "O período 4 tem “que não se sentia bem”, que depende de *Susana*: é subordinada.",
+        "C": "Nos períodos 1, 2 e 3, cada oração tem sentido próprio e não depende da outra."
+      },
+      "teoria": [
+        "oracoes-coordenadas",
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Orações coordenadas têm sentido próprio e se ligam por conjunções como *e*, *mas* e *logo*.",
+        "Oração subordinada depende de um termo de outra oração: “que não se sentia bem” caracteriza *Susana*.",
+        "Oração com *que* entre vírgulas, logo depois de um nome, costuma ser subordinada adjetiva."
+      ],
+      "raciocinio": "1. Nos períodos 1, 2 e 3, as orações se ligam por *logo*, *e* e *mas*, e cada uma tem sentido próprio: são coordenadas (veja: *Orações coordenadas*).\n2. No período 4, “que não se sentia bem” depende de *Susana*, que ela caracteriza: é uma oração subordinada adjetiva (veja: *Orações subordinadas*).\n3. Só o período 4 tem oração subordinada.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o anúncio:\n\n![Anúncio da SOS Mata Atlântica: duas copas de árvores frondosas formam o desenho de um par de pulmões, com os galhos no lugar dos brônquios. No meio, a frase da campanha e o logotipo da SOS Mata Atlântica.](img/2022-1-a/q04.jpg \"Quer continuar a respirar? Comece a preservar.\")\n\n<cite>*Campanha SOS Mata Atlântica*. 1998. Disponível em: https://ideiasustentavel.com.br/wp-content/uploads/2014/01/Dossi%C3%AA-2.jpg. Acesso em: 03 out. 2021.</cite>\n\nA associação entre os recursos verbais e não verbais que compõem a campanha produz sentido que tem por objetivo",
+      "imagens": [
+        "img/2022-1-a/q04.jpg"
+      ],
+      "alternativas": {
+        "A": "Dirigir o leitor à participação ativa nos processos de enfrentamento resistente contra a poluição intensa nas cidades, o que tanto tem destruído o meio ambiente, quanto prejudicado a respiração dos brasileiros.",
+        "B": "Explicar a diferença, na produção de sentido, do emprego de verbos na forma nominal do infinitivo (continuar, respirar, preservar) e no modo imperativo (comece), em contexto de defesa do meio ambiente.",
+        "C": "Ilustrar a figura da metonímia, já que as árvores, representando os pulmões de uma pessoa, remetem à substituição de um termo por outro, numa relação de pertinência entre eles: a parte pelo todo.",
+        "D": "Conduzir o público ao engajamento consciente em defesa da preservação do meio ambiente, que é o responsável pela produção de recurso natural e essencial para a continuidade da vida."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A campanha não fala de poluição nas cidades: o foco é preservar a floresta, que aparece como pulmão.",
+        "B": "A campanha não explica formas verbais: ela usa o imperativo para convencer o leitor a preservar.",
+        "C": "Árvores no lugar de pulmões é uma comparação de imagens, e não a relação da parte pelo todo."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal",
+        "publicidade-e-propaganda"
+      ],
+      "essencial": [
+        "Na publicidade, imagem e texto se completam: aqui, as copas das árvores formam um par de pulmões.",
+        "O imperativo (“Comece a preservar”) chama o leitor à ação.",
+        "A mensagem: a floresta produz o ar que respiramos, e preservá-la é garantir a vida."
+      ],
+      "raciocinio": "1. Imagem: as copas das árvores formam um par de pulmões (veja: *Linguagem verbal e não verbal*). A floresta aparece como o órgão que permite respirar.\n2. Texto: “Quer continuar a respirar? Comece a preservar.” O imperativo *comece* chama o leitor a agir (veja: *Publicidade e propaganda*).\n3. Juntos, dizem: a floresta produz o oxigênio de que precisamos, e preservá-la é preservar a vida. É o que diz a D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia a tirinha a seguir para responder à questão:\n\n![Tirinha da Mafalda em três quadros: Filipinho explica o xadrez a Miguelito e Mafalda, diante do tabuleiro. No último quadro, Miguelito faz uma pergunta.](img/2022-1-a/q05.png \"Quadro 1 – Filipinho: Os bispos andam assim, os cavalos assim, as torres assim e os peões assim. | Quadro 2 – Miguelito olha o tabuleiro, com um ponto de interrogação. | Quadro 3 – Miguelito: E onde se colocam as pilhas?\")\n\n<cite>QUINO. *Toda Mafalda*. São Paulo: Martins Fontes, 2010. p. 19.</cite>\n\nNa tirinha, Filipinho está explicando para Miguelito e para Mafalda como se joga xadrez. Observe a fala de Miguelito no último quadrinho e escolha a alternativa correta sobre o sujeito do verbo “colocam”:",
+      "imagens": [
+        "img/2022-1-a/q05.png"
+      ],
+      "alternativas": {
+        "A": "Sujeito desinencial: “eles”.",
+        "B": "Oração sem sujeito.",
+        "C": "Sujeito simples: “as pilhas”.",
+        "D": "Sujeito indeterminado."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Não há “eles” subentendido: o sujeito está escrito na frase, “as pilhas”, e o verbo concorda com ele.",
+        "B": "Há sujeito: “as pilhas”. Oração sem sujeito ocorre com *haver* no sentido de existir e com fenômenos da natureza.",
+        "D": "Com *se* indeterminando o sujeito, o verbo fica no singular. Aqui, *colocam* concorda com “as pilhas”, que é o sujeito."
+      },
+      "teoria": [
+        "sujeito-e-predicado",
+        "vozes-verbais"
+      ],
+      "essencial": [
+        "Verbo transitivo direto + *se*: voz passiva sintética. “Colocam-se as pilhas” = “as pilhas são colocadas”.",
+        "Na passiva, o termo que sofre a ação é o sujeito, e o verbo concorda com ele: *colocam*, no plural.",
+        "Sujeito simples tem um só núcleo: *pilhas*."
+      ],
+      "raciocinio": "1. Pergunte ao verbo: o que é colocado? **As pilhas** (veja: *Sujeito e predicado*).\n2. “Onde se colocam as pilhas” = “onde as pilhas são colocadas”. O *se* é partícula apassivadora: é voz passiva sintética (veja: *Vozes verbais*).\n3. Na passiva, quem sofre a ação é o sujeito, e o verbo concorda com ele: *colocam* está no plural por causa de *as pilhas*. O sujeito é simples.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o infográfico a seguir para responder à questão.\n\n![Infográfico com um vírus gigante ao centro e três setores. No alto, sobre um caixão e o perfil de uma cidade, Comércio e serviços: 6.420 mortes. À esquerda, Agricultura: 3.384 mortes. À direita, Transportes: 3.367 mortes. Fonte: Rede de Pesquisa Solidária.](img/2022-1-a/q06.png)\n\n<cite>Disponível em https://piaui.folha.uol.com.br/no-setor-de-comercio-e-servicos-covid-matou-o-dobro-de-pessoas-do-que-nas-areas-de-agricultura-e-transportes/. Acesso em: 04 out. 2021.</cite>\n\nOs jornais e revistas, de modo geral, tendem a utilizar infográficos com outras linguagens, para além do escrito, a fim de sintetizar o conteúdo a seus leitores. A imagem acima aponta o número de pessoas vitimadas pela pandemia do novo coronavírus em três diferentes setores econômicos. De modo geral, os dados veiculados à imagem sugerem:",
+      "imagens": [
+        "img/2022-1-a/q06.png"
+      ],
+      "alternativas": {
+        "A": "equilíbrio entre dois dos setores, que tiveram exatamente o mesmo número de mortes.",
+        "B": "discrepância de um setor em relação aos demais.",
+        "C": "valores equânimes em relação aos três setores.",
+        "D": "diferenças substanciais entre os três setores."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Agricultura (3.384) e transportes (3.367) estão próximos, mas não têm “exatamente” o mesmo número.",
+        "C": "Os valores não são iguais: comércio e serviços tem quase o dobro de cada um dos outros dois.",
+        "D": "Só um setor se distancia; agricultura e transportes estão quase empatados."
+      },
+      "teoria": [
+        "infograficos"
+      ],
+      "essencial": [
+        "Num infográfico, compare os números antes de olhar o desenho: aqui, 6.420, 3.384 e 3.367 mortes.",
+        "Discrepância é uma diferença grande: comércio e serviços tem quase o dobro de cada um dos outros setores.",
+        "Palavras como “exatamente” exigem igualdade total: 3.384 e 3.367 são próximos, mas não iguais."
+      ],
+      "raciocinio": "1. Leia os números (veja: *Leitura de infográficos*): comércio e serviços, 6.420; agricultura, 3.384; transportes, 3.367.\n2. Agricultura e transportes estão quase empatados (diferença de 17 mortes).\n3. Comércio e serviços tem quase o dobro de cada um: é o setor que se destaca dos demais.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia os textos abaixo:\n\n#### Texto I\n\n> ### A Parassubordinação em Tempos de Economia Compartilhada\n>\n> [...] Entretanto, por mais que os motoristas de aplicativo possuam a liberdade de escolher o melhor horário de trabalho, os mesmos estão sujeitos a inúmeras adversidades, tais como violência física, violência psicológica, degradação remuneratória, jornadas excessivamente <u>**longas**</u>, o risco de ser <u>**excluído**</u> da plataforma por permanecer por um tempo razoável sem efetuar o transporte de passageiros, dentre tantos outros. [...]\n>\n> <cite>MENDONÇA, Yago Barros. A Parassubordinação em Tempos de Economia Compartilhada. *Jus.com.br*, 11/2020. Disponível em: https://jus.com.br/artigos/86749/a-parassubordinacao-em-tempos-de-economia-compartilhada. Acesso em: 07 out. 2021. Fragmento.</cite>\n\n#### Texto II\n\n> ### Música popular brasileira/educação experiências transversais em práticas escolares\n>\n> [...] <u>**Produziu-se**</u> na área de saberes e práticas escolares duas experiências didático-pedagógicas. A primeira, com a orientação deste pesquisador e colaboração de professores e alunos sobre o tema “As quatorze músicas mais importantes do século XX”, segundo a escolha da ABL (Academia Brasileira de Letras). A segunda experiência sobre o Golpe de 1964, os anos de chumbo visto pela MPB. No contato havido com <u>**orientadores pedagógicos, diretores e professores de diversas áreas**</u> e particularmente com os professores de artes, aproveitou-se a oportunidade e efetuou-se um levantamento sobre as dificuldades, possibilidades e impossibilidades da utilização de MBP (Música Popular Brasileira) no âmbito da Escola. [...]\n>\n> <cite>CONCEIÇÃO, F. B. Música popular brasileira/educação – experiências transversais em práticas escolares. *Akrópolis – Revista de Ciências Humanas da UNIPAR*, v. 24, n. 2, 2016. Disponível em: https://revistas.unipar.br/index.php/akropolis/article/view/6336. Acesso em: 07 out. 2021. Fragmento.</cite>\n\nConsidere as afirmações a seguir:\n\nI. No texto I, o adjetivo “excluído” está incorreto segundo a norma-padrão, pois ele deve concordar, em gênero e número, com o substantivo a que se refere.\nII. No texto I, a palavra “longas”, tratada inadequadamente como adjetivo, deve permanecer no singular, já que, por ser advérbio, ela não deve ser pluralizada.\nIII. No texto II, o verbo “produziu-se” não atende às exigências da norma-padrão, pois ele necessariamente deve concordar, em número e pessoa, com o seu sujeito.\nIV. No texto II, os termos “orientadores pedagógicos, diretores e professores de diversas áreas” exigem que os verbos dos quais eles têm a função de sujeito sejam pluralizados.\n\nAssinale a opção que contempla apenas afirmações que seguem a norma-padrão da Língua Portuguesa:",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e III.",
+        "B": "II e IV.",
+        "C": "I, III e IV.",
+        "D": "II, III e IV."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A II erra: *longas* é adjetivo e concorda com *jornadas*. A IV também: os termos destacados não são sujeito.",
+        "C": "A IV está errada: os termos destacados vêm depois de “com” e não são sujeito de nenhum verbo.",
+        "D": "A II e a IV estão erradas: *longas* concorda com *jornadas*, e os termos destacados não são sujeito."
+      },
+      "teoria": [
+        "concordancia-nominal",
+        "concordancia-verbal"
+      ],
+      "essencial": [
+        "Concordância nominal: o adjetivo concorda com o substantivo a que se refere: “jornadas longas”, “motoristas excluídos”.",
+        "Com *se* apassivador, o verbo concorda com o sujeito: “Produziram-se duas experiências”.",
+        "Termo introduzido por preposição (“com orientadores…”) não é sujeito."
+      ],
+      "raciocinio": "1. **I – certa.** *Excluído* se refere aos motoristas, no plural: “o risco de serem excluídos” (veja: *Concordância nominal*).\n2. **II – errada.** *Longas* é adjetivo de *jornadas* e concorda com ele; o advérbio é *excessivamente*.\n3. **III – certa.** O sujeito de “produziu-se” é “duas experiências” (voz passiva sintética): o certo é “Produziram-se” (veja: *Concordância verbal*).\n4. **IV – errada.** Esses termos completam “No contato havido com…”: não são sujeito de nenhum verbo.\n\nAfirmações certas: I e III. Resposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia a seguir um trecho do poema “Tristezas de um quarto minguante”, de Augusto dos Anjos.\n\n> ### Tristezas de um quarto minguante\n>\n> Quarto Minguante! E, embora a lua o aclare,\n> Este *Engenho Pau d’Arco* é muito triste...\n> Nos engenhos da *várzea* não existe\n> Talvez um outro que se lhe equipare!\n>\n> Do observatório em que eu estou situado\n> A lua magra, quando a noite cresce,\n> Vista, através do vidro azul, parece\n> Um paralelepípedo quebrado!\n>\n> O sono esmaga o encéfalo do povo.\n> Tenho 300 quilos no epigastro...\n> Dói-me a cabeça. Agora a cara do astro\n> Lembra a metade de uma casca de ovo.\n>\n> (...)\n>\n> <cite>ANJOS, A. Tristezas de um quarto minguante. In: MORICONI, I. (Org.). *Os cem melhores poemas brasileiros do século*. Rio de Janeiro: Objetiva, 2001 (pp. 51).</cite>\n\nA respeito da estética do poema, é correto afirmar que o texto:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Constrói-se exclusivamente por rimas opostas e correspondem ao esquema ABBA.",
+        "B": "Estrutura as estrofes em tercetos, pois cada uma delas é formada por três versos.",
+        "C": "Utiliza, na segunda estrofe, onomatopeia, descrevendo acusticamente o processo de ruptura do paralelepípedo por meio da sonoridade das palavras “cresce” e “quebrado”.",
+        "D": "Utiliza, na terceira estrofe, aliteração, pois repete o som consonantal /s/, sugerindo acusticamente o esmagamento do encéfalo do povo."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Cada estrofe tem quatro versos: são quartetos, e não tercetos.",
+        "C": "“Cresce” e “quebrado” não imitam o som de algo se quebrando: não há onomatopeia.",
+        "D": "O /s/ não se concentra para imitar um som; o peso vem do sentido das palavras (“esmaga”, “300 quilos”), e não da sonoridade."
+      },
+      "teoria": [
+        "figuras-sonoras",
+        "poesia"
+      ],
+      "essencial": [
+        "Esquema de rimas: dê a mesma letra aos versos que rimam. *aclare / triste / existe / equipare* = ABBA.",
+        "ABBA são rimas opostas (interpoladas): o 1º verso rima com o 4º, e o 2º com o 3º.",
+        "Estrofe de quatro versos é quarteto; de três, terceto."
+      ],
+      "raciocinio": "1. Marque o som final de cada verso (veja: *Figuras sonoras: aliteração, assonância e rima*). 1ª estrofe: acl**are** (A), tr**iste** (B), ex**iste** (B), equip**are** (A).\n2. 2ª estrofe: situ**ado**, cr**esce**, par**ece**, quebr**ado**: ABBA. 3ª estrofe: p**ovo**, epig**astro**, **astro**, **ovo**: ABBA.\n3. Nas três, o 1º verso rima com o 4º, e o 2º com o 3º: são rimas opostas. Cada estrofe tem quatro versos, um quarteto (veja: *Poesia: verso, eu lírico e poema visual*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Discurso direto e indireto",
+      "enunciado": "Para evitar maiores contágios e controlar a pandemia de COVID-19, que assolou o mundo desde dezembro de 2019, diversas organizações sugeriram medidas de segurança como distanciamento e uso de Equipamentos de Proteção Individual (EPI) como máscaras. Porém, com a disseminação de notícias falsas (*fake news*) muitos países enfrentaram dificuldades na adoção de tais medidas.\n\nApós a leitura do parágrafo abaixo, retirado de um artigo científico, escolha a alternativa correta:\n\n> De acordo com as diretrizes da ONU relativas ao combate à pandemia de Covid-19, o momento representa um verdadeiro desafio global que exige o respeito irrestrito às normas de direitos humanos. Considera que os valores do conhecimento científico devem prevalecer sobre as *fake news*, os preconceitos e a discriminação. Michelle Bachelet, alta comissária das Nações Unidas para os Direitos Humanos, afirma que a “Covid-19 é um teste para as nossas sociedades, e todos nós estamos aprendendo como responder ao vírus. A dignidade humana e os direitos humanos devem estar à frente e no centro desse esforço” (Albuquerque, 2020, p.7).\n>\n> <cite>Fonte: CAPONI, Sandra. Covid-13 no Brasil: entre o negacionsimo e a razão neoliberal. *Estudos Avançados*. 34 (99), 2020. Disponível em: https://www.scielo.br/j/ea/a/tz4b6kWP4sHZD7ynw9LdYYJ/?format=pdf&lang=pt. Acesso em: 04 out. 2021.</cite>\n\nNo texto anterior, a autora utiliza:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O recurso de paráfrase para reportar à fala da comissária da ONU.",
+        "B": "O discurso direto para reportar à fala da comissária da ONU.",
+        "C": "O discurso indireto para reportar à fala da comissária da ONU.",
+        "D": "O recurso da metáfora para reportar ao significado de *fake news*."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Paráfrase reescreve com outras palavras. A fala da comissária vem entre aspas, com as palavras dela.",
+        "C": "No discurso indireto, a fala viria sem aspas e adaptada: “afirma que a Covid-19 seria um teste para as sociedades”.",
+        "D": "*Fake news* aparece no sentido literal, notícias falsas: não há metáfora."
+      },
+      "teoria": [
+        "discurso-direto-e-indireto"
+      ],
+      "essencial": [
+        "Discurso direto reproduz as palavras exatas de alguém, marcadas por aspas ou travessão.",
+        "Pistas: o verbo *afirma*, as aspas e a 1ª pessoa mantida (“nossas sociedades”, “todos nós”).",
+        "No discurso indireto, a fala é recontada sem aspas, geralmente com “que”: “afirma que…”."
+      ],
+      "raciocinio": "1. Localize a fala de Michelle Bachelet: “Covid-19 é um teste para as nossas sociedades […]”.\n2. Ela vem **entre aspas**, depois do verbo *afirma*, e mantém a 1ª pessoa (“nossas sociedades”, “todos nós estamos”): são as palavras exatas da comissária (veja: *Discurso direto, indireto e indireto livre*).\n3. Palavras exatas entre aspas: discurso direto.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "As proposições a seguir foram retiradas de obras de diferentes autores. Analise-as, observando quais das seguintes expressões em língua portuguesa formal poderiam preencher corretamente as lacunas, numeradas de 1 a 6 (uma das expressões aparece mais de uma vez):\n\n| em primeiro lugar | em segundo lugar | por exemplo |\n|---|---|---|\n| isto é | por outro lado | |\n\n*No decorrer do século XX, a termodinâmica,* [1], *a ciência do calor, e a mecânica estatística,* [2], *a ciência da probabilidade dos diversos movimentos, foram estendidas também aos campos eletromagnéticos e aos fenômenos quânticos.* (Rovelli, C. *Sete breves lições de física*. Trad. Joana Angélica d’Ávila Melo. Rio de Janeiro: Objetiva, 2015).\n\n*Sabemos o que acontece a um campo eletromagnético quente: em um forno,* [3], *há radiação eletromagnética quente que sabemos descrever. As ondas eletromagnéticas vibram ao acaso distribuindo entre si a energia.* (Rovelli, C. *Sete breves lições de física*. Trad. Joana Angélica d’Ávila Melo. Rio de Janeiro: Objetiva, 2015).\n\n*Os humanos arcaicos pagaram por seu cérebro grande de duas maneiras.* [4], *passaram mais tempo em busca de comida.* [5], *seus músculos atrofiaram.* (HARARI, Y. N. *Sapiens*: Uma breve história da humanidade. Trad. Janaína Marcoantonio. Porto Alegre: L&PM, 2015).\n\n*Com a exceção do uso do fogo, os caçadores-coletores faziam poucas modificações deliberadas nas terras por onde perambulavam. Os agricultores,* [6], *viviam em ilhas humanas artificiais que eles talhavam laboriosamente a partir da natureza ao redor.* (HARARI, Y. N. *Sapiens*: Uma breve história da humanidade. Trad. Janaína Marcoantonio. Porto Alegre: L&PM, 2015).\n\nPreservando a norma culta, as lacunas podem ser completadas respectivamente por:",
+      "imagens": [],
+      "alternativas": {
+        "A": "[1] por exemplo; [2] isto é; [3] por outro lado; [4] por exemplo; [5] em primeiro lugar; [6] em segundo lugar.",
+        "B": "[1] em primeiro lugar; [2] em segundo lugar; [3] isto é; [4] por outro lado; [5] por exemplo; [6] isto é.",
+        "C": "[1] isto é; [2] isto é; [3] por exemplo; [4] em primeiro lugar; [5] em segundo lugar; [6] por outro lado.",
+        "D": "[1] em primeiro lugar; [2] em segundo lugar; [3] por outro lado; [4] por exemplo; [5] isto é; [6] por exemplo."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "[1] não traz um exemplo: “a ciência do calor” explica o que é termodinâmica, e isso pede *isto é*.",
+        "B": "[1] e [2] não enumeram itens: explicam cada termo. E são [4] e [5] que enumeram as duas maneiras.",
+        "D": "[3] não opõe ideias: o forno é um exemplo de campo quente. E [6] marca contraste, e não exemplo."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "*Isto é* reformula ou explica o termo anterior: “a termodinâmica, isto é, a ciência do calor”.",
+        "*Por exemplo* introduz um caso concreto; *em primeiro / segundo lugar* enumeram; *por outro lado* contrasta.",
+        "Pistas no texto: “duas maneiras” pede enumeração; caçadores-coletores × agricultores pede contraste."
+      ],
+      "raciocinio": "1. [1] e [2] explicam o termo anterior: “a termodinâmica, **isto é**, a ciência do calor”. É reformulação (veja: *Conectivos e relações de sentido*).\n2. [3] traz um caso concreto: “em um forno, **por exemplo**”.\n3. [4] e [5] enumeram as “duas maneiras”: **em primeiro lugar**, **em segundo lugar**.\n4. [6] contrasta agricultores e caçadores-coletores: “Os agricultores, **por outro lado**”.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o seguinte quadrinho da Dona Anésia:\n\n![Quadrinho em quatro quadros, em tons de rosa. A neta reclama do latido do cachorro da vizinha; Dona Anésia, sentada, responde; a neta se irrita; Dona Anésia dá um conselho.](img/2022-1-a/q11.png \"Quadro 1 – Neta: O cachorro da vizinha tá latindo o dia todo. (Ao fundo: Au au au.) | Quadro 2 – Dona Anésia: Cachorros latem! Ele está irritado com algo. | Quadro 3 – Neta: Irritada estou eu, com esse latido infernal. | Quadro 4 – Dona Anésia: Você tem muito o que aprender com esse cachorro. Por que não vai latir lá fora?\")\n\n<cite>Texto adaptado. Fonte: https://www.instagram.com/dona.anesia/. Acesso em: 06 out. 2021.</cite>\n\nA neta da Dona Anésia reclama, dizendo “O cachorro da vizinha tá latindo o dia todo.” e Dona Anésia responde “Ele está irritado com algo.” Os termos **da vizinha** e **irritado** são modificadores que qualificam outros termos das orações. Entretanto, eles não desempenham a mesma função nos exemplos escolhidos do quadrinho. Marque a alternativa correta segundo a função de cada termo, respectivamente:",
+      "imagens": [
+        "img/2022-1-a/q11.png"
+      ],
+      "alternativas": {
+        "A": "Adjunto adnominal e predicativo do sujeito.",
+        "B": "Predicativo do sujeito e complemento nominal.",
+        "C": "Predicativo do sujeito e adjunto adnominal.",
+        "D": "Complemento nominal e adjunto adnominal."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Da vizinha* acompanha *cachorro* diretamente, sem verbo de ligação: não é predicativo. E *irritado* não completa nenhum nome.",
+        "C": "Inverte as funções: *da vizinha* é adjunto adnominal, e *irritado*, ligado por *está*, é predicativo.",
+        "D": "*Da vizinha* não completa o sentido de *cachorro*, só o especifica. E *irritado* vem depois de verbo de ligação."
+      },
+      "teoria": [
+        "adjunto-adnominal",
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Adjunto adnominal acompanha o substantivo dentro do mesmo termo: “o cachorro **da vizinha**”.",
+        "Predicativo do sujeito vem depois de verbo de ligação e atribui um estado ao sujeito: “ele **está irritado**”.",
+        "Teste: se há *ser*, *estar* ou *parecer* entre o sujeito e a característica, é predicativo."
+      ],
+      "raciocinio": "1. “O cachorro **da vizinha**”: a locução acompanha o substantivo *cachorro* e o especifica, sem verbo no meio. É adjunto adnominal (veja: *Adjunto adnominal e locução adjetiva*).\n2. “Ele **está** irritado”: *estar* é verbo de ligação, e *irritado* é um estado atribuído ao sujeito *ele*. É predicativo do sujeito (veja: *Verbos de ligação e predicativo do sujeito*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Observe os seguintes períodos e verifique o conectivo sublinhado em cada um deles:\n\nI - A corrupção traz muitas desvantagens <u>**onde**</u> ficamos sujeitos a políticos que nos roubam.\nII - Os EUA são os maiores poluidores do mundo e, <u>**por consequência**</u>, são os que menos se preocupam com a poluição.\nIII - Eu fui dormir mais cedo <u>**porque**</u> estava com muito sono.\nIV - Fazia muito frio, <u>**bem como**</u> fomos à praia.\n\nDe acordo com a análise das orações, assinale a alternativa correta:",
+      "imagens": [],
+      "alternativas": {
+        "A": "No Período I, o conectivo “onde” está sendo utilizado de modo adequado.",
+        "B": "No Período IV, o conectivo “bem como” está sendo utilizado de modo adequado.",
+        "C": "No Período III, o conectivo “porque” está sendo utilizado de modo inadequado.",
+        "D": "No Período II, o conectivo “por consequência” está sendo utilizado de modo inadequado."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Onde* indica lugar, e “desvantagens” não é lugar. Caberia *pois* ou *já que*.",
+        "B": "*Bem como* soma ideias, mas frio e ida à praia se opõem: caberia *mas* ou *mesmo assim*.",
+        "C": "*Porque* está adequado: o sono é a causa de ter ido dormir mais cedo."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Cada conectivo marca uma relação: *onde* (lugar), *porque* (causa), *bem como* (adição), *por consequência* (consequência).",
+        "Para testar, pergunte se a relação existe entre as ideias. Ser poluidor não causa desinteresse pela poluição.",
+        "Frio × ir à praia é quebra de expectativa: pede *mas* ou *mesmo assim*, e não adição."
+      ],
+      "raciocinio": "1. Teste cada conectivo pela relação que ele deveria marcar (veja: *Conectivos e relações de sentido*).\n2. I: *onde* indica lugar, e “desvantagens” não é lugar. Inadequado.\n3. III: *porque* liga o efeito (dormir cedo) à causa (sono). Adequado.\n4. IV: *bem como* indica adição, mas ir à praia com frio é uma quebra de expectativa. Inadequado.\n5. II: ser grande poluidor não **causa** pouca preocupação com a poluição. *Por consequência* está inadequado, como diz a D.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia a seguir o trecho de uma reportagem jornalística e, responda ao que se pede:\n\n> Para José Vicente, reitor da Faculdade Zumbi dos Palmares, [...] “Graças às cotas, ampliamos, em tempo recorde, de 2% para quase 15% a quantidade de negros nas universidades. Pela primeira vez na história, estamos vendo esse grupo de brasileiros não só entrar, mas permanecer e sair da universidade aplicando esse conhecimento. Sob todos os aspectos, as cotas são e continuam sendo uma grande vitória”.\n>\n> <cite>MOREIRA, M. *Cotas fizeram negros saírem das páginas policiais e virarem colunistas, diz reitor da Zumbi dos Palmares*. Disponível em: https://www1.folha.uol.com.br/cotidiano/2021/10/cotas-fizeram-negros-sairem-das-paginas-policiais-e-viraram-colunistas-diz-reitor-da-zumbi-dos-palmares.shtml. Acesso em: 03 out. 2021.</cite>\n\nAssinale a alternativa que apresenta tempo e modo verbal predominantes no trecho, bem como número e pessoa em que esses verbos estão conjugados:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Presente do indicativo, 1ª pessoa do plural e 3ª pessoa do plural.",
+        "B": "Presente do subjuntivo, 3ª pessoa do plural.",
+        "C": "Pretérito perfeito do indicativo, 1ª pessoa do plural e 3ª pessoa do plural.",
+        "D": "Pretérito imperfeito do subjuntivo, 1ª pessoa do plural."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Não há subjuntivo, que exprime dúvida ou desejo (“que sejam”). *São* e *estamos* são formas do indicativo.",
+        "C": "Predomina o presente: *estamos vendo*, *são*, *continuam sendo*. O trecho fala do que acontece agora.",
+        "D": "Não há imperfeito do subjuntivo (“se fôssemos”). Os verbos estão no presente do indicativo."
+      },
+      "teoria": [
+        "tempos-e-modos-verbais"
+      ],
+      "essencial": [
+        "Presente do indicativo indica fatos atuais, dados como certos: *estamos*, *são*, *continuam*.",
+        "Pessoa e número vêm da terminação: *-mos* é 1ª do plural (nós); *são* e *continuam*, 3ª do plural (eles).",
+        "O subjuntivo exprime dúvida, desejo ou hipótese: “que eles sejam”, “se fôssemos”."
+      ],
+      "raciocinio": "1. Liste os verbos que se referem ao momento da fala: **estamos** (vendo), **são**, **continuam** (sendo) (veja: *Tempos e modos verbais*).\n2. Todos estão no presente do indicativo: fatos dados como certos, que acontecem agora.\n3. Pessoa e número: *estamos* é 1ª do plural (nós); *são* e *continuam* são 3ª do plural (as cotas).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "Leia a seguinte estrofe extraída da música “Acrilic on canvas”, da banda Legião Urbana:\n\n> [...] Por que eu finjo que acredito no que invento?\n> Nada disso aconteceu assim - não foi desse jeito.\n> Ninguém sofreu: é só você que provoca essa saudade vazia\n> Tentando pintar essas flores com o nome\n> De “amor-perfeito” e “não-te-esqueças-de-mim”.\n>\n> <cite>RUSSO, Renato; VILLA-LOBOS, Dado; BONFÁ, Marcelo; ROCHA, Renato. Acrilic on canvas. In: URBANA, Legião. *Dois*. Gravadora EMI, 1986.</cite>\n\nNo último verso da estrofe, há duas palavras compostas por justaposição: “amor-perfeito” e “não-te-esqueças-de-mim”. Assinale a alternativa que contém apenas palavras compostas por esse mesmo processo de formação:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Cachorro-quente, guarda-roupa, pontapé, saca-rolha, aguardente.",
+        "B": "Arco-íris, boquiaberto, cavalo-marinho, girassol, paraquedas.",
+        "C": "Beija-flor, bem-me-quer, audiovisual, passatempo, malmequer.",
+        "D": "Limpa-calhas, toque-toque, couve-flor, planalto, mandachuva."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Aguardente* perde o *a* de *água* (água + ardente): é aglutinação.",
+        "B": "*Boquiaberto* transforma *boca* em *boqui-*: é aglutinação.",
+        "D": "*Planalto* perde o *o* de *plano* (plano + alto): é aglutinação."
+      },
+      "teoria": [
+        "formacao-de-palavras"
+      ],
+      "essencial": [
+        "Composição: duas ou mais palavras formam uma nova.",
+        "Justaposição: as partes não perdem som: *beija-flor*, *passatempo*, *malmequer*.",
+        "Aglutinação: alguma parte perde ou muda som: *aguardente* (água + ardente), *planalto* (plano + alto)."
+      ],
+      "raciocinio": "1. Justaposição: as palavras se unem sem perder nenhum som. Aglutinação: alguma parte perde ou muda som (veja: *Formação de palavras*).\n2. Procure a aglutinação em cada alternativa: A tem *aguardente* (água + ardente); B, *boquiaberto* (boca + aberto); D, *planalto* (plano + alto).\n3. Em C, todas mantêm os sons: *beija-flor*, *bem-me-quer*, *audiovisual*, *passatempo* (passa + tempo), *malmequer* (mal + me + quer).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia o meme e responda à questão:\n\n![Meme com a foto de um homem de capuz, sorrindo, com uma frase em cima e outra embaixo.](img/2022-1-a/q15.jpg \"Já pensou que louco não existir o termo “personalidade forte” | e a pessoa ter que admitir que é chata mesmo?\")\n\n<cite>Disponível em: https://pt.dopl3r.com/memes/graciosos/ja-pensou-que-louco-nao-ekistir-o-termo-personalidade-forte-ea-pessoa-ter-que-admitir-que-e-chata-mesmo/74125. Acesso em: 05 out. 2021.</cite>\n\nNo meme, podemos encontrar",
+      "imagens": [
+        "img/2022-1-a/q15.jpg"
+      ],
+      "alternativas": {
+        "A": "Oração subordinada substantiva objetiva indireta em “que é chata”.",
+        "B": "Oração subordinada substantiva objetiva direta em “que é chata”.",
+        "C": "Oração subordinada substantiva subjetiva em “que louco”.",
+        "D": "Oração subordinada substantiva predicativa em “que louco”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Admitir* não pede preposição: “admitir isso”. Por isso a oração é objetiva direta, e não indireta.",
+        "C": "“Que louco” é uma exclamação, e não uma oração: não tem verbo.",
+        "D": "“Que louco” não tem verbo e não vem depois de verbo de ligação: não é oração predicativa."
+      },
+      "teoria": [
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Oração subordinada substantiva faz o papel de um substantivo: troque-a por *isso*.",
+        "“Admitir **que é chata**” = “admitir isso”: complemento sem preposição, logo objetiva direta.",
+        "Com preposição (“gostar **de** que…”), seria objetiva indireta."
+      ],
+      "raciocinio": "1. Ache o verbo de que a oração depende: “admitir **que é chata**”. Quem admite, admite **algo** (veja: *Orações subordinadas*).\n2. A oração “que é chata” é esse algo: completa *admitir* sem preposição. Troque por *isso*: “admitir isso”.\n3. Complemento sem preposição de um verbo é objeto direto: a oração é subordinada substantiva objetiva direta.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "É comum encontrarmos representações do mapa do estado de São Paulo construídas por figuras geométricas. Utilizando um software de geometria dinâmica, um estudante fez uma delas, usando uma malha quadriculada:\n\n![Polígono ABGIFEDH desenhado numa malha quadriculada, lembrando o mapa de São Paulo. O segmento DE desce na diagonal, de D até E.](img/2022-1-a/q16.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSupondo que o lado de cada quadradinho da malha mede 1 centímetro, é correto afirmar que a distância entre os pontos DE é um número:",
+      "imagens": [
+        "img/2022-1-a/q16.png"
+      ],
+      "alternativas": {
+        "A": "Natural.",
+        "B": "Racional.",
+        "C": "Inteiro.",
+        "D": "Irracional."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Seria natural se a raiz fosse exata. Mas \\(\\sqrt{18}\\) não é: 18 não é quadrado perfeito.",
+        "B": "\\(3\\sqrt{2}\\) não pode ser escrito como fração de inteiros: tem infinitas casas decimais, sem repetição.",
+        "C": "\\(\\sqrt{18} \\approx 4{,}24\\) não é inteiro: fica entre 4 e 5."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Segmento inclinado na malha: conte os quadradinhos na horizontal e na vertical; eles são os catetos.",
+        "Pitágoras: \\(DE^2 = 3^2 + 3^2 = 18\\).",
+        "Raiz de número que não é quadrado perfeito é irracional: \\(\\sqrt{18} = 3\\sqrt{2}\\)."
+      ],
+      "raciocinio": "1. Conte os quadradinhos: de D até E, são 3 para a direita e 3 para baixo.\n2. DE é a hipotenusa de um triângulo retângulo de catetos 3 e 3 (veja: *Teorema de Pitágoras*): \\(DE^2 = 3^2 + 3^2 = 18\\).\n3. \\(DE = \\sqrt{18} = 3\\sqrt{2} \\approx 4{,}24\\) cm. Como 18 não é quadrado perfeito, a raiz é irracional (veja: *Raízes e radicais*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Uma pessoa costuma tomar café da manhã em uma padaria próxima ao seu trabalho. Semana passada gastou R$ 8,00 em 2 pães de queijo e 1 café com leite. Esta semana gastou R$ 13,00 em 3 pães de queijo e 2 cafés com leite. O valor de cada pão de queijo é de:",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 4,20",
+        "B": "R$ 4,14",
+        "C": "R$ 3,00",
+        "D": "R$ 2,00"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com R$ 4,20, dois pães já custariam R$ 8,40, mais que os R$ 8,00 da primeira compra.",
+        "B": "Com R$ 4,14, dois pães custariam R$ 8,28, mais que o total da primeira compra.",
+        "D": "Com o pão a R$ 2,00, o café custaria R$ 4,00, e a segunda compra daria \\(6 + 8 = 14\\), e não 13."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Duas compras, duas equações: \\(2p + c = 8\\) e \\(3p + 2c = 13\\).",
+        "Substituição: isole \\(c = 8 - 2p\\) e troque na outra equação.",
+        "Confira: o preço tem de funcionar nas duas compras."
+      ],
+      "raciocinio": "1. Monte o sistema, com \\(p\\) = pão de queijo e \\(c\\) = café com leite (veja: *Sistemas de equações do 1º grau*): \\(2p + c = 8\\) e \\(3p + 2c = 13\\).\n2. Da primeira: \\(c = 8 - 2p\\). Na segunda: \\(3p + 2(8 - 2p) = 13 \\Rightarrow 16 - p = 13 \\Rightarrow p = 3\\).\n3. Conferindo: \\(c = 2\\); \\(2 \\cdot 3 + 2 = 8\\) ✓ e \\(3 \\cdot 3 + 2 \\cdot 2 = 13\\) ✓.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Deseja-se construir um jardim retangular em um quintal. Buscando economizar o material que será utilizado para cercar o jardim, o proprietário decide utilizar o muro da casa como um de seus lados, assim como também os 20 metros de cerca que o quintal já possui. Pretende, ainda, que seu jardim ocupe exatamente 50 metros quadrados de área do quintal, conforme ilustrado na figura a seguir.\n\n![Jardim retangular de 50 metros quadrados encostado no muro da casa. Os dois lados perpendiculares ao muro medem x metros, e o lado paralelo ao muro mede (20 − 2x) metros.](img/2022-1-a/q18.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nNessas condições, qual equação pode representar a área desse jardim?",
+      "imagens": [
+        "img/2022-1-a/q18.png"
+      ],
+      "alternativas": {
+        "A": "\\((x - 5)^2 = 0\\)",
+        "B": "\\(x^2 - 50 = 0\\)",
+        "C": "\\(-2x^2 - 30 = 0\\)",
+        "D": "\\(20x^2 - 2x - 50 = 0\\)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "\\(x^2 = 50\\) seria a área de um quadrado de lado \\(x\\). O jardim tem lados \\(x\\) e \\(20 - 2x\\).",
+        "C": "\\(-2x^2 - 30 = 0\\) não tem solução real: daria \\(x^2 = -15\\).",
+        "D": "A multiplicação está errada: \\(x(20 - 2x) = 20x - 2x^2\\), e não \\(20x^2 - 2x\\)."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "equacoes-do-2o-grau"
+      ],
+      "essencial": [
+        "Área do retângulo: \\(x \\cdot (20 - 2x) = 50\\).",
+        "Organize a equação: \\(20x - 2x^2 = 50\\) vira \\(x^2 - 10x + 25 = 0\\).",
+        "Trinômio quadrado perfeito: \\(x^2 - 10x + 25 = (x - 5)^2\\)."
+      ],
+      "raciocinio": "1. Área do retângulo = lado × lado (veja: *Áreas de figuras planas*): \\(x(20 - 2x) = 50\\).\n2. Distributiva: \\(20x - 2x^2 = 50\\). Passe tudo para um lado: \\(2x^2 - 20x + 50 = 0\\).\n3. Divida por 2: \\(x^2 - 10x + 25 = 0\\). É o quadrado da diferença: \\((x - 5)^2 = 0\\) (veja: *Equações do 2º grau*).\n4. Conferindo: \\(x = 5\\) dá um jardim de 5 m por 10 m, com 50 m² ✓.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Um bloco cúbico tem três vistas ortogonais indicadas e apresentadas ao lado, conforme as figuras a seguir:\n\n![Um dado em perspectiva, com setas indicando três pontos de vista: frontal, superior e lateral. Ao lado, as três vistas planas do dado, cada uma mostrando uma face.](img/2022-1-a/q19-cubo.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSabendo disso, são apresentadas abaixo as vistas ortogonais de um outro bloco tridimensional:\n\n![Três vistas de um bloco. Frontal: um quadrado com uma coluna estreita em cima, encostada à esquerda. Superior: um quadrado com um quadradinho no canto de cima, à esquerda. Lateral: um quadrado escuro com uma coluna estreita em cima, encostada à direita.](img/2022-1-a/q19-vistas.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nAssinale a alternativa que mostra o bloco tridimensional referente a essas vistas:",
+      "imagens": [
+        "img/2022-1-a/q19-cubo.png",
+        "img/2022-1-a/q19-vistas.png",
+        "img/2022-1-a/q19-a.png",
+        "img/2022-1-a/q19-b.png",
+        "img/2022-1-a/q19-c.png",
+        "img/2022-1-a/q19-d.png"
+      ],
+      "alternativas": {
+        "A": "![Bloco com um segundo bloco largo em cima, ocupando a metade de trás.](img/2022-1-a/q19-a.png)",
+        "B": "![Bloco com uma coluna estreita em cima, no fundo, afastada da borda esquerda.](img/2022-1-a/q19-b.png)",
+        "C": "![Bloco com uma coluna estreita em cima, no centro.](img/2022-1-a/q19-c.png)",
+        "D": "![Bloco com uma coluna estreita em cima, no canto de trás, à esquerda.](img/2022-1-a/q19-d.png)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A vista superior mostra só um quadradinho no canto: a parte de cima é uma coluna estreita, e não um bloco largo.",
+        "B": "A coluna está afastada da borda esquerda. Na vista frontal, ela encosta na borda esquerda do bloco.",
+        "C": "A coluna está no centro. As vistas mostram a coluna encostada no canto de trás, à esquerda."
+      },
+      "teoria": [
+        "vistas-ortogonais"
+      ],
+      "essencial": [
+        "Vistas ortogonais: o que se vê de frente, de cima e de lado, como desenhos planos do objeto.",
+        "Na vista superior, a parte de cima do desenho corresponde ao fundo do objeto.",
+        "Combine as três: a coluna aparece à esquerda (frente), no canto de cima (topo) e à direita (lado)."
+      ],
+      "raciocinio": "1. Vista superior: um quadradinho no canto de cima, à esquerda. A coluna fica no fundo do bloco, encostada à esquerda (veja: *Vistas ortogonais de sólidos*).\n2. Vista frontal: a coluna aparece encostada na borda esquerda ✓.\n3. Vista lateral (olhando pela direita): a coluna aparece à direita, que é o fundo do bloco ✓.\n4. Só o bloco D tem a coluna estreita no canto de trás, à esquerda.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "O Sistema Internacional estabelece que as medidas de comprimento têm, como unidade padrão, o metro (m). Medidas muito grandes ou muito pequenas são realizadas considerando múltiplos e submúltiplos do metro, dentre os quais destacam-se o quilômetro (km), o centímetro (cm) e o milímetro (mm), por serem os mais conhecidos e utilizados no dia a dia.\n\nDentre as unidades de medida de comprimento que estão presentes no parágrafo anterior, indique, na ordem correta, as que devem ser utilizadas para se registrar:\nI - O diâmetro de um grafite de lapiseira;\nII - A largura de uma rua;\nIII - A distância da Terra ao Sol.",
+      "imagens": [],
+      "alternativas": {
+        "A": "metro, quilômetro, centímetro.",
+        "B": "centímetro, metro, quilômetro.",
+        "C": "milímetro, metro, quilômetro.",
+        "D": "milímetro, centímetro, metro."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O grafite tem menos de 1 mm: em metros, seria algo como 0,0005 m. E a distância ao Sol pede quilômetros.",
+        "B": "O centímetro é grande para um grafite de 0,5 mm; a unidade adequada é o milímetro.",
+        "D": "A distância da Terra ao Sol, cerca de 150 milhões de km, pede quilômetro, e não metro."
+      },
+      "teoria": [
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Escolha a unidade que deixa o número fácil de ler: nem muito grande, nem muito pequeno.",
+        "1 km = 1.000 m; 1 m = 100 cm = 1.000 mm.",
+        "Grafite (0,5 mm) → milímetro; rua (alguns metros) → metro; Terra–Sol (150 milhões de km) → quilômetro."
+      ],
+      "raciocinio": "1. Escolha a unidade de tamanho parecido com o que se mede (veja: *Conversão de unidades*).\n2. Grafite de lapiseira: cerca de 0,5 mm ou 0,7 mm: **milímetro**.\n3. Largura de uma rua: alguns metros: **metro**.\n4. Distância da Terra ao Sol: cerca de 150 milhões de quilômetros: **quilômetro**.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "O aquarismo é uma prática que vem aumentando. O cuidado e tratamento adequados com peixes ornamentais atrai cada vez mais adeptos e traz vários benefícios ao praticante. Uma pessoa comprou seu primeiro aquário com a forma de um prisma retangular e dimensões de acordo com a seguinte figura:\n\n![Aquário em forma de bloco retangular com 80 cm de comprimento, 30 cm de largura e 40 cm de altura.](img/2022-1-a/q21.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nPosteriormente, essa mesma pessoa comprou produtos para o tratamento da água e cuidados com os peixes e, ao ler as orientações técnicas de um dos produtos, observou que deveria adicionar 1 gota da substância para cada 4 litros de água. Quantas gotas desse produto devem ser utilizadas em uma única aplicação, considerando que o aquário estará totalmente cheio apenas com água? (1.000 cm³ equivalem a 1 litro)",
+      "imagens": [
+        "img/2022-1-a/q21.png"
+      ],
+      "alternativas": {
+        "A": "24",
+        "B": "96",
+        "C": "120",
+        "D": "150"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "96 é o volume em litros. Falta dividir por 4, já que é 1 gota a cada 4 litros.",
+        "C": "120 gotas pediriam 480 L de água. O aquário tem 96 L: \\(96 \\div 4 = 24\\).",
+        "D": "150 gotas pediriam 600 L de água; o aquário tem só 96 L."
+      },
+      "teoria": [
+        "volumes",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Volume do bloco retangular: comprimento × largura × altura: \\(80 \\cdot 30 \\cdot 40 = 96\\,000\\) cm³.",
+        "1.000 cm³ = 1 L, então o aquário tem 96 L.",
+        "1 gota a cada 4 litros: divida o volume por 4."
+      ],
+      "raciocinio": "1. Volume do aquário (veja: *Volumes de sólidos*): \\(80 \\cdot 30 \\cdot 40 = 96\\,000\\) cm³.\n2. Em litros (veja: *Conversão de unidades*): \\(96\\,000 \\div 1000 = 96\\) L.\n3. Uma gota a cada 4 litros: \\(96 \\div 4 = 24\\) gotas.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "A crise hídrica é grave! Enfrentamos a pior seca dos últimos 90 anos e a falta de água prejudica o funcionamento das hidrelétricas. Pensando nisso, uma empresa realizou um estudo sobre o consumo de energia elétrica de um equipamento de uma fábrica em quatro momentos, obtendo o seguinte gráfico:\n\n![Gráfico de Consumo em kW por Dias: uma reta crescente que passa pela origem e pelos pontos (3, 1200), (5, 2000) e (8, 3200).](img/2022-1-a/q22.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nA equação polinomial de 1º grau que representa o consumo de energia elétrica (C) do equipamento em função dos dias (t) é dada por:",
+      "imagens": [
+        "img/2022-1-a/q22.png"
+      ],
+      "alternativas": {
+        "A": "\\(C = -400t\\)",
+        "B": "\\(C = 200t - 400\\)",
+        "C": "\\(C = 400t\\)",
+        "D": "\\(C = -200t + 400\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com coeficiente negativo, a reta desceria. O consumo cresce com os dias.",
+        "B": "Com \\(t = 0\\), daria \\(C = -400\\); a reta passa pela origem.",
+        "D": "Essa reta desceria e começaria em 400. No gráfico, ela sobe e sai da origem."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Função afim: \\(C = at + b\\). O \\(b\\) é onde a reta corta o eixo vertical; aqui, 0.",
+        "Taxa de variação: \\(a = \\frac{\\Delta C}{\\Delta t} = \\frac{1200}{3} = 400\\).",
+        "Reta crescente tem \\(a\\) positivo; decrescente, \\(a\\) negativo."
+      ],
+      "raciocinio": "1. A reta passa pela origem: com \\(t = 0\\), \\(C = 0\\). Então \\(b = 0\\) e \\(C = at\\) (veja: *Funções afins e retas*).\n2. Taxa de variação: \\(a = \\frac{1200 - 0}{3 - 0} = 400\\) kW por dia.\n3. Conferindo: \\(400 \\cdot 5 = 2000\\) ✓ e \\(400 \\cdot 8 = 3200\\) ✓.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "A pandemia de COVID-19 fez com que várias instituições se reorganizassem para receber as pessoas que as frequentavam antes das medidas de isolamento social. A escola é uma dessas instituições que se reestrutura para garantir que o retorno de funcionários e estudantes aconteça de forma segura.\n\nPara organizar a sala de aula de 60m², uma escola distribuiu as carteiras em três fileiras, respeitando o distanciamento, conforme mostra a figura a seguir:\n\n![Planta da sala retangular com três fileiras de cinco carteiras, separadas por faixas tracejadas. O comprimento da sala, no lado direito, é x; embaixo, cada fileira tem largura x/4.](img/2022-1-a/q23.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSabe-se que o comprimento da sala mede *x* metros, que cada fileira tem \\(\\frac{1}{4}\\) do comprimento da sala e que a largura da sala é composta pelas 3 fileiras. Qual a largura total da sala em metros?",
+      "imagens": [
+        "img/2022-1-a/q23.png"
+      ],
+      "alternativas": {
+        "A": "\\(\\sqrt{5}\\)",
+        "B": "\\(3\\sqrt{5}\\)",
+        "C": "\\(4\\sqrt{5}\\)",
+        "D": "\\(7\\sqrt{5}\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(\\sqrt{5}\\) é a largura de uma só fileira (\\(\\frac{x}{4}\\)). A sala tem três.",
+        "C": "\\(4\\sqrt{5}\\) é o comprimento \\(x\\) da sala, e não a largura.",
+        "D": "\\(7\\sqrt{5}\\) soma comprimento e largura (\\(4\\sqrt{5} + 3\\sqrt{5}\\)). A pergunta é só a largura."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Escreva as medidas com uma letra só: comprimento \\(x\\), largura \\(\\frac{3x}{4}\\).",
+        "Área do retângulo: \\(x \\cdot \\frac{3x}{4} = 60\\), então \\(x^2 = 80\\).",
+        "Simplifique a raiz tirando quadrados perfeitos: \\(\\sqrt{80} = \\sqrt{16 \\cdot 5} = 4\\sqrt{5}\\)."
+      ],
+      "raciocinio": "1. Largura: 3 fileiras de \\(\\frac{x}{4}\\), ou seja, \\(\\frac{3x}{4}\\).\n2. Área (veja: *Áreas de figuras planas*): \\(x \\cdot \\frac{3x}{4} = 60 \\Rightarrow x^2 = 80 \\Rightarrow x = \\sqrt{80}\\).\n3. Simplifique (veja: *Raízes e radicais*): \\(\\sqrt{80} = \\sqrt{16 \\cdot 5} = 4\\sqrt{5}\\). Esse é o comprimento.\n4. Largura: \\(\\frac{3}{4} \\cdot 4\\sqrt{5} = 3\\sqrt{5}\\) m.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Uma ferramenta matemática desenvolvida pela Universidade de Brasília tem auxiliado no monitoramento mais ágil da evolução da pandemia de Covid-19. A tecnologia “Calculadora R(t)” fornece a velocidade de propagação (R) do vírus em uma determinada população. Se, por exemplo, R = 2 e o número de contaminados for 30, então, serão gerados 60 novos casos no próximo ciclo. Assim, os 60 casos tornam-se transmissores neste novo ciclo. Para que o estado de pandemia esteja controlado, é sugerido que \\(R(t) < 1\\), o que expressa a dificuldade do vírus em se propagar.\n\n| ciclo | 0 | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|---|\n| nº casos novos | 256 | 320 | | | |\n\nConsidere, conforme a tabela acima, que em um determinado grupo haja 256 contaminados inicialmente e que o valor estimado de R até o 4º ciclo seja 1,25. Qual o número de casos novos no 4º ciclo?",
+      "imagens": [],
+      "alternativas": {
+        "A": "500",
+        "B": "512",
+        "C": "576",
+        "D": "625"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "500 é o ciclo 3. Falta mais uma multiplicação: \\(500 \\cdot 1{,}25 = 625\\).",
+        "B": "512 é \\(256 + 4 \\cdot 64\\): somou 64 a cada ciclo. Os casos se multiplicam por 1,25 a cada ciclo.",
+        "C": "576 é a soma \\(256 + 320\\). A pergunta é o número de casos novos no ciclo 4."
+      },
+      "teoria": [
+        "progressao-geometrica"
+      ],
+      "essencial": [
+        "Progressão geométrica: cada termo é o anterior multiplicado por um valor fixo, a razão. Aqui, \\(q = 1{,}25\\).",
+        "Do ciclo 0 ao ciclo 4 há quatro multiplicações: \\(256 \\cdot 1{,}25^4\\).",
+        "Use frações para facilitar: \\(1{,}25 = \\frac{5}{4}\\), e \\(4^4 = 256\\)."
+      ],
+      "raciocinio": "1. A cada ciclo, os casos novos são multiplicados por \\(R = 1{,}25\\): \\(256 \\cdot 1{,}25 = 320\\), como na tabela. É uma progressão geométrica (veja: *Progressão geométrica*).\n2. Continue: ciclo 2, \\(320 \\cdot 1{,}25 = 400\\); ciclo 3, \\(400 \\cdot 1{,}25 = 500\\); ciclo 4, \\(500 \\cdot 1{,}25 = 625\\).\n3. Em uma conta só: \\(256 \\cdot \\left(\\frac{5}{4}\\right)^4 = 256 \\cdot \\frac{625}{256} = 625\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Um laboratório de pesquisa de combustíveis analisou o consumo de um carro *flex*, automóvel que funciona com gasolina ou etanol.\n\nAo abastecer o carro somente com gasolina, o automóvel percorreu 396 km, consumindo 33 litros desse combustível. Em seguida, o laboratório esvaziou totalmente o tanque do carro e o preencheu com etanol. Dessa vez, o carro percorreu 352 km com 40 litros de etanol.\n\nCom esses dados, o laboratório comparou os custos de cada combustível, considerando o valor de R$ 6,00 para o litro de gasolina.\n\nDessa forma, para que o custo por quilômetro rodado por esse automóvel usando etanol seja igual ao custo usando gasolina, qual o valor que o litro do etanol deve ter?",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 4,35",
+        "B": "R$ 4,40",
+        "C": "R$ 4,50",
+        "D": "R$ 4,80"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com R$ 4,35, o etanol custaria \\(4{,}35 \\div 8{,}8 \\approx 0{,}49\\) real por km, menos que os R$ 0,50 da gasolina.",
+        "C": "Com R$ 4,50, o custo seria \\(4{,}50 \\div 8{,}8 \\approx 0{,}51\\) real por km, mais que o da gasolina.",
+        "D": "R$ 4,80 é 80% de R$ 6,00. A razão certa entre os rendimentos é \\(\\frac{8{,}8}{12} \\approx 73\\%\\)."
+      },
+      "teoria": [
+        "razoes-especiais"
+      ],
+      "essencial": [
+        "Rendimento = distância ÷ litros: gasolina, 12 km/L; etanol, 8,8 km/L.",
+        "Custo por km = preço do litro ÷ rendimento: \\(6{,}00 \\div 12 = 0{,}50\\).",
+        "Para igualar, o etanol deve custar \\(0{,}50 \\cdot 8{,}8 = 4{,}40\\) por litro."
+      ],
+      "raciocinio": "1. Rendimento de cada combustível (veja: *Razões especiais: velocidade, densidade e escala*): gasolina, \\(396 \\div 33 = 12\\) km/L; etanol, \\(352 \\div 40 = 8{,}8\\) km/L.\n2. Custo por km com gasolina: \\(6{,}00 \\div 12 = 0{,}50\\) real.\n3. Para o etanol custar o mesmo por km: preço do litro \\(= 0{,}50 \\cdot 8{,}8 = 4{,}40\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "O médico inglês Alexander Fleming (1881-1955) estudava maneiras de curar as feridas infectadas de soldados na Primeira Guerra Mundial. Ele iniciou seus estudos a respeito da bactéria *Staphylococcus aureus*, responsável pelas infecções nas feridas dos soldados. Um dia ele saiu de férias e deixou as culturas das bactérias no laboratório sem o acondicionamento correto e sem nenhuma supervisão. Ao retornar semanas depois, o médico percebeu que a cultura estava repleta de bolor e, ao redor destes locais com bolor, não era detectada a presença de *Staphylococcus aureus*, o que sugeria que o fungo havia interrompido a atividade da bactéria. Análises demonstraram que o fungo em questão era o *Penicillium notatum* e que a substância secretada por ele era capaz de matar as bactérias. Surgia nesse momento a penicilina, considerada como o primeiro antibiótico da humanidade e uma das descobertas médicas mais fantásticas.\n\n<cite>Fonte: Disponível: https://www.biologianet.com/curiosidades-biologia/descoberta-penicilina.htm. Acesso em: 12 out. 2021.</cite>\n\nConsiderando que essas bactérias apresentam um diâmetro de 1,5 micrômetros (μm), aproximadamente, e que 1 micrômetro equivale a 0,000001 metros, qual o diâmetro das bactérias em metros?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(1{,}0 \\times 10^{-5}\\)",
+        "B": "\\(1{,}5 \\times 10^{-5}\\)",
+        "C": "\\(1{,}0 \\times 10^{-6}\\)",
+        "D": "\\(1{,}5 \\times 10^{-6}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O número e o expoente estão errados: \\(10^{-5}\\) é 10 vezes maior que \\(10^{-6}\\), e o diâmetro é 1,5, e não 1,0.",
+        "B": "\\(1{,}5 \\times 10^{-5}\\) m = 0,000015 m, ou 15 μm: dez vezes o tamanho da bactéria.",
+        "C": "\\(1{,}0 \\times 10^{-6}\\) m é 1 μm. A bactéria tem 1,5 μm."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Conte as casas decimais: 0,000001 tem 6, então vale \\(10^{-6}\\).",
+        "1,5 μm = \\(1{,}5 \\times 10^{-6}\\) m.",
+        "Notação científica: um número de 1 a 10 vezes uma potência de 10."
+      ],
+      "raciocinio": "1. Escreva o micrômetro como potência de 10: \\(0{,}000001 = 10^{-6}\\) m, porque são 6 casas depois da vírgula (veja: *Potências de 10 e notação científica*).\n2. Diâmetro: 1,5 μm \\(= 1{,}5 \\times 10^{-6}\\) m.\n3. O número da frente, 1,5, já está entre 1 e 10: a notação científica está pronta.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "O “Par ou Ímpar” é um jogo para duas pessoas cujo objetivo é, geralmente, dar ao vencedor alguma vantagem em um evento posterior. Esse jogo consiste em ambos os jogadores escolherem, aleatoriamente, “par” ou “ímpar” – de modo que a escolha de um seja diferente da escolha do outro. Feita a escolha, ambos estendem, simultaneamente, uma das mãos, esticando quantos dedos desejarem (podendo não esticar nenhum). Somam-se as quantidades de dedos esticados e, se essa soma for par, vence quem tiver escolhido “par”; caso contrário – se a soma for ímpar –, vence quem tiver escolhido “ímpar”.\n\nDuas amigas, A e B, precisam decidir quem vai realizar uma tarefa e resolvem jogar três partidas de “Par ou Ímpar”, de modo que aquela que vencer mais partidas possa escolher se realizará ou não a tarefa. A amiga A escolhe “Par” para as três partidas e a amiga B fica com “Ímpar”.\n\nSobre essa situação, observe as afirmativas:\n\nI – A probabilidade de a amiga A vencer após as duas primeiras partidas é de 25%.\nII – Se a amiga B venceu a primeira partida, a probabilidade de vencer também a segunda é de 25%.\nIII – Quem vencer a primeira partida tem menos chances de vencer a segunda.\nIV – Quem vencer a primeira partida tem 75% de chances de vencer a disputa.\n\nSabendo que no jogo “Par ou Ímpar” os eventos “par” e “ímpar” são equiprováveis, quais afirmativas são corretas?",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e III",
+        "B": "I e IV",
+        "C": "II e IV",
+        "D": "II e III"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A III é falsa: as partidas são independentes, e quem venceu a primeira tem 50% de chance na segunda.",
+        "C": "A II é falsa: a segunda partida não depende da primeira, então a chance de B é de 50%.",
+        "D": "II e III são falsas: o resultado da primeira partida não muda a chance da segunda, que é sempre 50%."
+      },
+      "teoria": [
+        "probabilidade"
+      ],
+      "essencial": [
+        "Eventos independentes: um não muda a chance do outro. Cada partida é 50% para cada lado.",
+        "Dois eventos independentes juntos: multiplique as chances: \\(\\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4}\\).",
+        "Às vezes é mais fácil calcular o contrário: perder as duas seguintes tem chance \\(\\frac{1}{4}\\); vencer, \\(\\frac{3}{4}\\)."
+      ],
+      "raciocinio": "1. Cada partida: 50% para cada uma, e uma partida não depende da outra (veja: *Probabilidade*).\n2. **I – certa.** A vence as duas primeiras: \\(\\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4} = 25\\%\\).\n3. **II – errada.** A segunda partida não depende da primeira: 50%.\n4. **III – errada.** Pelo mesmo motivo, vencer a primeira não muda a chance na segunda.\n5. **IV – certa.** Quem venceu a primeira só perde a disputa se perder as duas seguintes, com chance \\(\\frac{1}{4}\\). Então vence com \\(1 - \\frac{1}{4} = 75\\%\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Em uma rede social, um usuário compartilhou o seguinte desafio com seus seguidores:\n\n![Postagem de rede social “Desafio para os criativos”, do perfil @joãomath, com 121,8 mil curtidas e 1.821 comentários.](img/2022-1-a/q28.png \"Desafio para os criativos | Sabe-se que a soma de 5 números consecutivos (em sequência) é 75. | Se o resultado da adição do terceiro número da sequência com a sua quinta parte for subtraído da metade do quarto número da sequência, qual é o resultado final após essas operações?\")\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nMuita discussão ocorreu nos comentários da postagem. Qual resposta abaixo receberia um *like* (curtida/gostei) por estar correta?",
+      "imagens": [
+        "img/2022-1-a/q28.png"
+      ],
+      "alternativas": {
+        "A": "\\(-10\\)",
+        "B": "10",
+        "C": "13",
+        "D": "15"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Fez \\(18 - 8\\). Mas “A subtraído de B” é \\(B - A\\): \\(8 - 18 = -10\\).",
+        "C": "13 é o primeiro número da sequência, e não o resultado das operações.",
+        "D": "15 é o terceiro número. Falta somar a quinta parte e fazer a subtração."
+      },
+      "teoria": [
+        "equacoes-do-1o-grau"
+      ],
+      "essencial": [
+        "Números consecutivos: chame o do meio de \\(n\\). A soma de cinco é \\(5n\\).",
+        "“A subtraído de B” significa \\(B - A\\): a ordem importa.",
+        "Quinta parte de 15 é \\(\\frac{15}{5} = 3\\); metade de 16 é 8."
+      ],
+      "raciocinio": "1. Cinco consecutivos: \\(n - 2,\\ n - 1,\\ n,\\ n + 1,\\ n + 2\\). Soma: \\(5n = 75 \\Rightarrow n = 15\\) (veja: *Equações do 1º grau e problemas*). Sequência: 13, 14, 15, 16, 17.\n2. Terceiro número mais sua quinta parte: \\(15 + \\frac{15}{5} = 18\\).\n3. “Subtraído **da** metade do quarto”: tira-se 18 de \\(\\frac{16}{2} = 8\\). Então \\(8 - 18 = -10\\).\n\nResposta: **A**.\n\n**Dica de prova:** em contas descritas por palavras, escreva cada trecho como expressão antes de calcular. “Subtraído de” inverte a ordem da conta.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Uma empresa de alta tecnologia decidiu iniciar a terraformação de Marte nos próximos anos. A terraformação é o processo de modificação das características de um corpo celeste sólido para que seja possível desenvolver e abrigar a vida como a conhecemos.\n\nPara isso, a empresa selecionou quatro pesquisadores para a missão. Eles ficarão alguns anos em Marte e terão 120 tarefas diárias no planeta, entre experimentos atmosféricos, topográficos e ecológicos. A quantidade de tarefas que cada pesquisador fará por dia é inversamente proporcional à idade de cada um.\n\nOs quatro pesquisadores têm 20, 30, 40 e 60 anos. Qual a soma das tarefas diárias que os dois pesquisadores mais velhos terão que realizar?",
+      "imagens": [],
+      "alternativas": {
+        "A": "24",
+        "B": "32",
+        "C": "40",
+        "D": "48"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "24 é só o pesquisador de 40 anos. Falta somar as 16 tarefas do de 60.",
+        "B": "32 é o pesquisador de 30 anos; a pergunta é sobre os dois mais velhos.",
+        "D": "48 é o mais novo, de 20 anos. Quanto maior a idade, menos tarefas."
+      },
+      "teoria": [
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Inversamente proporcional: quanto maior a idade, menos tarefas. Tarefas \\(= \\frac{k}{\\text{idade}}\\).",
+        "Some as partes e iguale ao total: \\(\\frac{k}{20} + \\frac{k}{30} + \\frac{k}{40} + \\frac{k}{60} = 120\\).",
+        "Use o MMC (120) para somar as frações: \\(\\frac{15k}{120} = 120\\), então \\(k = 960\\)."
+      ],
+      "raciocinio": "1. Inversamente proporcional à idade: tarefas \\(= \\frac{k}{\\text{idade}}\\) (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Total: \\(\\frac{k}{20} + \\frac{k}{30} + \\frac{k}{40} + \\frac{k}{60} = 120\\). Com denominador 120: \\(\\frac{6k + 4k + 3k + 2k}{120} = \\frac{k}{8} = 120\\), então \\(k = 960\\).\n3. Tarefas: 48, 32, 24 e 16. Os dois mais velhos (40 e 60 anos): \\(24 + 16 = 40\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "> “O Ministério da Saúde informou, hoje (26/09), que recebeu mais 2 milhões de doses da vacina da Pfizer contra a COVID-19. Segundo a pasta, das mais de 287 milhões de doses distribuídas aos estados, 75,9 milhões são da Pfizer.”\n>\n> <cite>Disponível em: https://agenciabrasil.ebc.com.br/saude/noticia/2021-09/ministerio-da-saude-recebe-mais-2-milhoes-de-doses-da-pfizer. Acesso em: 13 out. 2021. (adaptado)</cite>\n\nDe acordo com as orientações do Ministério da Saúde, uma das etapas do preparo da vacina da Pfizer é a sua diluição no frasco original com 1,8mL de solução injetável de cloreto de sódio 9mg/mL (0,9%). Após essa diluição, o frasco contém 2,25mL com a possibilidade de extração de 6 doses de 0,3mL.\n\nConsiderando as informações sobre o processo de diluição, pode-se afirmar que a quantidade mínima de solução injetável de cloreto de sódio (0,9%) necessária para o preparo das 75,9 milhões de doses distribuídas aos estados da vacina da Pfizer foi de, aproximadamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "12 m³",
+        "B": "18 m³",
+        "C": "204 m³",
+        "D": "683 m³"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "12,65 milhões é o número de frascos (\\(75{,}9 \\div 6\\)), e não o volume de solução.",
+        "C": "Multiplica o volume de solução dos frascos (cerca de 22,8 m³) pela concentração de 9 mg/mL, que não entra no cálculo do volume.",
+        "D": "683 vem de \\(75{,}9 \\cdot 9\\): usa a concentração de 9 mg/mL, que não é volume de solução."
+      },
+      "teoria": [
+        "grandezas-proporcionais",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Cada dose de 0,3 mL tem solução na proporção \\(\\frac{1{,}8}{2{,}25} = 0{,}8\\): são 0,24 mL.",
+        "Multiplique pelo número de doses: \\(75{,}9 \\times 10^6 \\cdot 0{,}24 \\approx 18{,}2 \\times 10^6\\) mL.",
+        "1 m³ = 1.000 L = \\(10^6\\) mL."
+      ],
+      "raciocinio": "1. Depois da diluição, o frasco tem 2,25 mL, dos quais 1,8 mL são de solução. Cada dose de 0,3 mL tem solução na mesma proporção (veja: *Grandezas diretamente e inversamente proporcionais*): \\(0{,}3 \\cdot \\frac{1{,}8}{2{,}25} = 0{,}24\\) mL.\n2. Para 75,9 milhões de doses: \\(75{,}9 \\times 10^6 \\cdot 0{,}24 \\approx 18{,}2 \\times 10^6\\) mL.\n3. Converta (veja: *Conversão de unidades*): 1 m³ = 1.000 L = \\(10^6\\) mL. Então \\(18{,}2 \\times 10^6\\) mL \\(\\approx 18\\) m³.\n\nResposta: **B**.",
+      "interativo": null
+    }
+  ]
+}

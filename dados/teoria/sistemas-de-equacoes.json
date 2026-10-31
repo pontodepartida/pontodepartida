@@ -1,0 +1,17 @@
+{
+  "id": "sistemas-de-equacoes",
+  "titulo": "Sistemas de equações do 1º grau",
+  "materia": "Matemática",
+  "grupo": "Expressões, equações e sistemas",
+  "texto": "Quando um problema tem **duas quantidades desconhecidas** e dá **duas informações** sobre elas, monte um **sistema** com duas equações.\n\n**Exemplo:** 30 painéis, uns de R$ 400 (\\(r\\)) e outros de R$ 700 (\\(c\\)), custaram R$ 15.900 no total.\n\n\\[\\begin{cases} r + c = 30 & \\text{(quantidade)} \\\\ 400r + 700c = 15\\,900 & \\text{(valor)} \\end{cases}\\]\n\n**Método da substituição:** isole uma letra numa equação e substitua na outra.\n\n\\[r = 30 - c \\;\\Rightarrow\\; 400(30 - c) + 700c = 15\\,900 \\;\\Rightarrow\\; 300c = 3900 \\;\\Rightarrow\\; c = 13,\\ r = 17\\]\n\n**Método da adição:** multiplique as equações por números que deixem uma letra com coeficientes opostos e some.\n\n\\[\\begin{cases} 3t + 2p = 31 \\\\ 2t + 3p = 34 \\end{cases} \\xrightarrow{\\times 3,\\ \\times(-2)} \\begin{cases} 9t + 6p = 93 \\\\ -4t - 6p = -68 \\end{cases} \\;\\Rightarrow\\; 5t = 25,\\ t = 5\\]\n\n**Método da suposição** (rápido para problemas de “dois tipos”): suponha que tudo fosse do tipo mais barato e veja quanto falta. Com 30 painéis de R$ 400, o total seria R$ 12.000; faltam R$ 3.900, e cada troca por um painel de R$ 700 acrescenta R$ 300: \\(3900 \\div 300 = 13\\) trocas.\n\n**Traduzir o enunciado:** “o triplo de X menos a metade de Y é 15” vira \\(3x - \\frac{y}{2} = 15\\). Na subtração, a **ordem** importa: “A menos B” é \\(A - B\\). Veja *Equações do 1º grau e problemas*.\n\n**Respeite a ordem pedida:** “trufa e pão de mel, **respectivamente**” significa responder primeiro o valor da trufa e depois o do pão de mel.\n\n**No gráfico:** cada equação do 1º grau com duas incógnitas é uma reta, e a solução do sistema é o **ponto onde as retas se cruzam**. Se um ponto não está nas duas retas, ele não é solução do sistema (veja *Funções afins e retas*).\n\n**Confira sempre** nas duas equações. Se as alternativas trazem pares de números, testar cada par nas duas informações do enunciado também resolve.",
+  "videos": [
+    {
+      "titulo": "Sistemas 2x2: substituição, adição e comparação - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=uah0mHwCKps"
+    },
+    {
+      "titulo": "Sistemas 2x2 (fácil) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=m3hlfARoobs"
+    }
+  ]
+}

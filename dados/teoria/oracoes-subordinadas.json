@@ -1,0 +1,17 @@
+{
+  "id": "oracoes-subordinadas",
+  "titulo": "Orações subordinadas",
+  "materia": "Português",
+  "grupo": "Conjunções e conectivos",
+  "texto": "**Orações subordinadas** dependem de outra, a **oração principal**, e exercem uma função sintática nela. Elas se dividem em três grupos, conforme o papel que fazem.\n\n| Tipo | Papel | Teste | Exemplo |\n|---|---|---|---|\n| **Substantiva** | sujeito, objeto, complemento | troque por **isso** | Espero **que você venha**. → Espero **isso**. |\n| **Adjetiva** | caracteriza um substantivo | troque por um **adjetivo** | O aluno **que estudou** passou. → O aluno **estudioso** passou. |\n| **Adverbial** | indica uma circunstância | troque por um **advérbio** | **Quando a chuva parou**, saímos. → **Depois**, saímos. |\n\n**Adjetivas:** começam por pronome relativo (*que*, *o qual*, *onde*, *cujo*). As **restritivas** limitam o sentido do substantivo, sem vírgulas (“Os alunos **que estudaram** passaram”: só eles). As **explicativas** acrescentam uma informação sobre todo o grupo, entre vírgulas (“Os alunos, **que estudaram**, passaram”: todos estudaram).\n\n**Adverbiais e seus conectivos:**\n\n| Circunstância | Conectivos |\n|---|---|\n| **Tempo** | quando, enquanto, depois que, antes que, assim que, logo que |\n| **Causa** | porque, como (no início), já que, visto que |\n| **Condição** | se, caso, desde que, contanto que |\n| **Concessão** | embora, ainda que, mesmo que, apesar de que |\n| **Finalidade** | para que, a fim de que |\n| **Consequência** | (tão, tanto)… que, de modo que |\n| **Comparação** | (mais, menos)… (do) que, como |\n| **Conformidade** | conforme, segundo, como |\n| **Proporção** | à medida que, à proporção que, quanto mais… mais |\n\n**Subordinada × coordenada:** a coordenada é independente e só fica ao lado da outra; a subordinada **faz parte** da principal (veja *Orações coordenadas*). *Sindética* e *assindética* são nomes usados para as coordenadas, conforme tenham ou não conjunção.\n\n**Orações reduzidas:** algumas subordinadas não têm conectivo e trazem o verbo no infinitivo, no gerúndio ou no particípio. “**Terminada a aula**, saímos” = “**Quando a aula terminou**, saímos”.",
+  "videos": [
+    {
+      "titulo": "Tudo sobre orações subordinadas - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=1C88RhbZjgg"
+    },
+    {
+      "titulo": "Orações subordinadas adverbiais - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=tCoaqWAaOKk"
+    }
+  ]
+}

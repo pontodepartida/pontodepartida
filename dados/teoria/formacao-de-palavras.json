@@ -1,0 +1,17 @@
+{
+  "id": "formacao-de-palavras",
+  "titulo": "Formação de palavras",
+  "materia": "Português",
+  "grupo": "Formação de palavras",
+  "texto": "Palavras novas se formam a partir de outras, principalmente por **derivação** (acrescentar ou tirar afixos de uma palavra) e por **composição** (juntar duas ou mais palavras).\n\n**Derivação:**\n\n| Processo | Como funciona | Exemplos |\n|---|---|---|\n| **Prefixal** | prefixo + palavra | **re**fazer, **pós**-graduação, **in**feliz |\n| **Sufixal** | palavra + sufixo | gradua**ção**, feliz**mente**, sofr**ência** |\n| **Prefixal e sufixal** | prefixo e sufixo, mas a palavra existe sem um deles | **in**feliz**mente** (existe *infeliz* e *felizmente*) |\n| **Parassintética** | prefixo e sufixo entram **juntos**; sem um deles, a palavra não existe | **en**tard**ecer**, **a**manh**ecer**, **en**raiv**ecer** |\n| **Regressiva** | tira-se parte da palavra (em geral, de um verbo nasce um substantivo) | *lutar* → luta, *ajudar* → ajuda |\n| **Imprópria** | a palavra muda de classe sem mudar de forma | “o **jantar**”, “um **não**” |\n\n**Composição:**\n\n| Processo | Como funciona | Exemplos |\n|---|---|---|\n| **Justaposição** | as palavras se juntam **sem perder som** | puxa-saco, guarda-chuva, girassol, passatempo |\n| **Aglutinação** | as palavras se juntam e **pelo menos uma perde som** | planalto (plano + alto), embora (em boa hora), pernalta (perna + alta) |\n\n**Outros processos:** **abreviação** (moto, foto, cine), **sigla** (ONU, IBGE), **onomatopeia** (tique-taque, múúú), **hibridismo** (palavras com partes de línguas diferentes: *automóvel*, grego + latim), **estrangeirismo** (*mouse*, *show*).\n\n**Neologismo** é uma palavra nova, criada por um autor ou que acabou de entrar na língua. O sentido se descobre pelos elementos que a formam e pelo contexto (*sofrência* = sofrer + -ência, a música de dor de amor).\n\n**Composto com sentido novo:** na composição, o significado do todo pode ser diferente da soma das partes. *Sangue-frio* (calma diante do perigo) não é “sangue que está frio”; *pé de moleque* é um doce. O hífen, quando existe, ajuda a marcar essa unidade (veja *Hífen*).\n\n**Como identificar o processo:**\n\n1. Separe as partes da palavra.\n2. Cada parte existe sozinha como palavra? Se sim, é **composição**. Se uma delas é prefixo ou sufixo, é **derivação**.\n3. Na composição, houve perda de som? Se sim, aglutinação; se não, justaposição.\n4. Na derivação com prefixo e sufixo, tire um de cada vez. Se a palavra que sobra não existe, é parassíntese.",
+  "videos": [
+    {
+      "titulo": "Derivação x composição - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=9v207JMiOKs"
+    },
+    {
+      "titulo": "Derivação + exercícios resolvidos - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=k5yWuT-L3ws"
+    }
+  ]
+}

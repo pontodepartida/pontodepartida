@@ -1,0 +1,17 @@
+{
+  "id": "tema-e-ideia-central",
+  "titulo": "Tema e ideia central",
+  "materia": "Português",
+  "grupo": "Interpretação de texto",
+  "texto": "**Tema** é o assunto de que o texto trata. **Ideia central** (ou tese) é o que o texto **diz** sobre esse assunto.\n\n| | Exemplo |\n|---|---|\n| Tema | o hábito de se acostumar com o que faz mal |\n| Ideia central | quem se acostuma a tudo para não sofrer acaba deixando de viver |\n\n**Como encontrar:**\n\n1. Observe o que se repete: palavras, imagens e exemplos que voltam ao longo do texto.\n2. Leia com atenção o título, o primeiro e o último parágrafo. É ali que a ideia costuma ser apresentada e retomada.\n3. Em textos com subtítulos, cada parte tem a sua ideia central. Se a pergunta cita uma parte, procure a resposta nela.\n\n**Tema vizinho não é tema do texto.** Uma alternativa pode citar um assunto parecido com algo do texto e, mesmo assim, estar fora dele. Para aceitar uma alternativa, você precisa apontar o **trecho** que a sustenta.\n\n**Tom do texto** é a atitude do autor diante do assunto: crítica, denúncia, ironia, entusiasmo, tristeza, resignação. As pistas estão nos verbos e adjetivos fortes, nas ironias e nas imagens escolhidas (“foram devastando tudo”, “largamos à margem do caminho” indicam crítica, e não aceitação).\n\n**Alternativa que inverte o texto.** Às vezes o autor menciona uma ideia para **criticá-la**. A alternativa que apresenta essa ideia como se fosse a opinião do autor está errada.",
+  "videos": [
+    {
+      "titulo": "Assunto x tema - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=tHTDI6ZduWQ"
+    },
+    {
+      "titulo": "Compreensão e interpretação de texto – revisão Enem - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=XsN0e_xPyNI"
+    }
+  ]
+}

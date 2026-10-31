@@ -1,0 +1,13 @@
+{
+  "id": "triangulos",
+  "titulo": "Triângulos: classificação e propriedades",
+  "materia": "Matemática",
+  "grupo": "Ângulos e retas",
+  "texto": "**Três pontos não alinhados** determinam um triângulo. Se os três estiverem na mesma reta, não há triângulo.\n\n**Quanto aos lados:**\n\n| Tipo | Lados | Consequência |\n|---|---|---|\n| Equilátero | 3 iguais | 3 ângulos de 60° |\n| Isósceles | 2 iguais | os ângulos da **base** (opostos aos lados iguais) são iguais |\n| Escaleno | todos diferentes | ângulos todos diferentes |\n\n**Quanto aos ângulos:** acutângulo (3 ângulos agudos), retângulo (um ângulo de 90°), obtusângulo (um ângulo maior que 90°).\n\n**Soma dos ângulos internos:** sempre \\(180^\\circ\\).\n\n**Ângulo externo:** é igual à soma dos dois ângulos internos não adjacentes a ele.\n\n**Altura do triângulo equilátero** de lado \\(\\ell\\): a altura divide o triângulo em dois triângulos retângulos, e por Pitágoras\n\n\\[h = \\frac{\\ell\\sqrt{3}}{2} \\approx 0{,}87\\,\\ell\\]\n\nCom \\(\\ell = 64\\), \\(h = 32\\sqrt{3} \\approx 55{,}4\\).\n\n**Condição de existência:** cada lado tem de ser **menor** que a soma dos outros dois. Lados 2, 3 e 6 não formam triângulo, porque \\(2 + 3 < 6\\).\n\n**Pontos notáveis** (circuncentro, incentro, baricentro): veja *Circunferência, mediatriz e bissetriz*.",
+  "videos": [
+    {
+      "titulo": "Triângulos (aula 05) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=OA4qRsc7nSA"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "plano-cartesiano",
+  "titulo": "Plano cartesiano e ponto médio",
+  "materia": "Matemática",
+  "grupo": "Funções",
+  "texto": "O **plano cartesiano** tem dois eixos perpendiculares: o **eixo x** (horizontal) e o **eixo y** (vertical). Cada ponto é dado por um par ordenado \\((x, y)\\): primeiro o valor no eixo x, depois no eixo y.\n\n**Quadrantes:** \\((+, +)\\) no 1º, \\((-, +)\\) no 2º, \\((-, -)\\) no 3º, \\((+, -)\\) no 4º.\n\n**Ponto médio de um segmento:** é a **média** das coordenadas das pontas.\n\n\\[M = \\left( \\frac{x_A + x_B}{2},\\ \\frac{y_A + y_B}{2} \\right)\\]\n\nExemplo: entre \\(A(2, 3)\\) e \\(B(4, -5)\\), \\(M = \\left(\\frac{2 + 4}{2}, \\frac{3 + (-5)}{2}\\right) = (3, -1)\\).\n\n**Cuidado com os sinais:** some as coordenadas **com o sinal delas**. \\(3 + (-5) = -2\\), e não 8.\n\n**Pontos sobre os eixos:** um ponto do eixo y tem \\(x = 0\\); um ponto do eixo x tem \\(y = 0\\). Isso ajuda a encontrar onde uma reta corta os eixos (veja *Funções afins e retas*).",
+  "videos": [
+    {
+      "titulo": "Ponto médio e baricentro - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=gHSkOeW1sRc"
+    },
+    {
+      "titulo": "Pares ordenados e plano cartesiano - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=7t8oagbsa7A"
+    }
+  ]
+}

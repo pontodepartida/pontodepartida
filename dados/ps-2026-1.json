@@ -1,0 +1,964 @@
+{
+  "id": "ps-2026-1",
+  "nome": "PS 2026.1",
+  "edital": "Edital IFSP nº 211/2025 – Integrado (cadernos Tipo 1 e Tipo 2, com as mesmas questões)",
+  "fonteGabarito": "Gabarito final – Integrado – Prova Tipo 1 – Processo Seletivo dos Cursos Técnicos 2026.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Eu sei, mas não devia\n> *Marina Colasanti*\n>\n> Eu sei que a gente se acostuma. Mas não devia.\n>\n> A gente se acostuma a morar em apartamentos de fundos e a não ter outra vista que não as janelas ao redor. E, porque não tem vista, logo se acostuma a não olhar para fora. E, porque não olha para fora, logo se acostuma a não abrir de todo as cortinas. E, porque não abre as cortinas, logo se acostuma a acender mais cedo a luz. E, à medida que se acostuma, esquece o sol, esquece o ar, esquece a amplidão.\n>\n> A gente se acostuma a acordar de manhã sobressaltado porque está na hora. A tomar o café correndo porque está atrasado. A ler o jornal no ônibus porque não pode perder o tempo da viagem. A comer sanduíche porque não dá para almoçar. A sair do trabalho porque já é noite. A cochilar no ônibus porque está cansado. A deitar cedo e dormir pesado sem ter vivido o dia.\n>\n> A gente se acostuma a abrir o jornal e a ler sobre a guerra. E, aceitando a guerra, aceita os mortos e que haja números para os mortos. E, aceitando os números, aceita não acreditar nas negociações de paz. E, não acreditando nas negociações de paz, aceita ler todo dia da guerra, dos números, da longa duração.\n>\n> A gente se acostuma a esperar o dia inteiro e ouvir no telefone: hoje não posso ir. A sorrir para as pessoas sem receber um sorriso de volta. A ser ignorado quando precisava tanto ser visto.\n>\n> A gente se acostuma a pagar por tudo o que deseja e o de que necessita. E a lutar para ganhar o dinheiro com que pagar. E a ganhar menos do que precisa. E a fazer fila para pagar. E a pagar mais do que as coisas valem. E a saber que cada vez pagar mais. E a procurar mais trabalho, para ganhar mais dinheiro, para ter com que pagar nas filas em que se cobra.\n>\n> A gente se acostuma a andar na rua e ver cartazes. A abrir as revistas e ver anúncios. A ligar a televisão e assistir a comerciais. A ir ao cinema e engolir publicidade. A ser instigado, conduzido, desnorteado, lançado na infindável catarata dos produtos.\n>\n> A gente se acostuma à poluição. Às salas fechadas de ar condicionado e cheiro de cigarro. À luz artificial de ligeiro tremor. Ao choque que os olhos levam na luz natural. Às bactérias da água potável. À contaminação da água do mar. À lenta morte dos rios. Se acostuma a não ouvir passarinho, a não ter galo de madrugada, a temer a hidrofobia dos cães, a não colher fruta no pé, a não ter sequer uma planta.\n>\n> A gente se acostuma a coisas demais, para não sofrer. Em doses pequenas, tentando não perceber, vai afastando uma dor aqui, um ressentimento ali, uma revolta acolá. Se o cinema está cheio, a gente senta na primeira fila e torce um pouco o pescoço. Se a praia está contaminada, a gente molha só os pés e sua no resto do corpo. Se o trabalho está duro, a gente se consola pensando no fim de semana. E se no fim de semana não há muito o que fazer a gente vai dormir cedo e ainda fica satisfeito porque tem sempre sono atrasado.\n>\n> A gente se acostuma para não se ralar na aspereza, para preservar a pele. Se acostuma para evitar feridas, sangramentos, para esquivar-se de faca e baioneta, para poupar o peito. A gente se acostuma para poupar a vida. Que aos poucos se gasta, e que, gasta de tanto acostumar, se perde de si mesma.\n>\n> <cite>Disponível em: https://www.culturagenial.com/eu-sei-mas-nao-devia-marina-colasanti/. Acesso em: 29 out. 2025. Adaptado.</cite>\n\n\nNo texto “Eu sei, mas não devia”, Marina Colasanti faz críticas a alguns comportamentos ou situações. O tema que **NÃO** foi criticado no texto é",
+      "imagens": [],
+      "alternativas": {
+        "A": "o consumismo exagerado.",
+        "B": "a depreciação da natureza.",
+        "C": "as relações amorosas abusivas.",
+        "D": "as escolhas que poupam a vida.",
+        "E": "a resignação diante da violência."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Está no texto: cartazes, anúncios, comerciais e a “infindável catarata dos produtos”.",
+        "B": "Está no texto: “a lenta morte dos rios”, “a não ouvir passarinho”, “a não ter sequer uma planta”.",
+        "D": "É a crítica do último parágrafo: a gente se acostuma “para poupar a vida”, que, “gasta de tanto acostumar, se perde de si mesma”.",
+        "E": "Está no texto: “aceitando a guerra, aceita os mortos e que haja números para os mortos”."
+      },
+      "teoria": [
+        "tema-e-ideia-central"
+      ],
+      "essencial": [
+        "Tema é o assunto de que o texto trata. Para confirmar um tema, ache um trecho que fale dele.",
+        "A pergunta tem **NÃO**: a alternativa sem trecho no texto é a resposta. Nenhum parágrafo fala de relação amorosa abusiva.",
+        "Cuidado com temas vizinhos: ser ignorado (4º parágrafo) é indiferença e solidão, e não abuso amoroso."
+      ],
+      "raciocinio": "1. O comando pede o tema que **NÃO** foi criticado. A tarefa é achar um trecho para cada alternativa: a que ficar sem trecho é a resposta.\n2. Consumismo: 6º parágrafo (cartazes, anúncios, “catarata dos produtos”). Natureza: 7º parágrafo (rios, passarinho, planta). Violência: 3º parágrafo (guerra, mortos). Escolhas que poupam a vida: último parágrafo.\n3. Relações amorosas abusivas não têm trecho. O mais próximo é o 4º parágrafo (“sorrir para as pessoas sem receber um sorriso de volta”, “ser ignorado”), mas ele fala de indiferença e solidão, não de relacionamento amoroso nem de abuso. É um tema vizinho, não um tema do texto (veja: *Tema e ideia central*).\n\nResposta: **C**.\n\n**Dica de prova:** em questões com NÃO ou EXCETO, anote ao lado de cada alternativa o parágrafo que a confirma. A que ficar sem anotação é a resposta.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Eu sei, mas não devia\n> *Marina Colasanti*\n>\n> Eu sei que a gente se acostuma. Mas não devia.\n>\n> A gente se acostuma a morar em apartamentos de fundos e a não ter outra vista que não as janelas ao redor. E, porque não tem vista, logo se acostuma a não olhar para fora. E, porque não olha para fora, logo se acostuma a não abrir de todo as cortinas. E, porque não abre as cortinas, logo se acostuma a acender mais cedo a luz. E, à medida que se acostuma, esquece o sol, esquece o ar, esquece a amplidão.\n>\n> A gente se acostuma a acordar de manhã sobressaltado porque está na hora. A tomar o café correndo porque está atrasado. A ler o jornal no ônibus porque não pode perder o tempo da viagem. A comer sanduíche porque não dá para almoçar. A sair do trabalho porque já é noite. A cochilar no ônibus porque está cansado. A deitar cedo e dormir pesado sem ter vivido o dia.\n>\n> A gente se acostuma a abrir o jornal e a ler sobre a guerra. E, aceitando a guerra, aceita os mortos e que haja números para os mortos. E, aceitando os números, aceita não acreditar nas negociações de paz. E, não acreditando nas negociações de paz, aceita ler todo dia da guerra, dos números, da longa duração.\n>\n> A gente se acostuma a esperar o dia inteiro e ouvir no telefone: hoje não posso ir. A sorrir para as pessoas sem receber um sorriso de volta. A ser ignorado quando precisava tanto ser visto.\n>\n> A gente se acostuma a pagar por tudo o que deseja e o de que necessita. E a lutar para ganhar o dinheiro com que pagar. E a ganhar menos do que precisa. E a fazer fila para pagar. E a pagar mais do que as coisas valem. E a saber que cada vez pagar mais. E a procurar mais trabalho, para ganhar mais dinheiro, para ter com que pagar nas filas em que se cobra.\n>\n> A gente se acostuma a andar na rua e ver cartazes. A abrir as revistas e ver anúncios. A ligar a televisão e assistir a comerciais. A ir ao cinema e engolir publicidade. A ser instigado, conduzido, desnorteado, lançado na infindável catarata dos produtos.\n>\n> A gente se acostuma à poluição. Às salas fechadas de ar condicionado e cheiro de cigarro. À luz artificial de ligeiro tremor. Ao choque que os olhos levam na luz natural. Às bactérias da água potável. À contaminação da água do mar. À lenta morte dos rios. Se acostuma a não ouvir passarinho, a não ter galo de madrugada, a temer a hidrofobia dos cães, a não colher fruta no pé, a não ter sequer uma planta.\n>\n> A gente se acostuma a coisas demais, para não sofrer. Em doses pequenas, tentando não perceber, vai afastando uma dor aqui, um ressentimento ali, uma revolta acolá. Se o cinema está cheio, a gente senta na primeira fila e torce um pouco o pescoço. Se a praia está contaminada, a gente molha só os pés e sua no resto do corpo. Se o trabalho está duro, a gente se consola pensando no fim de semana. E se no fim de semana não há muito o que fazer a gente vai dormir cedo e ainda fica satisfeito porque tem sempre sono atrasado.\n>\n> A gente se acostuma para não se ralar na aspereza, para preservar a pele. Se acostuma para evitar feridas, sangramentos, para esquivar-se de faca e baioneta, para poupar o peito. A gente se acostuma para poupar a vida. Que aos poucos se gasta, e que, gasta de tanto acostumar, se perde de si mesma.\n>\n> <cite>Disponível em: https://www.culturagenial.com/eu-sei-mas-nao-devia-marina-colasanti/. Acesso em: 29 out. 2025. Adaptado.</cite>\n\n\nAvalie as afirmações sobre o texto de Marina Colasanti.\n\nI - O uso de repetições e de paralelismo deixa o texto confuso e difícil de compreender.\nII - Em “A gente se acostuma para não se ralar na aspereza, para preservar a pele.”, a conjunção “para” tem o sentido de finalidade.\nIII - O texto de Marina Colasanti poderia ser classificado como pertencente ao gênero crônica, embora preserve traços poéticos.\nIV - A linguagem empregada por Marina Colasanti evidencia marcas de variação geográfica.\n\nEstá correto **apenas** o que se afirma em",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e II.",
+        "B": "I e III.",
+        "C": "II e III.",
+        "D": "III e IV.",
+        "E": "I e IV."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Inclui a I, que é falsa: as repetições dão ritmo e reforçam a crítica, não confundem o leitor.",
+        "B": "Inclui a I, que é falsa, e deixa de fora a II, que é verdadeira.",
+        "D": "Inclui a IV, que é falsa: o texto não tem palavras nem construções típicas de uma região.",
+        "E": "As duas afirmações, I e IV, são falsas."
+      },
+      "teoria": [
+        "repeticao-e-paralelismo",
+        "generos-textuais"
+      ],
+      "essencial": [
+        "Paralelismo é repetir a mesma estrutura: “A gente se acostuma…” organiza o texto e reforça a crítica, sem atrapalhar a leitura.",
+        "Crônica: texto curto que parte de cenas do cotidiano para refletir sobre elas.",
+        "*Para* + infinitivo indica finalidade: “para não se ralar” = “a fim de não se ralar”.",
+        "“A gente” é marca de linguagem informal, usada em todo o país; não é regionalismo."
+      ],
+      "raciocinio": "1. **I – falsa.** A repetição de “A gente se acostuma” é um paralelismo: organiza o texto e martela a crítica (veja: *Repetição, paralelismo e anáfora*), sem dificultar a leitura.\n2. **II – verdadeira.** “para não se ralar” = “a fim de não se ralar”: *para* + infinitivo indica finalidade.\n3. **III – verdadeira.** É um texto curto que parte de cenas do cotidiano (apartamento, ônibus, fila) para refletir sobre elas: é uma crônica (veja: *Gêneros textuais*). Os traços poéticos são o ritmo, as repetições e imagens como “catarata dos produtos”.\n4. **IV – falsa.** “A gente” é marca de linguagem informal, usada em todo o país, e não regionalismo.\n\nCorretas: II e III. Resposta: **C**.\n\n**Dica de prova:** com afirmações de I a IV, decida primeiro a que você tem mais certeza e risque as alternativas que a contradizem. Muitas vezes sobram só duas.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Eu sei, mas não devia\n> *Marina Colasanti*\n>\n> Eu sei que a gente se acostuma. Mas não devia.\n>\n> A gente se acostuma a morar em apartamentos de fundos e a não ter outra vista que não as janelas ao redor. E, porque não tem vista, logo se acostuma a não olhar para fora. E, porque não olha para fora, logo se acostuma a não abrir de todo as cortinas. E, porque não abre as cortinas, logo se acostuma a acender mais cedo a luz. E, à medida que se acostuma, esquece o sol, esquece o ar, esquece a amplidão.\n>\n> A gente se acostuma a acordar de manhã sobressaltado porque está na hora. A tomar o café correndo porque está atrasado. A ler o jornal no ônibus porque não pode perder o tempo da viagem. A comer sanduíche porque não dá para almoçar. A sair do trabalho porque já é noite. A cochilar no ônibus porque está cansado. A deitar cedo e dormir pesado sem ter vivido o dia.\n>\n> A gente se acostuma a abrir o jornal e a ler sobre a guerra. E, aceitando a guerra, aceita os mortos e que haja números para os mortos. E, aceitando os números, aceita não acreditar nas negociações de paz. E, não acreditando nas negociações de paz, aceita ler todo dia da guerra, dos números, da longa duração.\n>\n> A gente se acostuma a esperar o dia inteiro e ouvir no telefone: hoje não posso ir. A sorrir para as pessoas sem receber um sorriso de volta. A ser ignorado quando precisava tanto ser visto.\n>\n> A gente se acostuma a pagar por tudo o que deseja e o de que necessita. E a lutar para ganhar o dinheiro com que pagar. E a ganhar menos do que precisa. E a fazer fila para pagar. E a pagar mais do que as coisas valem. E a saber que cada vez pagar mais. E a procurar mais trabalho, para ganhar mais dinheiro, para ter com que pagar nas filas em que se cobra.\n>\n> A gente se acostuma a andar na rua e ver cartazes. A abrir as revistas e ver anúncios. A ligar a televisão e assistir a comerciais. A ir ao cinema e engolir publicidade. A ser instigado, conduzido, desnorteado, lançado na infindável catarata dos produtos.\n>\n> A gente se acostuma à poluição. Às salas fechadas de ar condicionado e cheiro de cigarro. À luz artificial de ligeiro tremor. Ao choque que os olhos levam na luz natural. Às bactérias da água potável. À contaminação da água do mar. À lenta morte dos rios. Se acostuma a não ouvir passarinho, a não ter galo de madrugada, a temer a hidrofobia dos cães, a não colher fruta no pé, a não ter sequer uma planta.\n>\n> A gente se acostuma a coisas demais, para não sofrer. Em doses pequenas, tentando não perceber, vai afastando uma dor aqui, um ressentimento ali, uma revolta acolá. Se o cinema está cheio, a gente senta na primeira fila e torce um pouco o pescoço. Se a praia está contaminada, a gente molha só os pés e sua no resto do corpo. Se o trabalho está duro, a gente se consola pensando no fim de semana. E se no fim de semana não há muito o que fazer a gente vai dormir cedo e ainda fica satisfeito porque tem sempre sono atrasado.\n>\n> A gente se acostuma para não se ralar na aspereza, para preservar a pele. Se acostuma para evitar feridas, sangramentos, para esquivar-se de faca e baioneta, para poupar o peito. A gente se acostuma para poupar a vida. Que aos poucos se gasta, e que, gasta de tanto acostumar, se perde de si mesma.\n>\n> <cite>Disponível em: https://www.culturagenial.com/eu-sei-mas-nao-devia-marina-colasanti/. Acesso em: 29 out. 2025. Adaptado.</cite>\n\n\nSobre a construção sintática do texto “Eu sei, mas não devia”, é correto afirmar que predomina o uso de estruturas",
+      "imagens": [],
+      "alternativas": {
+        "A": "argumentativas, apoiadas em dados.",
+        "B": "ambíguas, apontando para polissemia.",
+        "C": "fragmentadas em orações incompletas.",
+        "D": "complexas, marcadas por subordinações.",
+        "E": "curtas, priorizando orações coordenadas."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O texto não usa dados (números, pesquisas). A crítica se apoia em cenas do cotidiano.",
+        "B": "As frases são claras e diretas; o duplo sentido não é o recurso que predomina.",
+        "C": "Frases como “A tomar o café correndo” não estão incompletas: o leitor recupera “A gente se acostuma”. É omissão proposital.",
+        "D": "Há algumas subordinadas (“porque está atrasado”), mas curtas e dentro de frases simples. O que predomina é o encadeamento de frases curtas ligadas por “E”."
+      },
+      "teoria": [
+        "oracoes-coordenadas"
+      ],
+      "essencial": [
+        "Orações coordenadas são independentes: uma não depende da outra para ter sentido.",
+        "O “E” no início das frases soma uma ação à outra: “E, porque não tem vista… E, porque não olha para fora…”.",
+        "Frases curtas que se somam criam o efeito de acúmulo, como a rotina que o texto critica."
+      ],
+      "raciocinio": "1. Observe o tamanho das frases: quase todas trazem uma ideia só (“A comer sanduíche porque não dá para almoçar.”).\n2. Observe como elas se ligam: “E, porque não tem vista… E, porque não olha para fora… E, porque não abre as cortinas…”. O “E” soma uma ação à outra, sem que uma dependa da outra: é coordenação aditiva (veja: *Orações coordenadas*).\n3. O efeito é de acúmulo: um hábito vai se somando ao outro, como a rotina que o texto critica.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Eu sei, mas não devia\n> *Marina Colasanti*\n>\n> Eu sei que a gente se acostuma. Mas não devia.\n>\n> A gente se acostuma a morar em apartamentos de fundos e a não ter outra vista que não as janelas ao redor. E, porque não tem vista, logo se acostuma a não olhar para fora. E, porque não olha para fora, logo se acostuma a não abrir de todo as cortinas. E, porque não abre as cortinas, logo se acostuma a acender mais cedo a luz. E, à medida que se acostuma, esquece o sol, esquece o ar, esquece a amplidão.\n>\n> A gente se acostuma a acordar de manhã sobressaltado porque está na hora. A tomar o café correndo porque está atrasado. A ler o jornal no ônibus porque não pode perder o tempo da viagem. A comer sanduíche porque não dá para almoçar. A sair do trabalho porque já é noite. A cochilar no ônibus porque está cansado. A deitar cedo e dormir pesado sem ter vivido o dia.\n>\n> A gente se acostuma a abrir o jornal e a ler sobre a guerra. E, aceitando a guerra, aceita os mortos e que haja números para os mortos. E, aceitando os números, aceita não acreditar nas negociações de paz. E, não acreditando nas negociações de paz, aceita ler todo dia da guerra, dos números, da longa duração.\n>\n> A gente se acostuma a esperar o dia inteiro e ouvir no telefone: hoje não posso ir. A sorrir para as pessoas sem receber um sorriso de volta. A ser ignorado quando precisava tanto ser visto.\n>\n> A gente se acostuma a pagar por tudo o que deseja e o de que necessita. E a lutar para ganhar o dinheiro com que pagar. E a ganhar menos do que precisa. E a fazer fila para pagar. E a pagar mais do que as coisas valem. E a saber que cada vez pagar mais. E a procurar mais trabalho, para ganhar mais dinheiro, para ter com que pagar nas filas em que se cobra.\n>\n> A gente se acostuma a andar na rua e ver cartazes. A abrir as revistas e ver anúncios. A ligar a televisão e assistir a comerciais. A ir ao cinema e engolir publicidade. A ser instigado, conduzido, desnorteado, lançado na infindável catarata dos produtos.\n>\n> A gente se acostuma à poluição. Às salas fechadas de ar condicionado e cheiro de cigarro. À luz artificial de ligeiro tremor. Ao choque que os olhos levam na luz natural. Às bactérias da água potável. À contaminação da água do mar. À lenta morte dos rios. Se acostuma a não ouvir passarinho, a não ter galo de madrugada, a temer a hidrofobia dos cães, a não colher fruta no pé, a não ter sequer uma planta.\n>\n> A gente se acostuma a coisas demais, para não sofrer. Em doses pequenas, tentando não perceber, vai afastando uma dor aqui, um ressentimento ali, uma revolta acolá. Se o cinema está cheio, a gente senta na primeira fila e torce um pouco o pescoço. Se a praia está contaminada, a gente molha só os pés e sua no resto do corpo. Se o trabalho está duro, a gente se consola pensando no fim de semana. E se no fim de semana não há muito o que fazer a gente vai dormir cedo e ainda fica satisfeito porque tem sempre sono atrasado.\n>\n> A gente se acostuma para não se ralar na aspereza, para preservar a pele. Se acostuma para evitar feridas, sangramentos, para esquivar-se de faca e baioneta, para poupar o peito. A gente se acostuma para poupar a vida. Que aos poucos se gasta, e que, gasta de tanto acostumar, se perde de si mesma.\n>\n> <cite>Disponível em: https://www.culturagenial.com/eu-sei-mas-nao-devia-marina-colasanti/. Acesso em: 29 out. 2025. Adaptado.</cite>\n\n\nA passagem do texto de Colasanti que evidencia um uso metafórico está corretamente indicada em",
+      "imagens": [],
+      "alternativas": {
+        "A": "[A gente se acostuma] “A ler o jornal no ônibus porque não pode perder o tempo da viagem.”",
+        "B": "“A gente se acostuma a abrir o jornal e a ler sobre a guerra.”",
+        "C": "“A gente se acostuma a andar na rua e ver cartazes. A abrir as revistas e ver anúncios.”",
+        "D": "“E se no fim de semana não há muito o que fazer a gente vai dormir cedo e ainda fica satisfeito porque tem sempre sono atrasado.”",
+        "E": "“Se acostuma para evitar feridas, sangramentos, para esquivar-se de faca e baioneta, para poupar o peito.”"
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Sentido literal: é uma cena real, ler o jornal durante a viagem de ônibus.",
+        "B": "Sentido literal: a pessoa de fato lê notícias de guerra no jornal.",
+        "C": "Sentido literal: cartazes e anúncios estão mesmo nas ruas e nas revistas.",
+        "D": "Sentido literal: descreve um fim de semana comum, de quem dorme cedo por cansaço."
+      },
+      "teoria": [
+        "metafora-e-comparacao"
+      ],
+      "essencial": [
+        "Metáfora usa a palavra fora do sentido literal. Teste: aquilo acontece de verdade, exatamente como está escrito?",
+        "*Faca* e *baioneta* representam as agressões do dia a dia; “poupar o peito” é proteger os sentimentos."
+      ],
+      "raciocinio": "1. Aplique a cada alternativa o teste do “ao pé da letra” (veja: *Metáfora e comparação*): aquilo acontece de verdade, exatamente como está escrito?\n2. A, B, C e D: sim. São ações reais da rotina.\n3. E: não. Ninguém se acostuma à rotina para escapar de uma baioneta de verdade. *Feridas*, *sangramentos*, *faca* e *baioneta* representam as dores e as agressões do dia a dia; “poupar o peito” é proteger os sentimentos.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "#### Texto I\n> O mito de Sísifo fala sobre um personagem da mitologia grega considerado o mais inteligente e esperto dos mortais.\n> Entretanto, ele desafiou e enganou os deuses e, por isso, recebeu um castigo terrível: rolar uma grande pedra montanha acima por toda a eternidade.\n>\n> <cite>Disponível em: https://www.culturagenial.com/sisifo-resumo-e-significado-do-mito/. Acesso em: 29 out. 2025 (fragmento adaptado).</cite>\n\n#### Texto II\n![Desenho: duas pessoas empurram com esforço uma enorme bola. Uma terceira pessoa chega correndo e diz: “Peraí! Também quero empurrar essa grande bola de nada!”](img/2026-1/q05.jpg \"Personagem que chega correndo: “Peraí! Também quero empurrar essa grande bola de nada!”\")\n\n<cite>Disponível em: https://cartum.folha.uol.com.br/quadrinhos/2025/10/07/pessimas-influencias-estela-may.shtml. Acesso em: 29 out. 2025.</cite>\n\nO texto II estabelece uma relação intertextual com o mito de Sísifo (texto I) ao atualizar sua mensagem para o contexto contemporâneo.\n\nNessa releitura, é correto afirmar que a “grande bola de nada” simboliza",
+      "imagens": [
+        "img/2026-1/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "o caminho de superação e conquista da liberdade individual.",
+        "B": "a burocracia e os esforços repetitivos que marcam o cotidiano.",
+        "C": "o desejo de continuidade entre as gerações no cumprimento do dever.",
+        "D": "a libertação da pena de Sísifo pela solidariedade entre os personagens.",
+        "E": "a astúcia humana e suas consequências negativas diante das divindades."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Uma bola “de nada” não leva a conquista alguma. O esforço da tirinha não liberta ninguém.",
+        "C": "Nada na tirinha fala de gerações ou de um dever passado de pais para filhos.",
+        "D": "Os personagens empurram juntos, mas ninguém se liberta: quem chega quer entrar no esforço, não acabar com ele.",
+        "E": "A astúcia e o castigo dos deuses fazem parte do mito (Texto I). A tirinha deixa isso de lado e fala do mundo de hoje."
+      },
+      "teoria": [
+        "intertextualidade"
+      ],
+      "essencial": [
+        "Intertextualidade: um texto retoma outro. Compare o que se manteve e o que mudou.",
+        "Sísifo empurra a pedra sem fim, como castigo. Na tirinha, a pedra vira “bola de nada”, e as pessoas **querem** empurrá-la."
+      ],
+      "raciocinio": "1. Ideia central do mito: Sísifo faz um esforço enorme, repetitivo e sem fim, como castigo.\n2. O que se manteve na tirinha: pessoas empurrando com esforço um objeto enorme. O que mudou: a pedra virou uma “grande bola **de nada**”, ninguém está sendo castigado e um personagem chega correndo porque **quer** empurrar (veja: *Intertextualidade*).\n3. A bola representa, então, esforços grandes, repetitivos e sem resultado que as pessoas aceitam no dia a dia, e até procuram: a burocracia e a rotina.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "![Poema visual em forma de tabuleiro de xadrez 4 por 4, com casas claras e escuras. Na primeira linha estão as letras a, m, o, r. Na segunda, r, d, o, r, com uma letra a fora do tabuleiro, à esquerda. Na terceira, só a letra a na primeira casa. Na quarta, d, o, r nas três últimas casas.](img/2026-1/q06.jpg \"1ª linha: a m o r | 2ª linha: (a, fora do tabuleiro) r d o r | 3ª linha: a | 4ª linha: d o r\")\n\n<cite>Capparelli, Sérgio; Gruszynski, Ana Cláudia. Xadrez. In: *Traço de poeta* (Antologia de poesias para jovens). São Paulo: Global, 2006.</cite>\n\nAo analisar os aspectos visuais e verbais presentes no poema “Xadrez”, de Sérgio Capparelli e Ana Cláudia Gruszynski, inferem-se as seguintes interpretações, **EXCETO**:",
+      "imagens": [
+        "img/2026-1/q06.jpg"
+      ],
+      "alternativas": {
+        "A": "as experiências amorosas culminam em dor.",
+        "B": "o amor pode ser comparado a um jogo de paixões e dores.",
+        "C": "as palavras do poema vão se modificando, num movimento de perda.",
+        "D": "a palavra pode ser transformada em imagem, assim como o amor, em jogo.",
+        "E": "o amor resta sempre inalcançável, como sugere a letra “a” fora do tabuleiro."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Pode ser inferida: a leitura começa em “amor” e termina em “dor”.",
+        "B": "Pode ser inferida: o tabuleiro de xadrez é um jogo, e nele estão amor, ardor (paixão) e dor.",
+        "C": "Pode ser inferida: as palavras vão perdendo letras (amor → ardor → a → dor).",
+        "D": "Pode ser inferida: as palavras formam o desenho do tabuleiro, e o amor vira um jogo."
+      },
+      "teoria": [
+        "poesia"
+      ],
+      "essencial": [
+        "No poema visual, a forma também significa: o tabuleiro sugere um jogo.",
+        "Leia linha por linha: **amor**, **a** + **rdor** = *ardor*, **a**, **dor**. O “a” de fora serve para formar *ardor*."
+      ],
+      "raciocinio": "1. Leia o tabuleiro linha por linha: **amor**; **a** + **rdor** = *ardor*; **a**; **dor** (veja: *Poesia: verso, eu lírico e poema visual*).\n2. A forma (tabuleiro) sugere um jogo; a sequência das palavras mostra o amor passando pela paixão e terminando em dor. Isso confirma A, B, C e D.\n3. A letra “a” fora do tabuleiro serve para formar *ardor* na segunda linha. Nada no poema indica que o amor seja “sempre inalcançável”.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Valter Hugo Mãe faz manifesto contra solidão em documentário íntimo\n> *Walter Porto*\n>\n> Em seus melhores momentos, \"De Lugar Nenhum\" é menos um documentário que um ensaio em vídeo brotado do processo criativo de Valter Hugo Mãe, o escritor português mais incensado no Brasil hoje.\n>\n> Filmado com participação ativa do autor, que cede ao filme não só amplo acesso como trechos de suas anotações narrados por ele mesmo, o longa o acompanha em viagens pelo mundo rascunhando a tese de que ele não tem raiz em nenhum canto — e isso faz dele menos um desterrado que uma pessoa sempre à deriva, porosa às influências de culturas e pensamentos alheios.\n>\n> \"De Lugar Nenhum\" é um manifesto contra a solidão, partindo de um andarilho que explora o planeta sozinho. Nisso não há contrassenso, já que a busca por se conectar à gente é a principal bandeira e obsessão de Valter Hugo Mãe, que passa o filme defendendo que a vida só faz sentido se partilhada.\n>\n> Se não com uma parceira ou com um filho — que sempre parece ocupar um latifúndio de seu imaginário —, essa partilha é com uma gama vasta de gente, desde o taxista com quem o português desafina \"Trem das Onze\" até os vendedores de peixe servido quase vivo no Japão.\n>\n> Seus coabitantes são desde a infinidade de leitores que o cumprimentam em noites de autógrafos até uma leitora especial, a cartunista Laerte, amiga do peito que periga virar protagonista do filme a certo ponto — tamanho o interesse que a câmera tem por sua história, seus adereços e até sua rotina ao acordar de manhã.\n>\n> Dos cerca de 80 minutos de projeção, um bom terço é passado no Brasil. Valter Hugo se define como português que nasceu em Angola e é meio brasileiro, e se nisso há um tantinho de desejo, é algo que se manifesta na tela. São Paulo e Paraty se revelam destinos particularmente afetivos, mais que outros endereços como a colombiana Bogotá e a chinesa Macau.\n>\n> Mas em termos de processo literário, nenhum país é tão importante quanto a Islândia. Isso por uma questão de recorte — \"De Lugar Nenhum\" acompanha os anos em que o autor escreve \"A Desumanização\", romance que se passa no país nórdico e conta a história de uma menina cuja irmã gêmea morre.\n>\n> Segundo o autor, esta é a maior solidão que consegue imaginar; portanto é a melhor oportunidade para pensar o que é a ligação com o outro. E a história tinha que se ambientar naquele país pequeno e gelado com cidades em que todo mundo se conhece, povoadas por casinhas que parecem feitas de biscoito açucarado.\n>\n> Tem algo de Deus naquelas paisagens, e Valter Hugo sente que chega mais perto do etéreo naqueles horizontes que deixam ver o polo Norte de perto, em céus tão improvavelmente coloridos que uma câmera fotográfica — ou de cinema — é incapaz de capturar.\n>\n> O documentário de Miguel Gonçalves Mendes, cineasta português já responsável pelo sensível \"José e Pilar”, que contava a rotina apaixonada de Saramago e sua hoje viúva Pilar del Río, faz o possível para dar conta de transformar sentimentos sinuosos e elucubrações poéticas em imagem e som.\n>\n> Falha em algumas decisões. Não dá muito certo a tentativa de transformar a narrativa de \"A Desumanização\" em encenações breves com atores — aparecem de forma tão picada e sem rumo que seu maior resultado é só tolher a imaginação literária, não ampliá-la.\n>\n> As cenas de Valter Hugo Mãe participando de lançamentos e mesas de festivais se acumulam tanto que, além de cansar o espectador com o puxa-saquismo da ovação, soam como a alternativa mais banal diante do material a que o cineasta teve acesso.\n>\n> O escritor está à vontade com a exposição de sua intimidade, mesmo que tenha o charme relutante de quem é um pouco gauche.\n>\n> Deixa que a câmera o veja abrindo as cortinas ao acordar, consultando-se com uma mãe de santo, digitando aforismos no celular que depois serão ditos em voz alta, ligando para pessoas queridas — sobretudo aquela que lhe deu a luz.\n>\n> Esses telefonemas para casa, frequentes em suas longas turnês pelo mundo, mostram um Valter que desfia besteirinhas domésticas com voz de garoto e de saudade, deixando muito claro que é mentira que ele não vem de lugar nenhum. Ele vem, com orgulho, de sua mãe.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/ilustrada/2025/10/valter-hugo-mae-faz-manifesto-contra-solidao-em-documentario-intimo.shtml. Acesso em 30 out. 2025.</cite>\n\n\nÉ correto afirmar que o texto “Valter Hugo Mãe faz manifesto contra solidão em documentário íntimo”, de Walter Porto, pertence ao gênero textual",
+      "imagens": [],
+      "alternativas": {
+        "A": "longa-metragem.",
+        "B": "resenha.",
+        "C": "resumo.",
+        "D": "crônica.",
+        "E": "conto."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Longa-metragem é um tipo de filme (o próprio documentário), não um gênero de texto escrito.",
+        "C": "O resumo só condensa o conteúdo, sem opinião. Este texto julga o filme (“Falha em algumas decisões”).",
+        "D": "A crônica reflete sobre cenas do cotidiano. Este texto apresenta e avalia uma obra.",
+        "E": "O conto narra uma história inventada. Este texto fala de um filme e de pessoas reais."
+      },
+      "teoria": [
+        "resenha-critica",
+        "generos-textuais"
+      ],
+      "essencial": [
+        "Resenha crítica apresenta uma obra, resume e avalia: identificação, resumo e opinião do resenhista.",
+        "Aqui, há resumo (o filme acompanha Valter Hugo Mãe) e avaliação (“sensível”, “Falha em algumas decisões”)."
+      ],
+      "raciocinio": "1. Pergunte qual é a finalidade do texto: apresentar o documentário “De Lugar Nenhum” e dizer o que funciona e o que não funciona nele.\n2. Procure as partes da resenha (veja: *Resenha crítica*): identificação (o diretor Miguel Gonçalves Mendes, “cerca de 80 minutos”), resumo (o filme acompanha Valter Hugo Mãe em viagens) e avaliação (“sensível”, “Falha em algumas decisões”, “puxa-saquismo da ovação”).\n3. Essa combinação de resumo e avaliação de uma obra é o que distingue a resenha dos outros gêneros das alternativas (veja: *Gêneros textuais*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Valter Hugo Mãe faz manifesto contra solidão em documentário íntimo\n> *Walter Porto*\n>\n> Em seus melhores momentos, \"De Lugar Nenhum\" é menos um documentário que um ensaio em vídeo brotado do processo criativo de Valter Hugo Mãe, o escritor português mais incensado no Brasil hoje.\n>\n> Filmado com participação ativa do autor, que cede ao filme não só amplo acesso como trechos de suas anotações narrados por ele mesmo, o longa o acompanha em viagens pelo mundo rascunhando a tese de que ele não tem raiz em nenhum canto — e isso faz dele menos um desterrado que uma pessoa sempre à deriva, porosa às influências de culturas e pensamentos alheios.\n>\n> \"De Lugar Nenhum\" é um manifesto contra a solidão, partindo de um andarilho que explora o planeta sozinho. Nisso não há contrassenso, já que a busca por se conectar à gente é a principal bandeira e obsessão de Valter Hugo Mãe, que passa o filme defendendo que a vida só faz sentido se partilhada.\n>\n> Se não com uma parceira ou com um filho — que sempre parece ocupar um latifúndio de seu imaginário —, essa partilha é com uma gama vasta de gente, desde o taxista com quem o português desafina \"Trem das Onze\" até os vendedores de peixe servido quase vivo no Japão.\n>\n> Seus coabitantes são desde a infinidade de leitores que o cumprimentam em noites de autógrafos até uma leitora especial, a cartunista Laerte, amiga do peito que periga virar protagonista do filme a certo ponto — tamanho o interesse que a câmera tem por sua história, seus adereços e até sua rotina ao acordar de manhã.\n>\n> Dos cerca de 80 minutos de projeção, um bom terço é passado no Brasil. Valter Hugo se define como português que nasceu em Angola e é meio brasileiro, e se nisso há um tantinho de desejo, é algo que se manifesta na tela. São Paulo e Paraty se revelam destinos particularmente afetivos, mais que outros endereços como a colombiana Bogotá e a chinesa Macau.\n>\n> Mas em termos de processo literário, nenhum país é tão importante quanto a Islândia. Isso por uma questão de recorte — \"De Lugar Nenhum\" acompanha os anos em que o autor escreve \"A Desumanização\", romance que se passa no país nórdico e conta a história de uma menina cuja irmã gêmea morre.\n>\n> Segundo o autor, esta é a maior solidão que consegue imaginar; portanto é a melhor oportunidade para pensar o que é a ligação com o outro. E a história tinha que se ambientar naquele país pequeno e gelado com cidades em que todo mundo se conhece, povoadas por casinhas que parecem feitas de biscoito açucarado.\n>\n> Tem algo de Deus naquelas paisagens, e Valter Hugo sente que chega mais perto do etéreo naqueles horizontes que deixam ver o polo Norte de perto, em céus tão improvavelmente coloridos que uma câmera fotográfica — ou de cinema — é incapaz de capturar.\n>\n> O documentário de Miguel Gonçalves Mendes, cineasta português já responsável pelo sensível \"José e Pilar”, que contava a rotina apaixonada de Saramago e sua hoje viúva Pilar del Río, faz o possível para dar conta de transformar sentimentos sinuosos e elucubrações poéticas em imagem e som.\n>\n> Falha em algumas decisões. Não dá muito certo a tentativa de transformar a narrativa de \"A Desumanização\" em encenações breves com atores — aparecem de forma tão picada e sem rumo que seu maior resultado é só tolher a imaginação literária, não ampliá-la.\n>\n> As cenas de Valter Hugo Mãe participando de lançamentos e mesas de festivais se acumulam tanto que, além de cansar o espectador com o puxa-saquismo da ovação, soam como a alternativa mais banal diante do material a que o cineasta teve acesso.\n>\n> O escritor está à vontade com a exposição de sua intimidade, mesmo que tenha o charme relutante de quem é um pouco gauche.\n>\n> Deixa que a câmera o veja abrindo as cortinas ao acordar, consultando-se com uma mãe de santo, digitando aforismos no celular que depois serão ditos em voz alta, ligando para pessoas queridas — sobretudo aquela que lhe deu a luz.\n>\n> Esses telefonemas para casa, frequentes em suas longas turnês pelo mundo, mostram um Valter que desfia besteirinhas domésticas com voz de garoto e de saudade, deixando muito claro que é mentira que ele não vem de lugar nenhum. Ele vem, com orgulho, de sua mãe.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/ilustrada/2025/10/valter-hugo-mae-faz-manifesto-contra-solidao-em-documentario-intimo.shtml. Acesso em 30 out. 2025.</cite>\n\n\nÉ correto afirmar que o fragmento do texto no qual consta uma apreciação crítica do autor Walter Porto em relação ao documentário de Miguel Gonçalves Mendes é",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Filmado com participação ativa do autor, que cede ao filme não só amplo acesso como trechos de suas anotações narrados por ele mesmo, o longa o acompanha em viagens pelo mundo [...]”",
+        "B": "“Dos cerca de 80 minutos de projeção, um bom terço é passado no Brasil.”",
+        "C": "“[...] — 'De Lugar Nenhum' acompanha os anos em que o autor escreve \"A Desumanização\" [...]”",
+        "D": "“Não dá muito certo a tentativa de transformar a narrativa de 'A Desumanização' em encenações breves com atores — aparecem de forma tão picada e sem rumo que seu maior resultado é só tolher a imaginação literária, não ampliá-la.”",
+        "E": "“[O escritor] Deixa que a câmera o veja abrindo as cortinas ao acordar, consultando-se com uma mãe de santo, digitando aforismos no celular que depois serão ditos em voz alta [...]”"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Descreve como o filme foi feito (com acesso ao autor e às anotações dele), sem julgar.",
+        "B": "É um dado verificável: quanto tempo do filme se passa no Brasil.",
+        "C": "Informa o período que o filme acompanha. Não há avaliação.",
+        "E": "Descreve cenas do filme. É informação, não julgamento."
+      },
+      "teoria": [
+        "fato-e-opiniao"
+      ],
+      "essencial": [
+        "Fato pode ser conferido por qualquer um; opinião é um julgamento de quem escreve.",
+        "Palavras avaliativas revelam a crítica: “**Não dá muito certo**”, “**picada e sem rumo**”."
+      ],
+      "raciocinio": "1. Apreciação crítica é opinião: procure palavras que julgam o filme (veja: *Fato e opinião*).\n2. A, B, C e E podem ser conferidas por qualquer espectador: são descrições.\n3. D tem “**Não dá muito certo**”, “**picada e sem rumo**” e “só **tolher** a imaginação literária”: o crítico avalia negativamente as encenações com atores.\n\nResposta: **D**.\n\n**Dica de prova:** para separar fato de opinião, pergunte se alguém que viu o filme poderia discordar da frase. Se pode, é opinião.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Releia este fragmento:\n\n> “Em seus melhores momentos, \"De Lugar Nenhum\" é menos um documentário que um ensaio em vídeo brotado do processo criativo de Valter Hugo Mãe, o escritor português mais <u>incensado</u> no Brasil hoje.”\n\nNo contexto do texto, o termo em destaque poderia ser substituído corretamente, sem prejuízo de sentido, por:",
+      "imagens": [],
+      "alternativas": {
+        "A": "elogiado.",
+        "B": "presente.",
+        "C": "influente.",
+        "D": "requisitado.",
+        "E": "questionado."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "“Presente” é estar em evidência; não traz a ideia de ser elogiado.",
+        "C": "“Influente” é quem influencia os outros. “Incensado” é quem recebe elogios.",
+        "D": "“Requisitado” é quem é muito procurado ou convidado, o que não é o mesmo que ser exaltado.",
+        "E": "“Questionado” é quase o contrário: alguém posto em dúvida ou criticado."
+      },
+      "teoria": [
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "O sentido vem da família da palavra e do contexto: *incensado* vem de *incenso*, queimado em homenagens.",
+        "O texto fala de leitores que cumprimentam o autor e de “ovação”: incensado = muito elogiado."
+      ],
+      "raciocinio": "1. Família da palavra: *incensado* vem de *incenso*, queimado em homenagens. Incensar alguém é exaltá-lo, elogiá-lo muito (veja: *Sentido das palavras pelo contexto*).\n2. Contexto: o texto fala da “infinidade de leitores que o cumprimentam” e da “ovação” nos festivais. Tudo aponta para admiração.\n3. Teste a troca: “o escritor português mais **elogiado** no Brasil hoje” mantém o sentido.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Releia este parágrafo do texto:\n\n> “Mas em termos de processo literário, nenhum país é tão importante quanto a Islândia. <u>Isso</u> por uma questão de recorte — \"De Lugar Nenhum\" acompanha os anos em que o autor escreve \"A Desumanização\", romance que se passa no país nórdico e conta a história de uma menina cuja irmã gêmea morre.”\n\nNesse contexto, é correto afirmar que o pronome demonstrativo “Isso” refere-se a:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“processo literário”.",
+        "B": "“nenhum país é tão importante quanto a Islândia”.",
+        "C": "“uma questão de recorte”.",
+        "D": "“os anos em que o autor escrever”.",
+        "E": "“romance que se passa no país nórdico”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Processo literário” é só um pedaço da frase anterior. “Isso” retoma a ideia inteira.",
+        "C": "“Uma questão de recorte” vem depois de “Isso” e é a explicação dele, não o que ele retoma.",
+        "D": "Também vem depois: faz parte da explicação do recorte.",
+        "E": "Também vem depois: é uma informação sobre o romance."
+      },
+      "teoria": [
+        "coesao-referencial"
+      ],
+      "essencial": [
+        "Pronome demonstrativo no início da frase costuma retomar o que acabou de ser dito.",
+        "Teste a troca: ponha a ideia anterior no lugar de “Isso” e veja se a frase faz sentido."
+      ],
+      "raciocinio": "1. “Isso”, no início da frase, retoma algo já dito: a frase anterior, “nenhum país é tão importante quanto a Islândia” (veja: *Coesão referencial: retomar e anunciar*).\n2. Faça o teste da troca: “[A Islândia ser o país mais importante] por uma questão de recorte”. Faz sentido, e o que vem depois do travessão explica o motivo.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Associe corretamente o efeito de sentido ao(s) respectivo(s) termo(s) sublinhado(s).\n\n**EFEITOS DE SENTIDO**\n\n1 - Explicação\n2 - Condição\n3 - Comparação\n4 - Conclusão\n5 - Adição\n\n**TERMOS**\n\n( ) \"De Lugar Nenhum\" é menos um documentário <u>que</u> um ensaio em vídeo.”\n( ) “Segundo o autor, esta é a maior solidão que consegue imaginar; <u>portanto</u> é a melhor oportunidade para pensar o que é a ligação com o outro.”\n( ) “<u>Se</u> não com uma parceira ou com um filho — que sempre parece ocupar um latifúndio de seu imaginário —, essa partilha é com uma gama vasta de gente.”\n( ) “As cenas de Valter Hugo Mãe participando de lançamentos e mesas de festivais se acumulam tanto que, <u>além de</u> cansar o espectador com o puxa-saquismo da ovação...”\n( ) “Nisso não há contrassenso, <u>já que</u> a busca por se conectar à gente é a principal bandeira e obsessão de Valter Hugo Mãe.”\n\nA sequência que apresenta corretamente essa associação é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "3, 4, 2, 5, 1.",
+        "B": "4, 3, 5, 1, 2.",
+        "C": "2, 5, 1, 4, 3.",
+        "D": "1, 2, 4, 3, 5.",
+        "E": "5, 1, 3, 2, 4."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Começa com 4, mas “menos um documentário **que** um ensaio” é comparação (3), não conclusão.",
+        "C": "Começa com 2, mas o primeiro “que” não indica condição; a condição está no “se” do terceiro trecho.",
+        "D": "Começa com 1, mas o primeiro “que” não explica nada: compara documentário e ensaio.",
+        "E": "Começa com 5, mas o primeiro “que” não indica adição; a adição é o “além de” do quarto trecho."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Cada conectivo indica uma relação: *que* (comparação), *portanto* (conclusão), *se* (condição), *além de* (adição), *já que* (explicação).",
+        "Teste trocando por um conectivo conhecido: “já que a busca” = “porque a busca”."
+      ],
+      "raciocinio": "Classifique cada conectivo (veja: *Conectivos e relações de sentido*):\n\n1. “menos um documentário **que** um ensaio” → comparação (3).\n2. “**portanto** é a melhor oportunidade” → conclusão (4).\n3. “**Se** não com uma parceira” → condição (2).\n4. “**além de** cansar o espectador” → adição (5).\n5. “**já que** a busca” = “porque a busca” → explicação (1).\n\nSequência: 3, 4, 2, 5, 1. Resposta: **A**.\n\n**Dica de prova:** em associações em sequência, resolva primeiro o item mais fácil e elimine. Aqui, só a A começa com 3.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você toparia fazer parte do clube do grito? Berrar é tendência anti-stress\n> *Maria Prata*\n>\n> De Londres a Chicago, um novo tipo de clube social começa a se espalhar pelo mundo. São os chamados \"scream clubs\" ou \"clubes do grito\", em português. O nome é literal: um grupo de pessoas que se reúne para gritar. O roteiro é simples: alguém marca o ponto de encontro (geralmente um lugar público, como parques), reúne a turma, conta até três e, por alguns segundos, todo mundo grita junto. Depois, risadas, abraços e, segundo relatos, uma sensação de descompressão total.\n>\n> Eu mesma, que já falei tanto aqui sobre a economia do silêncio como tendência num mundo com crescente interesse por meditação guiada, retiros calmantes e aplicativos de bem-estar, não me surpreendo que um gesto tão barulhento esteja viralizando. Na panela de pressão que estamos vivendo, às vezes dá mesmo vontade de explodir - mesmo que com hora marcada.\n>\n> A tendência começou a aparecer no pós-pandemia, mas o boom recente ganhou força a partir de junho deste ano, em Chicago, com o registro da marca \"Scream Club\" por Manny Hernandez, um coach de respiração, e sua sócia, Elena Soboleva, especialista em branding pessoal. O horário é ótimo e garante um bom início de semana: sempre aos domingos, 19h.\n>\n> A tendência viajou na velocidade do som (desculpe, não resisti à metáfora): os clubes já estão em outras cidades dos EUA, como Atlanta, Palm Beach, Austin, Seattle, Detroit, Denver e Nova York, e alçaram voo internacional para as cidades de Londres e Lisboa e para a Alemanha e Porto Rico. No Brasil, a moda parece não ter chegado, mas é questão de tempo.\n>\n> A ideia de um clube do grito não é exatamente nova. Nos anos 1970, a \"primal scream therapy\", criada por Arthur Janov e popularizada por John Lennon, prometia liberar traumas reprimidos por meio do grito. Faltaram, porém, evidências científicas robustas, e a prática acabou classificada como \"pseudoterapia\". Mas agora o enredo é outro. Até onde sabemos, ninguém vende cura nem atende pacientes no parque. O grito aparece como gesto social e catártico, não como intervenção clínica.\n>\n> **O grito como cola social**\n>\n> Pesquisas recentes em psicologia e neurociência social mostram que atividades sincronizadas e intensas, como cantar, dançar ou mover-se junto, elevam o limiar de dor e o humor, indicativos de liberação de endorfinas. Em linguagem sociológica, é a \"efervescência coletiva\" de Durkheim, francês considerado o pai da sociologia: emoções compartilhadas que se amplificam e produzem coesão. O grito, portanto, quando ritualizado, opera nessa fronteira entre o físico e o simbólico: é descarga, mas também encontro. É o mesmo princípio que explica a vibração coletiva de uma torcida de futebol, de uma pista de dança ou de vozes em coro na plateia de um show.\n>\n> **Recorte de gênero**\n>\n> Há também um subtexto curioso. Historicamente, o ato de gritar sempre teve conotações diferentes para homens e mulheres. O diagnóstico de \"histeria\", usado por séculos para enquadrar emoções femininas, patologizou a raiva e a expressão vocal das mulheres, enquanto o mesmo comportamento em homens foi associado à força ou autoridade. Ainda hoje, mulheres são penalizadas no trabalho quando elevam a voz; homens, muitas vezes, ganham status. No grito coletivo, essa assimetria encontra uma trégua provisória: ninguém precisa performar a docilidades - e a palavra \"libertador\" aparece com frequência nos relatos dos frequentadores.\n>\n> E, convenhamos, depois de tudo o que atravessamos nos últimos anos, talvez o estranho seja quem ainda consegue ficar calado.\n>\n> <cite>Disponível em: https://www.uol.com.br/universa/colunas/futuro-presente/2025/10/29/clube-do-grito-berrar-alto-e-tendencia-anti-stress.htm. Acesso em: 30 out. 2025.</cite>\n\n\nNesse contexto, é correto afirmar que o recorte de gênero, salientado pela autora Maria Prata, evidencia que o grito",
+      "imagens": [],
+      "alternativas": {
+        "A": "é interpretado de forma diferente para homens e mulheres.",
+        "B": "deve ser penalizado por constranger aqueles que o escutam.",
+        "C": "é praticado legalmente apenas quando é uma ação coletiva.",
+        "D": "é uma tendência comportamental exclusivamente feminina.",
+        "E": "é o principal sintoma de uma doença chamada histeria."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A autora critica a punição das mulheres que elevam a voz; não defende punir quem grita.",
+        "C": "O texto não fala de lei nem de grito “legal” ou “ilegal”.",
+        "D": "Os clubes reúnem homens e mulheres. O recorte compara os dois; não diz que só mulheres gritam.",
+        "E": "O texto cita a “histeria” como diagnóstico usado para enquadrar as mulheres, e critica esse uso. Não diz que o grito é doença."
+      },
+      "teoria": [
+        "tema-e-ideia-central"
+      ],
+      "essencial": [
+        "A ideia central de um trecho costuma estar na frase que o abre: o grito “sempre teve conotações diferentes para homens e mulheres”.",
+        "Repetir palavras do texto (“histeria”) não basta: a autora critica essa ideia, e não a defende."
+      ],
+      "raciocinio": "1. A pergunta delimita o trecho: a parte com o subtítulo “Recorte de gênero”.\n2. A frase que abre essa parte traz a ideia central: o ato de gritar “sempre teve conotações diferentes para homens e mulheres”. O resto do parágrafo dá os exemplos: a mulher que grita é chamada de histérica e penalizada; o homem ganha status.\n3. B e E repetem palavras do trecho (“penalizadas”, “histeria”), mas apresentam como opinião da autora ideias que ela critica (veja: *Tema e ideia central*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Pontuação",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você toparia fazer parte do clube do grito? Berrar é tendência anti-stress\n> *Maria Prata*\n>\n> De Londres a Chicago, um novo tipo de clube social começa a se espalhar pelo mundo. São os chamados \"scream clubs\" ou \"clubes do grito\", em português. O nome é literal: um grupo de pessoas que se reúne para gritar. O roteiro é simples: alguém marca o ponto de encontro (geralmente um lugar público, como parques), reúne a turma, conta até três e, por alguns segundos, todo mundo grita junto. Depois, risadas, abraços e, segundo relatos, uma sensação de descompressão total.\n>\n> Eu mesma, que já falei tanto aqui sobre a economia do silêncio como tendência num mundo com crescente interesse por meditação guiada, retiros calmantes e aplicativos de bem-estar, não me surpreendo que um gesto tão barulhento esteja viralizando. Na panela de pressão que estamos vivendo, às vezes dá mesmo vontade de explodir - mesmo que com hora marcada.\n>\n> A tendência começou a aparecer no pós-pandemia, mas o boom recente ganhou força a partir de junho deste ano, em Chicago, com o registro da marca \"Scream Club\" por Manny Hernandez, um coach de respiração, e sua sócia, Elena Soboleva, especialista em branding pessoal. O horário é ótimo e garante um bom início de semana: sempre aos domingos, 19h.\n>\n> A tendência viajou na velocidade do som (desculpe, não resisti à metáfora): os clubes já estão em outras cidades dos EUA, como Atlanta, Palm Beach, Austin, Seattle, Detroit, Denver e Nova York, e alçaram voo internacional para as cidades de Londres e Lisboa e para a Alemanha e Porto Rico. No Brasil, a moda parece não ter chegado, mas é questão de tempo.\n>\n> A ideia de um clube do grito não é exatamente nova. Nos anos 1970, a \"primal scream therapy\", criada por Arthur Janov e popularizada por John Lennon, prometia liberar traumas reprimidos por meio do grito. Faltaram, porém, evidências científicas robustas, e a prática acabou classificada como \"pseudoterapia\". Mas agora o enredo é outro. Até onde sabemos, ninguém vende cura nem atende pacientes no parque. O grito aparece como gesto social e catártico, não como intervenção clínica.\n>\n> **O grito como cola social**\n>\n> Pesquisas recentes em psicologia e neurociência social mostram que atividades sincronizadas e intensas, como cantar, dançar ou mover-se junto, elevam o limiar de dor e o humor, indicativos de liberação de endorfinas. Em linguagem sociológica, é a \"efervescência coletiva\" de Durkheim, francês considerado o pai da sociologia: emoções compartilhadas que se amplificam e produzem coesão. O grito, portanto, quando ritualizado, opera nessa fronteira entre o físico e o simbólico: é descarga, mas também encontro. É o mesmo princípio que explica a vibração coletiva de uma torcida de futebol, de uma pista de dança ou de vozes em coro na plateia de um show.\n>\n> **Recorte de gênero**\n>\n> Há também um subtexto curioso. Historicamente, o ato de gritar sempre teve conotações diferentes para homens e mulheres. O diagnóstico de \"histeria\", usado por séculos para enquadrar emoções femininas, patologizou a raiva e a expressão vocal das mulheres, enquanto o mesmo comportamento em homens foi associado à força ou autoridade. Ainda hoje, mulheres são penalizadas no trabalho quando elevam a voz; homens, muitas vezes, ganham status. No grito coletivo, essa assimetria encontra uma trégua provisória: ninguém precisa performar a docilidades - e a palavra \"libertador\" aparece com frequência nos relatos dos frequentadores.\n>\n> E, convenhamos, depois de tudo o que atravessamos nos últimos anos, talvez o estranho seja quem ainda consegue ficar calado.\n>\n> <cite>Disponível em: https://www.uol.com.br/universa/colunas/futuro-presente/2025/10/29/clube-do-grito-berrar-alto-e-tendencia-anti-stress.htm. Acesso em: 30 out. 2025.</cite>\n\n\nNo quarto parágrafo, o uso dos parênteses em “(desculpe, não resisti à metáfora)” evidencia corretamente um/uma",
+      "imagens": [],
+      "alternativas": {
+        "A": "pedido de desculpas sincero ao leitor.",
+        "B": "reflexão linguística sobre a astúcia autoral.",
+        "C": "intromissão da voz autoral, sinalizando ironia.",
+        "D": "indicação de um comentário sem relação com o tema.",
+        "E": "modo de convocar o leitor para colaborar com o texto."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O “desculpe” não é sincero: a autora não se arrepende do trocadilho, ela o exibe com humor.",
+        "B": "Não há reflexão sobre a linguagem; é um comentário rápido, de passagem.",
+        "D": "O comentário tem tudo a ver com o tema: “velocidade do som” é um trocadilho com o grito.",
+        "E": "A autora não pede colaboração ao leitor; só conversa com ele por um instante."
+      },
+      "teoria": [
+        "pontuacao",
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Parênteses podem inserir um comentário do autor sobre o que acabou de escrever: é a voz autoral.",
+        "Ironia: dizer uma coisa querendo dizer outra. “Desculpe, não resisti” mostra que o trocadilho foi proposital."
+      ],
+      "raciocinio": "1. Veja o que vem antes dos parênteses: “A tendência viajou na velocidade do **som**”. Como o assunto é o grito, a expressão é um trocadilho.\n2. Os parênteses inserem um comentário da própria autora sobre o que ela acabou de escrever: é a voz autoral entrando no texto (veja: *Sinais de pontuação e seus efeitos*).\n3. Ela diz “desculpe”, mas não está arrependida: “não resisti” mostra que fez o trocadilho de propósito e gostou dele. Dizer uma coisa querendo dizer outra é ironia (veja: *Ironia e humor*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você toparia fazer parte do clube do grito? Berrar é tendência anti-stress\n> *Maria Prata*\n>\n> De Londres a Chicago, um novo tipo de clube social começa a se espalhar pelo mundo. São os chamados \"scream clubs\" ou \"clubes do grito\", em português. O nome é literal: um grupo de pessoas que se reúne para gritar. O roteiro é simples: alguém marca o ponto de encontro (geralmente um lugar público, como parques), reúne a turma, conta até três e, por alguns segundos, todo mundo grita junto. Depois, risadas, abraços e, segundo relatos, uma sensação de descompressão total.\n>\n> Eu mesma, que já falei tanto aqui sobre a economia do silêncio como tendência num mundo com crescente interesse por meditação guiada, retiros calmantes e aplicativos de bem-estar, não me surpreendo que um gesto tão barulhento esteja viralizando. Na panela de pressão que estamos vivendo, às vezes dá mesmo vontade de explodir - mesmo que com hora marcada.\n>\n> A tendência começou a aparecer no pós-pandemia, mas o boom recente ganhou força a partir de junho deste ano, em Chicago, com o registro da marca \"Scream Club\" por Manny Hernandez, um coach de respiração, e sua sócia, Elena Soboleva, especialista em branding pessoal. O horário é ótimo e garante um bom início de semana: sempre aos domingos, 19h.\n>\n> A tendência viajou na velocidade do som (desculpe, não resisti à metáfora): os clubes já estão em outras cidades dos EUA, como Atlanta, Palm Beach, Austin, Seattle, Detroit, Denver e Nova York, e alçaram voo internacional para as cidades de Londres e Lisboa e para a Alemanha e Porto Rico. No Brasil, a moda parece não ter chegado, mas é questão de tempo.\n>\n> A ideia de um clube do grito não é exatamente nova. Nos anos 1970, a \"primal scream therapy\", criada por Arthur Janov e popularizada por John Lennon, prometia liberar traumas reprimidos por meio do grito. Faltaram, porém, evidências científicas robustas, e a prática acabou classificada como \"pseudoterapia\". Mas agora o enredo é outro. Até onde sabemos, ninguém vende cura nem atende pacientes no parque. O grito aparece como gesto social e catártico, não como intervenção clínica.\n>\n> **O grito como cola social**\n>\n> Pesquisas recentes em psicologia e neurociência social mostram que atividades sincronizadas e intensas, como cantar, dançar ou mover-se junto, elevam o limiar de dor e o humor, indicativos de liberação de endorfinas. Em linguagem sociológica, é a \"efervescência coletiva\" de Durkheim, francês considerado o pai da sociologia: emoções compartilhadas que se amplificam e produzem coesão. O grito, portanto, quando ritualizado, opera nessa fronteira entre o físico e o simbólico: é descarga, mas também encontro. É o mesmo princípio que explica a vibração coletiva de uma torcida de futebol, de uma pista de dança ou de vozes em coro na plateia de um show.\n>\n> **Recorte de gênero**\n>\n> Há também um subtexto curioso. Historicamente, o ato de gritar sempre teve conotações diferentes para homens e mulheres. O diagnóstico de \"histeria\", usado por séculos para enquadrar emoções femininas, patologizou a raiva e a expressão vocal das mulheres, enquanto o mesmo comportamento em homens foi associado à força ou autoridade. Ainda hoje, mulheres são penalizadas no trabalho quando elevam a voz; homens, muitas vezes, ganham status. No grito coletivo, essa assimetria encontra uma trégua provisória: ninguém precisa performar a docilidades - e a palavra \"libertador\" aparece com frequência nos relatos dos frequentadores.\n>\n> E, convenhamos, depois de tudo o que atravessamos nos últimos anos, talvez o estranho seja quem ainda consegue ficar calado.\n>\n> <cite>Disponível em: https://www.uol.com.br/universa/colunas/futuro-presente/2025/10/29/clube-do-grito-berrar-alto-e-tendencia-anti-stress.htm. Acesso em: 30 out. 2025.</cite>\n\n\nÉ correto afirmar que, no quinto parágrafo, a menção à terapia de grito “primal scream therapy” é uma estratégia argumentativa que objetiva",
+      "imagens": [],
+      "alternativas": {
+        "A": "advertir sobre os riscos que o ritmo acelerado da vida oferece.",
+        "B": "comprovar estatisticamente a eficácia da terapia por meio de grito.",
+        "C": "convencer, baseando-se em relatos testemunhais, à prática da terapia do grito.",
+        "D": "exemplificar historicamente a ideia tratada no texto com uma situação concreta.",
+        "E": "apresentar argumentos de autoridade que atestem a veracidade do projeto terapêutico."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O parágrafo não fala de riscos do ritmo de vida; fala de uma terapia dos anos 1970.",
+        "B": "É o contrário: o texto diz que “faltaram evidências científicas robustas” e que a prática virou “pseudoterapia”.",
+        "C": "Não há relatos de pacientes, e a autora diz que os clubes de hoje **não** são terapia.",
+        "E": "John Lennon popularizou a terapia, mas o texto mostra que ela não foi comprovada. A citação não atesta nada."
+      },
+      "teoria": [
+        "estrategias-argumentativas"
+      ],
+      "essencial": [
+        "Exemplificação é uma estratégia argumentativa: um caso concreto sustenta a ideia.",
+        "A “primal scream therapy”, dos anos 1970, mostra historicamente que a ideia de um clube do grito não é nova."
+      ],
+      "raciocinio": "1. Leia a frase que abre o parágrafo: “A ideia de um clube do grito não é exatamente nova.”\n2. Em seguida vem um caso concreto do passado: a “primal scream therapy”, dos anos 1970, criada por Arthur Janov.\n3. Pergunte para que a autora trouxe essa informação: para mostrar, com um exemplo histórico, que a ideia já existia, e depois marcar a diferença (“Mas agora o enredo é outro”) (veja: *Estratégias argumentativas*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Releia um trecho do texto “Você toparia fazer parte do clube do grito? Berrar é tendência anti-stress”, de Maria Prata.\n\n> Pesquisas recentes em psicologia e neurociência social mostram que atividades sincronizadas e intensas, como cantar, dançar ou mover-se junto, elevam o limiar de dor e o humor, indicativos de liberação de endorfinas. Em linguagem sociológica, é a \"efervescência coletiva\" de Durkheim, francês considerado o pai da sociologia: emoções compartilhadas que se amplificam e produzem coesão. O grito, portanto, quando ritualizado, opera nessa fronteira entre o físico e o simbólico: é descarga, mas também encontro.\n\nObserve a obra \"O Grito\", do artista norueguês Edvard Munch:\n\n![Pintura O Grito, de Edvard Munch: uma figura sozinha numa ponte, com as mãos no rosto e a boca aberta, diante de um céu e de uma paisagem com linhas retorcidas. Ao fundo, duas pessoas caminham.](img/2026-1/q15.jpg)\n\n<cite>Quadro O grito, de Edvard Munch. Disponível em: https://www.culturagenial.com/quadro-o-grito-de-edvard-munch/. Acesso em 30 out. 2025.</cite>\n\nA sequência que apresenta corretamente a função do grito evidenciada no texto de Maria Prata e na imagem de Munch, respectivamente, é:",
+      "imagens": [
+        "img/2026-1/q15.jpg"
+      ],
+      "alternativas": {
+        "A": "persuasivo / experimental.",
+        "B": "irônico / humorístico.",
+        "C": "solitário / científico.",
+        "D": "social / angustiado.",
+        "E": "pessoal / festivo."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O grito do texto não tenta convencer ninguém, e o do quadro não é um experimento.",
+        "B": "O quadro não tem nada de humorístico: transmite desespero.",
+        "C": "O grito do texto é coletivo, não solitário; e o quadro não tem nada de científico.",
+        "E": "Inverte as ideias: o grito do texto é coletivo, e o do quadro está longe de ser festivo."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Linguagem não verbal: no quadro, rosto, gestos e linhas comunicam emoção.",
+        "Mãos no rosto, boca aberta e linhas retorcidas expressam angústia; no texto, o grito em grupo une as pessoas."
+      ],
+      "raciocinio": "1. Texto: o grito é feito em grupo e produz “coesão”; é “descarga, mas também encontro”. Função **social**.\n2. Quadro: uma figura sozinha, mãos no rosto, boca aberta, linhas retorcidas ao redor (veja: *Linguagem verbal e não verbal*). O que ele expressa é **angústia**.\n3. “Respectivamente” pede primeiro o texto e depois o quadro: social / angustiado.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Após receber seu salário, um operário guardou R$ 200,00 na poupança. Do dinheiro que restou, ele gastou metade com contas fixas do mês (aluguel, água, luz, telefone etc), e ainda restaram R$ 1 800,00 para cobrir os demais gastos ao longo do mês.\n\nÉ correto afirmar que o salário desse operário, em Real, é igual a",
+      "imagens": [],
+      "alternativas": {
+        "A": "3.400,00.",
+        "B": "3.600,00.",
+        "C": "3.800,00.",
+        "D": "4.000,00.",
+        "E": "4.200,00."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com 3.400: \\(3400 - 200 = 3200\\), e metade de 3.200 é 1.600, não 1.800.",
+        "B": "3.600 é o que ele tinha depois de guardar os R$ 200. Faltou devolver a poupança.",
+        "D": "Com 4.000: \\(4000 - 200 = 3800\\), e metade é 1.900, não 1.800.",
+        "E": "Com 4.200: \\(4200 - 200 = 4000\\), e metade é 2.000, não 1.800."
+      },
+      "teoria": [
+        "equacoes-do-1o-grau"
+      ],
+      "essencial": [
+        "Para descobrir quanto havia no começo, desfaça as operações de trás para frente.",
+        "Pela equação, com salário \\(S\\): \\(\\frac{S - 200}{2} = 1800\\), então \\(S = 3800\\)."
+      ],
+      "raciocinio": "Faça o caminho de volta, desfazendo as operações de trás para frente (veja: *Equações do 1º grau e problemas*):\n\n1. Os R$ 1.800 que sobraram são a metade do que havia depois da poupança. Volta: \\(1800 \\cdot 2 = 3600\\).\n2. Antes disso, ele tinha tirado R$ 200. Volta: \\(3600 + 200 = 3800\\).\n3. Conferindo: \\(3800 - 200 = 3600\\), e metade de 3.600 é 1.800 ✓.\n\nPela equação, com salário \\(S\\): \\(\\frac{S - 200}{2} = 1800 \\Rightarrow S = 3800\\).\n\nResposta: **C**.\n\n**Dica de prova:** quando as alternativas são números, dá para testá-las no enunciado. Comece pela do meio: se ela der muito ou pouco, você já sabe para que lado ir.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Durante a execução do Hino Nacional Brasileiro no pátio de uma escola, os alunos ficaram organizados em *m* filas, com *n* alunos em cada uma delas. Sabe-se que havia mais de 5 filas e mais de 5 alunos em cada fila. Ao todo, havia 221 alunos no pátio.\n\nO valor correto da soma *m + n* é",
+      "imagens": [],
+      "alternativas": {
+        "A": "15.",
+        "B": "20.",
+        "C": "25.",
+        "D": "30.",
+        "E": "35."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com soma 15, o maior produto possível é \\(7 \\cdot 8 = 56\\), muito longe de 221.",
+        "B": "Com soma 20, o maior produto possível é \\(10 \\cdot 10 = 100\\). Não chega a 221.",
+        "C": "Com soma 25, o maior produto possível é \\(12 \\cdot 13 = 156\\). Ainda não chega a 221.",
+        "E": "Com soma 35, os produtos pulam de \\(8 \\cdot 27 = 216\\) direto para \\(9 \\cdot 26 = 234\\); nenhum par dá 221."
+      },
+      "teoria": [
+        "divisibilidade-e-fatoracao"
+      ],
+      "essencial": [
+        "Fatorar é escrever o número como produto de primos. Teste os primos em ordem: 2, 3, 5, 7, 11, 13…",
+        "\\(221 = 13 \\cdot 17\\). Os únicos produtos são \\(1 \\cdot 221\\) e \\(13 \\cdot 17\\); “mais de 5” elimina o primeiro."
+      ],
+      "raciocinio": "1. \\(m\\) filas com \\(n\\) alunos: \\(m \\cdot n = 221\\), com \\(m > 5\\) e \\(n > 5\\).\n2. Fatore 221 (veja: *Divisibilidade e fatoração em primos*): não é divisível por 2, 3, 5, 7 nem 11; por 13, sim: \\(221 = 13 \\cdot 17\\).\n3. Como 13 e 17 são primos, os únicos produtos possíveis são \\(1 \\cdot 221\\) e \\(13 \\cdot 17\\). A condição “mais de 5” elimina o primeiro.\n4. \\(m + n = 13 + 17 = 30\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "A divisão de uma herança foi feita da seguinte forma: 1/3 da herança foi destinada à viúva do falecido; o restante foi dividido em partes iguais entre seus 4 filhos.\n\nA fração correta da herança que cada filho recebeu foi",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\dfrac{1}{15}\\).",
+        "B": "\\(\\dfrac{1}{12}\\).",
+        "C": "\\(\\dfrac{1}{9}\\).",
+        "D": "\\(\\dfrac{1}{8}\\).",
+        "E": "\\(\\dfrac{1}{6}\\)."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com \\(\\frac{1}{15}\\) para cada filho, viúva e filhos somariam \\(\\frac{1}{3} + \\frac{4}{15} = \\frac{9}{15}\\): sobraria herança sem dono.",
+        "B": "\\(\\frac{1}{12} = \\frac{1}{3} \\div 4\\): dividiu entre os filhos a parte da viúva, e não o restante.",
+        "C": "Com \\(\\frac{1}{9}\\) para cada filho, o total seria \\(\\frac{1}{3} + \\frac{4}{9} = \\frac{7}{9}\\): também sobraria herança.",
+        "D": "\\(\\frac{1}{8} = \\frac{1}{2} \\div 4\\): é o que cada filho receberia se a viúva tivesse ficado com metade, e não com um terço."
+      },
+      "teoria": [
+        "fracoes"
+      ],
+      "essencial": [
+        "O que sobra de um todo: \\(1 - \\frac{1}{3} = \\frac{2}{3}\\).",
+        "Para dividir uma fração por um inteiro, multiplique o denominador: \\(\\frac{2}{3} \\div 4 = \\frac{2}{12} = \\frac{1}{6}\\)."
+      ],
+      "raciocinio": "1. Viúva: \\(\\frac{1}{3}\\). Restante: \\(1 - \\frac{1}{3} = \\frac{2}{3}\\) (veja: *Frações*).\n2. O restante vai para 4 filhos: \\(\\frac{2}{3} \\div 4 = \\frac{2}{12} = \\frac{1}{6}\\).\n3. Conferindo: \\(\\frac{1}{3} + 4 \\cdot \\frac{1}{6} = \\frac{2}{6} + \\frac{4}{6} = 1\\) ✓.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "O dono de uma pizzaria planeja reajustar os preços de venda das pizzas, pois está insatisfeito com a margem de lucro atual. Atualmente, o custo de produção da pizza média é de R$ 25,00 e esta é vendida por R$ 40,00, gerando lucro de R$ 15,00. Esse valor representa uma margem de lucro inferior ao desejado. Com o reajuste proposto, ele dobrará a margem de lucro na venda da pizza média.\n\nQual será o aumento percentual (%) no preço de venda da pizza média após esse reajuste?",
+      "imagens": [],
+      "alternativas": {
+        "A": "37,50.",
+        "B": "39,75.",
+        "C": "40,50.",
+        "D": "41,25.",
+        "E": "42,50."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Um aumento de 39,75% levaria o preço a R$ 55,90 (\\(40 \\cdot 1{,}3975\\)), e não a R$ 55.",
+        "C": "Um aumento de 40,5% levaria o preço a R$ 56,20, e não a R$ 55.",
+        "D": "Um aumento de 41,25% levaria o preço a R$ 56,50, e não a R$ 55.",
+        "E": "Um aumento de 42,5% levaria o preço a R$ 57, e não a R$ 55."
+      },
+      "teoria": [
+        "porcentagem"
+      ],
+      "essencial": [
+        "Preço = custo + lucro. Dobrar o lucro não mexe no custo: \\(25 + 30 = 55\\).",
+        "Aumento percentual = aumento ÷ valor antigo: \\(\\frac{15}{40} = 37{,}5\\%\\)."
+      ],
+      "raciocinio": "1. Preço = custo + lucro: \\(40 = 25 + 15\\) (veja: *Porcentagem*).\n2. Dobrar o lucro: \\(15 \\cdot 2 = 30\\). O custo não muda, então o novo preço é \\(25 + 30 = 55\\).\n3. Aumento sobre o preço antigo: \\(\\frac{55 - 40}{40} = \\frac{15}{40} = 0{,}375 = 37{,}5\\%\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Uma central de atendimento ao consumidor soluciona problemas em um período que varia de 1 até 5 dias úteis. Uma pesquisa de satisfação entre os usuários revelou que o fator mais relevante para eles é o tempo de espera pela solução. A nota de satisfação atribuída pelo usuário é um número racional de 1 a 5, em que 1 é a pior e 5 é a melhor avaliação possível e cada nota é inversamente proporcional ao tempo de espera, em dias úteis.\n\nNessas condições, é correto afirmar que a nota atribuída por um usuário que teve seu problema solucionado em 2 dias úteis foi",
+      "imagens": [],
+      "alternativas": {
+        "A": "2,0.",
+        "B": "2,5.",
+        "C": "3,0.",
+        "D": "3,5.",
+        "E": "4,0."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Nota 2,0 corresponde a 2,5 dias de espera (\\(2 \\cdot 2{,}5 = 5\\)), e não a 2 dias.",
+        "C": "3,0 aparece se a nota cair 1 ponto por dia (\\(5 - 2\\)). Isso é subtração, não proporção inversa.",
+        "D": "Com nota 3,5 e 2 dias, o produto seria \\(3{,}5 \\cdot 2 = 7\\), diferente da constante 5.",
+        "E": "4,0 é tirar só 1 ponto da nota máxima. Na proporção inversa, dobrar o tempo divide a nota por 2."
+      },
+      "teoria": [
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Grandezas inversamente proporcionais: o produto é constante. Aqui, nota × dias = 5.",
+        "Ache a constante pelos extremos: nota 5 com 1 dia. Com 2 dias, \\(\\frac{5}{2} = 2{,}5\\)."
+      ],
+      "raciocinio": "1. Inversamente proporcional: nota × dias = constante (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Encontre a constante pelos extremos: a melhor nota (5) corresponde ao menor tempo (1 dia), então \\(k = 5 \\cdot 1 = 5\\). O outro extremo confirma: nota 1 com 5 dias, \\(1 \\cdot 5 = 5\\) ✓.\n3. Com 2 dias: \\(\\text{nota} = \\frac{5}{2} = 2{,}5\\).\n\n<div data-interativo=\"26-q20-inversa\"></div>\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Considere os números reais *a*, *b* e *c* tais que\n\n\\[a = \\frac{25 \\div 125}{500} \\qquad b = 100(100 \\div 2) \\qquad c = 1 + [1 - (1 - 5)]\\]\n\nQual é o resultado do produto *a*×*b*×*c* ?",
+      "imagens": [],
+      "alternativas": {
+        "A": "8.",
+        "B": "9.",
+        "C": "10.",
+        "D": "11.",
+        "E": "12."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Daria 8 com \\(c = 4\\). Mas \\(1 - (1 - 5) = 1 - (-4) = 5\\), e então \\(c = 1 + 5 = 6\\).",
+        "B": "Como \\(a \\cdot b = 2\\) e \\(c\\) é inteiro, o produto é par; 9 é impossível.",
+        "C": "Daria 10 com \\(c = 5\\): faltou somar o 1 que está fora dos colchetes.",
+        "D": "Pelo mesmo motivo da B: \\(a \\cdot b = 2\\) e \\(c\\) é inteiro, então o produto é par, e 11 é ímpar."
+      },
+      "teoria": [
+        "expressoes-numericas"
+      ],
+      "essencial": [
+        "Ordem das operações: primeiro parênteses, depois colchetes; dentro deles, multiplicação e divisão antes de soma e subtração.",
+        "Cuidado com o sinal: \\(1 - (-4) = 1 + 4 = 5\\)."
+      ],
+      "raciocinio": "Resolva cada número na ordem certa (veja: *Expressões numéricas e ordem das operações*):\n\n1. \\(a\\): primeiro o numerador. \\(25 \\div 125 = 0{,}2\\), então \\(a = \\frac{0{,}2}{500} = 0{,}0004\\).\n2. \\(b = 100 \\cdot (100 \\div 2) = 100 \\cdot 50 = 5000\\).\n3. \\(c\\), de dentro para fora: \\(1 - 5 = -4\\); \\(1 - (-4) = 5\\); \\(c = 1 + 5 = 6\\).\n4. \\(a \\cdot b = 0{,}0004 \\cdot 5000 = 2\\), e \\(2 \\cdot 6 = 12\\).\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Três amigos nasceram no mesmo dia e mês, porém em anos diferentes e consecutivos. No dia 1º de novembro de 2025, os três comemoraram aniversário e, naquele momento, suas idades somadas representavam 129 anos.\n\nNesse contexto, é correto afirmar que o mais velho dos três amigos nasceu em 1º de novembro de",
+      "imagens": [],
+      "alternativas": {
+        "A": "1981.",
+        "B": "1982.",
+        "C": "1983.",
+        "D": "1984.",
+        "E": "1985."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "1982 é o ano do amigo do meio (43 anos). A pergunta é sobre o mais velho.",
+        "C": "1983 é o ano do mais novo (42 anos).",
+        "D": "Quem nasceu em 1984 faz 41 anos em 2025, e nenhum dos amigos tem 41.",
+        "E": "Quem nasceu em 1985 faz 40 anos em 2025, e nenhum dos amigos tem 40."
+      },
+      "teoria": [
+        "equacoes-do-1o-grau"
+      ],
+      "essencial": [
+        "Números consecutivos: \\(x - 1\\), \\(x\\) e \\(x + 1\\). A soma é \\(3x\\).",
+        "No dia do aniversário, ano de nascimento = ano atual − idade. O mais velho tem o menor ano."
+      ],
+      "raciocinio": "1. Idades consecutivas: \\(x - 1\\), \\(x\\) e \\(x + 1\\). Soma: \\(3x = 129 \\Rightarrow x = 43\\) (veja: *Equações do 1º grau e problemas*).\n2. Idades: 42, 43 e 44. O mais velho tem 44 anos.\n3. No dia do aniversário, ano de nascimento = ano atual − idade: \\(2025 - 44 = 1981\\).\n\nResposta: **A**.\n\n**Dica de prova:** quem é mais velho nasceu antes e tem o **menor** ano de nascimento. As alternativas trazem os anos dos três amigos; confira qual deles a pergunta quer.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Em um quadrado de lado 40 cm está inscrito um setor circular com ângulo central de 270°, como mostra a figura.\n\n![Quadrado de lado 40 cm. Dentro dele há um círculo que encosta nos quatro lados, mas falta um quarto do círculo, no canto superior direito. O setor de 270° é branco; o resto do quadrado, incluindo o quarto que falta, é cinza.](img/2026-1/q23.png)\n\nNesse sentido, é correto afirmar que a área na cor cinza, em cm², mede",
+      "imagens": [
+        "img/2026-1/q23.png"
+      ],
+      "alternativas": {
+        "A": "\\(1600 - 200\\pi\\)",
+        "B": "\\(1600 - 300\\pi\\)",
+        "C": "\\(1600 - 400\\pi\\)",
+        "D": "\\(1600 + 300\\pi\\)",
+        "E": "\\(1600 + 400\\pi\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(200\\pi\\) é meio círculo. A parte branca é um setor de 270°, ou seja, três quartos do círculo.",
+        "C": "\\(400\\pi\\) é o círculo inteiro, mas falta um quarto dele, que também é cinza.",
+        "D": "A área cinza é o quadrado **menos** a parte branca. Somar daria uma área maior que o próprio quadrado.",
+        "E": "Soma em vez de subtrair, e ainda usa o círculo inteiro."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "circulo-e-circunferencia"
+      ],
+      "essencial": [
+        "Área cinza = área do quadrado − área do setor branco.",
+        "Círculo que encosta nos quatro lados do quadrado tem diâmetro igual ao lado: \\(r = 20\\).",
+        "Setor circular é uma fração do círculo: 270° são \\(\\frac{3}{4}\\) de 360°, então o setor é \\(\\frac{3}{4} \\cdot \\pi r^2\\)."
+      ],
+      "raciocinio": "1. Área cinza = quadrado − setor branco (veja: *Áreas de figuras planas*).\n2. Quadrado: \\(40^2 = 1600\\).\n3. O círculo encosta nos quatro lados, então o diâmetro é 40 e o raio é 20. Círculo inteiro: \\(\\pi \\cdot 20^2 = 400\\pi\\).\n4. 270° são \\(\\frac{3}{4}\\) de 360°: setor \\(= \\frac{3}{4} \\cdot 400\\pi = 300\\pi\\) (veja: *Círculo e circunferência*).\n5. Cinza: \\(1600 - 300\\pi\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "A figura mostra um fragmento da logomarca de um Instituto Federal, formado pela letra **I** e pela letra **F**. Ele foi desenhado utilizando-se 10 quadrados idênticos, como mostra a figura.\n\n![Duas letras feitas de quadrados. A letra I é uma coluna de 4 quadrados. A letra F é uma coluna de 4 quadrados com um quadrado a mais à direita do primeiro e outro à direita do terceiro. Linhas tracejadas separam os quadrados.](img/2026-1/q24.png)\n\nNa figura, a letra **I** é formada por 4 quadrados e a letra **F**, por sua vez, é formada por 6 quadrados. Cada quadrado possui lado medindo 10 cm.\n\nQual é, em cm, o perímetro total do fragmento da logomarca mostrado?",
+      "imagens": [
+        "img/2026-1/q24.png"
+      ],
+      "alternativas": {
+        "A": "100.",
+        "B": "180.",
+        "C": "220.",
+        "D": "240.",
+        "E": "320."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "100 cm é só o perímetro da letra I. Faltou a letra F.",
+        "B": "Faltaram 6 lados de 10 cm. O contorno do I tem 10 lados e o do F tem 14, num total de 24.",
+        "C": "Faltaram 2 lados de 10 cm, provavelmente os de cima ou de baixo de um dos quadrados que saem do F.",
+        "E": "Somou também os tracejados, onde um quadrado encosta no outro (80 cm a mais). Eles ficam dentro da figura."
+      },
+      "teoria": [
+        "perimetro"
+      ],
+      "essencial": [
+        "Perímetro é o contorno: some só os lados de fora.",
+        "Quando dois quadrados se encostam, o lado comum fica dentro da figura e não conta."
+      ],
+      "raciocinio": "1. Letra I: coluna de 4 quadrados, ou seja, um retângulo de 10 × 40: \\(2 \\cdot (10 + 40) = 100\\) cm.\n2. Letra F: a mesma coluna (100 cm) mais dois quadrados, cada um encostado por um só lado. Cada um acrescenta 2 lados de 10 cm ao contorno (veja: *Perímetro*): \\(100 + 20 + 20 = 140\\) cm.\n3. Total: \\(100 + 140 = 240\\) cm.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Em uma caixa com formato de paralelepípedo reto e com dimensões internas de 50 cm x 40 cm x 30 cm serão guardados, sem desperdício de espaço, livretos todos eles também em formato de paralelepípedo reto. Cada livreto possui espessura de 2 cm, capa e páginas com dimensões iguais a 15 cm e 10 cm, respectivamente.\n\nNessas condições, é correto afirmar que a quantidade máxima de livretos que podem ser acomodados no interior dessa caixa é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "150.",
+        "B": "180.",
+        "C": "200.",
+        "D": "220.",
+        "E": "250."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "150 livretos ocupam \\(150 \\cdot 300 = 45\\,000\\) cm³ e deixam 15 000 cm³ vazios. Cabem mais.",
+        "B": "180 livretos ocupam 54 000 cm³ e ainda sobra espaço.",
+        "D": "220 livretos precisariam de 66 000 cm³, mais que os 60 000 cm³ da caixa.",
+        "E": "250 livretos precisariam de 75 000 cm³. Não cabem."
+      },
+      "teoria": [
+        "volumes"
+      ],
+      "essencial": [
+        "Volume do bloco retangular: comprimento × largura × altura. Caixa: 60.000 cm³; livreto: 300 cm³.",
+        "Dividir os volumes dá um máximo; confirme que a arrumação existe: \\(5 \\cdot 2 \\cdot 20 = 200\\), sem sobra."
+      ],
+      "raciocinio": "1. Volume da caixa: \\(50 \\cdot 40 \\cdot 30 = 60\\,000\\) cm³. Volume do livreto: \\(15 \\cdot 10 \\cdot 2 = 300\\) cm³ (veja: *Volumes de sólidos*).\n2. Máximo possível: \\(60\\,000 \\div 300 = 200\\).\n3. Confirme que essa arrumação existe: o lado de 10 cm do livreto ao longo dos 50 cm da caixa (5 livretos), o de 15 cm ao longo dos 30 cm (2) e a espessura de 2 cm ao longo dos 40 cm (20). \\(5 \\cdot 2 \\cdot 20 = 200\\), sem sobra de espaço.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Na figura, ABCD é um quadrilátero convexo e P é o ponto de interseção das diagonais desse quadrilátero.\n\n![Quadrilátero ABCD irregular, com A à esquerda, B embaixo, C à direita e D no alto. As diagonais AC e BD se cruzam no ponto P.](img/2026-1/q26.png)\n\nQual o número máximo de triângulos **NÃO** congruentes definidos pelos pontos A, B, C, D ou P?",
+      "imagens": [
+        "img/2026-1/q26.png"
+      ],
+      "alternativas": {
+        "A": "5.",
+        "B": "7.",
+        "C": "8.",
+        "D": "10.",
+        "E": "12."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "5 é o número de pontos, não de triângulos.",
+        "B": "Faltou contar algum trio. São 10 trios, e só 2 não formam triângulo.",
+        "D": "10 é o total de trios, mas A, P, C e B, P, D estão alinhados (sobre as diagonais) e não formam triângulo.",
+        "E": "Com 5 pontos existem só 10 trios; não há como formar 12 triângulos."
+      },
+      "teoria": [
+        "combinacoes",
+        "triangulos"
+      ],
+      "essencial": [
+        "Combinação: escolher sem importar a ordem. Trios de 5 pontos: \\(C_{5,3} = 10\\).",
+        "Três pontos alinhados não formam triângulo: A, P, C e B, P, D estão nas diagonais, então \\(10 - 2 = 8\\)."
+      ],
+      "raciocinio": "1. Cada triângulo é um trio de pontos, e a ordem não importa: \\(C_{5,3} = \\frac{5 \\cdot 4 \\cdot 3}{3 \\cdot 2 \\cdot 1} = 10\\) trios (veja: *Combinações: escolher sem importar a ordem*).\n2. Três pontos alinhados não formam triângulo (veja: *Triângulos: classificação e propriedades*). P está nas duas diagonais, então A, P, C (diagonal AC) e B, P, D (diagonal BD) estão alinhados: \\(10 - 2 = 8\\).\n\n<div data-interativo=\"26-q26-triangulos\"></div>\n\n3. “Não congruentes” quer dizer triângulos diferentes entre si. Num quadrilátero sem simetria, como o da figura, os 8 são todos diferentes; por isso o enunciado fala em número **máximo** (num quadrado, por exemplo, alguns seriam iguais).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Nas obras de construção de uma rodovia a última parte é a pintura da sinalização. Na obra de uma determinada rodovia, observou-se que os trabalhadores que executavam esse tipo de serviço realizavam a pintura da sinalização de cada metro da obra em 40 segundos. Eles mantiveram a produtividade por km na pintura de 10 Km, concluindo a meta diária de trabalho da equipe.\n\nQual foi o tempo necessário para cumprir essa meta diária?",
+      "imagens": [],
+      "alternativas": {
+        "A": "11h 2min 20s",
+        "B": "11h 4min 30s",
+        "C": "11h 5min 10s",
+        "D": "11h 6min 40s",
+        "E": "11h 8min 50s"
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "11 h 2 min 20 s = 39 740 s. Não corresponde a 1 km (40 000 s) nem a 10 km (400 000 s).",
+        "B": "11 h 4 min 30 s = 39 870 s. Também não corresponde a nenhuma das duas distâncias.",
+        "C": "11 h 5 min 10 s = 39 910 s. Também não corresponde.",
+        "D": "11 h 6 min 40 s = 40 000 s: é o tempo de **1 km**, mas o enunciado fala em 10 km.",
+        "E": "11 h 8 min 50 s = 40 130 s. Também não corresponde."
+      },
+      "teoria": [
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "1 km = 1000 m: 10 km a 40 s por metro dão 400.000 s.",
+        "Para passar segundos a horas, divida por 3600; o resto, divida por 60 para achar os minutos."
+      ],
+      "raciocinio": "1. Converta a distância para metros (veja: *Conversão de unidades*): 10 km = 10 000 m.\n2. Tempo total: \\(10\\,000 \\cdot 40 = 400\\,000\\) s.\n3. Para h min s: \\(400\\,000 = 111 \\cdot 3600 + 400\\), e \\(400 = 6 \\cdot 60 + 40\\). O tempo é **111 h 6 min 40 s**.\n4. Nenhuma alternativa traz esse valor. A D (11 h 6 min 40 s = 40 000 s) é o tempo de 1 km, o que indica um erro no enunciado (10 km no lugar de 1 km) ou nas alternativas.\n\nPor isso a questão foi **anulada** no gabarito final e vale ponto para todos.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "O gráfico a seguir mostra a quantidade de carros vendidos por uma concessionária nos quatro trimestres de 2024.\n\n![Gráfico de barras “Carros vendidos por trimestre”, com uma barra de novos (preta) e uma de usados (cinza) em cada trimestre.](img/2026-1/q28.png \"1º trimestre: novos 20, usados 20 | 2º trimestre: novos 15, usados 20 | 3º trimestre: novos 15, usados 25 | 4º trimestre: novos 10, usados 30\")\n\nEm qual trimestre a empresa vendeu menos carros e qual a quantidade vendida nesse trimestre, respectivamente?",
+      "imagens": [
+        "img/2026-1/q28.png"
+      ],
+      "alternativas": {
+        "A": "Primeiro / 20 carros.",
+        "B": "Primeiro / 40 carros.",
+        "C": "Quarto / 10 carros.",
+        "D": "Segundo / 35 carros.",
+        "E": "Segundo / 15 carros."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "No 1º trimestre foram 20 novos e 20 usados: 40 carros, não 20.",
+        "B": "O 1º trimestre teve 40 carros, mas o 2º vendeu menos (35).",
+        "C": "O 4º trimestre tem a menor barra de novos (10), mas vendeu 30 usados: 40 no total.",
+        "E": "O trimestre está certo, mas 15 são só os novos. O total foi \\(15 + 20 = 35\\)."
+      },
+      "teoria": [
+        "graficos"
+      ],
+      "essencial": [
+        "No gráfico de barras agrupadas, cada trimestre tem duas barras: some novos e usados.",
+        "O menor total é o do 2º trimestre: \\(15 + 20 = 35\\) carros."
+      ],
+      "raciocinio": "1. A pergunta é sobre carros vendidos, novos e usados juntos. Some as duas barras de cada trimestre (veja: *Leitura de gráficos*):\n\n| Trimestre | Novos | Usados | Total |\n|---|---|---|---|\n| 1º | 20 | 20 | 40 |\n| 2º | 15 | 20 | **35** |\n| 3º | 15 | 25 | 40 |\n| 4º | 10 | 30 | 40 |\n\n2. O menor total é o do 2º trimestre: 35 carros.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "A tabela a seguir resume os placares em um torneio de futebol em uma escola.\n\n| | Barça | Bayern | City | Juventus | Real |\n|---|---|---|---|---|---|\n| **Barça** | ———— | 1 – 3 | 1 – 2 | 2 – 4 | 1 – 0 |\n| **Bayern** | 3 – 1 | ———— | 2 – 0 | 1 – 3 | 2 – 2 |\n| **City** | 2 – 1 | 0 – 2 | ———— | 1 – 0 | 2 – 1 |\n| **Juventus** | 4 – 2 | 3 – 1 | 0 – 1 | ———— | 5 – 2 |\n| **Real** | 0 – 1 | 2 – 2 | 1 – 2 | 2 – 5 | ———— |\n\nCada célula da tabela indica o placar do jogo, com os gols marcados pelo time da linha seguidos pelos gols marcados pelo time da coluna. Exemplo: Bayern venceu Barça por 3 – 1.\n\nOs dois times desse torneio que venceram exatamente 3 jogos são:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Barça / Bayern.",
+        "B": "Bayern / City.",
+        "C": "City / Juventus.",
+        "D": "Juventus / Real.",
+        "E": "Real / Barça."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O Barça venceu só 1 jogo (1 – 0 no Real), e o Bayern venceu 2.",
+        "B": "O City venceu 3, mas o Bayern venceu só 2 (Barça e City).",
+        "D": "A Juventus venceu 3, mas o Real não venceu nenhum.",
+        "E": "O Real não venceu nenhum jogo, e o Barça venceu só 1."
+      },
+      "teoria": [
+        "tabelas"
+      ],
+      "essencial": [
+        "Na tabela de jogos, leia sempre a linha do time: o primeiro número é o gol dele.",
+        "Vitória é quando o primeiro número é maior. Confira com o exemplo do enunciado (Bayern 3 – 1 Barça)."
+      ],
+      "raciocinio": "1. Pela regra, o primeiro número é o gol do time da linha. Para contar as vitórias de um time, percorra a linha dele e marque as células em que o primeiro número é maior (veja: *Leitura de tabelas*).\n2. Barça: 1 – 0 → 1 vitória. Bayern: 3 – 1 e 2 – 0 → 2. City: 2 – 1, 1 – 0 e 2 – 1 → 3. Juventus: 4 – 2, 3 – 1 e 5 – 2 → 3. Real: nenhuma.\n\nResposta: **C**.\n\n**Dica de prova:** antes de contar, use o exemplo do próprio enunciado (Bayern 3 – 1 Barça) para conferir se você está lendo a tabela do jeito certo.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Cinco casas consecutivas em uma rua possuem cinco cores diferentes em suas fachadas frontais, sendo uma amarela, uma azul, uma branca, uma marrom e uma rosa. A rua é uma ladeira íngreme e a casa da fachada amarela não é a localizada no ponto mais alto da rua. A casa da fachada branca fica entre a casa da fachada rosa e a casa da fachada azul. A casa da fachada marrom fica no ponto mais baixo da rua.\n\nQuantas possibilidades diferentes de posição existem para a casa da fachada rosa?",
+      "imagens": [],
+      "alternativas": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4.",
+        "E": "5."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Há várias arrumações válidas, com a rosa em posições diferentes (casas 1, 3 e 4).",
+        "B": "2 é o resultado de quem exige a branca colada na rosa e na azul. “Entre” não exige isso.",
+        "D": "A rosa nunca fica na casa 2: nas arrumações válidas, a casa 2 é sempre da branca ou da amarela.",
+        "E": "A casa 5, a mais baixa, é da marrom; a rosa não pode estar lá."
+      },
+      "teoria": [
+        "problemas-de-logica"
+      ],
+      "essencial": [
+        "Em problemas de lógica, aplique primeiro a regra mais restritiva: a marrom fica na casa 5.",
+        "“Entre” vale no sentido amplo: a branca fica em qualquer posição entre a rosa e a azul, sem precisar encostar.",
+        "Monte uma tabela com cada posição possível da amarela e veja onde a rosa pode ficar."
+      ],
+      "raciocinio": "Numere as casas de 1 (topo) a 5 (base) e comece pela regra mais restritiva (veja: *Problemas de lógica*):\n\n1. A marrom fica na casa 5; as outras quatro ocupam as casas 1 a 4.\n2. A amarela não pode ser a 1: fica na 2, 3 ou 4.\n3. Das três casas que sobram, a branca fica na do meio, **entre** a rosa e a azul, que vão nas pontas.\n\n| Amarela | Casas livres | Branca | Rosa pode ficar em |\n|---|---|---|---|\n| 2 | 1, 3, 4 | 3 | 1 ou 4 |\n| 3 | 1, 2, 4 | 2 | 1 ou 4 |\n| 4 | 1, 2, 3 | 2 | 1 ou 3 |\n\n<div data-interativo=\"26-q30-casas\"></div>\n\n4. A rosa pode ficar nas casas 1, 3 e 4: **3 possibilidades**.\n\nResposta: **C**.",
+      "interativo": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "colocacao-pronominal",
+  "titulo": "Colocação pronominal",
+  "materia": "Português",
+  "grupo": "Colocação pronominal",
+  "texto": "Os **pronomes oblíquos átonos** (*me, te, se, o, a, lhe, nos, vos, os, as, lhes*) podem ficar em três posições em relação ao verbo:\n\n| Posição | Onde fica | Exemplo |\n|---|---|---|\n| **Próclise** | antes do verbo | Não **me** ajude. |\n| **Mesóclise** | no meio do verbo | Ajudar-**me**-ia. Dir-**te**-ei. |\n| **Ênclise** | depois do verbo | Ajude-**me**. Dê-**me** um cigarro. |\n\n**Regras da norma-padrão:**\n\n1. **Não se começa frase com pronome átono.** “Me dá um cigarro” é comum na fala brasileira, mas, na escrita formal, fica “Dê-me um cigarro”.\n2. **Palavras atrativas puxam o pronome para antes do verbo (próclise):** palavras negativas (*não, nunca, ninguém*), pronomes relativos (*que, quem*), conjunções subordinativas (*quando, se, porque*), advérbios (*já, sempre, aqui*), pronomes indefinidos (*tudo, alguém*). “Ela **nunca me** ajudou.” / “O livro **que me** deram.”\n3. **Futuro do presente e futuro do pretérito**, sem palavra atrativa antes, pedem **mesóclise**: “Ajudar-**me**-á.” / “Ajudar-**me**-ia.” Nesses tempos, a ênclise é **proibida** (“ajudaria-me” está errado).\n4. Nos outros casos, sem palavra atrativa, usa-se a **ênclise**: “Contou-**me** tudo.”\n\n**Fala × norma-padrão:** no português do Brasil falado, a próclise é a regra geral (“Me empresta?”, “Eu te amo”), e a mesóclise praticamente não aparece. Muitos autores modernistas, como Oswald de Andrade, valorizaram esse jeito brasileiro de falar na literatura. Na prova, quando a pergunta pede a **norma-padrão**, aplique as regras acima.",
+  "videos": [
+    {
+      "titulo": "Colocação pronominal - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=l_WxqVvmyGo"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "porcentagem",
+  "titulo": "Porcentagem",
+  "materia": "Matemática",
+  "grupo": "Razão, proporção e porcentagem",
+  "texto": "**Porcentagem** é uma fração de denominador 100: \\(p\\% = \\frac{p}{100}\\).\n\n| Porcentagem | Fração | Decimal |\n|---|---|---|\n| 50% | \\(\\frac{1}{2}\\) | 0,5 |\n| 25% | \\(\\frac{1}{4}\\) | 0,25 |\n| 10% | \\(\\frac{1}{10}\\) | 0,1 |\n| 8,3% | \\(\\frac{8{,}3}{100}\\) | 0,083 |\n\n**Porcentagem de um valor:** multiplique o valor pelo decimal. \\(5\\%\\) de 600 \\(= 0{,}05 \\cdot 600 = 30\\).\n\n**Que porcentagem uma parte representa do todo:**\n\n\\[\\text{porcentagem} = \\frac{\\text{parte}}{\\text{todo}} \\cdot 100\\%\\]\n\n**Aumento ou desconto percentual:** compare a diferença com o valor **antigo**.\n\n\\[\\text{variação \\%} = \\frac{\\text{valor novo} - \\text{valor antigo}}{\\text{valor antigo}} \\cdot 100\\%\\]\n\nExemplo: o preço foi de R$ 40 para R$ 55. A diferença é 15, e \\(\\frac{15}{40} = 0{,}375 = 37{,}5\\%\\) de aumento. Dividir por 55 (o valor novo) daria outro número, errado.\n\n**Preço, custo e lucro:**\n\n\\[\\text{preço de venda} = \\text{custo} + \\text{lucro}\\]\n\nDobrar o **lucro** não é dobrar o **preço**: o custo continua o mesmo.\n\n**Porcentagem de um grupo:** quando a tabela mostra porcentagens **dentro de um grupo** (por exemplo, só entre os alunos do Ensino Médio), primeiro descubra quantas pessoas há no grupo e depois aplique a porcentagem a ele. Se 69,4% de 8283 participantes são do EM, o grupo tem \\(8283 \\cdot 0{,}694 \\approx 5748\\) pessoas.\n\n**Somar porcentagens** só é permitido quando cada pessoa está em uma única categoria (respostas que não se repetem). Aí \\(8{,}3\\% + 6{,}1\\% = 14{,}4\\%\\) do mesmo grupo.\n\n**Número absoluto × porcentagem:** “a cidade que perdeu mais habitantes” e “a cidade que perdeu a maior **porcentagem** de habitantes” podem ser cidades diferentes. Uma cidade grande perde muitas pessoas e pouca porcentagem; uma pequena, o contrário.",
+  "videos": [
+    {
+      "titulo": "Porcentagem (8/21) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=nuHoCszDIIc"
+    },
+    {
+      "titulo": "Porcentagem explicada em exercícios - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=UCgxbJfyQQE"
+    }
+  ]
+}

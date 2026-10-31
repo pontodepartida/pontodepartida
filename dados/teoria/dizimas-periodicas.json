@@ -1,0 +1,17 @@
+{
+  "id": "dizimas-periodicas",
+  "titulo": "Dízimas periódicas",
+  "materia": "Matemática",
+  "grupo": "Números e operações",
+  "texto": "**Dízima periódica** é um número decimal com infinitas casas, em que um grupo de algarismos (o **período**) se repete sempre: \\(0{,}333\\ldots\\), \\(0{,}3636\\ldots\\), \\(1{,}2777\\ldots\\). Toda dízima periódica pode ser escrita como **fração**.\n\n**Dízima simples** (o período começa logo depois da vírgula): a fração é o **período** sobre tantos **noves** quantos forem os algarismos do período.\n\n| Dízima | Fração | Simplificada |\n|---|---|---|\n| \\(0{,}333\\ldots\\) | \\(\\frac{3}{9}\\) | \\(\\frac{1}{3}\\) |\n| \\(0{,}666\\ldots\\) | \\(\\frac{6}{9}\\) | \\(\\frac{2}{3}\\) |\n| \\(0{,}3636\\ldots\\) | \\(\\frac{36}{99}\\) | \\(\\frac{4}{11}\\) |\n| \\(0{,}1212\\ldots\\) | \\(\\frac{12}{99}\\) | \\(\\frac{4}{33}\\) |\n\n**Por que funciona?** Se \\(x = 0{,}3636\\ldots\\), então \\(100x = 36{,}3636\\ldots\\). Subtraindo, a parte infinita desaparece: \\(99x = 36\\), e \\(x = \\frac{36}{99}\\).\n\n**Dízima composta** (há algarismos antes do período, como \\(0{,}2777\\ldots\\)): use o mesmo truque, multiplicando por potências de 10 até alinhar os períodos. Com \\(x = 0{,}2777\\ldots\\): \\(100x = 27{,}777\\ldots\\) e \\(10x = 2{,}777\\ldots\\), então \\(90x = 25\\) e \\(x = \\frac{25}{90} = \\frac{5}{18}\\).\n\n**Com parte inteira:** separe-a. \\(1{,}333\\ldots = 1 + \\frac{1}{3} = \\frac{4}{3}\\).\n\n**Notação:** a barra marca o período: \\(1{,}\\overline{3} = 1{,}333\\ldots\\).\n\n**Depois de achar a fração, simplifique** e confira se ela é irredutível (veja *Frações*). Frações equivalentes, como \\(\\frac{12}{33}\\) e \\(\\frac{4}{11}\\), representam o mesmo número, mas só a segunda é irredutível.",
+  "videos": [
+    {
+      "titulo": "Fração geratriz – consegue calcular? - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=20l4S-iSxEw"
+    },
+    {
+      "titulo": "Nunca foi tão fácil descobrir a fração! - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=eWHKFeACuRU"
+    }
+  ]
+}

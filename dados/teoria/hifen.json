@@ -1,0 +1,17 @@
+{
+  "id": "hifen",
+  "titulo": "Hífen",
+  "materia": "Português",
+  "grupo": "Ortografia e acentuação",
+  "texto": "As regras abaixo seguem o Acordo Ortográfico em vigor no Brasil desde 2009.\n\n**Prefixos e falsos prefixos** (anti, auto, contra, extra, infra, micro, mini, semi, sobre, super, ultra…):\n\n| Situação | Regra | Exemplos |\n|---|---|---|\n| prefixo termina na **mesma vogal** que começa a palavra | **com hífen** | micro-ondas, anti-inflamatório, contra-ataque |\n| prefixo termina em vogal e a palavra começa com **vogal diferente** | **junta** | autoaprendizagem, autoestima, extraoficial |\n| palavra começa com **h** | **com hífen** | semi-histórico, anti-higiênico, super-homem |\n| prefixo termina em vogal e a palavra começa com **r** ou **s** | **junta e dobra** o r ou o s | contrarregra, minissaia, antissemita, autorretrato |\n| prefixo termina em vogal e a palavra começa com **outra consoante** | **junta** | seminovo, semifinal, minicurso |\n| prefixos **ex-** (anterior), **vice-**, **recém-**, **sem-**, **além-** | **sempre com hífen** | ex-aluno, vice-diretor, recém-nascido, sem-terra |\n| prefixos tônicos **pré-, pós-, pró-** | **com hífen** | pré-história, pós-graduação, pró-reitor |\n| **sub-** e **sob-** antes de **b**, **h** ou **r** | **com hífen** | sub-base, sub-humano, sub-reitor |\n\n**Outros prefixos e casos frequentes:**\n\n| Caso | Regra | Exemplos |\n|---|---|---|\n| **re-** | nunca tem hífen, nem antes de *e* | reedição, reescrever |\n| **não** com valor de prefixo | sem hífen | não governamental, não fumante |\n| **mal-** | hífen antes de vogal, *h* ou *l* | mal-entendido, mal-humorado; malfeito |\n| **bem-** | em geral com hífen | bem-vindo, bem-estar (mas benfeito, benfeitor) |\n| **afro-, socio-, agro-** | seguem a regra das vogais | afrodescendente, socioeconômico |\n\n**Palavras compostas** (duas palavras que formam uma nova):\n\n- em geral, **com hífen**: guarda-chuva, porta-retrato, beija-flor, segunda-feira, homem-bomba, puxa-saco;\n- algumas perderam a noção de composição e se escrevem **juntas**: girassol, pontapé, paraquedas, mandachuva.\n\n**Hífen e sentido:** às vezes o hífen distingue uma palavra composta, com sentido novo, de uma expressão comum. “Sangue-frio” (calma, controle) × “sangue frio” (sangue em baixa temperatura). Veja *Formação de palavras*.",
+  "videos": [
+    {
+      "titulo": "Estratégia para usar hífen certo - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=Siy3E-K2M8E"
+    },
+    {
+      "titulo": "Boas Festas ou boas-festas? Uso do hífen - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=yVGR9wY11Vs"
+    }
+  ]
+}

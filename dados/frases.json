@@ -1,0 +1,64 @@
+{
+  "destaque": {
+    "texto": "A mente não é um vaso a ser preenchido, mas um fogo a ser aceso.",
+    "autor": "Plutarco",
+    "fonte": "Sobre a arte de ouvir (Moralia).",
+    "atribuida": false
+  },
+  "aleatorias": [
+    {
+      "texto": "Uma criança, um professor, um livro e uma caneta podem mudar o mundo.",
+      "autor": "Malala Yousafzai",
+      "fonte": "Discurso na ONU, 12 jul. 2013.",
+      "atribuida": false
+    },
+    {
+      "texto": "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda.",
+      "autor": "Paulo Freire",
+      "fonte": "Pedagogia da Indignação (2000).",
+      "atribuida": false
+    },
+    {
+      "texto": "Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção.",
+      "autor": "Paulo Freire",
+      "fonte": "Pedagogia da Autonomia (1996).",
+      "atribuida": false
+    },
+    {
+      "texto": "O homem não pode se tornar um verdadeiro homem senão pela educação. Ele é aquilo que a educação faz dele.",
+      "autor": "Immanuel Kant",
+      "fonte": "Sobre a Pedagogia (1803).",
+      "atribuida": false
+    },
+    {
+      "texto": "A educação é a arma mais poderosa que podemos usar para mudar o mundo.",
+      "autor": "Nelson Mandela",
+      "fonte": "Discurso no lançamento da Mindset Network, Joanesburgo, 16 jul. 2003.",
+      "atribuida": false
+    },
+    {
+      "texto": "Os homens aprendem enquanto ensinam.",
+      "autor": "Sêneca",
+      "fonte": "Cartas a Lucílio, carta 7.",
+      "atribuida": false
+    },
+    {
+      "texto": "Mais vale uma cabeça bem-feita do que bem cheia.",
+      "autor": "Michel de Montaigne",
+      "fonte": "Ensaios.",
+      "atribuida": false
+    },
+    {
+      "texto": "Aprender sem pensar é inútil; pensar sem aprender é perigoso.",
+      "autor": "Confúcio",
+      "fonte": "Analectos, 2.15.",
+      "atribuida": false
+    },
+    {
+      "texto": "As raízes da educação são amargas, mas seus frutos são doces.",
+      "autor": "Aristóteles",
+      "fonte": "segundo Diógenes Laércio, Vidas dos Filósofos Ilustres.",
+      "atribuida": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "media-mediana-e-moda",
+  "titulo": "Média, mediana e moda",
+  "materia": "Matemática",
+  "grupo": "Contagem, probabilidade e estatística",
+  "texto": "São três jeitos de resumir um conjunto de dados num único número.\n\n| Medida | O que é | Como calcular |\n|---|---|---|\n| **Média aritmética** | o valor que cada um teria se tudo fosse dividido igualmente | soma dos valores ÷ quantidade de valores |\n| **Mediana** | o valor do **meio** | ordene os dados e pegue o central |\n| **Moda** | o valor que **mais aparece** | conte as repetições |\n\n**Mediana:**\n\n- quantidade **ímpar** de dados: é o termo central (com 7 dados, o 4º);\n- quantidade **par**: é a **média dos dois centrais** (com 40 dados, a média do 20º e do 21º).\n\n**Dados numa tabela de frequência:** monte a **frequência acumulada** para achar a posição dos termos centrais.\n\n| Valor | 0 | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|---|\n| Frequência | 2 | 4 | 7 | 7 | 10 |\n| Acumulada | 2 | 6 | 13 | 20 | 30 |\n\nAqui, do 14º ao 20º dado o valor é 3; do 21º ao 30º, é 4.\n\n**Moda é o valor, não a frequência.** Se 10 alunos leram 4 livros e esse é o grupo mais numeroso, a moda é **4** (livros), e não 10.\n\n**Moda em dados não numéricos:** a moda também vale para categorias. Se 30 de 56 cidades não encolheram, a moda é “não encolheu”.\n\n**Média ponderada:** quando os valores têm pesos diferentes, multiplique cada valor pelo seu peso, some e divida pela soma dos pesos.\n\n**Média móvel:** a média dos últimos dias (por exemplo, 7), recalculada a cada dia. Ela suaviza as oscilações diárias.",
+  "videos": [
+    {
+      "titulo": "Noções de estatística: moda, média e mediana - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=2r2NG_sXMWU"
+    }
+  ]
+}

@@ -1,0 +1,935 @@
+{
+  "id": "ps-2023-1-b",
+  "nome": "PS 2023.1 – Prova B",
+  "edital": "Edital nº 609/2022 – Prova B",
+  "fonteGabarito": "Gabarito final – Prova B – Edital 609 – PS 2023.1",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia a tirinha a seguir para responder à questão que segue.\n\n![Tirinha em três quadros com dois meninos e um sapo. Um menino lê um livro.](img/2023-1-b/q01.jpg \"Quadro 1 – Menino com o livro: São as matas que protegem os rios! | Quadro 2 – Outro menino: Ah tá! Eu quero a fonte! | Quadro 3 – Menino com o livro: Eu também! E elas estão secando por causa do desmatamento!\")\n\n<cite>Disponível em: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgkLueapUnxMGO7Y9UVmxEhTvwa19F_dJwuw&usqp=CAU. Acesso em: 02 out. 2021.</cite>\n\nOs efeitos de sentido humorístico e crítico da tirinha ocorrem principalmente pela:",
+      "imagens": [
+        "img/2023-1-b/q01.jpg"
+      ],
+      "alternativas": {
+        "A": "Recorrência implícita ao que se denomina mata ciliar, imprescindível para a manutenção dos mananciais.",
+        "B": "Divergência entre os personagens, em razão do duplo sentido atribuído a uma palavra.",
+        "C": "Referência, ainda que indireta, aos incêndios florestais recorrentes em épocas de seca.",
+        "D": "Ambiguidade da palavra “matas” que pode ser lida ora como substantivo, ora como verbo na segunda pessoa do singular."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A mata ciliar é o assunto de fundo, mas o humor não vem dela: vem do mal-entendido sobre a palavra “fonte”.",
+        "C": "A tirinha fala de desmatamento, e não de incêndios.",
+        "D": "“Matas” aparece só como substantivo (as florestas). A palavra com duplo sentido é “fonte”."
+      },
+      "teoria": [
+        "ambiguidade",
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Ambiguidade: uma palavra com dois sentidos. Aqui, “fonte” é a origem da informação para um e nascente de água para o outro.",
+        "O mal-entendido gera o humor; a resposta do menino traz a crítica: as nascentes estão secando."
+      ],
+      "raciocinio": "1. Ache a palavra que cada personagem entende de um jeito (veja: *Ambiguidade e duplo sentido*): “fonte”.\n2. Quem pergunta quer a fonte da informação (“de onde você tirou isso?”). O menino com o livro responde como se fosse fonte de água: “Eu também! E elas estão secando”.\n3. O mal-entendido gera o humor, e a resposta traz a crítica: o desmatamento está secando as nascentes (veja: *Ironia e humor*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Variação linguística",
+      "enunciado": "Leia a tirinha a seguir:\n\n![Tirinha da Rã Zinza em quatro quadros sobre autoestima e redes sociais.](img/2023-1-b/q02.jpg \"Quadro 1: A autoestima é um troço interessante, não é? | Quadro 2: O sujeito posta uma piada com referência ao que foi mais popular na última década e põe a legenda: “Só os fortes vão entender essa”. | Quadro 3: Aí todos entendem. Todos se acham fortes. | Quadro 4: Até quem usou o Google para entender.\")\n\n<cite>Disponível em: https://vacilandia.com/ra-zinza-e-a-autoestima. Acesso em: 06 jun. 2022.</cite>\n\nApós a leitura da tirinha, considerando as variedades que a língua falada pode ter, assinale a alternativa correta sobre o uso da palavra “troço”:",
+      "imagens": [
+        "img/2023-1-b/q02.jpg"
+      ],
+      "alternativas": {
+        "A": "Coloquial.",
+        "B": "Formal.",
+        "C": "Padrão.",
+        "D": "Gramatical."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Num texto formal se usaria “coisa”, “algo” ou “tema”. “Troço” é bem informal.",
+        "C": "A norma-padrão é a variedade das situações formais; “troço” não pertence a ela.",
+        "D": "“Gramatical” não é nível de linguagem: toda variedade da língua tem sua gramática."
+      },
+      "teoria": [
+        "variacao-linguistica"
+      ],
+      "essencial": [
+        "Registro coloquial é o da fala descontraída do dia a dia; o formal segue a norma-padrão.",
+        "“Troço” substitui “coisa” na conversa informal: é uma palavra coloquial."
+      ],
+      "raciocinio": "1. “Troço” substitui “coisa” na fala descontraída do dia a dia (veja: *Variação linguística*).\n2. É uma palavra do registro informal, coloquial. Na tirinha, ela aproxima a personagem do leitor.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia o excerto a seguir, extraído de um conto, para responder à questão:\n\n> [...] Condenado. Sentença máxima: “Pena de morte por injeção letal”, decretou o juiz. “Isso nunca!”, bradou o bandoleiro na sala do júri. [...] No dia seguinte, levantou-se bem cedo e pôs-se a edificar seu plano. Tudo muito simples: a prisão era a pólvora, e ele seria o pavio. Lançou mão de todo o seu repertório de crueldade para despertar a ira de seus companheiros de infortúnio: quebrou a perna de um [...], cuspiu na comida de outro [...]. Em poucos dias, era a pessoa mais odiada do lugar. Então, na calada da noite, ele ouviu um cadeado que se abriu. Com os olhos marejados de emoção e alegria, ele pensou: “Meus salvadores!”.\n>\n> <cite>SANCHES, Fábio. Agora e na hora de nossa morte. In: No espaço e no tempo: antologia de contos, crônicas e poesias. Araraquara: MosArte Editora, 2013. p. 49-50.</cite>\n\nO adjunto adverbial “Com os olhos marejados de emoção e alegria” indica:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Frequência.",
+        "B": "Instrumento.",
+        "C": "Intensidade.",
+        "D": "Modo."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Frequência responde a “com que frequência?” (sempre, às vezes). Não é o caso.",
+        "B": "Instrumento é o objeto usado para fazer algo (“cortou com a faca”). Olhos marejados não são instrumento para pensar.",
+        "C": "Intensidade indica grau (muito, pouco, bastante)."
+      },
+      "teoria": [
+        "adverbios"
+      ],
+      "essencial": [
+        "Adjunto adverbial indica uma circunstância do verbo; descubra qual pela pergunta que ele responde.",
+        "**Como** ele pensou? “Com os olhos marejados”: o termo responde a “como”, então é de modo."
+      ],
+      "raciocinio": "1. Pergunte ao verbo “pensou”: **como** ele pensou? Com os olhos marejados de emoção e alegria (veja: *Advérbios e adjuntos adverbiais*).\n2. A expressão descreve a maneira como ele pensou: é adjunto adverbial de modo.\n\nResposta: **D**.\n\n**Dica de prova:** a preposição “com” aparece em vários tipos de adjunto (modo, instrumento, companhia). Decida pela pergunta que o termo responde, e não pela preposição.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o texto a seguir e responda ao que se pede:\n\n> ### Savanização da Amazônia ameaça milhões de vidas e economia, diz estudo\n> *Estudo alerta que alterações na floresta tropical causadas por desmatamento e mudanças climáticas tornarão população vulnerável a ondas de calor extremo.*\n>\n> 01 out. 2021 - 14h47 - atualizado em 01 out 2021 - 14h47\n>\n> A transformação da Amazônia em um bioma parecido com a savana africana – processo chamado de savanização – pode ter sérios impactos não só na fauna e na flora como também na saúde humana. Um estudo brasileiro inédito, publicado nesta sexta-feira (1) no jornal científico Communications Earth & Environment, aponta que o fenômeno aumentará a exposição ao calor extremo, atingindo 16% dos municípios do país.\n>\n> Da população impactada, 42% residem na região Norte, onde mais de 12 milhões de vidas serão ameaçadas pelo estresse térmico até 2100, segundo estima a pesquisa. O trabalho foi comandando por cientistas da Fundação Oswaldo Cruz (Fiocruz), do Instituto Nacional de Pesquisas Espaciais (Inpe) e do Instituto de Estudos Avançados da Universidade de São Paulo (IEA/USP).\n>\n> Os cientistas citam como fatores atrelados à savanização da Amazônia o aumento do número de incêndios florestais, bem como a expansão de áreas agrícolas e atividades de mineração. Segundo eles, tais processos impulsionam a urbanização não planejada, a falta de infraestrutura sanitária básica e o trabalho informal.\n>\n> O estudo ressalta ainda que serão ultrapassados os limites de adaptação fisiológica do corpo humano ao calor. Isso afetará principalmente áreas onde moram populações altamente vulneráveis, agravando a precarização das condições de vida e gerando migrações em massa.\n>\n> <cite>Disponível em: https://revistagalileu.globo.com/Ciencia/Meio-ambiente/noticia/2021/10/savanizacao-da-amazonia-ameaca-milhoes-de-vidas-e-economia-diz-estudo.html. Acesso em: 04 out. 2021.</cite>\n\nO texto anterior pertence à esfera de divulgação científica. Os textos que circulam nesse nicho costumam tratar de ciência para não cientistas, buscando, entre outras estratégias, simplificar a linguagem científica ao público geral. Geralmente são escritos por jornalistas, com base em pesquisas científicas, os quais, para dar legitimidade de ciência a seu texto:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Apresentam dados científicos, cujas fontes são outros textos jornalísticos endereçados ao público em geral.",
+        "B": "Recorrem a enquetes vinculadas à internet, de modo a apresentar dados que representam o saber de uma amostra significativa de segmentos da sociedade.",
+        "C": "Apresentam uma síntese de pesquisas reconhecidas, fazendo, sempre que possível, alusão a elas e aos seus pesquisadores.",
+        "D": "Argumentam pelo princípio de causa e consequência, com base em conclusões próprias que fazem, a partir da leitura de textos científicos publicados em revistas de renome."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A fonte do texto é uma pesquisa publicada numa revista científica, e não outros textos jornalísticos.",
+        "B": "Enquetes de internet não têm valor científico. O texto se apoia num estudo de instituições de pesquisa.",
+        "D": "O jornalista não tira conclusões próprias: relata as conclusões dos cientistas (“segundo eles”, “o estudo ressalta”)."
+      },
+      "teoria": [
+        "divulgacao-cientifica"
+      ],
+      "essencial": [
+        "Divulgação científica explica ciência para quem não é cientista, com linguagem simples.",
+        "Ela ganha credibilidade citando a pesquisa e quem a fez: aqui, o estudo da Fiocruz, do Inpe e da USP."
+      ],
+      "raciocinio": "1. Veja de onde vêm as informações: “Um estudo brasileiro inédito, publicado […] no jornal científico Communications Earth & Environment”, feito por “cientistas da Fundação Oswaldo Cruz (Fiocruz), do Instituto Nacional de Pesquisas Espaciais (Inpe) e do Instituto de Estudos Avançados da Universidade de São Paulo”.\n2. O texto resume a pesquisa e cita quem a fez. É assim que a divulgação científica ganha credibilidade (veja: *Divulgação científica*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o poema a seguir para responder à questão:\n\n> ### Domingo\n> Crianças\n> Brincam\n> Na chuva\n>\n> Adultos\n> Na janela\n>\n> Olham\n> Com olhos\n> Grandes...\n>\n> Não veem\n> Que só\n> Dois metros\n>\n> Separam\n> Suas portas\n> Da rua?\n>\n> <cite>MORELATO, Adrienne. Fios de plenitude. Belo Horizonte: Editora Venas Abiertas, 2019. p. 38.</cite>\n\nO verbo “separar”, na última estrofe, é determinante para interpretar o sentido deste poema porque:",
+      "imagens": [],
+      "alternativas": {
+        "A": "É vantajoso para os adultos que eles estejam separados das crianças.",
+        "B": "É vantajoso para as crianças que elas estejam separadas dos adultos.",
+        "C": "Os adultos estão satisfeitos em permanecer dentro das casas e longe da chuva.",
+        "D": "Os adultos poderiam se divertir na chuva como as crianças."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O poema não fala de vantagem. Pelo contrário, sugere que os adultos perdem algo ao ficar dentro de casa.",
+        "B": "Também não há ideia de vantagem para as crianças: o foco é a distância que separa os adultos da brincadeira.",
+        "C": "Os adultos olham “com olhos grandes”, o que sugere desejo, e não satisfação."
+      },
+      "teoria": [
+        "poesia"
+      ],
+      "essencial": [
+        "O eu lírico contrapõe duas cenas: crianças brincando na chuva e adultos olhando da janela.",
+        "“Só dois metros” separam os adultos da rua: o verbo *separar* mostra uma barreira mínima, fácil de vencer."
+      ],
+      "raciocinio": "1. Compare as duas cenas: crianças brincando na chuva; adultos na janela, olhando “com olhos grandes”, ou seja, com vontade.\n2. “Só dois metros” separam as portas da rua: a distância é pequena. A pergunta final provoca o leitor, sugerindo que bastaria sair (veja: *Poesia: verso, eu lírico e poema visual*).\n3. O verbo “separar” mostra que a barreira entre os adultos e a diversão é mínima.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "**Verbos de ligação** são aqueles que exercem a função de unir o sujeito da oração ao seu predicativo. Porém, alguns verbos como “andar” e “virar”, entre outros, podem ora representar verbos de ação e ora verbos de ligação.\n\nAnalise as orações e escolha aquela que apresenta um **verbo de ação**:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ele anda empolgado com seu trabalho novo.",
+        "B": "Ele me pareceu apático ontem à tarde.",
+        "C": "Ela virou cantora da noite para o dia.",
+        "D": "Ele anda 12 quilômetros por dia."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Anda empolgado” = “está empolgado”: “andar” liga o sujeito a um estado. É verbo de ligação.",
+        "B": "“Pareceu apático”: “parecer” liga o sujeito a uma característica. É verbo de ligação.",
+        "C": "“Virou cantora” = “tornou-se cantora”: indica mudança de estado. É verbo de ligação."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica: “está **empolgado**”, “é **cantora**”.",
+        "Verbo de ação indica algo que o sujeito faz: “**anda** 12 quilômetros” é caminhar.",
+        "Teste: troque o verbo por *estar*. Se a frase perde o sentido, o verbo é de ação."
+      ],
+      "raciocinio": "1. Olhe o que vem depois de cada verbo (veja: *Verbos de ligação e predicativo do sujeito*): empolgado, apático e cantora são características do sujeito.\n2. Em D, “anda 12 quilômetros” é a ação de caminhar: a troca por “está” não funciona (“está 12 quilômetros por dia”).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o cartaz de uma das campanhas do Ministério da Saúde sobre obesidade infantil:\n\n![Cartaz do Ministério da Saúde: “Vamos prevenir a obesidade infantil: 1, 2, 3 e já!”. Uma família sorridente, de máscara, e crianças com camisetas numeradas 1, 2 e 3.](img/2023-1-b/q07.jpg \"Vamos prevenir a obesidade infantil | 1, 2, 3 e já! | 1º passo: alimentação saudável | 2º passo: atividade física | 3º passo: mais brincadeiras e atividades ao ar livre | Saiba mais em gov.br/saude\")\n\n<cite>Disponível em: https://antigo.saude.gov.br/campanhas/46041-obesidade-infantil-2019. Acesso em: 04 out. 2021.</cite>\n\nO cartaz é produzido com a intenção de divulgação de algo. Para transmitir de maneira eficaz a mensagem pretendida, esse gênero textual possui estrutura e características próprias. Além do título, são elementos que constituem a estrutura composicional como gênero textual:",
+      "imagens": [
+        "img/2023-1-b/q07.jpg"
+      ],
+      "alternativas": {
+        "A": "Slogan, conteúdo e ilustração.",
+        "B": "Objetividade, ilustração e criatividade.",
+        "C": "Conteúdo, criatividade e ilustração.",
+        "D": "Slogan, objetividade e criatividade."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "“Objetividade” e “criatividade” são qualidades que o cartaz deve ter, e não partes da sua estrutura.",
+        "C": "“Criatividade” é qualidade, e não elemento da estrutura.",
+        "D": "“Objetividade” e “criatividade” são qualidades, e não partes."
+      },
+      "teoria": [
+        "publicidade-e-propaganda"
+      ],
+      "essencial": [
+        "A estrutura do cartaz são as partes que dá para apontar nele: título, slogan, texto e imagem.",
+        "Qualidades como criatividade e objetividade não são partes da estrutura."
+      ],
+      "raciocinio": "1. A pergunta é sobre a **estrutura composicional**: as partes do cartaz, que dá para apontar nele (veja: *Publicidade e propaganda*).\n2. Elimine as alternativas que trazem qualidades (objetividade, criatividade): B, C e D.\n3. Sobram o slogan (“1, 2, 3 e já!”), o conteúdo (os três passos) e a ilustração (a família).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia o texto abaixo e responda à questão:\n\n> Seu Irineu Boaventura não era tão bem aventurado assim, pois sua saúde não era lá para que se diga. Pelo contrário, seu Irineu ultimamente já tava até curvando a espinha, tendo merecido, por parte de vizinhos mais irrelevantes, o significado apelido “Pé-na-Cova”. Se havia expectativa em torno do passamento do seu Irineu? Havia sim. O velho tinha os seus guardados. Não eram bens imóveis, pois seu Irineu conhecia de sobra Altamirando, seu sobrinho, e sabia que, se comprasse terreno, o nefando parente se instalaria nele sem a menor cerimônia. De mais a mais, o velho era antigão: não comprava o que não precisava e nem dava dinheiro por papel pintado. Dessa forma, não possuía bens imóveis nem ações (...). A erva dele era viva. Tudo guardado em pacotinhos, num cofrão verde que ele tinha no escritório.\n>\n> O sobrinho, embora mais mau-caráter do que o resto da família, foi o que teve a atitude mais leal, porque, numa tarde em que seu Irineu tossia muito, perguntou assim de supetão:\n>\n> – Titio, se o senhor puser o bloco na rua, pra quem fica o seu dinheiro, hem?(...)\n>\n> <cite>PONTE PRETA, Stanislaw. A vontade do Falecido. *In*: **FEBEAPÁ:** Festival de besteira que assola o país. São Paulo: Companhia das Letras, 1996. Fragmento.</cite>\n\nNo conto de Stanislaw Ponte Preta há vários exemplos de linguagem conotativa que trazem um caráter mais subjetivo e criativo ao texto. Pode-se destacar como expressões conotativas:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Bem aventurado”.",
+        "B": "“Nefando parente”.",
+        "C": "“Erva dele era viva”.",
+        "D": "“Cofrão verde”."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Bem aventurado” (feliz, afortunado) está no sentido próprio, num jogo com o sobrenome Boaventura.",
+        "B": "“Nefando” significa abominável, detestável: o sentido é literal.",
+        "D": "“Cofrão verde” é literal: um cofre grande, de cor verde."
+      },
+      "teoria": [
+        "metafora-e-comparacao"
+      ],
+      "essencial": [
+        "Linguagem conotativa usa a palavra fora do sentido literal; a denotativa, no sentido de dicionário.",
+        "“A erva dele era viva”: *erva* é gíria para dinheiro, e “viva” lembra dinheiro vivo, em espécie."
+      ],
+      "raciocinio": "1. Procure a expressão que não pode ser entendida ao pé da letra (veja: *Metáfora e comparação*).\n2. “A erva dele era viva”: o velho não guardava uma planta viva, e sim **dinheiro vivo** (“erva” é gíria para dinheiro), “tudo guardado em pacotinhos”. É linguagem conotativa.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia a charge a seguir:\n\n![Charge: um homem branco, sorridente, abraça um homem negro, que parece incomodado, enquanto caminham juntos.](img/2023-1-b/q09.jpg \"Homem branco: Tá certo que no Brasil os brancos têm os melhores cargos, as melhores casas, os melhores carros, enfim, vivem melhor que os negros mas... onde é que tá o racismo nisso?\")\n\n<cite>Disponível em: http://www.ccms.saude.gov.br/igualdaderacialnosus/charges.php#. Acesso em: 06 jun. 2022.</cite>\n\nApós a leitura da charge, assinale a alternativa correta para a explicação sobre o uso da conjunção “mas” e das reticências:",
+      "imagens": [
+        "img/2023-1-b/q09.jpg"
+      ],
+      "alternativas": {
+        "A": "Ideia de contrariedade e de continuidade.",
+        "B": "Ideia de oposição e de realce.",
+        "C": "Ideia de ressalva e de hesitação.",
+        "D": "Ideia de adversidade e de incompletude."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "As reticências não indicam continuidade: marcam uma pausa antes da pergunta.",
+        "B": "As reticências não dão realce; mostram uma pausa, uma hesitação.",
+        "D": "A frase não fica incompleta: depois das reticências, a pergunta é dita até o fim."
+      },
+      "teoria": [
+        "conectivos",
+        "pontuacao"
+      ],
+      "essencial": [
+        "“Mas” indica ressalva: o personagem admite a desigualdade (“Tá certo que…”) e depois tenta diminuí-la.",
+        "Reticências podem marcar hesitação: uma pausa de quem procura o que dizer."
+      ],
+      "raciocinio": "1. O “mas” vem depois de “Tá certo que…”: o personagem admite as desigualdades e, em seguida, tenta diminuir a importância delas. É o “mas” de ressalva (veja: *Conectivos e relações de sentido*).\n2. As reticências marcam uma pausa de hesitação antes da pergunta, como quem procura um argumento (veja: *Sinais de pontuação e seus efeitos*).\n3. A crítica da charge está nessa contradição: o personagem reconhece a desigualdade e, mesmo assim, nega o racismo.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Discurso direto e indireto",
+      "enunciado": "Sabe-se que existem 3 (três) formas de referir-se às falas de interlocutores, sendo o **discurso direto** aquele que reproduz exatamente as palavras do interlocutor, o **discurso indireto** aquele que incorpora as falas do interlocutor com uso de verbos declarativos e o **discurso indireto livre** aquele que aplica características dos discursos anteriores. Considerando isso, analise o parágrafo abaixo, retirado de um artigo científico, prestando atenção às falas dos interlocutores.\n\n> O exemplo da Argentina, que aplicou um isolamento social estrito, pode ser ilustrativo. Ainda que o Brasil e a Argentina tenham começado a adotar medidas de controle no mesmo momento, contando com um ou dois óbitos, dois meses mais tarde, a Argentina conta 450 mortes por Covid-19 e o Brasil supera o número de 21 mil óbitos. Tudo parece indicar que, como afirma Naomar Almeida Filho: “As estratégias chamadas de mitigação, sem distanciamento social generalizado, não serão eficazes para reduzir o impacto da pandemia. Para achatar a curva epidêmica, será preciso recorrer a estratégias chamadas de supressão. Isso quer dizer drástica redução do contato social” (Almeida Filho; Dias; Martins, 2020, p.3).\n>\n> <cite>CAPONI, Sandra. Covid-13 no Brasil: entre o negacionsimo e a razão neoliberal. Estudos Avançados. 34 (99), 2020. Disponível em: https://www.scielo.br/j/ea/a/tz4b6kWP4sHZD7ynw9LdYYJ/?format=pdf&lang=pt . Acesso em: 04 out. 2021.</cite>\n\nQuanto ao uso dos discursos, no trecho acima, está correto o que se afirma em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O uso do verbo “indicar” é a marca do discurso direto, uma vez que esse verbo é declarativo.",
+        "B": "O uso de aspas é a marca do discurso direto, uma vez que reproduz exatamente as falas do interlocutor.",
+        "C": "O uso de aspas é a marca do discurso indireto, uma vez que não reproduz exatamente as falas do interlocutor.",
+        "D": "O uso de parênteses é a marca do discurso indireto livre, uma vez que aplica características dos discursos anteriores."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Indicar” não introduz a fala de ninguém. O verbo declarativo é “afirma”, que aparece tanto no discurso direto quanto no indireto.",
+        "C": "É o contrário: as aspas indicam que as palavras foram reproduzidas exatamente, o que é discurso direto.",
+        "D": "Os parênteses trazem a referência bibliográfica (autores, ano, página), como pedem as normas dos textos acadêmicos."
+      },
+      "teoria": [
+        "discurso-direto-e-indireto",
+        "divulgacao-cientifica"
+      ],
+      "essencial": [
+        "Discurso direto reproduz as palavras exatas de alguém, marcadas por aspas ou travessão.",
+        "No indireto, o autor conta com as próprias palavras o que o outro disse, sem aspas: “afirma **que**…”.",
+        "Na divulgação científica, a citação direta vem com a referência entre parênteses."
+      ],
+      "raciocinio": "1. O trecho entre aspas reproduz exatamente as palavras de Naomar Almeida Filho, anunciadas por “como afirma”.\n2. Aspas com palavras exatas são a marca do discurso direto (veja: *Discurso direto, indireto e indireto livre*). Em artigos científicos, isso se chama citação direta, e os parênteses depois dela trazem a referência (veja: *Divulgação científica*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Analise o seguinte anúncio publicitário para responder à questão:\n\n![Anúncio da tintura Niely Cor&Ton Mega Colors com as cantoras Maiara e Maraisa, de cabelos coloridos, e a frase “Chega de sofrência”.](img/2023-1-b/q11.jpg \"Niely Cor&Ton Mega Colors | Chega de sofrência | com Maiara & Maraisa\")\n\n<cite>Disponível em: http://www.portaldapropaganda.com.br/noticias/11084/niely-lanca-campanha-da-linha-corton-mega-colors-com-maiara-maraisa-como-embaixadoras. Acesso em: 04 jun. 2022.</cite>\n\nO anúncio traz as cantoras sertanejas Maiara e Maraísa fazendo publicidade para uma marca de tintura. Quais são os dois sentidos possíveis do termo “sofrência” presentes nesta propaganda?",
+      "imagens": [
+        "img/2023-1-b/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "Sofrer ao ouvir música excessivamente alta e sofrer para manter a coloração dos cabelos por mais tempo.",
+        "B": "Sofrer ao ouvir música de qualidade questionável e sofrer pela cor intensa do uso da tintura.",
+        "C": "Sofrer por amor, como acontece na vida do receptor deste anúncio, e sofrer pela cor intensa do uso da tintura.",
+        "D": "Sofrer por amor, como acontece na música das cantoras, e sofrer para manter a coloração dos cabelos por mais tempo."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Sofrência” não tem relação com volume de música: é o estilo de canções sobre sofrimento amoroso.",
+        "B": "O anúncio não critica a música (as cantoras são as garotas-propaganda). E a cor intensa é uma vantagem da tintura, não um sofrimento.",
+        "C": "O anúncio não diz que o leitor sofre por amor; quem canta a sofrência são as cantoras. E cor intensa não faz sofrer."
+      },
+      "teoria": [
+        "ambiguidade",
+        "publicidade-e-propaganda"
+      ],
+      "essencial": [
+        "Duplo sentido proposital: “sofrência” é o estilo de música sobre dor de amor e o “sofrimento” do cabelo que desbota.",
+        "Escolher cantoras de sofrência reforça o jogo de palavras do anúncio."
+      ],
+      "raciocinio": "1. Ligue “sofrência” às cantoras sertanejas: é o nome popular das músicas sobre dor de amor.\n2. Ligue “sofrência” ao produto: a tintura promete acabar com o “sofrimento” de ver a cor do cabelo desbotar.\n3. “Chega de sofrência” vale para os dois sentidos ao mesmo tempo (veja: *Ambiguidade e duplo sentido*), e a escolha de cantoras desse estilo reforça o jogo de palavras (veja: *Publicidade e propaganda*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "Leia o quadrinho abaixo:\n\n![Tirinha em três quadros. Uma mulher reclama com um homem, que se justifica; no último quadro, “O ataque do homem-legenda”.](img/2023-1-b/q12.jpg \"Quadro 1 – Mulher: Sua filha de aniversário e nenhum presente!! | Quadro 2 – Homem: Sou contra o consumismo! (Legenda embaixo: Sou pão-duro!) | Quadro 3 – Título: O ataque do homem-legenda (uma figura voa rindo: Ri ri ri ri)\")\n\n<cite>Disponível em: https://deposito-de-tirinhas.tumblr.com/post/23942864886/por-ad%C3%A3o-iturrusgarai-httpadaobloguolcombr. Acesso em: 04 out. 2021.</cite>\n\nOs exemplos de palavras compostas presentes na tirinha indicam o processo de formação de palavras conhecido por:",
+      "imagens": [
+        "img/2023-1-b/q12.jpg"
+      ],
+      "alternativas": {
+        "A": "Composição por aglutinação.",
+        "B": "Composição por justaposição.",
+        "C": "Derivação prefixal.",
+        "D": "Derivação parassintética."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Na aglutinação, algum som se perde ao juntar as palavras (plano + alto = planalto). Em “pão-duro” e “homem-legenda”, as duas palavras ficam inteiras.",
+        "C": "Não há prefixo: as duas partes são palavras independentes.",
+        "D": "Parassíntese usa prefixo e sufixo ao mesmo tempo (entardecer). Não é o caso."
+      },
+      "teoria": [
+        "formacao-de-palavras"
+      ],
+      "essencial": [
+        "Composição: duas palavras que existem sozinhas formam uma nova: *pão* + *duro*.",
+        "Na justaposição, nenhuma perde som: “pão-duro”, “homem-legenda”. Na aglutinação, alguma perde: *plano + alto = planalto*."
+      ],
+      "raciocinio": "1. As palavras compostas da tirinha são “pão-duro” e “homem-legenda”.\n2. Nas duas, as partes existem sozinhas como palavras (composição) e não perdem som: é justaposição (veja: *Formação de palavras*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia a carta de reclamação a seguir:\n\n> São Paulo, 04 de outubro de 2021.\n>\n> À Diretoria da Escola ALM\n> Diretor J. ALM\n>\n> Assunto: obras de infraestrutura\n>\n> Como já é de conhecimento geral, a escola iniciou obras de infraestrutura há alguns meses e, na parte do muro, essa obra tem trazido transtornos para minha casa. Segundo o responsável pelo projeto, não haveria danos a meu muro, mas o que tenho constatado não é isso. Ao contrário, rachaduras e problemas na base são alguns dos problemas que identifiquei.\n>\n> Por isso, solicito providências imediatas desta diretoria, a fim de que não haja necessidade de acionar os órgãos competentes.\n>\n> Respeitosamente,\n>\n> J. MLA\n\nApós a leitura, assinale a alternativa que apresenta a interpretação correta em relação às características da carta de reclamação acima:",
+      "imagens": [],
+      "alternativas": {
+        "A": "A argumentação é indispensável.",
+        "B": "O vocativo é dispensável.",
+        "C": "A despedida é desnecessária.",
+        "D": "A assinatura é inútil."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A indicação do destinatário (“À Diretoria…”, “Diretor J. ALM”) é necessária: a carta precisa dizer a quem se dirige.",
+        "C": "A despedida (“Respeitosamente”) faz parte da formalidade da carta.",
+        "D": "A assinatura identifica quem reclama. Sem ela, a reclamação perde validade."
+      },
+      "teoria": [
+        "carta-formal"
+      ],
+      "essencial": [
+        "A carta de reclamação tem partes fixas: local e data, destinatário, relato, argumentos, pedido, despedida e assinatura.",
+        "A argumentação é o centro: os fatos (rachaduras) e a promessa descumprida sustentam o pedido de providências."
+      ],
+      "raciocinio": "1. B, C e D chamam de dispensáveis partes da estrutura da carta: destinatário, despedida e assinatura (veja: *Carta de reclamação e carta formal*).\n2. A argumentação é o centro da carta: os fatos (rachaduras, problemas na base) e a contradição com o que foi prometido (“não haveria danos a meu muro”) sustentam o pedido de providências.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a seguir um fragmento da peça de teatro “Homens de papel”, de Plínio Marcos, em que o personagem Berrão, que sempre compra o papelão catado pelos demais personagens, recusa-se a comprá-lo, mesmo sabendo que o dinheiro seria usado pela catadora Nhanha para pagar o enterro de sua filha que acaba de morrer:\n\n> **Berrão:** (puxa o revólver) Sabe o que é isso? [...] Eu mando um pra glória. [...]\n>\n> **Nhanha:** Atira aqui! Atira! Falta peito? Tu não tem coragem? [...] Tem medo? Então dá o dinheiro! (Pausa) Atira! Tu me mata. E daí? Já morri de fome, morri de frio, morri de medo, morri de ver minha cria morrer. E agora chegou a tua vez. Atira! Atira! Mas tu não escapa. Gasta a tua verdade aqui no meu peito! Anda! Daí eles te pegam e te azaram. Esta é a hora de acertar as contas. Quem tiver se danado mais está com a razão. [...]\n>\n> **Berrão:** É... É... vou ajudar tu enterrar a criança. Afinal é só isso que tu quer, não é? (Berrão pega todo o dinheiro e dá pra Nhanha) Pronto. Já tem o que queria.\n>\n> <cite>MARCOS, Plínio. Homens de Papel. Guarulhos: Parma, 1990. p. 85-87.</cite>\n\nNo trecho, a argumentação de Nhanha se sobrepõe à violência de Berrão e ela consegue convencê-lo a pagar pelo papelão catado. Assinale a alternativa correta a respeito dos elementos que fortaleceram a argumentação de Nhanha:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ela demonstrou medo e recuou diante do revólver de Berrão.",
+        "B": "Ela empobreceu a arguição com elementos como gestualidade e entonação.",
+        "C": "Ela mostrou a Berrão quais seriam as consequências de seu ato.",
+        "D": "Ela ameaçou acertar as contas com ele depois de enterrar a filha."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Nhanha faz o contrário: desafia Berrão (“Atira aqui! Falta peito?”). Ela não recua.",
+        "B": "Gestos e entonação (exclamações, repetições) fortalecem a fala dela, e não a empobrecem.",
+        "D": "Ela não ameaça uma vingança futura: “acertar as contas” se refere ao confronto ali mesmo."
+      },
+      "teoria": [
+        "estrategias-argumentativas"
+      ],
+      "essencial": [
+        "Estratégias argumentativas são formas de convencer: desafio, apelo à emoção, consequências do ato.",
+        "Nhanha mostra a Berrão as consequências: “Mas tu não escapa. […] Daí eles te pegam”."
+      ],
+      "raciocinio": "1. Liste as estratégias de Nhanha (veja: *Estratégias argumentativas*): desafio (“Falta peito?”), apelo emocional (“morri de fome, morri de frio… morri de ver minha cria morrer”) e consequências (“Mas tu não escapa. […] Daí eles te pegam e te azaram”).\n2. Das três, a que aparece nas alternativas é a das consequências: se atirar, Berrão não escapa.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia o texto e responda à questão:\n\n> Uma abordagem truculenta e covarde de guardas municipais feita a um adolescente que vendia doces em uma rua de Itajaí será investigada pela prefeitura.\n>\n> Um vídeo que mostra os abusos cometidos por agentes da Guarda Municipal repercute no início desta semana. As imagens mostram, primeiro, os profissionais tentando imobilizar o rapaz, que resiste e pede ajuda. Depois, com ele já algemado, um guarda o joga no chão com um golpe “mata-leão”. Indignadas, testemunhas que tentavam ajudar o garoto foram contidas com spray de pimenta.\n>\n> O episódio aconteceu na tarde desta segunda-feira (13), na Rua Hercílio Luz, no Centro de Itajaí. Segundo o pai do vendedor, o garoto diariamente vende alfajores na região central da cidade para ajudar a família e poder guardar dinheiro para custear um curso. Ele sonha em ser militar do Exército e aprendeu a fazer os doces em uma aula on-line de confeitaria. (...)\n>\n> <cite>BERTOLI, Bianca. Vendedor de alfajor é vítima de ação truculenta e covarde de guardas em Itajaí; 14 set. 2021. Disponível em: https://www.nsctotal.com.br/noticias/vendedor-de-alfajor-e-vitima-de-acao-truculenta-e-covarde-de-guardas-em-itajai-veja-video. Acesso em: 03 out. 2021. Fragmento.</cite>\n\nEspera-se que o jornalismo informativo seja marcado por caráter objetivo, neutro, ou bem próximo disso. Entretanto, por mais que as notícias pareçam ter essas características, elas podem conter posicionamentos e impressões pessoais de quem as escreve. No texto, esse fato pode ser constatado",
+      "imagens": [],
+      "alternativas": {
+        "A": "Pelo uso dos verbos “vendia” e “mostra”.",
+        "B": "Pelo registro do relato do pai do vendedor.",
+        "C": "Pela escolha dos adjetivos “truculenta”, “covarde” e “indignadas”.",
+        "D": "Pela presença de detalhes a respeito de onde o episódio aconteceu."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Vendia” e “mostra” só informam fatos, sem opinião.",
+        "B": "Registrar o que o pai disse é citar uma fonte, prática do jornalismo informativo.",
+        "D": "Local e horário são informações objetivas, típicas da notícia."
+      },
+      "teoria": [
+        "fato-e-opiniao"
+      ],
+      "essencial": [
+        "Fato é o que se pode verificar; opinião é um julgamento de quem escreve.",
+        "Adjetivos avaliativos revelam opinião: “truculenta”, “covarde”, “indignadas”. Neutro seria “uma abordagem de guardas municipais”."
+      ],
+      "raciocinio": "1. Procure palavras que julgam, e não só informam (veja: *Fato e opinião*).\n2. “Truculenta” (violenta, brutal) e “covarde” são julgamentos sobre a ação dos guardas; “indignadas” atribui uma emoção às testemunhas. O mesmo fato poderia ser descrito de forma neutra: “uma abordagem de guardas municipais”.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Os estudantes brasileiros ficaram em 38° lugar entre jovens de 44 países em um teste de solução de problemas matemáticos realizado pela OCDE (Organização para a Cooperação e Desenvolvimento Econômico) e divulgado nesta terça-feira (1°). Enquanto os alunos de outros países da OCDE tiveram média de 500 pontos na avaliação realizada em 2012, os jovens brasileiros atingiram em média apenas 428 pontos. O relatório mostra ainda que 47,3% dos brasileiros tiveram baixa performance e só 1,8% conseguiu solucionar problemas complexos de matemática.\n\n<cite>Disponível em: http://educacao.uol.com.br/noticias/2014/04/01/brasil-fica-em-38-em-ranking-educacional-que-testa-de-solucao-de-problemas.htm. Acesso em: 05 out. 2021</cite>\n\nNesse texto são apresentadas porcentagens, que frequentemente aparecem com valores arredondados por serem dízimas periódicas. Sabe-se que números racionais podem sempre ser expressos na forma de frações, nas quais o numerador e o denominador são números inteiros. As dízimas periódicas são exemplos de números racionais. Assim, qual das alternativas porta uma fração irredutível que representa o número 0,363636... ?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\dfrac{12}{33}\\)",
+        "B": "\\(\\dfrac{9}{25}\\)",
+        "C": "\\(\\dfrac{5}{18}\\)",
+        "D": "\\(\\dfrac{2}{5}\\)"
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "\\(\\frac{12}{33}\\) representa 0,3636… (\\(12 \\div 33 = 0{,}3636\\ldots\\)), mas não é irredutível: dividindo em cima e embaixo por 3, chega-se a \\(\\frac{4}{11}\\).",
+        "B": "\\(\\frac{9}{25} = 0{,}36\\), um decimal exato, e não a dízima 0,3636…",
+        "C": "\\(\\frac{5}{18} = 0{,}2777\\ldots\\): outra dízima.",
+        "D": "\\(\\frac{2}{5} = 0{,}4\\)."
+      },
+      "teoria": [
+        "dizimas-periodicas",
+        "fracoes"
+      ],
+      "essencial": [
+        "Dízima com período de dois algarismos: o período sobre 99. \\(0{,}3636\\ldots = \\frac{36}{99}\\).",
+        "Fração irredutível não pode mais ser simplificada: \\(\\frac{36}{99} = \\frac{4}{11}\\), dividindo os dois termos por 9."
+      ],
+      "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Veja por quê:\n\n1. Período de dois algarismos (veja: *Dízimas periódicas*): \\(0{,}3636\\ldots = \\frac{36}{99}\\).\n2. Simplificando por 9: \\(\\frac{36}{99} = \\frac{4}{11}\\), a fração irredutível (veja: *Frações*).\n3. A alternativa A (\\(\\frac{12}{33}\\)) tem o valor certo, mas não é irredutível; as outras têm valores diferentes. Nenhuma atende ao enunciado.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Um professor é contratado para dar aulas em uma escola de reforço de modo que seu salário bruto, sem considerar os descontos legais, vai depender proporcionalmente apenas do número de horas trabalhadas. Qual dos gráficos abaixo melhor representa o salário bruto deste professor em relação à sua carga de trabalho?",
+      "imagens": [
+        "img/2023-1-b/q17-a.png",
+        "img/2023-1-b/q17-b.png",
+        "img/2023-1-b/q17-c.png",
+        "img/2023-1-b/q17-d.png"
+      ],
+      "alternativas": {
+        "A": "![Gráfico com o eixo horizontal “Horas trabalhadas” e o eixo vertical “Salário bruto”: uma reta crescente que parte da origem.](img/2023-1-b/q17-a.png)",
+        "B": "![Gráfico com o eixo horizontal “Horas trabalhadas” e o eixo vertical “Salário bruto”: uma reta crescente que corta o eixo vertical acima da origem.](img/2023-1-b/q17-b.png)",
+        "C": "![Gráfico com o eixo horizontal “Horas trabalhadas” e o eixo vertical “Salário bruto”: uma reta decrescente.](img/2023-1-b/q17-c.png)",
+        "D": "![Gráfico com o eixo horizontal “Horas trabalhadas” e o eixo vertical “Salário bruto”: uma reta horizontal (constante).](img/2023-1-b/q17-d.png)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A reta começa acima de zero: com zero horas, o professor já receberia algo. É uma função afim com parte fixa, e não proporcional.",
+        "C": "Decrescente: quanto mais trabalhasse, menos ganharia.",
+        "D": "Constante: o salário seria sempre o mesmo, sem depender das horas."
+      },
+      "teoria": [
+        "grandezas-proporcionais",
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Grandezas diretamente proporcionais: \\(y = kx\\). O gráfico é uma reta que passa pela origem.",
+        "Zero hora, zero salário; mais horas, mais salário: reta crescente que sai da origem."
+      ],
+      "raciocinio": "1. “Depende proporcionalmente apenas do número de horas”: salário = valor da hora × horas, ou \\(y = kx\\) (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Sem horas, sem salário: a reta passa pela origem. Mais horas, mais salário: ela é crescente (veja: *Funções afins e retas*).\n\n<div data-interativo=\"23b-q17-salario\"></div>\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Uma loja de celulares busca aumentar suas vendas. O gerente teve a ideia de fazer uma promoção privilegiando pagamentos à vista e aniversariantes do mês. Então, anunciou:\n\n> **Desconto de 10% no preço de qualquer modelo de celular, e mais 10% sobre o novo preço para aniversariantes do mês!**\n\nUma pessoa escolheu comprar um modelo de celular que, inicialmente, custava R$3.500,00. Decidiu pagar à vista. Quando o vendedor calculou o novo preço, o comprador mostrou seu documento comprovando que faria aniversário naquele mês e o vendedor aplicou ao novo preço mais 10% de desconto. Qual foi o preço final pago pelo comprador na compra desse celular?",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 2.800,00",
+        "B": "R$ 2.835,00",
+        "C": "R$ 3.150,00",
+        "D": "R$ 3.480,00"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "R$ 2.800 é o preço com 20% de uma vez. Mas o segundo desconto incide sobre R$ 3.150, e não sobre R$ 3.500.",
+        "C": "R$ 3.150 é o preço depois só do primeiro desconto.",
+        "D": "R$ 3.480 não corresponde a nenhum desconto de 10%: seria tirar só R$ 20."
+      },
+      "teoria": [
+        "aumentos-e-descontos-sucessivos"
+      ],
+      "essencial": [
+        "Descontos sucessivos não se somam: o segundo incide sobre o preço já descontado.",
+        "Desconto de 10% = multiplicar por 0,9. Dois seguidos: \\(0{,}9 \\cdot 0{,}9 = 0{,}81\\), ou seja, 19% de desconto total."
+      ],
+      "raciocinio": "1. 1º desconto: 10% de 3.500 = 350 → R$ 3.150.\n2. 2º desconto, sobre o novo preço: 10% de 3.150 = 315 → R$ 2.835.\n3. Em uma conta só (veja: *Aumentos e descontos sucessivos*): \\(3500 \\cdot 0{,}9 \\cdot 0{,}9 = 3500 \\cdot 0{,}81 = 2835\\). O desconto total foi de 19%, e não de 20%.\n\n<div data-interativo=\"porcentagens-sequencia\" data-inicial=\"3500\" data-v1=\"-10\" data-v2=\"-10\" data-prefixo=\"R$ \" data-conclusao=\"Dois descontos de 10% dão 19% de desconto, e não 20%: R$ 2.835 (B).\"></div>\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Entre as informações organizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), está o tempo entre o casamento e o divórcio por meio dos dados estatísticos do Registro Civil. Essas informações são públicas e podem ser acessadas pelo site oficial do IBGE. As figuras, a seguir, apresentam os dados dos estados do Rio de Janeiro e de Minas Gerais:\n\n#### Figura 1: Tempo (em anos) entre Casamento e Divórcio: Rio de Janeiro\n![Gráfico de colunas do Rio de Janeiro: menos de 1 ano, cerca de 700; 1 a 4, cerca de 9.100; 5 a 9, cerca de 9.400; 10 a 14, cerca de 6.000; 15 a 19, cerca de 4.200; 20 a 25, cerca de 4.150; 26 e mais, cerca de 6.800.](img/2023-1-b/q19-rj.png)\n\n<cite>IBGE, 2019 (adaptado). Disponível em: https://experience.arcgis.com/experience/0f69c64dbd0145ef9cc5bf74c7698d67. Acesso em: 04 out. 2021.</cite>\n\n#### Figura 2: Tempo (em anos) entre Casamento e Divórcio: Minas Gerais\n![Gráfico de colunas de Minas Gerais: menos de 1 ano, cerca de 950; 1 a 4, cerca de 8.100; 5 a 9, cerca de 8.600; 10 a 14, cerca de 5.750; 15 a 19, cerca de 4.150; 20 a 25, cerca de 4.400; 26 e mais, cerca de 6.550.](img/2023-1-b/q19-mg.png)\n\n<cite>IBGE, 2019 (adaptado). Disponível em: https://experience.arcgis.com/experience/0f69c64dbd0145ef9cc5bf74c7698d67/. Acesso em: 04 de out. 2021.</cite>\n\nA partir das informações presentes nos gráficos, é correto afirmar que:",
+      "imagens": [
+        "img/2023-1-b/q19-rj.png",
+        "img/2023-1-b/q19-mg.png"
+      ],
+      "alternativas": {
+        "A": "O número de divórcios mineiros ocorridos no intervalo “1 a 4” anos é maior que o número de divórcios cariocas para o mesmo período.",
+        "B": "O número de divórcios mineiros no intervalo “10 a 14” anos é maior que o número de divórcios cariocas.",
+        "C": "O número de divórcios mineiros ocorridos nos intervalos “10 a 14”, “15 a 19” e “20 a 25” é sempre decrescente.",
+        "D": "O maior número de divórcios ocorre no intervalo “5 a 9” anos nos dois estados."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Em “1 a 4” anos, MG tem cerca de 8.100 e RJ, cerca de 9.100: o RJ tem mais.",
+        "B": "Em “10 a 14” anos, MG tem cerca de 5.750 e RJ, cerca de 6.000: o RJ tem mais.",
+        "C": "Em MG, “20 a 25” (cerca de 4.400) é maior que “15 a 19” (cerca de 4.150): a sequência não é sempre decrescente."
+      },
+      "teoria": [
+        "graficos"
+      ],
+      "essencial": [
+        "Antes de comparar dois gráficos, confira se as escalas são iguais; aqui, os dois vão de 0 a 10.000.",
+        "A maior frequência é a coluna mais alta: “5 a 9” anos nos dois estados."
+      ],
+      "raciocinio": "1. Confira as escalas (veja: *Leitura de gráficos*): os dois gráficos vão de 0 a 10.000, então dá para comparar as alturas das colunas diretamente.\n2. Em cada gráfico, a coluna mais alta é a de “5 a 9” anos (RJ ≈ 9.400; MG ≈ 8.600).\n\nResposta: **D**.\n\n**Dica de prova:** “sempre decrescente” exige que cada valor seja menor que o anterior. Basta um aumento para derrubar a afirmação.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Um reservatório, em forma de paralelepípedo reto-retângulo, foi construído para captar e armazenar a água da chuva. Este reservatório possui 2 metros de comprimento, 180 centímetros de largura e 1,25 metro de altura. Em um período de chuvas intensas, a água armazenada atingiu 60 centímetros de altura. Qual o volume, em litros, existente dentro do reservatório?",
+      "imagens": [],
+      "alternativas": {
+        "A": "450",
+        "B": "2.160",
+        "C": "3.000",
+        "D": "4.500"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "450 = 2 × 1,25 × 180: misturou metros com centímetros e usou a altura do reservatório.",
+        "C": "3.000 litros não corresponde a nenhuma conta coerente com os dados: com 60 cm de água, o volume é 2.160 litros.",
+        "D": "4.500 litros = \\(2 \\cdot 1{,}8 \\cdot 1{,}25\\) m³: é a capacidade do reservatório cheio. A água só chegou a 60 cm."
+      },
+      "teoria": [
+        "volumes",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Volume do paralelepípedo: comprimento × largura × altura, com todas as medidas na mesma unidade.",
+        "Use a altura da água (0,6 m), e não a do reservatório.",
+        "1 m³ = 1.000 litros: 2,16 m³ = 2.160 L."
+      ],
+      "raciocinio": "1. Converta tudo para metros (veja: *Conversão de unidades*): 180 cm = 1,8 m; 60 cm = 0,6 m.\n2. Use a altura da água, e não a do reservatório (veja: *Volumes de sólidos*): \\(V = 2 \\cdot 1{,}8 \\cdot 0{,}6 = 2{,}16\\) m³.\n3. Em litros: \\(2{,}16 \\cdot 1000 = 2160\\) L.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Um professor de matemática que leciona para turmas do 8º ano do Ensino Fundamental utiliza o *software GeoGebra* para discutir a construção e o cálculo de áreas de figuras planas. Para a realização de uma atividade com os estudantes, ele compartilhou a imagem a seguir:\n\n![Figura numa malha quadriculada: um retângulo de 4 de altura dividido em triângulo AFE (base EF = 4), trapézio ABGF (AB = 7, FG = 3), retângulo BCHG (largura 2) e quadrado CDIH (lado 4), com um semicírculo de raio 2 em cada ponta.](img/2023-1-b/q21.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nA partir da comparação entre o triângulo (figura AFE), o trapézio (figura ABGF), o retângulo (BCHG), o quadrado (figura CDIH) e os dois semicírculos nas extremidades da figura, um estudante identificou corretamente que:",
+      "imagens": [
+        "img/2023-1-b/q21.png"
+      ],
+      "alternativas": {
+        "A": "A área do quadrado é igual a soma das áreas do triângulo e do retângulo.",
+        "B": "A área do trapézio é menor que a soma das áreas do triângulo e do retângulo.",
+        "C": "A área do triângulo é menor que área do retângulo.",
+        "D": "Juntos, os dois semicírculos têm a mesma área do quadrado."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Trapézio: \\(\\frac{(7 + 3) \\cdot 4}{2} = 20\\). Triângulo + retângulo: \\(8 + 8 = 16\\). O trapézio é maior.",
+        "C": "Triângulo e retângulo têm a mesma área: 8.",
+        "D": "Os dois semicírculos de raio 2 formam um círculo de área \\(\\pi \\cdot 2^2 \\approx 12{,}6\\), menos que o quadrado (16)."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "circulo-e-circunferencia"
+      ],
+      "essencial": [
+        "Áreas: triângulo \\(\\frac{b \\cdot h}{2}\\); retângulo \\(b \\cdot h\\); quadrado \\(\\ell^2\\); trapézio \\(\\frac{(B + b) \\cdot h}{2}\\).",
+        "Na malha quadriculada, conte os quadradinhos para achar cada medida.",
+        "Dois semicírculos de mesmo raio formam um círculo inteiro: \\(\\pi r^2\\)."
+      ],
+      "raciocinio": "1. Conte os quadradinhos da malha para achar as medidas e calcule cada área (veja: *Áreas de figuras planas*): triângulo \\(\\frac{4 \\cdot 4}{2} = 8\\); retângulo \\(2 \\cdot 4 = 8\\); quadrado \\(4^2 = 16\\); trapézio \\(\\frac{(7 + 3) \\cdot 4}{2} = 20\\).\n2. Os dois semicírculos de raio 2 formam um círculo: \\(\\pi \\cdot 2^2 = 4\\pi \\approx 12{,}6\\) (veja: *Círculo e circunferência*).\n3. \\(16 = 8 + 8\\): a área do quadrado é a soma das áreas do triângulo e do retângulo.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "A figura a seguir mostra um aquário em forma de paralelepípedo reto-retângulo cujas dimensões internas são 80cm, 50cm e 70cm e uma pedra com formato irregular.\n\n![Aquário vazio com 80 cm de comprimento, 50 cm de profundidade e 70 cm de altura, e uma pedra irregular ao lado.](img/2023-1-b/q22-aquario.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nInicialmente, coloca-se água no aquário até a altura de 30cm. A pedra, então, é colocada dentro do aquário, ficando totalmente submersa. Nesse procedimento, não houve perda de água do aquário e observou-se que o nível da água subiu para 31cm, como mostram as figuras a seguir:\n\n![Dois aquários: no primeiro, a água está a 30 cm de altura; no segundo, com a pedra no fundo, a água está a 31 cm.](img/2023-1-b/q22-pedra.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nDessa maneira, podemos afirmar que o volume da pedra é de:",
+      "imagens": [
+        "img/2023-1-b/q22-aquario.png",
+        "img/2023-1-b/q22-pedra.png"
+      ],
+      "alternativas": {
+        "A": "930 cm³",
+        "B": "1.550 cm³",
+        "C": "1.500 cm³",
+        "D": "4.000 cm³"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "930 = 30 · 31: multiplicou as duas alturas da água, o que não forma um volume.",
+        "B": "1.550 = \\(50 \\cdot 31\\): multiplicou só duas medidas, e a altura usada não é a subida do nível.",
+        "C": "1.500 = \\(50 \\cdot 30\\): também usou só duas medidas e a altura errada."
+      },
+      "teoria": [
+        "volumes"
+      ],
+      "essencial": [
+        "Um objeto totalmente submerso empurra um volume de água igual ao seu próprio volume.",
+        "O volume da pedra é o da camada de água que subiu: \\(80 \\cdot 50 \\cdot 1 = 4000\\) cm³."
+      ],
+      "raciocinio": "1. A pedra, totalmente submersa, empurra um volume de água igual ao seu próprio volume, e o nível sobe (veja: *Volumes de sólidos*).\n2. O nível subiu \\(31 - 30 = 1\\) cm.\n3. Volume da camada que subiu: \\(80 \\cdot 50 \\cdot 1 = 4000\\) cm³. Esse é o volume da pedra.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Os produtos dietéticos são aqueles cuja composição não sofre a adição de carboidratos simples e nos quais a sacarose é substituída por outros edulcorantes que não alterem os níveis de glicemia. O gráfico a seguir representa o número de pessoas que responderam à pergunta “com qual frequência você consome produto dietético? ”\n\n![Gráfico de barras horizontais: uma vez por semana, 16; de 2 a 4 vezes por semana, 39; a cada dia, 7; a cada mês, 1; raramente, 5; nunca, 2.](img/2023-1-b/q23.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nNestas condições, quantas pessoas foram entrevistadas e qual tipo de gráfico corresponde ao apresentado anteriormente?",
+      "imagens": [
+        "img/2023-1-b/q23.png"
+      ],
+      "alternativas": {
+        "A": "70 pessoas e gráfico em barras.",
+        "B": "39 pessoas e gráfico em barras.",
+        "C": "70 pessoas e gráfico de colunas.",
+        "D": "39 pessoas e gráfico de colunas."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "39 é só a resposta mais frequente (de 2 a 4 vezes por semana). O total é a soma de todas as respostas.",
+        "C": "O total está certo, mas o gráfico é de barras (horizontais). Colunas ficam em pé.",
+        "D": "39 não é o total, e o gráfico não é de colunas."
+      },
+      "teoria": [
+        "graficos"
+      ],
+      "essencial": [
+        "Num gráfico de frequências, o total de entrevistados é a soma de todas as respostas.",
+        "Gráfico de barras tem retângulos deitados; gráfico de colunas, em pé."
+      ],
+      "raciocinio": "1. Cada pessoa deu uma resposta, então o total é a soma: \\(16 + 39 + 7 + 1 + 5 + 2 = 70\\).\n2. Os retângulos estão deitados: é um gráfico de barras (veja: *Leitura de gráficos*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Uma reportagem do jornal “Folha de São Paulo”, de 05 de novembro de 2013, apresentou alguns dados de indicadores de violência da cidade de Nova Iorque, conforme gráfico a seguir.\n\n![Gráfico de barras da Folha: “Eleições de Nova York. Novo prefeito assume com indicadores socioeconômicos estáveis. Violência”. Barras vermelhas de roubos (de 27.229 em 2002 a 20.144 em 2012) ao lado de barras azuis de homicídios (de 587 em 2002 a 419 em 2012), todas na mesma escala.](img/2023-1-b/q24.jpg \"Roubos: 2002: 27.229 | 2003: 25.989 | 2004: 24.373 | 2005: 24.722 | 2006: 23.739 | 2007: 21.809 | 2008: 22.401 | 2009: 18.601 | 2010: 19.486 | 2011: 19.717 | 2012: 20.144 || Homicídios: 2002: 587 | 2003: 597 | 2004: 570 | 2005: 539 | 2006: 596 | 2007: 496 | 2008: 523 | 2009: 471 | 2010: 536 | 2011: 515 | 2012: 419\")\n\n<cite>Disponível em: https://acervo.folha.uol.com.br/files/flip/11/97/24/90/5902497. Acesso em: 06 out. 2021.</cite>\n\nA apresentação de dados na forma de gráficos visa a facilitar e a resumir os resultados obtidos. De acordo com o gráfico de barras apresentado na reportagem, pode-se observar um problema para a interpretação de seus dados. Essa observação se justifica, pois:",
+      "imagens": [
+        "img/2023-1-b/q24.jpg"
+      ],
+      "alternativas": {
+        "A": "as barras de roubos e homicídios deveriam ser todas do mesmo tamanho, indicando estabilidade na violência na cidade de Nova Iorque.",
+        "B": "o gráfico do número de roubos e o de homicídios não deveriam ser apresentados juntos, pois as ordens de grandeza dessas informações são muito diferentes.",
+        "C": "os números em cima das barras não deveriam aparecer, pois isso dificulta a interpretação dos dados apresentados.",
+        "D": "o gráfico de barras não é adequado para mostrar os resultados do tipo de pesquisa feita pela reportagem, pois não é possível notar diferenças nessa apresentação."
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "O tamanho das barras deve refletir os dados, e não uma conclusão desejada. Os roubos variaram bastante no período.",
+        "B": "Descreve bem o problema: roubos e homicídios na mesma escala escondem a variação dos homicídios.",
+        "C": "Os números sobre as barras ajudam a leitura, principalmente quando as barras são parecidas.",
+        "D": "O gráfico de barras é adequado para comparar valores ao longo dos anos. O problema é a escala comum, e não o tipo de gráfico."
+      },
+      "teoria": [
+        "graficos"
+      ],
+      "essencial": [
+        "Valores de tamanhos muito diferentes na mesma escala escondem as variações dos menores.",
+        "Aqui, roubos (cerca de 20 mil) e homicídios (cerca de 500) dividem o eixo, e a queda dos homicídios some."
+      ],
+      "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Mesmo assim, a análise ensina algo sobre gráficos (veja: *Leitura de gráficos*):\n\n1. Compare os valores: roubos ficam na casa de 20 mil; homicídios, na casa de 500.\n2. No mesmo eixo, as barras de homicídios ficam minúsculas e parecem iguais, embora tenham caído de 587 para 419, quase 30%.\n3. A alternativa B aponta esse problema: dados com ordens de grandeza muito diferentes não deveriam dividir a mesma escala.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "O popular tênis de praia (*Beach Tennis*) é uma modalidade esportiva que virou tendência nas cidades, principalmente em São Paulo, onde o jogo atrai cada vez mais simpatizantes. O gerente de uma academia deseja construir uma quadra de tênis de praia e oferecer aulas para seus alunos. Para decidir os melhores dias e turnos, realizou-se uma pesquisa com 115 alunos. O quadro a seguir apresenta o resultado dessa pesquisa.\n\n| Dia | Matutino | Tarde | Noite |\n|---|---|---|---|\n| Segunda-feira | 1 | 0 | 4 |\n| Terça-feira | 8 | 3 | 6 |\n| Quarta-feira | 10 | 7 | 15 |\n| Quinta-feira | 12 | 10 | 9 |\n| Sexta-feira | 4 | 6 | 20 |\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nInicialmente, serão ofertadas três aulas na semana, sendo que o objetivo é atingir o maior número de alunos. Com base nos dados do quadro anterior, os dias e os turnos das aulas serão:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Quarta-feira – Matutino, Quarta-feira – Tarde e Quarta-feira – Noite.",
+        "B": "Quinta-feira – Matutino, Quinta-feira – Tarde e Quarta-feira – Noite.",
+        "C": "Sexta-feira – Matutino, Sexta-feira – Tarde e Sexta-feira – Noite",
+        "D": "Sexta-feira – Noturno, Quarta-feira – Noturno e Quinta-feira – Matutino."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Quarta inteira: \\(10 + 7 + 15 = 32\\) alunos.",
+        "B": "\\(12 + 10 + 15 = 37\\) alunos.",
+        "C": "Sexta inteira: \\(4 + 6 + 20 = 30\\) alunos."
+      },
+      "teoria": [
+        "tabelas"
+      ],
+      "essencial": [
+        "Numa tabela de dupla entrada, cada célula cruza uma linha (dia) e uma coluna (turno).",
+        "Para atingir mais alunos com três aulas, escolha as três células de maior valor: 20, 15 e 12."
+      ],
+      "raciocinio": "1. Para atingir o maior número de alunos com três aulas, escolha as três células de maior valor, mesmo que fiquem em dias diferentes (veja: *Leitura de tabelas*).\n2. Os três maiores valores: 20 (sexta, noite), 15 (quarta, noite) e 12 (quinta, manhã).\n3. Total: \\(20 + 15 + 12 = 47\\) alunos, mais que qualquer outra opção.\n\nResposta: **D**.\n\n> A alternativa D escreve “Noturno”, e o quadro, “Noite”. É o mesmo turno.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Leia o texto a seguir para responder ao que se pede:\n\n> ### Uso da internet atingiu 81% da população em 2020\n> Pesquisa mostra que o Brasil tem 152 milhões de usuários. A quantidade da população brasileira que utiliza a internet aumentou em 2020, passando de 74% da população em 2019 para 81% no ano passado, o que representa 152 milhões de usuários acima de 10 anos. O crescimento do uso da rede de computadores foi maior nas classes econômicas mais baixas e impulsionado pela pandemia. Os dados são da pesquisa TIC Domicílios, realizada pelo Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação, divulgada em agosto deste ano.\n>\n> <cite>USO da internet atingiu 81% da população em 2020. In: *Correio dos Campos*. Disponível em: https://correiodoscampos.com.br/arapoti/2021/09/21/uso-da-internet-atingiu-81-da-populacao-em-2020. Acesso em: 06 out. 2021.</cite>\n\nBuscando ampliar a disponibilidade de internet a três cidades, uma operadora de celular pretende construir uma nova torre de transmissão, que envie sinal às antenas A, B e C, já existentes nessas cidades de acordo com a figura. O ponto D da figura é o circuncentro do triângulo ABC, o ponto E é o incentro do triângulo ABC e H é um ponto externo ao triângulo ABC.\n\nSabendo que a torre deve estar situada em um local equidistante (com mesma distância) das três antenas existentes, o local adequado para a construção dessa torre corresponde ao\n\n![Triângulo ABC com os pontos D (circuncentro) e E (incentro) no interior e o ponto H fora do triângulo, perto do lado AC.](img/2023-1-b/q26.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2023-1-b/q26.png"
+      ],
+      "alternativas": {
+        "A": "ponto H.",
+        "B": "ponto E.",
+        "C": "ponto D.",
+        "D": "ponto B."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "H é um ponto qualquer, fora do triângulo. Nada garante que esteja à mesma distância das três antenas.",
+        "B": "O incentro (E) fica à mesma distância dos três lados do triângulo, e não dos três vértices.",
+        "D": "B é uma das antenas: a distância até ela seria zero, e até A e C, bem maior."
+      },
+      "teoria": [
+        "lugares-geometricos"
+      ],
+      "essencial": [
+        "Mediatriz é a reta perpendicular a um segmento pelo ponto médio; cada ponto dela fica à mesma distância das pontas.",
+        "O encontro das mediatrizes (circuncentro) fica à mesma distância dos três vértices do triângulo."
+      ],
+      "raciocinio": "1. As antenas estão nos vértices A, B e C, e a torre deve ficar à mesma distância dos três.\n2. O ponto equidistante dos três vértices é o circuncentro, encontro das mediatrizes dos lados (veja: *Circunferência, mediatriz e bissetriz*). Na figura, é o ponto D.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Números reais que apresentam muitos algarismos podem dificultar a visualização, a comparação e a operacionalização entre eles. Chama-se notação científica a apresentação de um número real na forma \\(a \\times 10^n\\), com \\(1 \\le a < 10\\) e \\(n \\in \\mathbb{Z}\\).\n\nAs figuras abaixo apresentam exemplos de medidas e suas respectivas apresentações em notação científica:\n\n![Distância do Sol à Terra: 150000000000 m, ou seja, 1,5 × 10¹¹ m.](img/2023-1-b/q27-sol.jpg)\n\n![Cabeça de um espermatozoide: 0,000008 m, ou seja, 8 × 10⁻⁶ m.](img/2023-1-b/q27-espermatozoide.png)\n\n<cite>Superinteressante -- Blog Super Interessante: A distância entre o Sol e a Terra? (adaptada). Disponível em: blog-superinteressante.blogspot.com. Acesso em: 22 out. 2021.</cite>\n\nAssinale a alternativa que apresenta o resultado da expressão 3000 + 500000 × 0,007, em notação científica:",
+      "imagens": [
+        "img/2023-1-b/q27-sol.jpg",
+        "img/2023-1-b/q27-espermatozoide.png"
+      ],
+      "alternativas": {
+        "A": "\\(3{,}521 \\times 10^3\\)",
+        "B": "\\(65 \\times 10^2\\)",
+        "C": "\\(6{,}5 \\times 10^3\\)",
+        "D": "\\(3{,}521 \\times 10^{-3}\\)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(3{,}521 \\times 10^3 = 3521\\): somou antes de multiplicar (\\(503\\,000 \\times 0{,}007 = 3521\\)).",
+        "B": "\\(65 \\times 10^2 = 6500\\): o valor está certo, mas não está em notação científica, porque 65 não fica entre 1 e 10.",
+        "D": "Expoente negativo indica um número menor que 1, e o resultado (6.500) é grande."
+      },
+      "teoria": [
+        "expressoes-numericas",
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Ordem das operações: multiplicação antes da soma. \\(500\\,000 \\times 0{,}007 = 3500\\).",
+        "Notação científica: um número de 1 a 10 vezes uma potência de 10. \\(6500 = 6{,}5 \\times 10^3\\)."
+      ],
+      "raciocinio": "1. Multiplicação antes da soma (veja: *Expressões numéricas e ordem das operações*): \\(500\\,000 \\times 0{,}007 = 3500\\).\n2. Soma: \\(3000 + 3500 = 6500\\).\n3. Em notação científica, o número da frente fica entre 1 e 10 (veja: *Potências de 10 e notação científica*): \\(6500 = 6{,}5 \\times 10^3\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Após ventos fortes atingirem uma grande cidade do interior do estado de São Paulo, no fim do mês de setembro de 2021, houve o rompimento de um poste, como ilustra a figura a seguir:\n\n![Poste quebrado: a parte de baixo continua em pé com 5 m de altura, e a parte de cima tombou, tocando o chão a 6 m da base do poste.](img/2023-1-b/q28.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nEntre as alternativas a seguir, qual a que mais se aproxima da altura do poste em metros, antes do rompimento, respeitando os critérios de arredondamento de números decimais?",
+      "imagens": [
+        "img/2023-1-b/q28.png"
+      ],
+      "alternativas": {
+        "A": "13",
+        "B": "12",
+        "C": "8",
+        "D": "7"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "12 aparece ao arredondar \\(\\sqrt{61}\\) para 7 cedo demais (\\(5 + 7 = 12\\)). Mas \\(\\sqrt{61} \\approx 7{,}8\\), e \\(5 + 7{,}8 = 12{,}8\\) arredonda para 13.",
+        "C": "8 é aproximadamente só o pedaço que tombou. Falta somar a parte que ficou em pé.",
+        "D": "7 é o pedaço tombado arredondado para baixo, sem a parte em pé."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "O poste quebrado forma um triângulo retângulo: a parte em pé e o chão são catetos; o pedaço tombado, a hipotenusa.",
+        "Para estimar \\(\\sqrt{61}\\), procure quadrados vizinhos: \\(7^2 = 49\\) e \\(8^2 = 64\\), então fica entre 7 e 8.",
+        "A altura original soma a parte em pé e o pedaço tombado."
+      ],
+      "raciocinio": "1. O poste quebrado forma um triângulo retângulo: a parte em pé (5 m) e a distância no chão (6 m) são os catetos, e o pedaço que tombou é a hipotenusa (veja: *Teorema de Pitágoras*).\n2. Pedaço tombado: \\(\\sqrt{5^2 + 6^2} = \\sqrt{61}\\). Como \\(7^2 = 49\\) e \\(8^2 = 64\\), \\(\\sqrt{61}\\) fica entre 7 e 8, perto de 7,8 (veja: *Raízes e radicais*).\n3. Altura original = parte em pé + pedaço tombado: \\(5 + 7{,}8 = 12{,}8 \\approx 13\\) m.\n\nResposta: **A**.\n\n**Dica de prova:** arredonde só no final. Arredondar no meio da conta (como \\(\\sqrt{61} \\approx 7\\)) pode levar justamente à alternativa errada.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Considere um trapézio isósceles ABCD, de bases AB = 12 cm e CD = 8 cm, e com perímetro de 25 cm. Dentre as alternativas seguintes, qual equivale à área desse trapézio?",
+      "imagens": [],
+      "alternativas": {
+        "A": "10 cm²",
+        "B": "15 cm²",
+        "C": "25 cm²",
+        "D": "30 cm²"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "10 cm² supõe altura 1, mas a altura é \\(\\sqrt{2{,}5^2 - 2^2} = 1{,}5\\) cm.",
+        "C": "25 é o perímetro, e não a área.",
+        "D": "30 cm² = \\((12 + 8) \\cdot 1{,}5\\): esqueceu de dividir por 2 na fórmula do trapézio."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "areas-de-figuras-planas"
+      ],
+      "essencial": [
+        "Trapézio isósceles: os dois lados não paralelos são iguais. Pelo perímetro, cada um mede 2,5 cm.",
+        "A altura forma um triângulo retângulo de base \\(\\frac{12 - 8}{2} = 2\\) e hipotenusa 2,5: use Pitágoras.",
+        "Área do trapézio: \\(\\frac{(B + b) \\cdot h}{2}\\)."
+      ],
+      "raciocinio": "1. No trapézio isósceles, os lados não paralelos são iguais: \\(\\frac{25 - 12 - 8}{2} = 2{,}5\\) cm cada.\n2. As alturas traçadas da base menor formam dois triângulos retângulos nas laterais, com base \\(\\frac{12 - 8}{2} = 2\\) cm e hipotenusa 2,5 cm. Altura (veja: *Teorema de Pitágoras*): \\(h = \\sqrt{2{,}5^2 - 2^2} = \\sqrt{6{,}25 - 4} = \\sqrt{2{,}25} = 1{,}5\\) cm.\n3. Área (veja: *Áreas de figuras planas*): \\(\\frac{(12 + 8) \\cdot 1{,}5}{2} = 15\\) cm².\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Na chamada *“Sociedade da Informação”*, em que grande parte da população pode ter acesso quase instantâneo a acontecimentos ao redor do mundo, a matemática se torna uma ferramenta importante para avaliar a enorme quantidade de informações que chegam todos os dias até nós. A seguir, uma notícia (fictícia) sobre a economia:\n\n![Tela de site de notícias, seção Economia: “Economia se recupera e terá crescimento de 9% em dois anos. Especialistas em economia projetam crescimento de 5% para esse ano, depois de fecharmos o ano passado com queda de 4%.”](img/2023-1-b/q30.jpg)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nQuando empregamos o conceito matemático de porcentagem ao contexto da notícia – de análise dos percentuais da economia nos anos de 2020 e 2021, a conclusão matematicamente adequada é a de que:",
+      "imagens": [
+        "img/2023-1-b/q30.jpg"
+      ],
+      "alternativas": {
+        "A": "A notícia está matematicamente correta, pois houve recuperação dos 4% de 2020 que, somados aos 5% de 2021, resultam em 9% de crescimento em dois anos.",
+        "B": "A notícia está matematicamente incorreta, pois 4% negativo em 2020 e 5% positivo em 2021 representam um crescimento total de 0,8% em dois anos.",
+        "C": "A notícia está matematicamente correta, pois 4% do PIB do 1º ano é 0,04, enquanto 5% do PIB do 2º ano é 0,05, de modo que a soma de cada ano é 0,04 + 0,05 = 0,09 – que é o mesmo que 9% em dois anos.",
+        "D": "A notícia está matematicamente incorreta, pois a soma de 5% positivo de 2021 com 4% negativo de 2020 indica um crescimento total de 1% positivo em dois anos."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Uma queda de 4% não “soma” 4% de crescimento: ela reduz a economia, e a alta de 5% é calculada sobre um valor menor.",
+        "C": "Porcentagens de anos diferentes se referem a bases diferentes e não podem ser simplesmente somadas.",
+        "D": "Somar −4% + 5% = 1% também ignora que as bases são diferentes. O certo é multiplicar: \\(0{,}96 \\cdot 1{,}05 = 1{,}008\\)."
+      },
+      "teoria": [
+        "aumentos-e-descontos-sucessivos"
+      ],
+      "essencial": [
+        "Variações sucessivas se multiplicam: −4% é \\(\\times 0{,}96\\); +5% é \\(\\times 1{,}05\\).",
+        "Comece com 100: \\(100 \\cdot 0{,}96 \\cdot 1{,}05 = 100{,}8\\). O crescimento total é 0,8%, e não 9%."
+      ],
+      "raciocinio": "1. Comece com uma economia de valor 100. Queda de 4%: \\(100 \\cdot 0{,}96 = 96\\).\n2. Alta de 5% sobre 96: \\(96 \\cdot 1{,}05 = 100{,}8\\) (veja: *Aumentos e descontos sucessivos*).\n3. Crescimento total em dois anos: 0,8%, e não 9%. A notícia está errada.\n\n<div data-interativo=\"porcentagens-sequencia\" data-inicial=\"100\" data-v1=\"-4\" data-v2=\"5\" data-conclusao=\"Queda de 4% seguida de alta de 5% dá +0,8% em dois anos, e não 9% (B).\"></div>\n\nResposta: **B**.\n\n> A notícia é datada de “30/02/2021”, um dia que não existe: mais um sinal de que é fictícia, como diz o enunciado.\n\n**Dica de prova:** em questões com porcentagens em sequência, comece com 100. As contas ficam simples, e o resultado final já é a porcentagem.",
+      "interativo": null
+    }
+  ]
+}

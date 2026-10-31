@@ -1,0 +1,17 @@
+{
+  "id": "angulos-e-paralelas",
+  "titulo": "Ângulos e retas paralelas",
+  "materia": "Matemática",
+  "grupo": "Ângulos e retas",
+  "texto": "**Relações básicas:**\n\n| Par de ângulos | Posição | Relação |\n|---|---|---|\n| **Opostos pelo vértice** | formados por duas retas que se cruzam, um de frente para o outro | iguais |\n| **Suplementares** | lado a lado, sobre uma mesma reta | somam 180° |\n| **Complementares** | juntos formam um ângulo reto | somam 90° |\n\n**Paralelas cortadas por uma transversal** formam oito ângulos, com estas relações:\n\n| Par | Posição | Relação |\n|---|---|---|\n| **Correspondentes** | mesma posição em cada cruzamento | iguais |\n| **Alternos internos** | entre as paralelas, em lados opostos da transversal | iguais |\n| **Alternos externos** | fora das paralelas, em lados opostos | iguais |\n| **Colaterais internos** | entre as paralelas, do mesmo lado | somam 180° |\n\n**Soma dos ângulos internos de um triângulo:** 180°. Muitos problemas de mapa ou de figura escondem um triângulo: ache-o e use essa soma.\n\n**Bissetriz** divide um ângulo em dois iguais. Num triângulo, as bissetrizes se encontram num ponto à mesma distância dos três lados (veja *Circunferência, mediatriz e bissetriz*).\n\n**Estratégia:**\n\n1. Marque no desenho cada ângulo que você descobrir.\n2. Use opostos pelo vértice e suplementares para “transportar” ângulos de um cruzamento para outro.\n3. Procure um triângulo e use a soma de 180°.\n4. Com paralelas, use correspondentes ou alternos para passar o ângulo de uma paralela para a outra.\n5. No fim, confira se encontrou o que foi pedido (\\(x\\) ou \\(2x\\)?).",
+  "videos": [
+    {
+      "titulo": "Paralelas interceptadas por uma transversal (Geometria Plana, aula 04) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=q7kGoH8UVyQ"
+    },
+    {
+      "titulo": "Ângulos (aula 02) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=fLJtL0_9UEs"
+    }
+  ]
+}

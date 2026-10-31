@@ -1,0 +1,17 @@
+{
+  "id": "expressoes-algebricas",
+  "titulo": "Expressões algébricas",
+  "materia": "Matemática",
+  "grupo": "Expressões, equações e sistemas",
+  "texto": "**Expressão algébrica** mistura números e letras (variáveis), como \\(3n^2 + \\frac{3}{2}\\) ou \\(2x + 3y\\).\n\n**Traduzindo instruções em expressão:** siga a ordem dos passos e aplique cada operação ao resultado anterior.\n\n| Instrução | Expressão |\n|---|---|\n| considere \\(n\\) | \\(n\\) |\n| eleve ao quadrado | \\(n^2\\) |\n| encontre o triplo do resultado | \\(3n^2\\) |\n| acrescente \\(\\frac{3}{2}\\) | \\(3n^2 + \\frac{3}{2}\\) |\n\n**Valor numérico:** troque a letra pelo número e calcule, respeitando a ordem das operações. Com \\(n = 2\\): \\(3 \\cdot 2^2 + \\frac{3}{2} = 12 + \\frac{3}{2} = \\frac{27}{2}\\).\n\n**Propriedade distributiva** (“chuveirinho”): cada termo de um parêntese multiplica cada termo do outro.\n\n\\[(x + 2)(x + 3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6\\]\n\n**Produtos notáveis:**\n\n| Produto | Resultado |\n|---|---|\n| \\((a + b)^2\\) | \\(a^2 + 2ab + b^2\\) |\n| \\((a - b)^2\\) | \\(a^2 - 2ab + b^2\\) |\n| \\((a + b)(a - b)\\) | \\(a^2 - b^2\\) |\n\n**Termos semelhantes** (mesma parte literal) podem ser somados: \\(3x + 2x = 5x\\). Termos diferentes não: \\(x^2 + x\\) não vira \\(x^3\\).\n\n**Testar alternativas com números:** quando as alternativas são expressões, escolha um valor simples para a letra (por exemplo, \\(x = 1\\)) e compare o resultado do enunciado com o de cada alternativa.",
+  "videos": [
+    {
+      "titulo": "Expressão algébrica #125 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=zn6TT7OXer0"
+    },
+    {
+      "titulo": "Polinômios: introdução - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=RevbMgyMQmg"
+    }
+  ]
+}

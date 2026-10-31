@@ -1,0 +1,17 @@
+{
+  "id": "areas-de-figuras-planas",
+  "titulo": "Áreas de figuras planas",
+  "materia": "Matemática",
+  "grupo": "Áreas e perímetros",
+  "texto": "**Área** é a medida da superfície de uma figura, em unidades quadradas (cm², m²…).\n\n| Figura | Área | Observação |\n|---|---|---|\n| Quadrado de lado \\(\\ell\\) | \\(\\ell^2\\) | se a área é \\(A\\), o lado é \\(\\sqrt{A}\\) |\n| Retângulo | \\(b \\cdot h\\) | base × altura |\n| Paralelogramo | \\(b \\cdot h\\) | a altura é perpendicular à base |\n| Triângulo | \\(\\dfrac{b \\cdot h}{2}\\) | metade de um paralelogramo |\n| Trapézio | \\(\\dfrac{(B + b) \\cdot h}{2}\\) | \\(B\\) e \\(b\\) são os lados paralelos |\n| Losango | \\(\\dfrac{D \\cdot d}{2}\\) | \\(D\\) e \\(d\\) são as diagonais |\n| Círculo de raio \\(r\\) | \\(\\pi r^2\\) | veja *Círculo e circunferência* |\n\n**Área composta:** divida a figura em partes conhecidas e **some** as áreas.\n\n**Área que sobra:** calcule a figura de fora e **subtraia** a de dentro.\n\n\\[A_{\\text{sobra}} = A_{\\text{figura maior}} - A_{\\text{parte retirada}}\\]\n\n**Malha quadriculada:** conte os quadradinhos inteiros e junte os meios quadradinhos (dois triângulos formados por uma diagonal valem 1 quadradinho).\n\n**Área e porcentagem:** se um canteiro ocupa 5% de um terreno de 600 m², a área do canteiro é \\(0{,}05 \\cdot 600 = 30\\ \\text{m}^2\\).",
+  "videos": [
+    {
+      "titulo": "Área de polígonos (aula 26) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=WbqxVAtoWl0"
+    },
+    {
+      "titulo": "Área de triângulos (aula 27) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=9dCrIEpRYOY"
+    }
+  ]
+}

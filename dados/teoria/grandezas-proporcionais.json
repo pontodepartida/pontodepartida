@@ -1,0 +1,17 @@
+{
+  "id": "grandezas-proporcionais",
+  "titulo": "Grandezas diretamente e inversamente proporcionais",
+  "materia": "Matemática",
+  "grupo": "Razão, proporção e porcentagem",
+  "texto": "**Diretamente proporcionais:** quando uma grandeza é multiplicada por um número, a outra é multiplicada pelo **mesmo** número. A **razão** entre elas é constante.\n\n\\[\\frac{y}{x} = k \\quad\\Longleftrightarrow\\quad y = k \\cdot x\\]\n\nExemplos: horas trabalhadas e salário (com valor fixo por hora); quantidade de dados e tempo de download (com velocidade fixa). O gráfico é uma **reta que passa pela origem**.\n\n**Inversamente proporcionais:** quando uma é multiplicada por um número, a outra é **dividida** por esse número. O **produto** entre elas é constante.\n\n\\[x \\cdot y = k\\]\n\nExemplos: velocidade e tempo para o mesmo percurso; número de operários e tempo para fazer a mesma obra.\n\n| | Diretamente | Inversamente |\n|---|---|---|\n| uma dobra, a outra… | dobra | cai pela metade |\n| o que fica constante | a razão \\(\\frac{y}{x}\\) | o produto \\(x \\cdot y\\) |\n| gráfico | reta pela origem | curva que desce (hipérbole) |\n\n**Regra de três:** monte a tabela com as grandezas em colunas e decida se a relação é direta ou inversa.\n\n| Dados (GB) | Tempo (min) |\n|---|---|\n| 5 | 10 |\n| 11 | \\(x\\) |\n\nDireta: \\(\\frac{5}{11} = \\frac{10}{x} \\Rightarrow x = 22\\).\n\n**Para achar a constante \\(k\\)**, use um par de valores conhecido. Se a nota é inversamente proporcional aos dias e a nota 5 corresponde a 1 dia, \\(k = 5 \\cdot 1 = 5\\); com 2 dias, a nota é \\(\\frac{5}{2} = 2{,}5\\).\n\n**Cuidado:** “diminuir quando a outra aumenta” não basta para ser inversamente proporcional. Cair 1 ponto por dia é uma **subtração**, não uma proporção inversa.",
+  "videos": [
+    {
+      "titulo": "Regra de três (2/21) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=bDADehzfwfQ"
+    },
+    {
+      "titulo": "Razão e proporção (1/21) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=zXtC6PgE9uc"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "oracoes-coordenadas",
+  "titulo": "Orações coordenadas",
+  "materia": "Português",
+  "grupo": "Conjunções e conectivos",
+  "texto": "**Período** é a frase com um ou mais verbos. Cada verbo (ou locução verbal) forma uma **oração**.\n\n**Orações coordenadas** são **independentes**: cada uma tem sentido completo e nenhuma exerce função sintática na outra. Elas ficam lado a lado.\n\n| Tipo | Como se ligam | Exemplo |\n|---|---|---|\n| **Assindética** | sem conjunção, só com vírgula | Cheguei, vi, venci. |\n| **Sindética aditiva** | e, nem, também | Acordou **e** saiu. |\n| **Sindética adversativa** | mas, porém, contudo, no entanto | Acordou cedo, **mas** se atrasou. |\n| **Sindética alternativa** | ou, ou… ou, ora… ora | Estude **ou** trabalhe. |\n| **Sindética conclusiva** | logo, portanto, por isso | Choveu; **logo**, a rua alagou. |\n| **Sindética explicativa** | pois, porque, que | Leve o casaco, **pois** está frio. |\n\n**Coordenação × subordinação:**\n\n| Coordenação | Subordinação |\n|---|---|\n| orações independentes, uma ao lado da outra | uma oração depende da outra (a principal) |\n| *e, mas, ou, portanto, pois* | *que, porque, quando, se, embora* |\n| “Saí **e** fui à escola.” | “Saí **porque** estava atrasado.” |\n\n**Efeito no texto:** um texto com orações curtas e coordenadas (muitas vezes ligadas por “e”) dá a sensação de **acúmulo** e **ritmo**: um fato vai se somando ao outro. Um texto com muitas subordinadas costuma ser mais longo e mais explicativo, com causas, condições e consequências encaixadas.",
+  "videos": [
+    {
+      "titulo": "Período composto por coordenação (Morro do Dendê) - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=UbrR7An5ZfY"
+    },
+    {
+      "titulo": "O que são orações coordenadas sindéticas? - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=VkQXlNXg2P0"
+    }
+  ]
+}

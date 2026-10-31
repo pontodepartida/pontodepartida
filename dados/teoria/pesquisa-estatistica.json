@@ -1,0 +1,17 @@
+{
+  "id": "pesquisa-estatistica",
+  "titulo": "Pesquisa estatística: censo e amostra",
+  "materia": "Matemática",
+  "grupo": "Contagem, probabilidade e estatística",
+  "texto": "Toda pesquisa estatística estuda uma **população**: o conjunto de todos os elementos que interessam (os eleitores de um país, os alunos de uma escola, as peças de uma fábrica).\n\n| Tipo | Quem é pesquisado | Exemplo |\n|---|---|---|\n| **Censitária (censo)** | **todos** os elementos da população | Censo Demográfico do IBGE, que visita todos os domicílios |\n| **Amostral** | **uma parte** representativa da população (a amostra) | pesquisa de intenção de voto, pesquisa de opinião |\n\n**Amostra representativa:** precisa ter as mesmas características da população (idade, região, renda, sexo…) nas mesmas proporções. Só assim o resultado da amostra vale para a população inteira.\n\n**Por que usar amostras?** São mais rápidas e mais baratas. Entrevistar alguns milhares de eleitores é muito mais viável do que entrevistar todos os milhões.\n\n**Variáveis:** o que se pergunta ou mede. Podem ser **qualitativas** (cor preferida, opinião, “encolheu ou não”) ou **quantitativas** (idade, número de livros lidos, renda).\n\n**Resumo dos dados:** depois de coletados, os dados são organizados em tabelas e gráficos e resumidos por medidas como média, mediana e moda (veja *Média, mediana e moda*).",
+  "videos": [
+    {
+      "titulo": "Dá pra confiar em pesquisas eleitorais? (amostra e representatividade) - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=Hjs7LpFLH88"
+    },
+    {
+      "titulo": "Noções de estatística: conceitos iniciais - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=DLOQvKvbBW8"
+    }
+  ]
+}

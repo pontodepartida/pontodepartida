@@ -1,0 +1,17 @@
+{
+  "id": "pontuacao",
+  "titulo": "Sinais de pontuação e seus efeitos",
+  "materia": "Português",
+  "grupo": "Pontuação",
+  "texto": "Além de organizar a frase, a pontuação produz **sentido**: marca entonação, emoção, interrupção e comentários.\n\n| Sinal | Usos principais | Exemplo |\n|---|---|---|\n| **Vírgula** | separar itens, isolar explicações, deslocamentos e vocativos | “Ana, venha cá.” / “O Rio, cidade linda, recebeu o evento.” |\n| **Ponto de exclamação** | marcar emoção: surpresa, alegria, indignação, ordem, espanto | “Que absurdo!” |\n| **Ponto de interrogação** | marcar pergunta (direta ou retórica) | “Até quando?” |\n| **?!** | pergunta com surpresa ou indignação | “Você fez isso?!” |\n| **Reticências** | interrupção, hesitação, suspense, ironia, ideia que fica no ar | “Eu… bem… não sei.” |\n| **Parênteses** | inserir um comentário à parte, que interrompe a frase | “Viajou na velocidade do som (desculpe o trocadilho).” |\n| **Travessão** | indicar fala no diálogo; destacar uma explicação, como os parênteses | “Ele chegou — atrasado, claro — e saiu.” |\n| **Aspas** | citar palavras de outra pessoa; marcar ironia, termo estrangeiro ou sentido especial | O “especialista” errou de novo. |\n| **Dois-pontos** | anunciar explicação, enumeração ou fala | “Só quero uma coisa: paz.” |\n\n**Vírgula proibida:** não se separa o **sujeito** do **verbo**, nem o verbo do seu complemento, mesmo quando o sujeito vem depois do verbo. “É importante que sejam salientados**,** os efeitos” está errado.\n\n**O mesmo sinal, emoções diferentes.** O ponto de exclamação pode indicar alegria, raiva, susto ou ordem. Quem decide é o **contexto**: a situação, a expressão da personagem, as palavras ao redor.\n\n**Parênteses e voz do autor.** Em textos de opinião, o autor costuma usar parênteses para conversar com o leitor ou comentar o próprio texto. Esse comentário revela a **voz autoral** e, muitas vezes, um tom bem-humorado ou irônico.",
+  "videos": [
+    {
+      "titulo": "Pontuação – vírgula, ponto e vírgula e dois pontos - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=9tdpcfdr244"
+    },
+    {
+      "titulo": "Pontuação – ponto final, exclamação e interrogação - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=ODkVN0kRciE"
+    }
+  ]
+}

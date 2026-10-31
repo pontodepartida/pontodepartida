@@ -1,0 +1,13 @@
+{
+  "id": "perimetro",
+  "titulo": "Perímetro",
+  "materia": "Matemática",
+  "grupo": "Áreas e perímetros",
+  "texto": "**Perímetro** é a medida do **contorno** de uma figura: a soma de todos os lados que ficam por fora.\n\n| Figura | Perímetro |\n|---|---|\n| Quadrado de lado \\(\\ell\\) | \\(4\\ell\\) |\n| Retângulo \\(b \\times h\\) | \\(2(b + h)\\) |\n| Polígono qualquer | soma dos lados |\n| Circunferência | \\(2\\pi r\\) |\n\n**Figuras formadas por quadrados iguais:** os lados em que dois quadrados se encostam ficam **dentro** da figura e não entram no perímetro.\n\n**Contagem rápida:** ao encostar um quadrado novo numa figura por **um** lado, você tira 1 lado do contorno (o que ficou colado) e acrescenta 3. Saldo: **+2 lados**. Se ele encostar em dois quadrados ao mesmo tempo, o saldo é 0.\n\n**Perímetro × área:** duas figuras podem ter a mesma área e perímetros diferentes (e vice-versa). Não use uma medida no lugar da outra.",
+  "videos": [
+    {
+      "titulo": "Perímetro de triângulo – A Matemática é Linda #1 - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=TxnLw846AYw"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vistas-ortogonais",
+  "titulo": "Vistas ortogonais de sólidos",
+  "materia": "Matemática",
+  "grupo": "Volumes e sólidos",
+  "texto": "**Vistas ortogonais** são os desenhos planos de um objeto visto de frente, de cima e de lado, sempre olhando reto, sem perspectiva. Cada vista mostra só as duas medidas que aparecem daquele ponto.\n\n| Vista | De onde se olha | O que aparece |\n|---|---|---|\n| **frontal** | da frente | largura e altura |\n| **superior** | de cima | largura e profundidade |\n| **lateral** | de um lado (em geral, o direito) | profundidade e altura |\n\n**Como ler as vistas:**\n\n1. Na **vista superior**, a parte de baixo do desenho é a **frente** do objeto, e a parte de cima é o **fundo**.\n2. Na **vista lateral direita**, a frente do objeto fica à **esquerda** do desenho, e o fundo, à **direita**.\n3. Uma peça só está no lugar certo se aparecer coerente nas **três** vistas.\n\n**Exemplo:** um bloco com uma coluna estreita em cima.\n\n| Onde está a coluna | Frontal | Superior | Lateral direita |\n|---|---|---|---|\n| fundo, à esquerda | coluna à esquerda | quadradinho em cima, à esquerda | coluna à direita |\n| centro | coluna no meio | quadradinho no meio | coluna no meio |\n\n**Dica:** desenhe um “x” no lugar da peça na vista superior e confira se as outras duas vistas concordam com esse lugar.",
+  "videos": [
+    {
+      "titulo": "Poliedros: conceitos iniciais e relação de Euler - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=v_PQnBk-8Mc"
+    }
+  ]
+}
