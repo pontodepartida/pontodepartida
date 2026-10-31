@@ -1,9 +1,8 @@
 import { armazenamento, sessao } from './armazenamento.js?v=2026-10-30';
 import { dividirEnunciado } from './texto.js';
-import { DURACAO_SIMULADO, AVISO_SIMULADO, app, dialogo, painelMapa, estado, esc, pct, listaNumeros, formatarTempo, carregarFrases, sortearFrase, htmlFrase, lerProgresso, gravarProgresso, apagarProgresso, situacao, resumo, paraRevisar, lerAndamento, gravarAndamento, apagarAndamento, tempoRestante, lerResultadoSimulado, abrirDialogo } from './base.js';
+import { DURACAO_SIMULADO, AVISO_SIMULADO, app, dialogo, painelMapa, estado, esc, pct, listaNumeros, formatarTempo, carregarFrases, sortearFrase, htmlFrase, lerProgresso, gravarProgresso, apagarProgresso, situacao, resumo, paraRevisar, lerAndamento, gravarAndamento, apagarAndamento, tempoRestante, lerResultadoSimulado, abrirDialogo, carregarProva } from './base.js';
 import { tamanhoLetra, prepararAjuste, cabecalhoProva, rodape, ajustarFixos } from './interface.js';
 import { ir, render } from './rotas.js';
-import { abrirPassos } from './inicio.js';
 import { mapaComputador, mapaSimulado, htmlAlternativas, montarInterativo, HTML_VOLTAR_TEXTO, prepararVoltarTexto } from './questao.js';
 import { ondaAzulejos } from './azulejos.js';
 
@@ -36,8 +35,8 @@ export function terminar() {
   });
 }
 
-export function recomecar(id) {
-  const prova = estado.provas.get(id);
+export async function recomecar(id) {
+  const prova = await carregarProva(id);
   if (!prova) return;
   const prog = lerProgresso(id);
   const n = Object.keys(prog.respostas).length;
@@ -150,8 +149,8 @@ export async function telaResultado(prova) {
 
 // ---------- Simulado: telas ----------
 
-export function comecarSimulado(id) {
-  const prova = estado.provas.get(id);
+export async function comecarSimulado(id) {
+  const prova = await carregarProva(id);
   if (!prova) return;
   const anterior = lerResultadoSimulado(id);
   const substitui = anterior ? ' Ao terminar, este resultado substitui o anterior.' : '';
@@ -159,21 +158,9 @@ export function comecarSimulado(id) {
     gravarAndamento(id, { inicio: Date.now(), respostas: {}, marcadas: [], aviso20: false });
     ir(`#/${id}/simulado/${prova.questoes[0].numero}`);
   };
-  if (!armazenamento.ler('intro-simulado')) {
-    return abrirPassos({
-      rotulo: 'Simulado',
-      concluir: 'Começar simulado',
-      passos: [
-        ['Como no dia da prova', `Você terá 3 horas para as ${prova.questoes.length} questões da ${esc(prova.nome)}. O tempo conta pelo relógio e não pausa, nem com a aba em segundo plano. Quando faltarem 20 minutos, aparece um aviso.`],
-        ['Gabarito só no final', 'A resposta fica gravada ao tocar e pode ser trocada até você terminar. Nas questões em que ficar em dúvida, use ⚑ Marcar para revisar e volte a elas pelo mapa.'],
-        ['Sair apaga o simulado', `Se você fechar esta aba ou sair da prova, o simulado é apagado e recomeça do zero, mas o app sempre pergunta antes.${substitui}`],
-      ],
-      aoConcluir: () => { armazenamento.gravar('intro-simulado', '1'); comecar(); },
-    });
-  }
   abrirDialogo({
     titulo: `Começar o simulado da ${prova.nome}?`,
-    texto: `São 3 horas para as ${prova.questoes.length} questões, sem pausa, e o gabarito só aparece no final. Sair da prova apaga o simulado.${substitui}`,
+    texto: `São 3 horas para as ${prova.questoes.length} questões, o tempo não pausa e um aviso aparece quando faltarem 20 minutos. O gabarito só aparece no final, e sair da prova apaga o simulado.${substitui}`,
     acoes: [
       { rotulo: 'Cancelar', classe: 'botao--secundario', seguro: true },
       { rotulo: 'Começar', classe: 'botao--primario', acao: comecar },

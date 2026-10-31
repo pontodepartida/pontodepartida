@@ -74,6 +74,8 @@ for (const item of provas) {
     continue;
   }
   const prova = lerJSON('dados/' + item.arquivo);
+  const gabarito = prova.questoes.map(q => q.anulada ? '*' : q.correta).join('');
+  if (item.gabarito !== gabarito) erros.push(`provas.json: o gabarito de "${item.id}" está desatualizado (rode node ferramentas/gerar-sw.mjs)`);
   const onde = (q) => `${item.arquivo}, questão ${q.numero}`;
 
   prova.questoes.forEach((q, i) => {
@@ -164,6 +166,10 @@ for (const item of provas) {
 
 for (const id of teoria.keys()) {
   if (!temasUsados.has(id)) erros.push(`teoria/${id}.json: nenhuma questão usa este tema`);
+}
+const listaTeoria = lerJSON('dados/provas.json').teoria || [];
+if (listaTeoria.length !== temasUsados.size || listaTeoria.some(id => !temasUsados.has(id))) {
+  erros.push('provas.json: a lista "teoria" está desatualizada (rode node ferramentas/gerar-sw.mjs)');
 }
 
 const frases = lerJSON('dados/frases.json');

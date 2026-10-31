@@ -27,9 +27,9 @@
         "verbos-de-ligacao"
       ],
       "essencial": [
-        "Verbo de ligação liga o sujeito a uma característica: sujeito + *ser*/*estar* + predicativo.",
-        "Em “Vida do Rio Paraopeba e migração da fauna local **são** as maiores preocupações”, *são* só liga sujeito e predicativo.",
-        "Na D, “prejudicada” é predicativo, mas o verbo *sair* é de ação, e não de ligação."
+        "Verbo de ligação liga o sujeito a uma característica: sujeito + verbo de ligação + predicativo.",
+        "Teste: troque o verbo por *é* ou *está*. Se o sentido se mantém e o verbo só liga, é de ligação.",
+        "Um predicativo pode aparecer com verbo de ação (predicado verbo-nominal); o verbo, então, não é de ligação."
       ],
       "raciocinio": "1. Ache o verbo de cada excerto: analisa, irá inviabilizar, **são**, sai.\n2. Faça o teste da troca por “é” ou “está” (veja: *Verbos de ligação e predicativo do sujeito*). Só em C o verbo apenas liga o sujeito a uma característica: “são” é forma de *ser*.\n3. Sujeito: “Vida do Rio Paraopeba e migração da fauna local”; verbo de ligação: “são”; predicativo: “as maiores preocupações”.\n\nResposta: **C**.\n\n> Na D, “a fauna já sai prejudicada” também tem um predicativo (“prejudicada”), mas ligado a um verbo de ação. Por isso ela é a alternativa que mais confunde; a pergunta, porém, exige o verbo de ligação.",
       "interativo": null
@@ -57,8 +57,8 @@
         "repeticao-e-paralelismo"
       ],
       "essencial": [
-        "Na fala, a repetição organiza e reforça a ideia: “É hora de pensar em…” aparece três vezes.",
-        "Repetir “é hora” martela a urgência: é **agora** que se deve defender as florestas e os povos indígenas."
+        "A repetição organiza o discurso e reforça a ideia principal.",
+        "Repetir uma expressão de tempo, como “é hora”, transmite urgência."
       ],
       "raciocinio": "1. Identifique as repetições: “É hora de pensar em…” (três vezes) e “O que está em jogo aqui é…” (duas vezes).\n2. Pense no efeito (veja: *Repetição, paralelismo e anáfora*): “É hora”, repetido três vezes, martela a ideia de que é **agora**, de que há urgência.\n3. Use o contexto: uma deputada indígena reagindo a um projeto sobre a demarcação de terras indígenas e lembrando as mudanças climáticas. Ela defende as florestas e os povos indígenas.\n\nResposta: **A**.",
       "interativo": null
@@ -86,8 +86,8 @@
         "conectivos"
       ],
       "essencial": [
-        "Para trocar um conectivo, descubra primeiro a relação de sentido: aqui, “por outro lado” indica oposição.",
-        "*Apesar disso* e *mesmo assim* são de concessão; *assim*, *destarte* e *por conseguinte*, de conclusão."
+        "Para trocar um conectivo, descubra primeiro a relação de sentido que ele marca.",
+        "Oposição e concessão: *mas*, *porém*, *apesar disso*, *mesmo assim*. Conclusão: *assim*, *portanto*, *por conseguinte*."
       ],
       "raciocinio": "1. Descubra o sentido de “por outro lado” no 1º trecho: a natureza **não depende** da economia, **mas** é impactada por ela. É oposição (veja: *Conectivos e relações de sentido*).\n2. Elimine os pares que trazem um conectivo de conclusão: assim (A), destarte (B), por conseguinte (C).\n3. Sobra a D, com “apesar disso” e “mesmo assim”, ambos de concessão. “Apesar disso” substitui bem o primeiro “por outro lado”.\n\nResposta: **D**.\n\n**Dica de prova:** quando a alternativa traz um par de conectivos, basta um deles estar errado para eliminá-la.",
       "interativo": null
@@ -115,8 +115,8 @@
         "oracoes-coordenadas"
       ],
       "essencial": [
-        "Cada verbo forma uma oração: *era* e *morava* são duas orações.",
-        "Orações coordenadas são independentes; ligadas por “e”, que só soma informações, são coordenadas sindéticas aditivas."
+        "Cada verbo forma uma oração.",
+        "Orações coordenadas são independentes; ligadas por *e*, que só soma informações, são coordenadas sindéticas aditivas."
       ],
       "raciocinio": "1. O verso tem dois verbos, *era* e *morava*: são duas orações.\n2. Elas são ligadas por “e”, que só acrescenta uma informação à outra (veja: *Orações coordenadas*). É coordenação sindética aditiva.\n\nResposta: **A**.",
       "interativo": null
@@ -147,8 +147,8 @@
         "formacao-de-palavras"
       ],
       "essencial": [
-        "Composição por justaposição: duas palavras que existem sozinhas se juntam sem perder som: *puxa* + *saco*.",
-        "Derivação prefixal: prefixo + palavra. *Pós-* é prefixo, então *pós-graduação* é derivação."
+        "Composição por justaposição: duas palavras que existem sozinhas se juntam sem perder som.",
+        "Derivação prefixal: prefixo + palavra já existente."
       ],
       "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Mesmo assim, dá para analisar as alternativas (veja: *Formação de palavras*):\n\n1. *Puxa-saco* (1º quadrinho): verbo *puxa* + substantivo *saco*, duas palavras que existem sozinhas e não perdem som. É composição por justaposição, como diz a B.\n2. *Pós-graduação* (2º quadrinho): prefixo *pós-* + *graduação*, que existe sozinha. É derivação prefixal; C e D erram o processo.\n3. A B é a única que acerta o processo, mas cita “puxa-sacos”, no plural, e a tirinha traz “puxa-saco”. Esse descompasso pode ter motivado a anulação.",
       "interativo": null
@@ -177,8 +177,8 @@
         "figuras-sonoras"
       ],
       "essencial": [
-        "Anáfora é a repetição no início dos versos: “**Lá vai** o trem… / **Lá vai** a vida…”.",
-        "A repetição e as rimas (rodar, girar; terra, serra) criam um ritmo regular, como o das rodas nos trilhos."
+        "Anáfora é a repetição de palavras no início de versos ou frases seguidas.",
+        "Repetições e rimas criam ritmo, que pode imitar o assunto do poema, como um movimento."
       ],
       "raciocinio": "1. Identifique a anáfora: “**Lá vai** o trem… / **Lá vai** a vida… / **Lá vai** ciranda…”, e depois “vai pela terra, vai pela serra, vai pelo mar” (veja: *Repetição, paralelismo e anáfora*).\n2. O verbo que se repete é *ir*: tudo está em movimento. A repetição cria um ritmo regular, como o das rodas nos trilhos, reforçado pelas rimas (rodar, girar, encontrar) e pela rima interna terra/serra (veja: *Figuras sonoras: aliteração, assonância e rima*).\n3. Terra, serra, mar e ar sugerem o trem subindo e descendo pela paisagem.\n\nResposta: **D**.",
       "interativo": null
@@ -206,8 +206,8 @@
         "textos-normativos"
       ],
       "essencial": [
-        "Leis usam palavras que ampliam a regra: “**nenhum** idoso”, “**qualquer** tipo”, “**todo** atentado”.",
-        "“Por ação ou omissão”: fazer algo ou deixar de fazer o que devia. Os dois casos são punidos."
+        "Leis usam palavras que ampliam a regra: *nenhum*, *qualquer*, *todo*.",
+        "“Por ação ou omissão”: fazer algo errado ou deixar de fazer o que devia. Os dois casos podem ser punidos."
       ],
       "raciocinio": "1. Destaque as palavras que ampliam a regra (veja: *Textos normativos: leis, estatutos e regulamentos*): “**Nenhum** idoso”, “**qualquer** tipo de negligência”, “**todo** atentado”, “por ação **ou omissão**”, “será **punido**”.\n2. A D repete exatamente essas ideias: qualquer violação, por ação ou omissão, será punida.\n\nResposta: **D**.\n\n**Dica de prova:** em questões sobre um trecho de lei, a resposta tem de estar no trecho. Algo verdadeiro sobre o assunto, mas ausente do texto, está errado.",
       "interativo": null
@@ -238,7 +238,7 @@
       ],
       "essencial": [
         "Para comparar textos, resuma cada um em uma linha e elimine o que contradiz algum deles.",
-        "Texto 2: a indústria acrescenta sódio, corantes e aromatizantes para dar sabor e aparência, e não para nutrir."
+        "A alternativa certa precisa ser sustentada pelos dois textos, e não só por um."
       ],
       "raciocinio": "1. Resuma cada texto (veja: *Comparação entre textos*). Texto 1: evitar ultraprocessados e preferir vegetais; 62% comem poucas frutas e verduras. Texto 2: a indústria acrescenta açúcar, gorduras, sódio, corantes e aromatizantes para agradar ao consumidor; 61% ingerem açúcar em excesso.\n2. Elimine o que contradiz os textos: A (a maioria **não** come vegetais suficientes), C (inventa uma causa) e D (não há equilíbrio).\n3. Sobra a B, que se apoia no Texto 2: sódio, corantes e aromatizantes servem para dar sabor e aparência, não para nutrir.\n\nResposta: **B**.",
       "interativo": null
@@ -268,8 +268,8 @@
         "conectivos"
       ],
       "essencial": [
-        "Proporção liga duas grandezas que variam juntas: “quanto mais… mais”, “para cada”.",
-        "Outros conectivos: *ora… ora* (alternância), *embora* (concessão), *como* (causa)."
+        "Proporção liga duas grandezas que variam juntas: *quanto mais… mais*, *à medida que*, *para cada*.",
+        "Outras relações: *ora… ora* (alternância), *embora* (concessão), *como* (causa)."
       ],
       "raciocinio": "1. No anúncio, “3 litros **para cada** litro” estabelece uma proporção: quanto mais se bebe da garrafa reutilizável, mais água se economiza.\n2. Classifique o conectivo de cada alternativa (veja: *Conectivos e relações de sentido*): *ora… ora* (alternância), *embora* (concessão), *como* (causa), *quanto mais… mais* (proporção).\n\nResposta: **D**.",
       "interativo": null
@@ -297,8 +297,8 @@
         "adverbios"
       ],
       "essencial": [
-        "Advérbios e adjuntos adverbiais indicam circunstâncias do verbo: lugar, tempo, modo, oposição.",
-        "Saíram às ruas **contra** a privatização: *contra* traz a ideia de oposição ligada ao verbo."
+        "Adjuntos adverbiais indicam circunstâncias do verbo: lugar, tempo, modo, causa, oposição.",
+        "Preposições como *contra*, *sem* e *com* podem introduzir circunstâncias ligadas ao verbo."
       ],
       "raciocinio": "1. Classifique cada alternativa: *privatização* (substantivo), *saíram* (verbo), *da* (preposição + artigo). Nenhuma delas indica circunstância.\n2. Pergunte ao verbo: saíram às ruas **contra** o quê? “Contra a privatização do metrô” indica uma circunstância de oposição, função de adjunto adverbial (veja: *Advérbios e adjuntos adverbiais*).\n3. A palavra que traz essa ideia de oposição é *contra*.\n\nResposta: **B**.",
       "interativo": null
@@ -326,8 +326,8 @@
         "discurso-direto-e-indireto"
       ],
       "essencial": [
-        "Discurso direto: a fala vem com travessão ou aspas. Indireto: o narrador conta, com “disse que”, “pediu que”.",
-        "Indireto livre: a fala da personagem se mistura à narração, sem travessão: “Que maluquice era aquela…?”."
+        "Discurso direto: a fala vem com travessão ou aspas. Indireto: o narrador conta, com *disse que*, *pediu que*.",
+        "Indireto livre: a fala ou o pensamento da personagem se mistura à narração, sem travessão nem verbo de dizer."
       ],
       "raciocinio": "Classifique cada trecho citado (veja: *Discurso direto, indireto e indireto livre*):\n\n1. A: começa com travessão → discurso **direto**. A alternativa diz indireto ✗.\n2. B: “Que maluquice era aquela…? Não, senhor, devia ser homem…” são palavras da mãe, com pergunta e expressão típica de fala, mas sem travessão nem “disse que”, no meio da narração → **indireto livre** ✓.\n3. C: “Pediu a minha mãe que velasse…” → **indireto**. A alternativa diz indireto livre ✗.\n4. D: só narração. A alternativa fala de uma fala independente da personagem ✗.\n\nResposta: **B**.",
       "interativo": null
@@ -358,7 +358,7 @@
       ],
       "essencial": [
         "Propaganda enganosa traz informação falsa ou omite algo importante sobre o produto.",
-        "O biscoito tem “mel” no nome e na embalagem, mas não tem mel na composição: é propaganda enganosa."
+        "Propaganda abusiva explora medo, discrimina ou se aproveita da inexperiência do público."
       ],
       "raciocinio": "1. Resuma cada texto em uma linha (veja: *Comparação entre textos*). Infográfico: explica o que é propaganda enganosa (informação falsa ou omitida) e abusiva. Notícia: biscoitos com “mel” no nome e na embalagem, mas sem mel na composição.\n2. Relacione: o caso dos biscoitos é um exemplo do que o infográfico chama de propaganda enganosa.\n3. Só a A faz essa ligação; as outras falam de assuntos que não estão nos textos.\n\nResposta: **A**.",
       "interativo": null
@@ -387,8 +387,8 @@
         "metafora-e-comparacao"
       ],
       "essencial": [
-        "A ideia central aparece nas palavras que se repetem: “correndo”, “Pula”, “Tudo rápido”.",
-        "Paradoxo junta ideias opostas: “Tudo rápido, no demorado da infância”. Os momentos passam rápido, mas a infância parece longa."
+        "A ideia central de um texto aparece nas palavras e imagens que se repetem.",
+        "Paradoxo junta ideias opostas numa mesma expressão para criar um sentido novo."
       ],
       "raciocinio": "1. Ache as palavras que descrevem a infância: “correndo”, “Pula”, “Tudo rápido”.\n2. Os saltos vão do doce ao brinquedo e do brinquedo à **tristeza**: as emoções também mudam depressa.\n3. “Tudo rápido, no demorado da infância” junta ideias opostas, um paradoxo: os momentos passam rápido, mas a infância parece longa (veja: *Metáfora e comparação*). A ideia central é a da infância como um tempo intenso e cheio de mudanças (veja: *Tema e ideia central*).\n\nResposta: **A**.",
       "interativo": null
@@ -416,8 +416,8 @@
         "oracoes-subordinadas"
       ],
       "essencial": [
-        "Oração subordinada adverbial funciona como advérbio: indica tempo, causa, condição.",
-        "Teste: troque a oração por um advérbio. “**Depois**, ele ainda se lembra muito bem deles” funciona: é adverbial temporal."
+        "Oração subordinada adverbial funciona como advérbio: indica tempo, causa, condição, finalidade.",
+        "Teste: troque a oração por um advérbio. Se a frase funciona, a oração é adverbial."
       ],
       "raciocinio": "1. Veja o conectivo: “**depois que**” indica tempo.\n2. Teste a troca por um advérbio (veja: *Orações subordinadas*): “**Depois**, ele ainda se lembra muito bem deles”. Funciona.\n3. É uma oração subordinada adverbial temporal.\n\nResposta: **C**.",
       "interativo": null
@@ -446,7 +446,7 @@
       ],
       "essencial": [
         "Numa lei, o artigo traz a regra; o parágrafo (§) a complementa; os incisos (I, II, III…) enumeram itens.",
-        "Aqui, o § 4º termina em “devem assegurar:”, e os incisos I a XI listam o que deve ser garantido."
+        "Dois-pontos no fim de um artigo ou parágrafo anunciam a lista de incisos."
       ],
       "raciocinio": "1. Veja onde estão os incisos: logo depois do § 4º, que termina em “devem assegurar:”.\n2. Os incisos I a XI enumeram o que deve ser garantido, da prevenção (I e IX) ao acesso a próteses e medicamentos (XI). Enumerar é a função típica do inciso (veja: *Textos normativos: leis, estatutos e regulamentos*).\n3. A C descreve exatamente isso.\n\nResposta: **C**.",
       "interativo": null
@@ -475,7 +475,7 @@
       ],
       "essencial": [
         "Raiz como potência: o índice vai para o denominador do expoente: \\(\\sqrt[n]{a^m} = a^{\\frac{m}{n}}\\).",
-        "A raiz quadrada tem índice 2: \\(\\sqrt{7} = 7^{\\frac{1}{2}} = 7^{0{,}5}\\)."
+        "A raiz quadrada tem índice 2, que não se escreve: \\(\\sqrt{a} = a^{\\frac{1}{2}}\\)."
       ],
       "raciocinio": "1. Na raiz escrita como potência, o índice vai para o denominador do expoente (veja: *Raízes e radicais*).\n2. A raiz quadrada tem índice 2 (que não se escreve), e o 7 tem expoente 1: \\(\\sqrt{7} = \\sqrt[2]{7^1} = 7^{\\frac{1}{2}}\\).\n3. Na calculadora, \\(7^{0{,}5} \\approx 2{,}6458\\), o mesmo valor de \\(\\sqrt{7}\\).\n\nResposta: **D**.",
       "interativo": null
@@ -506,7 +506,8 @@
       ],
       "essencial": [
         "Princípio multiplicativo: se uma escolha tem \\(m\\) opções e a seguinte tem \\(n\\), o total é \\(m \\cdot n\\).",
-        "A branca tem 16 casas. Em qualquer uma, ocupa 1 e ataca 6, e sobram 9 para a preta: \\(16 \\cdot 9\\)."
+        "Quando uma escolha restringe a seguinte, desconte as opções proibidas antes de multiplicar.",
+        "Se os objetos são diferentes, trocar a posição deles gera outra configuração."
       ],
       "raciocinio": "1. A torre branca pode ficar em qualquer uma das 16 casas.\n2. Onde quer que esteja, ela ocupa 1 casa e ataca as outras 3 da sua linha e as 3 da sua coluna. A preta tem \\(16 - 1 - 6 = 9\\) casas seguras.\n\n<div data-interativo=\"25a-q17-torres\"></div>\n\n3. Pelo princípio multiplicativo (veja: *Princípio multiplicativo*): \\(16 \\cdot 9 = 144\\). Como as torres têm cores diferentes, trocá-las de lugar dá outra posição, e não se divide por 2.\n\nResposta: **C**.",
       "interativo": null
@@ -537,8 +538,8 @@
         "expressoes-algebricas"
       ],
       "essencial": [
-        "Área do quadrado: lado ao quadrado. Se \\((2x)^2 = 81\\), o lado mede \\(2x = 9\\).",
-        "O canteiro inteiro é um quadrado de lado \\(2x + 2 = 11\\): área de 121 m²."
+        "Área do quadrado: lado ao quadrado. Pela área, o lado é a raiz quadrada.",
+        "Quadrado da soma: \\((a + b)^2 = a^2 + 2ab + b^2\\)."
       ],
       "raciocinio": "1. A área I é um quadrado de lado \\(2x\\): \\((2x)^2 = 81\\), então \\(2x = \\sqrt{81} = 9\\) (veja: *Áreas de figuras planas*).\n2. O canteiro inteiro é um quadrado de lado \\(2x + 2 = 11\\). Área total: \\(11^2 = 121\\) m².\n3. Conferindo pelas partes: I = 81; II e III = \\(9 \\cdot 2 = 18\\) cada; IV = \\(2 \\cdot 2 = 4\\). Total: \\(81 + 18 + 18 + 4 = 121\\) ✓. É o quadrado da soma, \\((2x + 2)^2 = (2x)^2 + 2 \\cdot 2x \\cdot 2 + 2^2\\) (veja: *Expressões algébricas*).\n\nResposta: **B**.",
       "interativo": null
@@ -569,9 +570,9 @@
         "divisibilidade-e-fatoracao"
       ],
       "essencial": [
-        "A soma das probabilidades de todos os resultados é 1: \\(12P = 1\\), então \\(P = \\frac{1}{12}\\).",
-        "Primos de 1 a 6: 2, 3 e 5. O 1 não é primo.",
-        "Para “um ou outro” resultado, some as probabilidades: \\(P + 3P + 3P = \\frac{7}{12}\\)."
+        "A soma das probabilidades de todos os resultados possíveis é 1.",
+        "Primos de 1 a 10: 2, 3, 5 e 7. O 1 não é primo.",
+        "Para “um resultado ou outro” (que não acontecem juntos), some as probabilidades."
       ],
       "raciocinio": "1. A soma de todas as probabilidades é 1 (veja: *Probabilidade*): três ímpares com \\(3P\\) e três pares com \\(P\\) dão \\(9P + 3P = 12P = 1\\), então \\(P = \\frac{1}{12}\\).\n2. Primos de 1 a 6 (veja: *Divisibilidade e fatoração em primos*): 2, 3 e 5. O 1 não é primo, e o 2 é o único primo par.\n3. Chance de um primo: \\(P(2) + P(3) + P(5) = P + 3P + 3P = 7P = \\frac{7}{12}\\).\n\nResposta: **A**.",
       "interativo": null
@@ -599,8 +600,8 @@
         "aumentos-e-descontos-sucessivos"
       ],
       "essencial": [
-        "Variações em sequência se multiplicam: desconto de 50% é multiplicar por 0,5.",
-        "Para voltar ao preço inicial, o fator total tem de ser 1: \\(2 \\cdot 0{,}5 = 1\\). O aumento precisa ser de 100%."
+        "Variações percentuais em sequência se multiplicam: desconto de \\(p\\%\\) é multiplicar por \\(1 - \\frac{p}{100}\\).",
+        "Para voltar ao valor inicial, o produto dos fatores tem de ser 1."
       ],
       "raciocinio": "1. Variações em sequência se multiplicam (veja: *Aumentos e descontos sucessivos*). Desconto de 50% é multiplicar por 0,5.\n2. Para voltar ao preço inicial, o fator total tem de ser 1: \\(\\text{fator do aumento} \\cdot 0{,}5 = 1\\). O fator do aumento é 2, ou seja, um aumento de 100%.\n3. Conferindo: \\(5{,}60 \\cdot 2 = 11{,}20\\), e metade de 11,20 é 5,60 ✓.\n\n<div data-interativo=\"25a-q20-gasolina\"></div>\n\nResposta: **D**.",
       "interativo": null
@@ -633,8 +634,8 @@
         "funcao-afim"
       ],
       "essencial": [
-        "Para achar a reta, veja onde ela corta os eixos: \\(x = 0\\) dá \\(y = -2\\); \\(y = 0\\) dá \\(x = 2\\).",
-        "Isolando \\(y\\): \\(y = x - 2\\). Com o coeficiente de \\(x\\) positivo, a reta sobe."
+        "Para traçar uma reta, ache onde ela corta os eixos: faça \\(x = 0\\) e depois \\(y = 0\\).",
+        "Isolando \\(y\\), o coeficiente de \\(x\\) diz se a reta sobe (positivo) ou desce (negativo)."
       ],
       "raciocinio": "1. Ache os cortes nos eixos (veja: *Funções afins e retas*). Com \\(x = 0\\): \\(-2y = 4 \\Rightarrow y = -2\\), ponto (0, −2). Com \\(y = 0\\): \\(2x = 4 \\Rightarrow x = 2\\), ponto (2, 0).\n2. Isolando o \\(y\\): \\(y = x - 2\\). Como \\(a = 1 > 0\\), a reta sobe.\n\n<div data-interativo=\"25a-q21-reta\"></div>\n\n3. O único gráfico que passa por (0, −2) e (2, 0) é o D.\n\nResposta: **D**.",
       "interativo": null
@@ -663,8 +664,8 @@
         "principio-multiplicativo"
       ],
       "essencial": [
-        "Princípio multiplicativo: 4 tipos de ingresso × 3 formas de pagamento = 12 combinações.",
-        "Probabilidade = casos favoráveis ÷ casos possíveis. Só pista + Pix serve: \\(\\frac{1}{12}\\)."
+        "Princípio multiplicativo: o número de combinações é o produto das opções de cada escolha.",
+        "Probabilidade = casos favoráveis ÷ casos possíveis."
       ],
       "raciocinio": "1. Casos possíveis: 4 ingressos × 3 formas de pagamento = 12 combinações (veja: *Princípio multiplicativo*).\n2. Caso favorável: só um, pista + Pix.\n3. Probabilidade: \\(\\frac{1}{12}\\). Ou, multiplicando as chances de eventos independentes, \\(\\frac{1}{4} \\cdot \\frac{1}{3} = \\frac{1}{12}\\) (veja: *Probabilidade*).\n\nResposta: **A**.",
       "interativo": null
@@ -696,7 +697,8 @@
       ],
       "essencial": [
         "Reta que passa pela origem indica grandezas diretamente proporcionais: a razão entre elas é constante.",
-        "Alimento por aluno = kg ÷ alunos: \\(195 \\div 325 = 0{,}6\\) kg, ou seja, 600 g."
+        "Para achar a razão, divida as coordenadas de qualquer ponto da reta.",
+        "1 kg = 1.000 g."
       ],
       "raciocinio": "1. A reta passa pela origem: alimento e alunos são diretamente proporcionais, e a razão entre eles é constante (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Alimento por aluno = kg ÷ alunos: \\(195 \\div 325 = 0{,}6\\) kg. Conferindo com o outro ponto: \\(126 \\div 210 = 0{,}6\\) ✓.\n3. Em gramas (veja: *Conversão de unidades*): \\(0{,}6 \\cdot 1000 = 600\\) g.\n\nResposta: **B**.",
       "interativo": null
@@ -728,8 +730,8 @@
         "problemas-de-logica"
       ],
       "essencial": [
-        "Numa tabela de preços, multiplique cada preço pela quantidade comprada e some por linha.",
-        "Uma afirmação com “todos” ou “sempre” cai com um único contraexemplo: MG e RJ têm o mesmo total."
+        "Numa tabela de preços, multiplique cada preço pela quantidade comprada e some.",
+        "Afirmações com *todos*, *sempre* ou *nenhum* caem com um único contraexemplo."
       ],
       "raciocinio": "1. Total de cada estado = 1 × abacate + 2 × berinjela + 3 × limão (veja: *Leitura de tabelas*):\n\n| Estado | Abacate (×1) | Berinjela (×2) | Limão (×3) | Total |\n|---|---|---|---|---|\n| ES | 1,70 | 6,00 | 10,50 | 18,20 |\n| MG | 3,25 | 6,00 | 10,50 | 19,75 |\n| PR | 3,50 | 8,40 | 9,00 | 20,90 |\n| RJ | 4,00 | 6,00 | 9,75 | 19,75 |\n| RS | 3,30 | 10,00 | 8,40 | **21,70** |\n| SC | 3,00 | 7,00 | 6,75 | 16,75 |\n| SP | 2,50 | 7,20 | 6,60 | **16,30** |\n\n2. Maior total: RS, R$ 21,70. Lá a berinjela custa R$ 5,00, a mais cara entre os estados. B é verdadeira.\n3. MG e RJ, com o mesmo total e preços diferentes, são o contraexemplo que derruba A e D (veja: *Problemas de lógica*). C cai porque só SP tem o menor total.\n\nResposta: **B**.",
       "interativo": null
@@ -758,8 +760,8 @@
         "raizes-e-radicais"
       ],
       "essencial": [
-        "Pitágoras: \\(h^2 = a^2 + b^2\\). Isole a medida que falta em cada triângulo.",
-        "Para comparar raízes quadradas, compare os números de dentro: \\(\\sqrt{2} < \\sqrt{7} < \\sqrt{24}\\)."
+        "Teorema de Pitágoras: \\(a^2 = b^2 + c^2\\). Isole a medida que falta.",
+        "Para comparar raízes quadradas, compare os números de dentro: \\(\\sqrt{3} < \\sqrt{5}\\)."
       ],
       "raciocinio": "1. Use \\(h^2 = a^2 + b^2\\) em cada conjunto (veja: *Teorema de Pitágoras*):\n   - 1º: \\((\\sqrt{3})^2 = X^2 + 1^2 \\Rightarrow 3 = X^2 + 1 \\Rightarrow X = \\sqrt{2}\\);\n   - 2º: \\(5^2 = 1^2 + Y^2 \\Rightarrow Y^2 = 24 \\Rightarrow Y = \\sqrt{24}\\);\n   - 3º: \\(Z^2 = 2^2 + (\\sqrt{3})^2 = 4 + 3 \\Rightarrow Z = \\sqrt{7}\\).\n2. Para comparar raízes quadradas, compare os números de dentro (veja: *Raízes e radicais*): \\(2 < 7 < 24\\), então \\(X < Z < Y\\).\n\nResposta: **A**.",
       "interativo": null
@@ -790,7 +792,8 @@
       ],
       "essencial": [
         "Triângulos semelhantes têm a mesma forma: lados proporcionais e ângulos iguais.",
-        "Critério LLL: os três lados na mesma razão (aqui, 2) garantem a semelhança. Área 4 vezes maior é consequência."
+        "Critério LLL: os três lados na mesma razão garantem a semelhança.",
+        "Se os lados têm razão \\(k\\), as áreas têm razão \\(k^2\\)."
       ],
       "raciocinio": "1. Os três lados de DEF são o dobro dos lados correspondentes de ABC: \\(\\frac{DE}{AB} = \\frac{DF}{AC} = \\frac{FE}{BC} = 2\\).\n2. Três lados proporcionais garantem a semelhança pelo critério LLL (veja: *Semelhança de triângulos*).\n3. C e D são verdadeiras, mas são efeitos da semelhança. A pergunta quer saber **por que** os triângulos são semelhantes.\n\nResposta: **A**.\n\n**Dica de prova:** quando a pergunta pede o motivo (“porque”), procure a alternativa que traz a causa, e não uma consequência que também é verdadeira.",
       "interativo": null
@@ -821,8 +824,9 @@
         "triangulos"
       ],
       "essencial": [
-        "Triângulo equilátero tem três ângulos de 60°. Como CB e CD são raios, BCD é equilátero.",
-        "O arco mede o mesmo que seu ângulo central; o diâmetro divide a circunferência em dois arcos de 180°."
+        "Triângulo com dois lados iguais a raios de uma circunferência é isósceles; se os três lados são iguais, é equilátero, com ângulos de 60°.",
+        "O arco mede o mesmo que seu ângulo central.",
+        "O diâmetro divide a circunferência em dois arcos de 180°."
       ],
       "raciocinio": "1. CB e CD são raios, e o triângulo BCD é equilátero: todos os ângulos dele medem 60° (veja: *Triângulos: classificação e propriedades*). Então o ângulo central \\(D\\hat{C}B\\) mede 60°, e o arco DB também (veja: *Círculo e circunferência*).\n2. AB é diâmetro: o arco de A até B, passando por D, mede 180°.\n3. Arco AD = \\(180^\\circ - 60^\\circ = 120^\\circ\\).\n\nResposta: **C**.",
       "interativo": null
@@ -853,8 +857,9 @@
         "raizes-e-radicais"
       ],
       "essencial": [
-        "No triângulo retângulo, a hipotenusa é o lado oposto ao ângulo reto: aqui, a rampa BC.",
-        "\\((12\\sqrt{7})^2 = 144 \\cdot 7 = 1008\\). Depois, \\(\\sqrt{1024} = 32\\), porque \\(32^2 = 1024\\)."
+        "No triângulo retângulo, a hipotenusa é o lado oposto ao ângulo reto.",
+        "\\((a\\sqrt{b})^2 = a^2 \\cdot b\\).",
+        "Fatorar ajuda a extrair raízes: \\(\\sqrt{2^{2n}} = 2^n\\)."
       ],
       "raciocinio": "1. O ângulo reto está em A, então a hipotenusa é o lado oposto, BC: a própria rampa (veja: *Teorema de Pitágoras*).\n2. \\(BC^2 = AC^2 + AB^2 = 4^2 + 1008 = 16 + 1008 = 1024\\).\n3. \\(BC = \\sqrt{1024}\\). Fatorando, \\(1024 = 2^{10}\\), então \\(\\sqrt{1024} = 2^5 = 32\\) m (veja: *Raízes e radicais*).\n\nResposta: **C**.",
       "interativo": null
@@ -883,7 +888,7 @@
       ],
       "essencial": [
         "Para o mesmo percurso, velocidade e tempo são inversamente proporcionais: o produto (a distância) é constante.",
-        "\\(60 \\cdot 4 = 240\\) km; a 80 km/h, \\(240 \\div 80 = 3\\) h."
+        "Distância = velocidade × tempo."
       ],
       "raciocinio": "1. Para o mesmo percurso, velocidade e tempo são inversamente proporcionais: o produto (a distância) fica constante (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Distância: \\(60 \\cdot 4 = 240\\) km.\n3. A 80 km/h: \\(240 \\div 80 = 3\\) h.\n\n<div data-interativo=\"25a-q29-velocidade\"></div>\n\nResposta: **B**.",
       "interativo": null
@@ -911,9 +916,9 @@
         "propriedades-de-potencias"
       ],
       "essencial": [
-        "Multiplicação de potências de mesma base: somam-se os expoentes. \\(2 \\cdot 2^{40} = 2^{41}\\), e não \\(2^{80}\\).",
-        "Divisão de potências de mesma base: subtraem-se os expoentes. EB ÷ GB = \\(2^{60 - 30} = 2^{30}\\).",
-        "\\(2^{30} + 2^{40}\\) é menor que \\(2^{41}\\), muito menor que \\(2^{50}\\)."
+        "Multiplicação de potências de mesma base: somam-se os expoentes. Divisão: subtraem-se.",
+        "A soma de potências não é uma potência da soma: \\(2^3 + 2^4 \\neq 2^7\\).",
+        "No armazenamento digital, cada unidade é \\(2^{10}\\) vezes a anterior."
       ],
       "raciocinio": "Use as quantidades do texto (KB = \\(2^{10}\\), MB = \\(2^{20}\\), GB = \\(2^{30}\\), TB = \\(2^{40}\\), PB = \\(2^{50}\\), EB = \\(2^{60}\\) bytes) e as propriedades das potências (veja: *Propriedades das potências*):\n\n1. A: \\(2 \\cdot 2^{40} = 2^{41} \\neq 2^{80}\\). Falsa.\n2. B: o Exabyte é \\(2^{30}\\) vezes o Gigabyte. Falsa.\n3. C: o Megabyte é \\(2^{10}\\) vezes o Kilobyte. Falsa.\n4. D: \\(2^{30} + 2^{40} < 2^{40} + 2^{40} = 2^{41}\\), e \\(2^{41}\\) é bem menor que \\(2^{50}\\). Verdadeira.\n\nResposta: **D**.",
       "interativo": null

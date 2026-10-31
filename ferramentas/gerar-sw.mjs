@@ -15,6 +15,18 @@ function listar(pasta) {
   });
 }
 
+const caminhoCatalogo = join(RAIZ, 'dados/provas.json');
+const catalogo = JSON.parse(readFileSync(caminhoCatalogo, 'utf8'));
+const teoria = [];
+for (const item of catalogo.provas) {
+  const prova = JSON.parse(readFileSync(join(RAIZ, 'dados', item.arquivo), 'utf8'));
+  const questoes = [...prova.questoes].sort((a, b) => a.numero - b.numero);
+  item.gabarito = questoes.map(q => q.anulada ? '*' : q.correta).join('');
+  for (const t of questoes.flatMap(q => q.teoria || [])) if (!teoria.includes(t)) teoria.push(t);
+}
+const linhasCatalogo = catalogo.provas.map(p => `    { ${Object.entries(p).map(([k, v]) => `${JSON.stringify(k)}: ${JSON.stringify(v)}`).join(', ')} }`);
+writeFileSync(caminhoCatalogo, `{\n  "provas": [\n${linhasCatalogo.join(',\n')}\n  ],\n  "teoria": ${JSON.stringify(teoria)}\n}\n`);
+
 const arquivos = [...AVULSOS, ...PASTAS.flatMap(listar).filter(a => EXTENSOES.test(a))].sort();
 
 const hash = createHash('sha256');
@@ -33,4 +45,5 @@ const sw = readFileSync(caminhoSw, 'utf8')
   .replace(/const ESSENCIAIS = \[[\s\S]*?\];/, `const ESSENCIAIS = [\n${lista}\n];`);
 writeFileSync(caminhoSw, sw);
 
+console.log(`provas.json: gabarito de ${catalogo.provas.length} provas e ${teoria.length} temas de teoria.`);
 console.log(`sw.js: versão ${versao}, ${arquivos.length} arquivos, ${(bytes / 1024 / 1024).toFixed(1)} MB para uso sem internet.`);

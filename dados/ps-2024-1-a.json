@@ -28,7 +28,7 @@
       ],
       "essencial": [
         "Palavra neutra só informa; palavra marcada carrega o julgamento ou a emoção de quem escreve.",
-        "Teste: um relatório técnico usaria a palavra? “Deslizamentos” passa; “tragédia” não, porque avalia o fato como desgraça."
+        "Teste da neutralidade: um relatório técnico usaria aquela palavra para descrever o fato?"
       ],
       "raciocinio": "1. “Menos neutra” é a palavra que mais carrega julgamento ou emoção (veja: *Fato e opinião*).\n2. Teste cada opção: um relatório técnico usaria essa palavra? “Deslizamentos”, “atingida” e “grande volume de chuva” passam no teste.\n3. “Tragédia” não passa: ela classifica o acontecimento como uma desgraça terrível. É uma avaliação de quem escreve, assim como o “temporal devastador” do título.\n\nResposta: **A**.",
       "interativo": null
@@ -57,8 +57,8 @@
         "conectivos"
       ],
       "essencial": [
-        "Conectivos de continuação (“Além disso”, “Por conseguinte”) dependem de algo dito antes: não abrem o texto.",
-        "Pronomes retomam termos anteriores: “Muitas **delas**” retoma “as vulnerabilidades psicológicas”, do fim de C. Por isso B vem logo depois de C."
+        "Conectivos de continuação (*além disso*, *por conseguinte*) dependem de algo dito antes e não abrem um texto.",
+        "Pronomes e expressões como *ele*, *delas* e *esse problema* retomam termos anteriores e ajudam a ordenar parágrafos."
       ],
       "raciocinio": "1. **Ache a abertura.** A (“Além disso”), B (“Muitas delas”), D (“Por conseguinte”) e E (“há, ainda, outra problemática”) dependem de algo dito antes (veja: *Conectivos e relações de sentido*). Só C (“Não é segredo que…”) pode abrir o texto. Isso elimina as alternativas C e D.\n2. **Ache o par obrigatório.** “Muitas delas” (B) retoma “as vulnerabilidades psicológicas”, que fecham o parágrafo C (veja: *Coesão referencial: retomar e anunciar*). Então vem C → B, e só a alternativa A começa assim.\n3. **Confira o resto:** A (“Além disso”) acrescenta mais efeitos negativos; E (“há, ainda, outra problemática”) traz um novo problema; D (“Por conseguinte”) apresenta a consequência e fecha o texto.\n\nOrdem: C - B - A - E - D. Resposta: **A**.\n\n**Dica de prova:** em questões de ordenar parágrafos, elimine primeiro as aberturas impossíveis (conectivos de continuação e pronomes que retomam algo). Muitas vezes isso derruba metade das alternativas.",
       "interativo": null
@@ -86,8 +86,8 @@
         "verbos-de-ligacao"
       ],
       "essencial": [
-        "Verbo de ligação liga o sujeito a uma característica: “estavam **preservados**”.",
-        "Com sentido próprio, *estar* indica posição ou lugar: “estavam **perto de ferramentas**” não é característica dos ossos."
+        "Verbo de ligação liga o sujeito a uma característica ou estado: “Os portões estavam **fechados**”.",
+        "Com sentido próprio, *estar* pode indicar lugar ou posição: “Ele estava **na escola**”."
       ],
       "raciocinio": "1. Olhe o que vem logo depois de cada “estavam” (veja: *Verbos de ligação e predicativo do sujeito*).\n2. 1º trecho: “estavam **perto de ferramentas**” indica lugar, e não uma característica dos ossos. O verbo não é de ligação: tem sentido próprio.\n3. 2º trecho: “estavam **preservados**”. *Preservados* é um estado de “objetos”: o verbo é de ligação.\n4. A C diz “no 1º, ação; no 2º, característica”.\n\nResposta: **C**.",
       "interativo": null
@@ -117,8 +117,8 @@
         "ironia-e-humor"
       ],
       "essencial": [
-        "O humor vem da quebra de expectativa: o pai espera **água**, resposta da Biologia, e o menino diz **amor**.",
-        "Para achar a perspectiva, elimine as que nada têm a ver com o amor como algo essencial à vida."
+        "Quebra de expectativa: o humor surge quando a resposta foge do que o contexto pedia.",
+        "Para identificar uma perspectiva, veja que área do conhecimento ou visão de mundo explica a resposta."
       ],
       "raciocinio": "1. Identifique as duas respostas: o pai espera **água**, a resposta da Biologia; Armandinho diz **amor**.\n2. O humor vem da quebra de expectativa: a prova pedia um dado científico, e o menino respondeu com um valor humano (veja: *Ironia e humor*).\n3. Elimine o que não tem relação com a resposta do menino: Geografia (B) e Matemática (C). A Biologia (A) é a perspectiva do pai.\n4. Sobra a perspectiva religiosa: em muitas tradições religiosas, o amor é tratado como essencial à vida.\n\nResposta: **D**.\n\n**Dica de prova:** quando nenhuma alternativa parece perfeita, elimine as que estão claramente erradas e fique com a mais coerente com o texto.",
       "interativo": null
@@ -148,8 +148,8 @@
         "formacao-de-palavras"
       ],
       "essencial": [
-        "Composição: as partes existem sozinhas como palavras: *puxa* (verbo) + *saco* (substantivo).",
-        "Justaposição: nenhuma parte perde som. Se uma parte é prefixo, como *pós-* em *pós-graduação*, é derivação."
+        "Composição: as partes existem sozinhas como palavras. Justaposição: nenhuma perde som (*guarda-chuva*).",
+        "Derivação: uma das partes é prefixo ou sufixo: *pré-história*, *felizmente*."
       ],
       "raciocinio": "1. Separe as partes de “puxa-saco”: *puxa* (verbo) + *saco* (substantivo). As duas existem sozinhas, então é composição (veja: *Formação de palavras*).\n2. Alguma das partes perdeu som? Não. Então é justaposição, como diz a B.\n3. Confira “pós-graduação”: *pós-* é prefixo, então é derivação prefixal. Isso elimina C e D.\n\nResposta: **B**.\n\n**Dica de prova:** pergunte se as partes existem sozinhas como palavras. Se sim, é composição; se uma delas é prefixo ou sufixo, é derivação.",
       "interativo": null
@@ -178,9 +178,9 @@
         "sentido-pelo-contexto"
       ],
       "essencial": [
-        "“Aliás” corrige ou precisa o que foi dito: os humanos passam a ser vistos como “esse clube exclusivo”.",
-        "O sentido também vem da origem da palavra: *deliberadamente* vem de *deliberar*, decidir depois de pensar.",
-        "O texto opõe humanidade (o clube, a casta) e sub-humanidade (quem ficou de fora)."
+        "*Aliás* corrige ou precisa o que acabou de ser dito.",
+        "A origem de uma palavra ajuda a entender o sentido: *deliberar* é decidir depois de pensar.",
+        "Textos argumentativos costumam se organizar por oposições entre grupos ou ideias."
       ],
       "raciocinio": "1. Leia o trecho com “aliás”: “os humanos, **aliás**, esse clube exclusivo da humanidade”. O “aliás” corrige e precisa o que foi dito: os humanos passam a ser vistos como um clube exclusivo (veja: *Conectivos e relações de sentido*).\n2. Veja a oposição do texto: humanidade (a casta, o clube) × sub-humanidade (todos que ficaram de fora). A C descreve exatamente isso.\n3. Confira as outras: A troca quem está dentro e fora da casta; B inverte o sentido de *deliberadamente*, que vem de *deliberar*, decidir depois de pensar (veja: *Sentido das palavras pelo contexto*); D ignora o tom crítico.\n\nResposta: **C**.",
       "interativo": null
@@ -209,7 +209,7 @@
       ],
       "essencial": [
         "Conectivos indicam causa e consequência; a ordem dos fatos pode ser diferente da ordem das palavras na frase.",
-        "Aqui, a cadeia é: rompimento → rejeitos → impacto na fauna e flora → prejuízos → notícias sobre eles."
+        "Para ordenar acontecimentos, siga a cadeia: cada fato é consequência do anterior."
       ],
       "raciocinio": "1. A pergunta pede a **ordem de acontecimentos implicada** no trecho, e não a ordem em que as ideias aparecem (veja: *Conectivos e relações de sentido*).\n2. Siga a cadeia de causa e consequência: rompimento da barragem (1º) → destruição pelos rejeitos (2º) → fauna e flora impactadas (3º). C e D quebram essa cadeia.\n3. Entre A e B, decida o que vem antes: os prejuízos ou as notícias sobre eles. Os prejuízos são consequência direta do impacto; as notícias, uma semana depois, falam desses prejuízos e ainda não são claras. Então: prejuízos incontáveis (4º) → notícias pouco claras (5º).\n\nResposta: **A**.",
       "interativo": null
@@ -237,8 +237,8 @@
         "pontuacao"
       ],
       "essencial": [
-        "O ponto de exclamação marca emoção, e o contexto diz qual: pressa, surpresa, alegria.",
-        "“Fala logo, filho!” marca a afobação do pai; “Ah! Agora entendi!”, a descoberta do filho."
+        "O ponto de exclamação marca emoção, e o contexto diz qual: pressa, surpresa, alegria, raiva.",
+        "Em questões de “respectivamente”, a ordem das respostas deve seguir a ordem dos trechos."
       ],
       "raciocinio": "1. Localize cada fala: “Fala logo, filho!” é do pai; “Ah! Agora eu entendi!” é do filho.\n2. O pai está impaciente: o filho fica encarando e não diz nada. A exclamação marca pressa, afobação (veja: *Sinais de pontuação e seus efeitos*).\n3. O filho “gritou […] com um largo sorriso no rosto”: acabou de descobrir o motivo dos cabelos brancos do avô. A exclamação marca a descoberta.\n\nResposta: **B**.\n\n**Dica de prova:** em questões de “respectivamente”, confira a ordem: a primeira emoção tem de corresponder à primeira fala, e a segunda, à segunda.",
       "interativo": null
@@ -268,7 +268,7 @@
       ],
       "essencial": [
         "No discurso indireto, o narrador conta com as próprias palavras o que alguém disse ou fez.",
-        "A escolha dos verbos revela opinião: “impôs” e “atacar” julgam; “estabeleceu” e “respondeu” seriam neutros."
+        "A escolha dos verbos revela opinião: *atacar* e *impor* julgam; *responder* e *estabelecer* são neutros."
       ],
       "raciocinio": "1. Identifique o tipo de discurso: o jornalista **narra** o que Dilma disse e fez, sem reproduzir a fala dela. É discurso indireto (veja: *Discurso direto, indireto e indireto livre*).\n2. Olhe os verbos sublinhados: *resolveu*, *impôs*, *atacar*, *foi categórica*. Compare com versões neutras (decidiu, estabeleceu, respondeu, afirmou): as escolhas do jornalista carregam julgamento (veja: *Fato e opinião*).\n3. Somadas, elas constroem a imagem de uma presidente autoritária. A D junta discurso indireto, influência do jornalista e imagem autoritária.\n\nResposta: **D**.",
       "interativo": null
@@ -296,9 +296,9 @@
         "transitividade-verbal"
       ],
       "essencial": [
-        "Verbo transitivo direto pede complemento sem preposição: o “a” antes desse complemento é artigo.",
-        "Teste do masculino: “afetam **o** raciocínio” mostra que, em “afetam a capacidade”, o “a” é artigo.",
-        "Antes de verbo no infinitivo, “a” é sempre preposição: “se propôs **a** analisar”."
+        "Verbo transitivo direto pede complemento sem preposição; o *a* antes desse complemento é artigo.",
+        "Teste do masculino: se o *a* vira *o* com uma palavra masculina, é artigo.",
+        "Antes de verbo no infinitivo, *a* é sempre preposição: “começou **a** chover”."
       ],
       "raciocinio": "Use o teste do masculino e a regra do infinitivo (veja: *Transitividade verbal: verbos e complementos*):\n\n1. “afetam **a** capacidade”: quem afeta, afeta algo, sem preposição. No masculino, “afetam **o** raciocínio”. É artigo.\n2. “influenciam **a** formação”: “influenciam **o** gosto”. É artigo.\n3. “se propôs **a** analisar”: o *a* vem antes de verbo no infinitivo. É preposição (propor-se a fazer algo).\n\nArtigo – artigo – preposição. Resposta: **C**.",
       "interativo": null
@@ -328,9 +328,9 @@
         "classes-de-palavras"
       ],
       "essencial": [
-        "Artigo indefinido apresenta algo genérico: “saborear **um** delicioso caramelo”.",
-        "Numeral indica quantidade: o “**UM**” gigante quer dizer “só um”, e não mais.",
-        "A mesma palavra muda de classe conforme o uso na frase."
+        "Artigo indefinido apresenta algo genérico: “comprei **um** livro”.",
+        "Numeral indica quantidade exata: “só **um** livro, e não dois”.",
+        "A mesma palavra pode mudar de classe conforme o uso na frase."
       ],
       "raciocinio": "1. 2º quadrinho: “convida você a saborear **um** delicioso caramelo”. É uma oferta gentil e genérica: *um* é artigo indefinido, e *caramelo* é substantivo (veja: *Classes de palavras*).\n2. 3º quadrinho: Susanita tenta pegar mais, e Manolito grita “**UM**” em letras enormes. Agora a palavra indica quantidade, só um: é numeral.\n3. O 4º quadrinho confirma: “nós, empresários, não somos bobos”.\n4. A D diz exatamente isso: artigo + substantivo no 2º quadrinho e numeral indicando quantidade no 3º.\n\nResposta: **D**.\n\n> A D diz que o artigo “torna” *caramelo* substantivo. A palavra já é substantivo; o artigo só a acompanha. O resto da alternativa está correto, e as outras têm erros maiores.",
       "interativo": null
@@ -359,8 +359,9 @@
         "poesia"
       ],
       "essencial": [
-        "Ambiguidade proposital: “vendo tudo” pode vir de *ver* ou de *vender*; “à vista”, visível ou pagamento à vista.",
-        "O duplo sentido cria vários sentidos ao mesmo tempo: é a plurissignificação que a questão pede."
+        "Ambiguidade proposital: uma palavra ou expressão admite dois sentidos ao mesmo tempo.",
+        "Formas verbais iguais de verbos diferentes criam duplo sentido: *vendo* pode vir de *ver* ou de *vender*.",
+        "Plurissignificação é a multiplicidade de sentidos que um texto literário pode ter."
       ],
       "raciocinio": "1. Leia o título: “vendo tudo” pode ser “estou vendo tudo” (ver) ou “estou vendendo tudo” (vender) (veja: *Ambiguidade e duplo sentido*).\n2. Os versos seguintes confirmam o jogo: “tudo que não é para **vender**” / “tudo que não é para se **ver**”. E “à vista” pode ser “visível” ou “pagamento à vista”.\n3. O recurso que cria vários sentidos ao mesmo tempo é o duplo sentido. Aliteração, anáfora e metáforas existem no poema, mas são secundárias para a plurissignificação (veja: *Poesia: verso, eu lírico e poema visual*).\n\nResposta: **B**.\n\n**Dica de prova:** “sobretudo” pede o recurso **principal**. Cuidado com alternativas que citam algo verdadeiro, mas que não responde ao que foi pedido.",
       "interativo": null
@@ -388,9 +389,9 @@
         "hifen"
       ],
       "essencial": [
-        "Prefixo terminado em vogal + palavra iniciada por *r* ou *s*: dobra a consoante, sem hífen: *antissocial*, *ultrassom*.",
-        "Sem hífen também: *reedição* (o prefixo *re-* sempre se junta) e *afrodescendente* (vogal + consoante).",
-        "*Mal-* leva hífen antes de vogal ou *h*: *mal-entendido*. “Não” com valor de prefixo não leva hífen: *não governamental*."
+        "Prefixo terminado em vogal + palavra iniciada por *r* ou *s*: dobra a consoante, sem hífen: *antirrugas*, *microssistema*.",
+        "O prefixo *re-* sempre se junta à palavra: *reeleger*, *reescrever*.",
+        "*Mal-* leva hífen antes de vogal ou *h*: *mal-educado*. *Não* com valor de prefixo não leva hífen: *não fumante*."
       ],
       "raciocinio": "Em questões de “todas corretas”, basta achar uma palavra errada para eliminar a alternativa (veja: *Hífen*):\n\n1. A: “re-edição” ✗ (reedição).\n2. C: “afro-descendente” ✗ (afrodescendente).\n3. D: “ultra-som” ✗ (ultrassom).\n4. B: antissocial (dobra o s) ✓; não governamental (sem hífen) ✓; benfeito (aglutinada pelo uso, como diz o excerto) ✓; mal-entendidos (*mal-* antes de vogal) ✓.\n\nResposta: **B**.",
       "interativo": null
@@ -418,8 +419,9 @@
         "colocacao-pronominal"
       ],
       "essencial": [
-        "Na norma-padrão, não se começa frase com pronome átono: “Me ajudaria” está fora da norma.",
-        "Com o verbo no futuro do pretérito (*ajudaria*) e sem palavra atrativa antes, usa-se mesóclise: “Ajudar-**me**-ia”."
+        "Na norma-padrão, não se começa frase com pronome átono (*me*, *te*, *se*, *lhe*).",
+        "Com verbo no futuro do presente ou do pretérito, sem palavra atrativa antes, usa-se mesóclise: “Dir-**te**-ei”.",
+        "Palavras atrativas (*não*, *que*, *quem*, advérbios) puxam o pronome para antes do verbo."
       ],
       "raciocinio": "1. A frase começa direto com o verbo *ajudaria* (futuro do pretérito), sem palavra atrativa antes.\n2. Não se começa frase com pronome átono: elimine B e D (veja: *Colocação pronominal*).\n3. No futuro do pretérito, a ênclise é proibida: elimine A.\n4. Sobra a mesóclise: “Ajudar-**me**-ia”.\n\nResposta: **C**.",
       "interativo": null
@@ -447,8 +449,8 @@
         "conectivos"
       ],
       "essencial": [
-        "O “que” pode ter valor de causa: troque por “porque” e veja se o sentido se mantém.",
-        "“Não reclama **que** a gente nem tinha geladeira” = “não reclama, **porque**…”: o avô dá o motivo."
+        "O *que* pode ter valor de causa: troque por *porque* e veja se o sentido se mantém.",
+        "O *que* de consequência costuma vir depois de *tão* ou *tanto*: “Correu tanto **que** cansou”."
       ],
       "raciocinio": "1. Leia a fala: “Não reclama **que** até pouco tempo atrás a gente nem tinha geladeira!”.\n2. Troque o “que” por “porque” (veja: *Conectivos e relações de sentido*): “Não reclama, **porque** até pouco tempo atrás a gente nem tinha geladeira!”. O sentido se mantém.\n3. O avô dá o motivo para não reclamar: ideia de causa.\n\nResposta: **A**.\n\n**Dica de prova:** o “que” de consequência quase sempre vem com “tão” ou “tanto” antes. Sem eles, desconfie dessa leitura.",
       "interativo": null
@@ -476,8 +478,9 @@
         "expressoes-algebricas"
       ],
       "essencial": [
-        "Para usar uma fórmula, substitua o valor e resolva: \\(C = \\frac{5}{9}(29{,}3 - 32)\\).",
-        "Primeiro o parêntese, depois a multiplicação e a divisão: \\(\\frac{5 \\cdot (-2{,}7)}{9} = -1{,}5\\)."
+        "Para usar uma fórmula, substitua os valores conhecidos e resolva.",
+        "Ordem das operações: primeiro parênteses, depois multiplicação e divisão, por fim soma e subtração.",
+        "Confira se o resultado faz sentido com a situação descrita."
       ],
       "raciocinio": "1. Substitua \\(F = 29{,}3\\) na fórmula (veja: *Expressões algébricas*): \\(C = \\frac{5}{9}(29{,}3 - 32)\\).\n2. Primeiro o parêntese: \\(29{,}3 - 32 = -2{,}7\\).\n3. Depois a fração: \\(C = \\frac{5 \\cdot (-2{,}7)}{9} = \\frac{-13{,}5}{9} = -1{,}5\\).\n\nResposta: **C**.\n\n**Dica de prova:** confira se o resultado faz sentido. 29,3 °F está um pouco abaixo do congelamento (32 °F), então a resposta deve ser um pouco abaixo de 0 °C.",
       "interativo": null
@@ -507,8 +510,8 @@
         "teorema-de-pitagoras"
       ],
       "essencial": [
-        "A diagonal de um retângulo é a hipotenusa de um triângulo retângulo cujos catetos são os lados: \\(d^2 = 5^2 + 12^2\\).",
-        "5, 12 e 13 é um terno pitagórico: vale a pena reconhecê-lo."
+        "A diagonal de um retângulo é a hipotenusa de um triângulo retângulo cujos catetos são os lados.",
+        "Ternos pitagóricos comuns: 3, 4, 5; 5, 12, 13; 8, 15, 17."
       ],
       "raciocinio": "1. A cerca é a diagonal do retângulo, que é a hipotenusa de um triângulo retângulo de catetos 5 m e 12 m (veja: *Teorema de Pitágoras*).\n2. \\(d^2 = 5^2 + 12^2 = 25 + 144 = 169\\).\n3. \\(d = \\sqrt{169} = 13\\) m. É o terno pitagórico 5, 12, 13.\n\nResposta: **B**.",
       "interativo": null
@@ -536,8 +539,8 @@
         "propriedades-de-potencias"
       ],
       "essencial": [
-        "Na divisão de potências de mesma base, subtraem-se os expoentes: \\(\\frac{2^m}{2} = 2^{m - 1}\\).",
-        "Para subtrair 1 de uma fração, escreva o 1 com o mesmo denominador: \\(1 = \\frac{250}{250}\\)."
+        "Na divisão de potências de mesma base, subtraem-se os expoentes: \\(\\frac{a^m}{a^n} = a^{m - n}\\).",
+        "Para somar ou subtrair um inteiro de uma fração, escreva o inteiro com o mesmo denominador."
       ],
       "raciocinio": "1. Metade da profundidade: \\(\\dfrac{2^{\\frac{2974}{250}}}{2}\\).\n2. Dividir uma potência de base 2 por 2 é tirar 1 do expoente (veja: *Propriedades das potências*). Escreva o 1 com o mesmo denominador: \\(1 = \\frac{250}{250}\\).\n3. \\(2^{\\frac{2974}{250} - \\frac{250}{250}} = 2^{\\frac{2724}{250}}\\).\n\nResposta: **D**.\n\n**Dica de prova:** teste a regra com números pequenos. A metade de \\(2^4 = 16\\) é \\(8 = 2^3\\): o expoente diminui 1. Não vira \\(1^4\\) nem \\(2^2\\).",
       "interativo": null
@@ -565,8 +568,9 @@
         "notacao-cientifica"
       ],
       "essencial": [
-        "Notação científica facilita contas grandes: \\(50\\,000 = 5 \\times 10^4\\); \\(0{,}0007 = 7 \\times 10^{-4}\\).",
-        "Multiplicando potências de 10, somam-se os expoentes; dividindo, subtraem-se: \\(10^{8 - (-4)} = 10^{12}\\)."
+        "Notação científica facilita contas com números muito grandes ou muito pequenos.",
+        "Multiplicando potências de 10, somam-se os expoentes; dividindo, subtraem-se.",
+        "Cuidado com o sinal ao subtrair expoente negativo: \\(a - (-b) = a + b\\)."
       ],
       "raciocinio": "1. Escreva tudo em notação científica (veja: *Potências de 10 e notação científica*): \\(\\dfrac{5 \\times 10^4 \\cdot 3{,}5 \\times 10^4}{7 \\times 10^{-4}}\\).\n2. Numerador: \\(5 \\cdot 3{,}5 = 17{,}5\\) e \\(10^{4 + 4} = 10^8\\).\n3. Divida: \\(\\frac{17{,}5}{7} = 2{,}5\\) e \\(\\frac{10^8}{10^{-4}} = 10^{8 - (-4)} = 10^{12}\\).\n\nResultado: \\(2{,}5 \\times 10^{12}\\). Resposta: **B**.\n\n**Dica de prova:** cuidado com o sinal ao subtrair expoente negativo: \\(8 - (-4) = 8 + 4 = 12\\).",
       "interativo": null
@@ -598,7 +602,7 @@
       ],
       "essencial": [
         "Volume da pirâmide: área da base × altura ÷ 3.",
-        "A base é um quadrado de lado 6: área \\(6^2 = 36\\) cm². Simplifique antes de multiplicar: \\(\\frac{36}{3} = 12\\)."
+        "Simplifique antes de multiplicar para facilitar as contas."
       ],
       "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Veja as contas:\n\n1. Área da base, um quadrado de lado 6: \\(6^2 = 36\\) cm².\n2. Volume da pirâmide (veja: *Volumes de sólidos*): \\(V = \\frac{36 \\cdot 15}{3}\\).\n3. Simplifique antes de multiplicar: \\(\\frac{36}{3} = 12\\), e \\(12 \\cdot 15 = 180\\) cm³.",
       "interativo": null
@@ -626,8 +630,9 @@
         "quadrilateros"
       ],
       "essencial": [
-        "Diagonais que se cortam no ponto médio formam um paralelogramo; perpendiculares, um losango.",
-        "Paralelogramo com diagonais iguais é retângulo: os ângulos vizinhos ficam iguais e, somando 180°, medem 90° cada."
+        "Diagonais que se cortam no ponto médio formam um paralelogramo.",
+        "Paralelogramo com diagonais perpendiculares é losango; com diagonais iguais, retângulo.",
+        "Num paralelogramo, ângulos vizinhos somam 180°."
       ],
       "raciocinio": "Analise uma afirmação de cada vez (veja: *Quadriláteros e polígonos*):\n\n1. **I – verdadeira.** Diagonais perpendiculares são propriedade de todo losango.\n2. **II – verdadeira.** Se as diagonais se cortam no ponto médio, os triângulos opostos formados por elas são congruentes, e os lados opostos ficam paralelos: é um paralelogramo.\n3. **III – verdadeira.** Num paralelogramo com diagonais iguais, os triângulos ABC e BAD têm os três lados iguais, então os ângulos A e B são iguais. Como somam 180°, cada um mede 90°: é um retângulo.\n\nAs três estão corretas. Resposta: **A**.",
       "interativo": null
@@ -660,9 +665,9 @@
         "sistemas-de-equacoes"
       ],
       "essencial": [
-        "Um ponto é solução de uma equação se, substituído, torna a igualdade verdadeira. Em (2, 3): \\(3 \\cdot 2 - 3 = 3 \\neq 1\\).",
-        "A solução de um sistema é o ponto onde as duas retas se cruzam.",
-        "Para conferir o gráfico de \\(y = 3x - 1\\), veja onde ele corta os eixos: y em −1; x em \\(\\frac{1}{3}\\)."
+        "Um ponto é solução de uma equação se, substituído, torna a igualdade verdadeira.",
+        "A solução de um sistema de duas equações do 1º grau é o ponto onde as duas retas se cruzam.",
+        "Para conferir o gráfico de uma reta, veja onde ela corta os eixos."
       ],
       "raciocinio": "1. Confira a Equação 1 em (2, 3): \\(2 + 2 \\cdot 3 = 8\\) ✓ (veja: *Funções afins e retas*).\n2. Confira a Equação 2: \\(3 \\cdot 2 - 3 = 3\\), e não 1 ✗. O ChatGPT errou a conta (“6 − 3 = 3 − 3 = 0” não faz sentido). Isso deixa só C ou D.\n3. Ache o gráfico certo de \\(3x - y = 1\\), ou seja, \\(y = 3x - 1\\): corta o eixo y em −1 e o eixo x em \\(\\frac{1}{3} \\approx 0{,}33\\).\n4. No gráfico de C, a Equação2 corta o eixo x perto de 0,3, e as retas se cruzam fora de (2, 3): a solução do sistema não é (2, 3) (veja: *Sistemas de equações do 1º grau*). No de D, ela corta o eixo x em 1, então não é a reta certa.\n\n<div data-interativo=\"24a-q22-retas\"></div>\n\nResposta: **C**.\n\n**Dica de prova:** não confie em contas prontas, nem de uma IA. Substituir os valores para conferir leva poucos segundos.",
       "interativo": null
@@ -690,8 +695,9 @@
         "funcao-afim"
       ],
       "essencial": [
-        "Função afim \\(y = ax + b\\): \\(b\\) é o valor inicial (100), e \\(a\\), a variação por unidade (−4 por pacote).",
-        "Para achar \\(p\\), substitua \\(D = 40\\): \\(100 - 4p = 40\\), então \\(p = 15\\)."
+        "Função afim \\(y = ax + b\\): \\(b\\) é o valor inicial, e \\(a\\), a variação por unidade.",
+        "Variação negativa significa que o valor diminui a cada unidade.",
+        "Para escolher entre fórmulas, teste com uma linha da tabela."
       ],
       "raciocinio": "1. Monte a fórmula (veja: *Funções afins e retas*): o valor inicial é 100 (\\(b = 100\\)) e o dinheiro cai 4 a cada pacote (\\(a = -4\\)). Então \\(D = 100 - 4p\\).\n2. Faça \\(D = 40\\): \\(100 - 4p = 40 \\Rightarrow 4p = 60 \\Rightarrow p = 15\\) pacotes.\n\nResposta: **D**.\n\n**Dica de prova:** aqui, toda alternativa dá \\(D = 40\\) com a própria fórmula. O número de pacotes não decide: teste a fórmula com uma linha da tabela.",
       "interativo": null
@@ -723,7 +729,7 @@
       "essencial": [
         "Ângulos opostos pelo vértice são iguais; ângulos suplementares somam 180°.",
         "A soma dos ângulos internos de um triângulo é 180°.",
-        "Uma reta que corta duas paralelas forma ângulos correspondentes iguais: aqui, \\(2x = 70^\\circ\\)."
+        "Uma reta que corta duas paralelas forma ângulos correspondentes iguais."
       ],
       "raciocinio": "A Avenida Costa do Marfim, a Rua Etiópia e a Rua Gana formam um triângulo (veja: *Ângulos e retas paralelas*):\n\n1. Vértice Avenida × Etiópia: o ângulo interno é oposto pelo vértice ao de 50°, então mede 50°.\n2. Vértice Avenida × Gana: o ângulo interno é suplementar ao de 120°: \\(180^\\circ - 120^\\circ = 60^\\circ\\).\n3. Vértice Gana × Etiópia: \\(180^\\circ - 50^\\circ - 60^\\circ = 70^\\circ\\).\n4. Etiópia e Senegal são paralelas, e a Rua Gana corta as duas: o ângulo de 70° e o ângulo \\(2x\\) são correspondentes. \\(2x = 70^\\circ\\), então \\(x = 35^\\circ\\).\n\nResposta: **A**.",
       "interativo": null
@@ -754,8 +760,9 @@
         "teorema-de-pitagoras"
       ],
       "essencial": [
-        "Pitágoras só vale em triângulo retângulo: \\(a^2 = b^2 + c^2\\), com \\(a\\) a hipotenusa.",
-        "Em ACD, retângulo em D: \\(AC^2 = 12^2 + 8^2\\). Mas o triângulo ABC não fecha: \\(208 + 100 \\neq 324\\)."
+        "Teorema de Pitágoras só vale em triângulo retângulo: \\(a^2 = b^2 + c^2\\), com \\(a\\) a hipotenusa.",
+        "Relação da altura no triângulo retângulo: \\(h^2 = m \\cdot n\\), com \\(m\\) e \\(n\\) as projeções dos catetos.",
+        "Se os dados não satisfazem essas relações, o triângulo não é retângulo."
       ],
       "raciocinio": "A questão foi **anulada** e vale ponto para todos. Veja onde está o problema (veja: *Teorema de Pitágoras*):\n\n1. Caminho mais direto: no triângulo ACD, retângulo em D, \\(AC^2 = 12^2 + 8^2 = 208\\), então \\(AC \\approx 14{,}4\\).\n2. Conferindo com o triângulo inteiro: se ABC é retângulo em C, deveria valer \\(AC^2 + BC^2 = AB^2\\). Mas \\(208 + 100 = 308\\), e \\(AB^2 = 18^2 = 324\\).\n3. A relação da altura também falha: \\(CD^2 = 64\\), mas \\(AD \\cdot DB = 12 \\cdot 6 = 72\\).\n\nCom essas medidas, o triângulo não pode ser retângulo em C. Os dados se contradizem, e por isso a questão foi anulada.",
       "interativo": null
@@ -783,8 +790,9 @@
         "grandezas-proporcionais"
       ],
       "essencial": [
-        "Grandezas diretamente proporcionais: \\(y = kx\\). “1 cupom a cada 50 reais” dá \\(k = \\frac{1}{50}\\).",
-        "Para escolher a fórmula, teste um valor simples: R$ 100 deve dar 2 cupons."
+        "Grandezas diretamente proporcionais: \\(y = kx\\), em que \\(k\\) é a razão constante.",
+        "“1 a cada \\(n\\)” dá \\(k = \\frac{1}{n}\\).",
+        "Para escolher a fórmula certa, teste um valor simples nas alternativas."
       ],
       "raciocinio": "1. “1 cupom a cada 50 reais”: cupons e valor da compra são diretamente proporcionais, com \\(k = \\frac{1}{50}\\) (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Teste com um valor fácil, \\(x = 100\\), que deve dar 2 cupons: A dá 5000; B, 150; C, −50; D, \\(\\frac{100}{50} = 2\\) ✓.\n\nResposta: **D**.\n\n**Dica de prova:** em questões de “qual é a fórmula”, testar um valor simples nas alternativas é rápido e seguro.",
       "interativo": null
@@ -812,9 +820,9 @@
         "porcentagem"
       ],
       "essencial": [
-        "Porcentagem de uma porcentagem: primeiro ache o grupo (69,4% de 8283), depois a parte dele.",
-        "Na calculadora, use a forma decimal: 69,4% = 0,694; 8,3% = 0,083.",
-        "Se cada pessoa marcou um só aspecto, as porcentagens podem ser somadas."
+        "Porcentagem de uma porcentagem: primeiro ache o tamanho do grupo, depois a parte dele.",
+        "Na calculadora, use a forma decimal: 25% = 0,25.",
+        "Porcentagens de categorias que não se sobrepõem podem ser somadas."
       ],
       "raciocinio": "1. As porcentagens da coluna EM valem **dentro do grupo do EM**. Primeiro, ache o tamanho do grupo (veja: *Porcentagem*): \\(8283 \\cdot 0{,}694 \\approx 5748\\) alunos.\n2. Na coluna EM, some as linhas pedidas: travestis (8,3%), homossexuais (6,1%), transexuais (5,2%) e transgêneros (3,0%). Como cada participante indicou um só aspecto, as porcentagens podem ser somadas: 22,6% = 0,226.\n3. Multiplique: \\(5748 \\cdot 0{,}226 \\approx 1299\\).\n4. A conta \\((8283 \\times 0{,}694) \\times (0{,}083 + 0{,}061 + 0{,}052 + 0{,}03)\\), com resultado 1299, é a da D.\n\nResposta: **D**.\n\n**Dica de prova:** em tabelas com várias colunas, sublinhe a coluna certa (aqui, EM) antes de pegar os números. É fácil se confundir com a coluna “Total”.",
       "interativo": null
@@ -845,8 +853,8 @@
         "porcentagem"
       ],
       "essencial": [
-        "Proporção é parte ÷ total: feminicídios ÷ total de mulheres assassinadas, ano a ano.",
-        "O maior número de casos não garante a maior proporção: compare as divisões, e não as colunas."
+        "Proporção é parte ÷ total.",
+        "O maior número absoluto não garante a maior proporção: compare as divisões."
       ],
       "raciocinio": "1. “Últimos quatro anos” do gráfico: 2019, 2020, 2021 e 2022.\n2. A pergunta é sobre **proporção**, não sobre número de casos: divida feminicídios pelo total de cada ano (veja: *Leitura de gráficos* e *Porcentagem*).\n\n| Ano | Feminicídios | Total | Proporção |\n|---|---|---|---|\n| 2019 | 1330 | 3966 | ≈ 33,5% |\n| 2020 | 1354 | 3999 | ≈ 33,9% |\n| 2021 | 1337 | 3831 | ≈ 34,9% |\n| 2022 | 1410 | 3930 | **≈ 35,9%** |\n\n3. A maior é a de 2022.\n\nResposta: **A**.\n\n**Dica de prova:** quando a questão já dá o valor (35,9%), faça a conta ao contrário: 35,9% de 3930 ≈ 1411, que bate com os 1410 feminicídios de 2022.",
       "interativo": null
@@ -876,8 +884,8 @@
         "problemas-de-logica"
       ],
       "essencial": [
-        "Faces opostas de um dado somam 7, então as seis faces somam 21.",
-        "Se você vê três faces, as três escondidas somam 21 menos a soma vista."
+        "Num dado comum, faces opostas somam 7, e as seis faces somam 21.",
+        "As faces escondidas são opostas às visíveis: soma escondida = 21 − soma vista, quando se veem três faces."
       ],
       "raciocinio": "As faces opostas de um dado somam 7, então cada dado tem 21 pontos no total (veja: *Problemas de lógica*). Se você vê três faces, as três escondidas são as opostas a elas: soma escondida = 21 − soma vista.\n\n| Dado | Faces vistas | Soma vista | Soma escondida |\n|---|---|---|---|\n| 1 | 1, 3, 5 | 9 | 12 |\n| 2 | 2, 1, 4 | 7 | **14** |\n| 3 | 3, 1, 2 | 6 | 15 |\n\n1. No dado 2, a soma escondida (14) é o dobro da vista (7): a afirmação B é verdadeira.\n2. As outras caem pelas contas dos comentários (faces na mesa somam 15; escondidas somam 41).\n\nResposta: **B**.",
       "interativo": null
@@ -908,7 +916,8 @@
         "triangulos"
       ],
       "essencial": [
-        "Em triângulos congruentes, lados correspondentes são iguais: AB = GE, então \\(8x - 8 = 73 - x\\).",
+        "Em triângulos congruentes, lados correspondentes são iguais: isso permite montar uma equação.",
+        "Lados correspondentes ligam vértices correspondentes.",
         "Altura do triângulo equilátero de lado \\(\\ell\\): \\(\\frac{\\ell\\sqrt{3}}{2}\\)."
       ],
       "raciocinio": "1. Correspondência: A corresponde a G e B corresponde a E, então o lado AB (entre A e B) corresponde ao lado GE (entre G e E), e os dois são iguais (veja: *Congruência de triângulos*).\n2. Equação: \\(8x - 8 = 73 - x \\Rightarrow 9x = 81 \\Rightarrow x = 9\\).\n3. Lado da carta: \\(8 \\cdot 9 - 8 = 64\\) mm (confira: \\(73 - 9 = 64\\) ✓).\n4. Os triângulos da torre são equiláteros. Altura de um andar (veja: *Triângulos: classificação e propriedades*): \\(\\frac{64\\sqrt{3}}{2} = 32\\sqrt{3} \\approx 55{,}4\\) mm.\n5. Quatro andares: \\(4 \\cdot 32\\sqrt{3} = 128\\sqrt{3} \\approx 128 \\cdot 1{,}732 \\approx 221{,}7\\) mm.\n\nResposta: **A**.",

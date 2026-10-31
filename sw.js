@@ -1,4 +1,4 @@
-const VERSAO = 'db0d285e1c0f';
+const VERSAO = '246846847847';
 const ESSENCIAIS = [
   'css/estilo.css',
   'dados/frases.json',

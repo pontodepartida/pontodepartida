@@ -1,13 +1,12 @@
 import { armazenamento } from './armazenamento.js?v=2026-10-30';
-import { app, dialogo, esc, pct, formatarTempo, dataCurta, carregarCatalogo, carregarProva, idsTeoria, carregarFrases, htmlFrase, lerProgresso, resumo, primeiraSemResposta, lerResultadoSimulado } from './base.js';
+import { app, estado, esc, pct, formatarTempo, dataCurta, carregarCatalogo, provaResumida, carregarFrases, htmlFrase, lerProgresso, resumo, primeiraSemResposta, lerResultadoSimulado, abrirDialogo } from './base.js';
 import { cabecalhoInicio, rodape } from './interface.js';
 
 // ---------- Início ----------
 
 export async function telaInicio() {
-  const cat = await carregarCatalogo();
-  const frases = await carregarFrases();
-  const provas = (await Promise.all(cat.map(p => carregarProva(p.id).catch(() => null)))).filter(Boolean);
+  const [cat, frases] = await Promise.all([carregarCatalogo(), carregarFrases()]);
+  const provas = cat.map(provaResumida);
   document.title = 'Ponto de Partida';
 
   const infos = provas.map(p => {
@@ -184,7 +183,7 @@ export async function telaInicio() {
     : 'Neste modo não há limite de tempo, e a explicação aparece logo depois de cada resposta.';
 
   app.innerHTML = `<div class="app">
-    ${cabecalhoInicio(idsTeoria(provas).length)}
+    ${cabecalhoInicio(estado.temasTeoria.length)}
     <main id="conteudo" class="conteudo inicio">
       ${htmlFrase(frases && frases.destaque, `citacao--destaque${destaque ? '' : ' citacao--primeira'} so-computador`)}
       <div class="inicio__cabeca">
@@ -230,42 +229,13 @@ function ordenarProvas(infos, ordem) {
   });
 }
 
-// ---------- Passo a passo (boas-vindas e primeiro simulado) ----------
-export function abrirPassos({ passos, rotulo = '', concluir = 'Começar', aoConcluir, aoFechar }, passo = 0) {
-  const [titulo, texto] = passos[passo];
-  const ultimo = passo === passos.length - 1;
-  const secundario = !ultimo ? 'Pular' : aoConcluir ? 'Cancelar' : '';
-  dialogo.setAttribute('role', 'dialog');
-  dialogo.setAttribute('aria-labelledby', 'dialogo-titulo');
-  dialogo.setAttribute('aria-describedby', 'dialogo-texto');
-  dialogo.innerHTML = `<p class="boas-vindas__passo">${rotulo ? `${esc(rotulo)} · ` : ''}${passo + 1} de ${passos.length}</p>
-    <div class="boas-vindas__pontos" aria-hidden="true">${passos.map((_, i) => `<span${i <= passo ? ' class="feito"' : ''}></span>`).join('')}</div>
-    <h2 class="dialogo__titulo" id="dialogo-titulo">${titulo}</h2>
-    <p class="dialogo__texto" id="dialogo-texto">${texto}</p>
-    <div class="dialogo__acoes">
-      ${secundario ? `<button type="button" class="botao botao--secundario" data-bv="pular">${secundario}</button>` : ''}
-      <button type="button" class="botao botao--primario" data-bv="seguir">${ultimo ? concluir : 'Próximo'}</button>
-    </div>`;
-  dialogo.querySelector('[data-bv="seguir"]').addEventListener('click', () => {
-    if (!ultimo) return abrirPassos({ passos, rotulo, concluir, aoConcluir, aoFechar }, passo + 1);
-    dialogo.close();
-    if (aoConcluir) aoConcluir();
-  });
-  const pular = dialogo.querySelector('[data-bv="pular"]');
-  if (pular) pular.addEventListener('click', () => dialogo.close());
-  if (!dialogo.open) {
-    if (aoFechar) dialogo.addEventListener('close', aoFechar, { once: true });
-    dialogo.showModal();
-  }
-  dialogo.querySelector('[data-bv="seguir"]').focus();
-}
-
-const BOAS_VINDAS = [
-  ['Boas-vindas ao Ponto de Partida', 'Aqui você treina com provas antigas do processo seletivo do IFSP, uma questão por vez.'],
-  ['Como funciona', 'Depois que a alternativa é confirmada, aparecem o passo a passo da resolução, o erro de cada uma das outras e a teoria usada. Para treinar com tempo, há o modo Simulado.'],
-  ['Seu progresso', 'Suas respostas ficam salvas só neste navegador, sem cadastro. A Ajuda, no rodapé de todas as telas, explica cada botão.'],
-];
+// ---------- Boas-vindas ----------
 
 export function abrirBoasVindas() {
-  abrirPassos({ passos: BOAS_VINDAS, aoFechar: () => armazenamento.gravar('boas-vindas', '1') });
+  armazenamento.gravar('boas-vindas', '1');
+  abrirDialogo({
+    titulo: 'Boas-vindas ao Ponto de Partida',
+    texto: 'Aqui você treina com provas antigas do processo seletivo do IFSP, uma questão por vez. Suas respostas ficam salvas só neste navegador, sem cadastro, e a Ajuda, no rodapé, explica cada botão.',
+    acoes: [{ rotulo: 'Começar', classe: 'botao--primario' }],
+  });
 }

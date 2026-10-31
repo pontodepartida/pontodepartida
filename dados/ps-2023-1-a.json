@@ -28,9 +28,9 @@
         "transitividade-verbal"
       ],
       "essencial": [
-        "Verbo de ligação liga o sujeito a uma característica (predicativo): em “isso **era** bom”, *era* liga *isso* a *bom*.",
-        "Verbo transitivo direto pede complemento sem preposição: “dividem **histórias**”, “desembaraçar **nós**”.",
-        "Em “estão sempre **lá**”, *lá* é advérbio de lugar, e não complemento do verbo."
+        "Verbo de ligação liga o sujeito a uma característica, o predicativo: *ser*, *estar*, *parecer*, *ficar*.",
+        "Verbo transitivo direto pede complemento sem preposição; transitivo indireto, com preposição.",
+        "Advérbio de lugar ou de tempo junto ao verbo não é complemento: o verbo pode ser intransitivo."
       ],
       "raciocinio": "1. “Isso era bom”: “era” (verbo *ser*) liga “isso” à característica “bom”. É verbo de ligação (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Confira as outras classificações (veja: *Transitividade verbal: verbos e complementos*): “dividem histórias” e “desembaraçar nós” têm complemento sem preposição, então são transitivos diretos; em “estão sempre lá”, *lá* é advérbio, e o verbo não tem objeto.\n\nResposta: **A**.",
       "interativo": null
@@ -60,9 +60,9 @@
         "transitividade-verbal"
       ],
       "essencial": [
-        "Para classificar o verbo, pergunte: ele pede complemento? O complemento vem com ou sem preposição?",
-        "Sem preposição, é transitivo direto: “sujam **a água**”. Com preposição, transitivo indireto: “cuidar **da** saúde”.",
-        "Verbo acompanhado só de advérbio é intransitivo: “vivem **melhor**”."
+        "Para classificar o verbo, pergunte se ele pede complemento e se o complemento vem com ou sem preposição.",
+        "Complemento sem preposição: transitivo direto (“comprou **um livro**”). Com preposição: transitivo indireto (“gosta **de música**”).",
+        "Verbo sem complemento, acompanhado ou não de advérbio, é intransitivo: “Ela dormiu cedo”."
       ],
       "raciocinio": "Para cada verbo, pergunte se ele precisa de complemento e se o complemento vem com ou sem preposição (veja: *Transitividade verbal: verbos e complementos*):\n\n1. “eles sujam a água”: sujam o quê? A água, sem preposição → transitivo direto ✓.\n2. “vivem melhor”: *melhor* é advérbio → intransitivo. “consomem seus recursos” → transitivo direto. “cuidar da saúde” → transitivo indireto.\n\nResposta: **B**.",
       "interativo": null
@@ -91,8 +91,9 @@
         "hifen"
       ],
       "essencial": [
-        "Composição por justaposição: duas palavras se juntam sem perder nenhum som, muitas vezes com hífen: *homem-bomba*.",
-        "Derivação prefixal: prefixo + palavra. Antes de palavra iniciada por *h*, o prefixo pede hífen: *super-homem*."
+        "Composição por justaposição: duas palavras se juntam sem perder som, muitas vezes com hífen: *guarda-roupa*.",
+        "Derivação prefixal: prefixo + palavra já existente: *refazer*, *desleal*.",
+        "Prefixo seguido de palavra iniciada por *h* leva hífen: *anti-higiênico*, *super-herói*."
       ],
       "raciocinio": "1. “Homem-bomba”: duas palavras independentes, unidas sem perder som. É composição por justaposição, com hífen (veja: *Formação de palavras*).\n2. “Super-Homem”: prefixo *super-* + palavra iniciada por *h*. É derivação prefixal, e o *h* exige hífen (veja: *Hífen*).\n\nResposta: **C**.",
       "interativo": null
@@ -121,8 +122,8 @@
       ],
       "essencial": [
         "Tempo cronológico é medido por relógio ou calendário: horas, dias, datas.",
-        "Tempo psicológico é o tempo sentido pela personagem: a angústia da espera faz minutos parecerem horas.",
-        "“Súbito”, “depois” e “logo após” só ordenam as sensações; sem nenhuma medida real, o tempo do trecho é psicológico."
+        "Tempo psicológico é o tempo sentido pela personagem: a espera ou a angústia fazem minutos parecerem horas.",
+        "Palavras como *depois* e *logo* só ordenam os fatos; sozinhas, não medem o tempo."
       ],
       "raciocinio": "1. Procure marcas de relógio ou calendário (veja: *Elementos da narrativa e tempo*): não há nenhuma. Há só “Súbito”, “Depois” e “Logo após”, que indicam a ordem das sensações.\n2. Procure marcas de sensação: o som das batidas do coração, o vazio, o terror, “estado que durou muito tempo”. Quanto tempo durou? O texto não diz: o narrador mede o tempo pelo que sente.\n3. É tempo psicológico.\n\nResposta: **B**.",
       "interativo": null
@@ -153,8 +154,9 @@
         "ironia-e-humor"
       ],
       "essencial": [
-        "Na tirinha, o sentido vem da fala e da imagem juntas: a expressão do rosto também comunica.",
-        "Sobrancelhas franzidas e boca fechada indicam desaprovação diante do absurdo de pagar R$ 1 por parcela."
+        "Na tirinha, fala e imagem se completam: a expressão do rosto também comunica.",
+        "Sobrancelhas franzidas e boca fechada costumam indicar desaprovação; sorriso e olhos abertos, aceitação.",
+        "O humor muitas vezes nasce de uma proposta absurda tratada com seriedade."
       ],
       "raciocinio": "1. Entenda a proposta: pagar R$ 4.000 em quatro mil vezes, ou seja, R$ 1 por parcela. É um absurdo, e é daí que vem o humor (veja: *Ironia e humor*).\n2. Observe o rosto do dentista no último quadro: sobrancelhas franzidas, boca fechada, encarando o paciente (veja: *Linguagem verbal e não verbal*).\n3. Isso mostra discordância.\n\nResposta: **C**.",
       "interativo": null
@@ -183,9 +185,9 @@
         "pontuacao"
       ],
       "essencial": [
-        "O verbo concorda com o sujeito mesmo quando ele vem depois: “sejam salientados **os efeitos**”.",
+        "O verbo concorda com o sujeito mesmo quando ele vem depois: “Chegaram **as encomendas**”.",
         "Não se separa o sujeito do verbo com vírgula.",
-        "Com *se* e verbo com preposição (*refletir sobre*), o sujeito é indeterminado e o verbo fica no singular: “se reflita”."
+        "Com *se* e verbo que pede preposição, o sujeito é indeterminado e o verbo fica no singular: “Precisa-se de ajudantes”."
       ],
       "raciocinio": "1. Voz passiva: o sujeito de “sejam salientados” é “os efeitos negativos”, no plural, e vem depois do verbo. O verbo concorda com ele (veja: *Concordância verbal*). Isso elimina B e C.\n2. Não se põe vírgula entre o verbo e o sujeito (veja: *Sinais de pontuação e seus efeitos*). Isso elimina A.\n3. Confira o fim da D: “para que **se reflita** sobre como melhorar”. *Refletir sobre* tem preposição; com o *se*, o sujeito é indeterminado, e o verbo fica no singular.\n\nResposta: **D**.",
       "interativo": null
@@ -213,8 +215,8 @@
         "verbos-de-ligacao"
       ],
       "essencial": [
-        "O verbo de ligação indica o tipo de estado: *ser*, permanente; *estar* e *andar*, passageiro; *ficar*, mudança; *parecer*, aparência.",
-        "Por isso “ande metido” pode virar “esteja metido”: os dois indicam um estado passageiro."
+        "Cada verbo de ligação indica um tipo de estado: *ser*, permanente; *estar* e *andar*, passageiro; *ficar*, mudança; *parecer*, aparência.",
+        "Trocar um verbo de ligação por outro só mantém o sentido se o tipo de estado for o mesmo."
       ],
       "raciocinio": "1. Cada verbo de ligação indica um tipo de estado (veja: *Verbos de ligação e predicativo do sujeito*): *ser*, permanente; *estar* e *andar*, passageiro; *parecer*, aparente; *permanecer*, continuidade; *ficar*, mudança.\n2. Teste cada troca. “Que o nosso Bentinho **ande** metido nos cantos” = “que o nosso Bentinho **esteja** metido nos cantos”: o estado continua passageiro, e o sentido se mantém.\n3. As outras trocas mudam o tipo de estado.\n\nResposta: **B**.",
       "interativo": null
@@ -242,8 +244,9 @@
         "concordancia-verbal"
       ],
       "essencial": [
-        "O verbo *ser* concorda, em geral, com o sujeito: “o Brasil **é** cada cidadão”.",
-        "Entre um substantivo e um pronome pessoal, *ser* concorda com o pronome: “o Brasil **somos** nós”."
+        "O verbo *ser* concorda, em geral, com o sujeito.",
+        "Entre um substantivo e um pronome pessoal, *ser* concorda com o pronome: “A culpa **sou** eu”.",
+        "Com nomes de coisa no singular e no plural, *ser* tende a concordar com o plural: “Tudo **são** flores”."
       ],
       "raciocinio": "1. Ache as ocorrências de *ser* no texto: “o Brasil **é** cada cidadão” (concorda com o sujeito) e “o Brasil **somos** nós” (concorda com o pronome *nós*).\n2. Regra (veja: *Concordância verbal*): o verbo *ser* concorda, em geral, com o sujeito; entre um substantivo e um pronome pessoal, concorda com o pronome.\n\nResposta: **A**.",
       "interativo": null
@@ -305,8 +308,9 @@
         "infograficos"
       ],
       "essencial": [
-        "Num infográfico, cada afirmação se confere com um dado específico: título, número, faixa de idade.",
-        "Cuidado com afirmações mais amplas que o dado: o título diz que o problema “já era” anterior à pandemia."
+        "Num infográfico, cada afirmação deve ser conferida com um dado específico: título, número ou legenda.",
+        "Cuidado com afirmações mais amplas ou mais restritas que o dado mostrado.",
+        "Atenção a faixas e recortes: “jovens de 15 a 17 anos” não é o mesmo que “todos os jovens”."
       ],
       "raciocinio": "Avalie cada afirmação no infográfico (veja: *Leitura de infográficos*):\n\n1. I – falsa: há várias faixas de idade (14 a 29, 18 a 24, 15 a 17).\n2. II – falsa: o título diz que a permanência escolar “já era problema antes da pandemia”; o problema não começou com ela.\n3. III – verdadeira: “Quase 75% dos jovens de 18 a 24 anos estão atrasados ou abandonaram os estudos”.\n4. IV – verdadeira: “O marco do abandono precoce à escola se dá aos 15 anos”.\n\nF, F, V, V. Resposta: **A**.",
       "interativo": null
@@ -337,8 +341,9 @@
         "textos-persuasivos"
       ],
       "essencial": [
-        "Duplo sentido proposital: “envolve, mas não prende” vale para o amor (acolhe sem tirar a liberdade) e para a roupa (veste sem apertar).",
-        "A publicidade aproxima o produto de algo desejado por uma característica comum: é uma metáfora."
+        "Duplo sentido proposital: uma mesma frase vale para duas coisas ao mesmo tempo.",
+        "Metáfora aproxima duas coisas por uma característica comum, sem usar *como*.",
+        "A publicidade associa o produto a algo desejado, como o amor ou a liberdade."
       ],
       "raciocinio": "1. A frase central, “Amor gostoso é assim: envolve, mas não prende”, vale para duas coisas (veja: *Ambiguidade e duplo sentido*): para o amor (acolhe, mas não tira a liberdade) e para a roupa da marca (envolve o corpo, mas não aperta).\n2. Aproximar o amor e o produto por uma característica comum é uma comparação implícita, uma metáfora, recurso típico da publicidade (veja: *Publicidade e propaganda*).\n3. As outras erram fatos: a impressão é boa (A), *prender* não é *soltar* (B), *viva* está no imperativo (C).\n\nResposta: **D**.",
       "interativo": null
@@ -367,9 +372,9 @@
         "poesia"
       ],
       "essencial": [
-        "Neologismo é uma palavra nova criada pelo autor; o sentido de “amor-cego” sai do contexto do poema.",
-        "No poema, o mato pode ser lido ao pé da letra (planta) e como imagem do que cresceu por omissão.",
-        "A pergunta pede o sentido que **não** cabe: o mato invade e atrapalha, então não é “virtude”."
+        "Neologismo é uma palavra criada pelo autor; o sentido dela sai do contexto.",
+        "No poema, uma mesma imagem pode ser lida ao pé da letra e em sentido figurado.",
+        "Quando a pergunta pede o sentido que **não** cabe, procure o que contradiz o contexto."
       ],
       "raciocinio": "1. A questão pede o sentido que **não** cabe no contexto.\n2. “Amor-cego” é um neologismo (veja: *Formação de palavras*), e o sentido sai do contexto. Num poema em prosa (veja: *Poesia: verso, eu lírico e poema visual*), o mato do quintal pode ser lido ao pé da letra (plantas) e como imagem de algo que o eu lírico deixou crescer pelo “silêncio” e pela “omissão”.\n3. Planta (ao lado de “picão”), sentimento (“amor”) e obstáculo (“obstruir os caminhos”) cabem. “Virtude”, uma qualidade positiva, não cabe: no poema, o mato invade e atrapalha.\n\nResposta: **D**.",
       "interativo": null
@@ -397,8 +402,9 @@
         "figuras-sonoras"
       ],
       "essencial": [
-        "Aliteração é a repetição de um som consonantal: em “pe**ss**oa**s** pa**ss**ando – depre**ss**a”, repete-se o /s/.",
-        "O som repetido pode imitar o assunto: aqui, o chiado contínuo de passos, motores e sirene da cidade."
+        "Aliteração é a repetição de um som consonantal em palavras próximas.",
+        "O som repetido pode imitar o assunto do texto, como ruídos, passos ou o vento.",
+        "Assonância é a repetição de sons vocálicos."
       ],
       "raciocinio": "1. Leia a primeira estrofe em voz alta: “as pe**ss**oa**s** pa**ss**ando – depre**ss**a; / o**s** automóvei**s** e**s**tagnando-**s**e – imóvei**s**; / a **s**irene **s**oando”. O som /s/ se repete muito (veja: *Figuras sonoras: aliteração, assonância e rima*).\n2. A repetição lembra chiados e ruídos contínuos: passos, motores, a sirene. O som do poema imita o barulho da cidade.\n\nResposta: **C**.",
       "interativo": null
@@ -428,8 +434,9 @@
         "ironia-e-humor"
       ],
       "essencial": [
-        "Ironia: o sentido real é o oposto do aparente. Quem concorda com os consumidores é a própria morte.",
-        "Na charge, o contraste entre a fala e a imagem revela a crítica: o excesso de agrotóxicos mata."
+        "Ironia: o sentido real é o oposto do aparente.",
+        "Na charge, o contraste entre fala e imagem costuma revelar a crítica.",
+        "Personagens simbólicas, como a morte, transformam uma opinião em alerta."
       ],
       "raciocinio": "1. Leia as falas: os consumidores dizem que não se usa tanto agrotóxico assim.\n2. Observe a imagem: quem concorda com eles é a morte, com um pulverizador de veneno nas costas.\n3. O contraste entre a fala e a imagem cria a ironia (veja: *Ironia e humor*): se a morte concorda, a opinião deles é perigosa. A charge ironiza o excesso de agrotóxicos.\n\nResposta: **D**.",
       "interativo": null
@@ -457,8 +464,8 @@
         "tema-e-ideia-central"
       ],
       "essencial": [
-        "Para achar o fator mais importante, veja o que o Slam representa no conjunto da fala, e não um aspecto isolado.",
-        "O Slam é “a possibilidade, o palco, a escuta”: é o que move a entrevistada a escrever e a falar."
+        "A ideia central reúne os aspectos do texto; não se confunde com um detalhe isolado.",
+        "Para achar o fator mais importante, veja o que liga as várias afirmações do texto."
       ],
       "raciocinio": "1. Liste o que a entrevistada associa ao Slam: berço, acolhimento, coletivo, palco, escuta e processo terapêutico.\n2. Pergunte o que o Slam representa no conjunto da fala (veja: *Tema e ideia central*): é o que a move a escrever e a falar. Ele é “a possibilidade, o palco, a escuta”, e ali “minha fala tinha validade”.\n3. Acolhimento, coletividade e terapia são partes dessa experiência; o fator que reúne todas elas é a motivação que o Slam dá à entrevistada.\n\nResposta: **B**.",
       "interativo": null
@@ -489,8 +496,9 @@
         "lugares-geometricos"
       ],
       "essencial": [
-        "A soma dos ângulos internos de um triângulo é 180°: no triângulo APB, sobram 40° para os dois ângulos da base.",
-        "No triângulo isósceles, os ângulos da base são iguais; a bissetriz divide um ângulo em duas metades iguais."
+        "A soma dos ângulos internos de um triângulo é 180°.",
+        "No triângulo isósceles, os ângulos da base são iguais.",
+        "A bissetriz divide um ângulo em duas metades iguais."
       ],
       "raciocinio": "1. No triângulo APB, a soma dos ângulos é 180° (veja: *Triângulos: classificação e propriedades*): \\(P\\hat{A}B + P\\hat{B}A + 140^\\circ = 180^\\circ\\), então \\(P\\hat{A}B + P\\hat{B}A = 40^\\circ\\).\n2. ABC é isósceles com AC = BC, então os ângulos da base são iguais. As bissetrizes dividem cada um ao meio (veja: *Circunferência, mediatriz e bissetriz*), e as metades também são iguais.\n3. \\(P\\hat{A}B = 40^\\circ \\div 2 = 20^\\circ\\).\n\nResposta: **B**.",
       "interativo": null
@@ -519,9 +527,9 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "Volume do bloco retangular: comprimento × largura × altura. A forma tem \\(20 \\cdot 12 \\cdot 2{,}5 = 600\\) cm³.",
-        "\\(1\\ \\text{cm}^3 = 1\\) ml: a forma comporta 600 ml, e cada cubinho, 40 ml.",
-        "A massa do pó (em gramas) não entra na conta do volume."
+        "Volume do bloco retangular: comprimento × largura × altura.",
+        "1 cm³ = 1 mL, e 1.000 cm³ = 1 L.",
+        "Massa (gramas) e volume (mililitros) são grandezas diferentes: não se somam nem se comparam diretamente."
       ],
       "raciocinio": "1. Gelatina pronta: \\(250 + 250 = 500\\) ml. (A massa do pó, 20 g, não entra na conta do volume.)\n2. Volume da forma (veja: *Volumes de sólidos*): \\(20 \\cdot 12 \\cdot 2{,}5 = 600\\) cm³ = 600 ml, porque \\(1\\ \\text{cm}^3 = 1\\ \\text{ml}\\) (veja: *Conversão de unidades*). Cada cubinho: \\(600 \\div 15 = 40\\) ml.\n3. 500 ml enchem \\(500 \\div 40 = 12{,}5\\) cubinhos: sobram cubinhos vazios.\n\nResposta: **A**.",
       "interativo": null
@@ -552,8 +560,8 @@
         "grandezas-proporcionais"
       ],
       "essencial": [
-        "Velocidade média = distância ÷ tempo. Com velocidade em km/h, passe o tempo para horas: 39 min = 0,65 h.",
-        "Com a mesma distância, velocidade e tempo são inversamente proporcionais: \\(80 \\cdot 39 = 100 \\cdot t\\)."
+        "Velocidade média = distância ÷ tempo. Com velocidade em km/h, o tempo deve estar em horas.",
+        "Para a mesma distância, velocidade e tempo são inversamente proporcionais: \\(v_1 \\cdot t_1 = v_2 \\cdot t_2\\)."
       ],
       "raciocinio": "1. Converta o tempo para horas, porque a velocidade está em km/h (veja: *Razões especiais: velocidade, densidade e escala*): \\(39\\ \\text{min} = \\frac{39}{60} = 0{,}65\\) h.\n2. Distância: \\(80 \\cdot 0{,}65 = 52\\) km.\n3. Volta a 100 km/h: \\(52 \\div 100 = 0{,}52\\) h \\(= 0{,}52 \\cdot 60 \\approx 31\\) min.\n\n<div data-interativo=\"23a-q18-viagem\"></div>\n\nAtalho: com a mesma distância, velocidade e tempo são inversamente proporcionais (veja: *Grandezas diretamente e inversamente proporcionais*): \\(80 \\cdot 39 = 100 \\cdot t \\Rightarrow t = 31{,}2\\) min.\n\nResposta: **C**.",
       "interativo": null
@@ -583,9 +591,9 @@
         "funcao-afim"
       ],
       "essencial": [
-        "Função afim: \\(f(x) = ax + b\\), com gráfico em reta. Só é linear (proporcional) se \\(b = 0\\), passando pela origem.",
-        "Com \\(a < 0\\), a reta desce: quando x aumenta, y diminui.",
-        "A reta corta o eixo das abscissas (x) onde \\(y = 0\\); aqui, em (3, 0)."
+        "Função afim: \\(f(x) = ax + b\\), com gráfico em reta. É linear (proporcional) só se \\(b = 0\\), passando pela origem.",
+        "Com \\(a < 0\\), a reta é decrescente: quando x aumenta, y diminui.",
+        "A reta corta o eixo x onde \\(y = 0\\) e o eixo y onde \\(x = 0\\)."
       ],
       "raciocinio": "1. A reta passa por (0, 3) e (3, 0): \\(f(x) = -x + 3\\) (veja: *Funções afins e retas*).\n2. I ✓: é função afim, de 1º grau. II ✗: não é linear, porque não passa pela origem.\n3. III ✓: a reta desce; quando a abscissa (x) aumenta, a ordenada (y) diminui. IV ✓: corta o eixo das abscissas em (3, 0).\n4. V ✗: não há proporcionalidade direta; y diminui quando x aumenta, e a reta não passa pela origem.\n\nCorretas: I, III e IV. Resposta: **B**.",
       "interativo": null
@@ -613,8 +621,8 @@
         "notacao-cientifica"
       ],
       "essencial": [
-        "Notação científica: um número de 1 a 10 vezes uma potência de 10. Exemplo: 8 bilhões = \\(8 \\cdot 10^9\\).",
-        "Para mover a vírgula uma casa para a esquerda, some 1 ao expoente: \\(215 \\cdot 10^6 = 2{,}15 \\cdot 10^8\\).",
+        "Notação científica: um número de 1 a 10 vezes uma potência de 10.",
+        "Para mover a vírgula uma casa para a esquerda, some 1 ao expoente: \\(45 \\cdot 10^3 = 4{,}5 \\cdot 10^4\\).",
         "Milhão = \\(10^6\\); bilhão = \\(10^9\\)."
       ],
       "raciocinio": "Escreva cada número com potências de 10 (veja: *Potências de 10 e notação científica*):\n\n1. 8 bilhões = \\(8 \\cdot 10^9\\).\n2. 215 milhões = \\(215 \\cdot 10^6 = 2{,}15 \\cdot 10^8\\) (a vírgula andou 2 casas para a esquerda, e o expoente subiu 2).\n3. 33,1 milhões = \\(33{,}1 \\cdot 10^6 = 3{,}31 \\cdot 10^7\\).\n\nResposta: **C**.",
@@ -646,8 +654,8 @@
         "raizes-e-radicais"
       ],
       "essencial": [
-        "A diagonal de um quadrado de lado 1 é a hipotenusa de um triângulo retângulo de catetos 1 e 1: \\(\\sqrt{2}\\).",
-        "\\(\\sqrt{2} = 1{,}414\\ldots\\) é irracional: tem infinitas casas sem repetição, então a régua só mostra um valor aproximado."
+        "A diagonal de um quadrado de lado \\(\\ell\\) mede \\(\\ell\\sqrt{2}\\), pelo Teorema de Pitágoras.",
+        "Números irracionais têm infinitas casas decimais sem repetição: na régua, só aparecem de forma aproximada."
       ],
       "raciocinio": "1. “a” é a diagonal do quadrado de lado 1, ou seja, a hipotenusa de um triângulo retângulo de catetos 1 e 1 (veja: *Teorema de Pitágoras*).\n2. \\(a = \\sqrt{1^2 + 1^2} = \\sqrt{2}\\).\n3. \\(\\sqrt{2} = 1{,}41421\\ldots\\) é irracional e nunca cai exatamente numa marcação da régua (veja: *Raízes e radicais*). Por isso, “a” é aproximadamente 1,41.\n\nResposta: **A**.",
       "interativo": null
@@ -677,8 +685,8 @@
         "semelhanca-de-triangulos"
       ],
       "essencial": [
-        "Um segmento paralelo a um lado do triângulo forma um triângulo semelhante: os lados seguem a mesma razão (aqui, \\(\\frac{6}{8}\\)).",
-        "No octógono regular, o centro fica à mesma distância de todos os vértices e de lados opostos."
+        "Um segmento paralelo a um lado do triângulo forma um triângulo semelhante, com todos os lados na mesma razão.",
+        "Num polígono regular, o centro fica à mesma distância de todos os vértices."
       ],
       "raciocinio": "1. Como AH // OQ, o triângulo PHA é uma redução de POQ na razão \\(\\frac{AH}{OQ} = \\frac{6}{8} = \\frac{3}{4}\\) (veja: *Semelhança de triângulos*). Os outros lados seguem a mesma razão: \\(PA = PH = \\frac{3}{4} \\cdot 12 = 9\\) m.\n2. No octógono regular, o centro P fica à mesma distância de todos os vértices, então \\(PE = 9\\) m também, e à mesma distância de lados opostos, como AH e ED.\n\nResposta: **D**.",
       "interativo": null
@@ -707,8 +715,8 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "\\(\\frac{1}{4}\\) de uma quantidade é a quantidade dividida por 4: \\(\\frac{1}{4}\\) de 108 milhões = 27 milhões.",
-        "Antes de subtrair, use a mesma unidade: 70 kg = 0,07 t, porque 1 t = 1.000 kg."
+        "Fração de uma quantidade: divida pelo denominador e multiplique pelo numerador.",
+        "Antes de somar ou subtrair, passe tudo para a mesma unidade: 1 t = 1.000 kg."
       ],
       "raciocinio": "1. Carros trocados (veja: *Frações*): \\(\\frac{1}{4}\\) de 108 milhões = 27 milhões.\n2. Economia por carro em um ano: o carro a combustão emite 3 t, e o elétrico, 70 kg = 0,07 t (veja: *Conversão de unidades*). A diferença é \\(3 - 0{,}07 = 2{,}93\\) t.\n3. Total: \\(27 \\cdot 2{,}93 = 79{,}11\\) milhões de toneladas.\n\nResposta: **D**.",
       "interativo": null
@@ -740,7 +748,8 @@
       ],
       "essencial": [
         "Média aritmética = soma dos valores ÷ quantidade de valores.",
-        "Média móvel de 7 dias: média do próprio dia e dos 6 anteriores. Para 31/08, use de 25/08 a 31/08."
+        "Média móvel de 7 dias: média do próprio dia e dos 6 dias anteriores.",
+        "A média móvel suaviza as oscilações diárias e mostra a tendência."
       ],
       "raciocinio": "1. A média móvel de 7 dias do dia 31/08 usa os casos de 25/08 a 31/08, incluindo o próprio dia (veja: *Média, mediana e moda*).\n2. Valores: 30.500, 31.000, 27.000, 24.500, 13.500, 10.500 e 24.500. Soma: 161.500.\n3. Média: \\(161\\,500 \\div 7 \\approx 23\\,071\\) casos por dia.\n\n<div data-interativo=\"23a-q24-media-movel\"></div>\n\nResposta: **B**.",
       "interativo": null
@@ -768,8 +777,8 @@
         "grandezas-proporcionais"
       ],
       "essencial": [
-        "Com ritmo constante, a quantidade é diretamente proporcional ao tempo: metade do tempo, metade dos hectares.",
-        "Primeiro ache o aumento no período: \\(5\\,670\\,000 - 4\\,340\\,000 = 1\\,330\\,000\\) hectares em 10 anos."
+        "Com ritmo constante, a quantidade é diretamente proporcional ao tempo.",
+        "Antes de dividir, ache a variação no período: valor final − valor inicial."
       ],
       "raciocinio": "1. Aumento em 10 anos: \\(5\\,670\\,000 - 4\\,340\\,000 = 1\\,330\\,000\\) hectares.\n2. Com ritmo constante, hectares recuperados e tempo são diretamente proporcionais (veja: *Grandezas diretamente e inversamente proporcionais*). Em 5 anos, metade do tempo, metade dos hectares: \\(1\\,330\\,000 \\div 2 = 665\\,000\\).\n\nResposta: **A**.",
       "interativo": null
@@ -798,8 +807,9 @@
         "notacao-cientifica"
       ],
       "essencial": [
-        "Média aritmética de três medidas: some e divida por 3. Aqui, \\(147{,}6 \\div 3 = 49{,}2\\) μm.",
-        "1 μm = \\(10^{-6}\\) m. Na notação científica, a vírgula anda uma casa para a esquerda e o expoente sobe 1."
+        "Média aritmética: some as medidas e divida pela quantidade.",
+        "1 μm = \\(10^{-6}\\) m.",
+        "Na notação científica, mover a vírgula uma casa para a esquerda soma 1 ao expoente."
       ],
       "raciocinio": "1. Média (veja: *Média, mediana e moda*): \\(\\frac{45{,}2 + 48{,}5 + 53{,}9}{3} = \\frac{147{,}6}{3} = 49{,}2\\) μm.\n2. Em metros: \\(49{,}2\\ \\mu\\text{m} = 49{,}2 \\cdot 10^{-6}\\) m.\n3. Em notação científica (veja: *Potências de 10 e notação científica*), a vírgula anda 1 casa para a esquerda e o expoente sobe 1: \\(4{,}92 \\cdot 10^{-5}\\) m.\n\nResposta: **C**.",
       "interativo": null
@@ -827,9 +837,9 @@
         "sistemas-de-equacoes"
       ],
       "essencial": [
-        "Duas incógnitas pedem duas equações: \\(6p + 10t = 98\\) e \\(8p + 2t = 74\\).",
-        "Substituição: isole uma letra numa equação (\\(t = 37 - 4p\\)) e troque-a na outra.",
-        "Confira nas duas equações: \\(6 \\cdot 8 + 10 \\cdot 5 = 98\\) e \\(8 \\cdot 8 + 2 \\cdot 5 = 74\\)."
+        "Duas incógnitas pedem duas equações, uma para cada informação do problema.",
+        "Método da substituição: isole uma letra numa equação e troque-a na outra.",
+        "Confira a solução nas duas equações originais."
       ],
       "raciocinio": "1. Monte o sistema, com \\(p\\) = pão de mel e \\(t\\) = trufa (veja: *Sistemas de equações do 1º grau*): \\(6p + 10t = 98\\) e \\(8p + 2t = 74\\).\n2. Da segunda: \\(t = 37 - 4p\\). Substituindo na primeira: \\(6p + 10(37 - 4p) = 98 \\Rightarrow 370 - 34p = 98 \\Rightarrow p = 8\\). Logo, \\(t = 37 - 32 = 5\\).\n3. Conferindo: \\(6 \\cdot 8 + 10 \\cdot 5 = 98\\) ✓ e \\(8 \\cdot 8 + 2 \\cdot 5 = 74\\) ✓.\n4. Os valores são R$ 8,00 e R$ 5,00, como na alternativa D.\n\nResposta: **D**.",
       "interativo": null
@@ -857,8 +867,8 @@
         "semelhanca-de-triangulos"
       ],
       "essencial": [
-        "Numa rampa, os triângulos (trecho percorrido × altura subida) são semelhantes: a razão entre os lados é sempre a mesma.",
-        "Monte a proporção \\(\\frac{8{,}05}{0{,}70} = \\frac{L}{1{,}00}\\) e desconte o trecho já percorrido."
+        "Numa rampa de inclinação constante, os triângulos formados (trecho percorrido × altura) são semelhantes.",
+        "Em triângulos semelhantes, a razão entre lados correspondentes é sempre a mesma: monte uma proporção."
       ],
       "raciocinio": "1. Numa rampa, a cada metro percorrido sobe-se sempre a mesma altura: os triângulos formados (trecho percorrido × altura subida) são semelhantes (veja: *Semelhança de triângulos*).\n2. Rampa inteira: \\(\\frac{8{,}05}{0{,}70} = \\frac{L}{1{,}00} \\Rightarrow L = 11{,}50\\) m.\n3. Falta: \\(11{,}50 - 8{,}05 = 3{,}45\\) m. Ou direto: os 0,30 m que faltam subir correspondem a \\(\\frac{8{,}05}{0{,}70} \\cdot 0{,}30 = 3{,}45\\) m.\n\nResposta: **D**.",
       "interativo": null
@@ -889,9 +899,9 @@
         "circulo-e-circunferencia"
       ],
       "essencial": [
-        "Escreva tudo com uma letra só: de \\(\\frac{x}{y} = \\frac{5}{3}\\), sai \\(y = \\frac{3x}{5}\\).",
+        "Escreva todas as medidas em função de uma só letra antes de calcular áreas.",
         "Área do retângulo: comprimento × largura. Área de um quarto de círculo: \\(\\frac{\\pi r^2}{4}\\).",
-        "Área listrada = área da placa − área dos cortes."
+        "Área de uma região com cortes = área total − área dos cortes."
       ],
       "raciocinio": "1. Escreva tudo em função de \\(x\\): \\(\\frac{x}{y} = \\frac{5}{3} \\Rightarrow y = \\frac{3x}{5}\\). Placa: \\(x \\cdot \\frac{3x}{5} = \\frac{30x^2}{50}\\) (veja: *Áreas de figuras planas*).\n2. Raios pela figura: o círculo de C passa por D, então \\(r_C = CD = y = \\frac{3x}{5}\\); os círculos de B e C se tocam sobre BC, então \\(r_B = x - \\frac{3x}{5} = \\frac{2x}{5}\\); os de A e B se tocam sobre AB, então \\(r_A = y - r_B = \\frac{x}{5}\\).\n3. Cada corte é um quarto de círculo (veja: *Círculo e circunferência*): \\(\\frac{\\pi}{4}\\left(\\frac{9}{25} + \\frac{4}{25} + \\frac{1}{25}\\right)x^2 = \\frac{\\pi}{4} \\cdot \\frac{14}{25}x^2 = \\frac{7\\pi x^2}{50}\\).\n4. Listrada = placa − cortes: \\(\\frac{30x^2}{50} - \\frac{7\\pi x^2}{50} = x^2 \\cdot \\frac{30 - 7\\pi}{50}\\).\n\nResposta: **B**.",
       "interativo": null
@@ -920,7 +930,7 @@
       ],
       "essencial": [
         "Censo pesquisa todos os elementos da população; a pesquisa amostral ouve só uma parte representativa.",
-        "Pesquisas de intenção de voto e de opinião são amostrais: não dá para ouvir todos os eleitores."
+        "Quando a população é muito grande, como todos os eleitores, a pesquisa costuma ser amostral."
       ],
       "raciocinio": "1. I e II trocam as definições (veja: *Pesquisa estatística: censo e amostra*): a amostral usa uma parte; a censitária, todos. As duas são falsas.\n2. Pesquisas de intenção de voto e de opinião ouvem só uma parte representativa da população: III e IV são verdadeiras.\n\nResposta: **D**.",
       "interativo": null

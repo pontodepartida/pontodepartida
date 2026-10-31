@@ -27,8 +27,8 @@
         "modalizacao"
       ],
       "essencial": [
-        "Modalizador asseverativo reforça a certeza de quem fala: “**Sem dúvida**”, “certamente”, “é claro que”.",
-        "Frases só informativas não têm essa marca; “Sem dúvida, estamos diante de um momento histórico” enfatiza uma opinião."
+        "Modalizador asseverativo reforça a certeza de quem fala: *sem dúvida*, *certamente*, *é claro que*.",
+        "Frases só informativas não têm marca de certeza nem de dúvida."
       ],
       "raciocinio": "1. A pergunta pede o trecho com ideia **assertiva**: uma marca de certeza que enfatize a opinião ou o fato (veja: *Modalização: o grau de certeza de quem fala*).\n2. Procure essa marca em cada alternativa. A, B e C são frases informativas, sem nenhuma.\n3. D começa com “**Sem dúvida**”, um modalizador asseverativo. Ele reforça uma opinião da ministra: chamar a repatriação de “momento histórico” já é uma avaliação.\n\nResposta: **D**.",
       "interativo": null
@@ -57,8 +57,9 @@
         "sentido-pelo-contexto"
       ],
       "essencial": [
-        "No poema, o sentido de uma expressão vem do contexto: *dar por* significa perceber, notar.",
-        "“Eu não dei por esta mudança”: o eu lírico mudou sem perceber e só agora, tarde, nota."
+        "No poema, o sentido de uma expressão vem do contexto.",
+        "*Dar por* algo significa perceber, notar.",
+        "Consciência tardia é perceber uma mudança só depois que ela já aconteceu."
       ],
       "raciocinio": "1. A pergunta junta três ideias: tristeza, passagem do tempo e **consciência tardia** dessa passagem. Procure o verso que fala da percepção da mudança, e não da mudança em si.\n2. Os versos de A, B e C descrevem o que mudou: rosto, mãos, coração.\n3. Em “Eu não dei por esta mudança”, *dar por* significa perceber, notar (veja: *Sentido das palavras pelo contexto*). O eu lírico admite que mudou sem notar e só agora, tarde, percebe. A pergunta final reforça a ideia: “Em que espelho ficou perdida / a minha face?” (veja: *Poesia: verso, eu lírico e poema visual*).\n\nResposta: **D**.",
       "interativo": null
@@ -88,8 +89,9 @@
         "verbos-de-ligacao"
       ],
       "essencial": [
-        "*Parecer* e *andar* podem ser verbos de ligação: ligam o sujeito a um estado (“parece tudo bem”, “anda triste”).",
-        "Teste: troque por *está*. “João **está** triste” funciona; “Marta está oito quilômetros” não: ali *andar* é deslocamento."
+        "*Parecer*, *andar*, *ficar* e *continuar* podem ser verbos de ligação: ligam o sujeito a um estado.",
+        "Teste: troque por *está*. Se funciona e o que vem depois é estado do sujeito, o verbo é de ligação.",
+        "Com sentido de deslocamento, *andar* é verbo de ação."
       ],
       "raciocinio": "1. No quadrinho, “**Parece** tudo bem” liga o sujeito (*tudo*) a um estado (*bem*): “parecer” é verbo de ligação (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Procure o “andar” com o mesmo papel, trocando-o por “está”: “João **está** triste com o desempenho do seu time” mantém o sentido, e *triste* é um estado de João.\n3. Nas outras, a troca não funciona (“Marta está oito quilômetros de patinete”), porque ali “andar” indica deslocamento.\n\nResposta: **B**.",
       "interativo": null
@@ -117,8 +119,8 @@
         "verbos-de-ligacao"
       ],
       "essencial": [
-        "Verbo de ligação liga o sujeito a uma característica: “as notícias **são** claras”, “**é** possível”.",
-        "*Estar* seguido de lugar (“está no Rio Paraopeba”) não é verbo de ligação: indica posição."
+        "Verbo de ligação liga o sujeito a uma característica: “O dia **é** longo”.",
+        "*Estar* seguido de lugar indica posição, e não característica: não é verbo de ligação."
       ],
       "raciocinio": "1. Procure, em cada excerto, um verbo que ligue o sujeito a uma característica (veja: *Verbos de ligação e predicativo do sujeito*):\n\n| Excerto | Verbos | Há verbo de ligação? |\n|---|---|---|\n| I | as notícias **são** claras; **sendo** óbvio; os prejuízos **são** incontáveis | sim |\n| II | **teremos** o surgimento; **tínhamos** | não |\n| III | **aponta**; **está** no Rio Paraopeba; **passa** | não (*está* + lugar) |\n| IV | **é** possível | sim |\n\n2. Os verbos de ligação estão em I e IV, como indica a alternativa A.\n\nResposta: **A**.",
       "interativo": null
@@ -147,8 +149,8 @@
         "transitividade-verbal"
       ],
       "essencial": [
-        "O sujeito pode vir depois do verbo: “Choveram **pedaços e fatias**”. O plural do verbo confirma.",
-        "Objeto direto completa o verbo sem preposição: quem admira, admira algo: “o grande boi malhado”."
+        "O sujeito pode vir depois do verbo; a concordância do verbo ajuda a identificá-lo.",
+        "Objeto direto completa o verbo sem preposição: “Ela leu **o livro**”."
       ],
       "raciocinio": "1. “Choveram pedaços e fatias…”: pergunte “o que choveu?”. Pedaços e fatias. É o **sujeito**, posposto ao verbo, e o plural de “choveram” confirma (veja: *Sujeito e predicado*). Isso elimina A e B.\n2. “ele admirava o grande boi malhado”: quem admira, admira alguma coisa, e o complemento vem sem preposição. É **objeto direto** (veja: *Transitividade verbal: verbos e complementos*).\n\nResposta: **C**.",
       "interativo": null
@@ -177,7 +179,7 @@
       ],
       "essencial": [
         "Texto normativo cria regras obrigatórias, prevê sanções e precisa ser claro, sem ambiguidade.",
-        "ECA, Constituição e Código de Trânsito são leis; o poema é literário e não cria obrigações."
+        "Leis, códigos, estatutos e regulamentos são textos normativos; textos literários não criam obrigações."
       ],
       "raciocinio": "1. Segundo o texto, o texto normativo cria regras que não podem ser desobedecidas, prevê sanções (“multas ou até mesmo a prisão”) e precisa ser claro, sem “lugar para dúvidas ou até mesmo ambiguidades” (veja: *Textos normativos: leis, estatutos e regulamentos*).\n2. ECA, Constituição e Código de Trânsito são leis: têm todas essas características.\n3. O poema é um texto literário. Não cria obrigações e, muitas vezes, aposta justamente em vários sentidos ao mesmo tempo.\n\nResposta: **A**.",
       "interativo": null
@@ -205,8 +207,9 @@
         "regencia-verbal"
       ],
       "essencial": [
-        "*Assistir* no sentido de ver pede a preposição *a*; no sentido de ajudar, não pede: “assistiu **o** paciente”.",
-        "Teste do masculino: se cabe “o”, é artigo (ajudar). Antes de *todos*, o *a* só pode ser preposição (ver)."
+        "*Assistir* no sentido de ver pede a preposição *a*; no sentido de ajudar, não pede.",
+        "Teste do masculino: se cabe *o*, o *a* é artigo.",
+        "Antes de pronomes como *todos*, *esta* e *uma*, o *a* sozinho só pode ser preposição."
       ],
       "raciocinio": "1. No texto, “assistir a uma cena de um filme” = ver a cena, sentido que exige a preposição *a* (veja: *Regência verbal*).\n2. Faça o teste do masculino nas alternativas: “assistiu **o** paciente”, “**o** funcionário novo”, “**o** senhor”. Só cabe artigo, então o sentido é ajudar.\n3. Em C, “assistiu **a todos** os jogos”: antes de *todos* não cabe artigo feminino, então o *a* é preposição, e o sentido é ver.\n\nResposta: **C**.",
       "interativo": null
@@ -234,8 +237,8 @@
         "pronomes"
       ],
       "essencial": [
-        "Pronomes indefinidos como *todo* e *ninguém* generalizam: a regra vale para qualquer pessoa, sem exceção.",
-        "Direitos iguais para todos, sem distinção: é a ideia de equidade."
+        "Pronomes indefinidos como *todo*, *ninguém* e *qualquer* generalizam: a regra vale para todos, sem exceção.",
+        "Equidade é a ideia de que os direitos valem igualmente para todas as pessoas."
       ],
       "raciocinio": "1. Veja o efeito dos pronomes em cada artigo: “**Todo** indivíduo tem direito…”, “**Ninguém** será mantido em escravatura…”. Nos dois casos, a regra vale para qualquer pessoa, sem exceção (veja: *Pronomes*).\n2. Direitos que valem igualmente para todos expressam a ideia de **equidade**. O Artigo 7º confirma: “Todos são iguais perante a lei e, sem distinção, têm direito a igual proteção da lei”.\n\nResposta: **D**.",
       "interativo": null
@@ -264,8 +267,8 @@
         "pronomes"
       ],
       "essencial": [
-        "*Onde* em pergunta é advérbio interrogativo de lugar: “**Onde** anda você?” = em que lugar?",
-        "*Onde* que retoma um lugar já citado é pronome relativo: “os bares / **onde** a gente ficava” = nos quais."
+        "*Onde* em pergunta é advérbio interrogativo de lugar: equivale a “em que lugar?”.",
+        "*Onde* que retoma um lugar já citado é pronome relativo: equivale a “no qual”, “em que”."
       ],
       "raciocinio": "1. Os “onde” 1, 2, 3, 4 e 7 iniciam perguntas (“Onde anda você?”, “Onde andam seus olhos?”) e equivalem a “em que lugar?”. São advérbios interrogativos de lugar (veja: *Advérbios e adjuntos adverbiais*).\n2. Em “Dos bares de então / Onde a gente ficava / Onde a gente se amava”, os “onde” 5 e 6 retomam “os bares” e podem ser trocados por “nos quais”. São pronomes relativos (veja: *Pronomes*).\n\nResposta: **C**.",
       "interativo": null
@@ -296,8 +299,8 @@
         "ironia-e-humor"
       ],
       "essencial": [
-        "“Mas” é conjunção coordenativa adversativa: opõe uma ideia à que vem antes.",
-        "O humor está na quebra de expectativa: a rã “aprecia muito o gesto do convite”, **mas** recusa."
+        "*Mas* é conjunção coordenativa adversativa: opõe uma ideia à que vem antes.",
+        "O humor costuma nascer de uma quebra de expectativa."
       ],
       "raciocinio": "1. Identifique a conjunção do último quadrinho: “**mas**”, coordenativa adversativa, de oposição (veja: *Orações coordenadas*).\n2. O que ela contraria? O que vem logo antes: “...e aprecio muito o gesto do convite” (3º quadrinho). Quem aprecia tanto um convite deveria aceitá-lo.\n3. O humor está nessa quebra de expectativa: depois de tanta educação, a rã recusa (veja: *Ironia e humor*).\n\nResposta: **B**.",
       "interativo": null
@@ -326,7 +329,8 @@
       ],
       "essencial": [
         "*Caso* indica condição (= *se*): algo que pode ou não acontecer.",
-        "*Embora* indica concessão: admite o fato e diz que ele não impede o resto. Trocar um pelo outro muda o sentido."
+        "*Embora* indica concessão: admite um fato e diz que ele não impede o restante.",
+        "Trocar um conectivo por outro de relação diferente muda o sentido da frase."
       ],
       "raciocinio": "1. O comando pede a afirmação **incorreta**.\n2. Teste cada uma (veja: *Conectivos e relações de sentido*): “que” compara ✓; “porque” → “pois” ✓; “quando” indica tempo ✓.\n3. “Caso venha a faltar” = “**se** vier a faltar”: condição, algo que pode ou não acontecer. “Embora” é concessão: “embora venha a faltar” afirma que a falta acontece e não impede o resto. A troca muda o sentido, então a B é a incorreta.\n\nResposta: **B**.\n\n**Dica de prova:** quando o comando pede a incorreta, escreva V ou F ao lado de cada alternativa antes de escolher. Isso evita marcar, por reflexo, a primeira afirmação verdadeira.",
       "interativo": null
@@ -357,7 +361,7 @@
       ],
       "essencial": [
         "Para comparar textos, liste o que aparece nos dois, só no primeiro e só no segundo.",
-        "O infográfico resume parte da reportagem e acrescenta dados (acessibilidade, energia): os dois se completam."
+        "Textos sobre o mesmo tema podem se completar: um resume, o outro acrescenta dados."
       ],
       "raciocinio": "1. Liste o que aparece nos dois textos (veja: *Comparação entre textos*): esgoto (47%), internet (61%), biblioteca (36%), quadra (32%), laboratório de ciências (11%).\n2. Só no infográfico: acessibilidade (24%) e rede de energia (94%).\n3. Só no texto: laboratórios de informática (45%), sala de leitura (21%) e a falta de dados sobre a manutenção dos equipamentos.\n4. O infográfico resume parte do texto e acrescenta dados: juntos, os dois formam a informação completa.\n\nResposta: **C**.",
       "interativo": null
@@ -385,9 +389,9 @@
         "hifen"
       ],
       "essencial": [
-        "Prefixo em vogal + palavra com vogal diferente: junto (*autoaprendizagem*). Mesma vogal: hífen (*micro-ondas*).",
-        "Prefixo em vogal + *r* ou *s*: junta e dobra (*contrarregra*). Vogal + outra consoante: junto (*seminovo*).",
-        "*Pré-*, *pós-* e *pró-* tônicos levam hífen: *pré-história*."
+        "Prefixo terminado em vogal + palavra com vogal diferente: junto (*autoestima*). Mesma vogal: hífen (*anti-inflamatório*).",
+        "Prefixo terminado em vogal + *r* ou *s*: junta e dobra (*antirrugas*). Vogal + outra consoante: junto (*minidicionário*).",
+        "*Pré-*, *pós-* e *pró-* tônicos levam hífen: *pós-guerra*."
       ],
       "raciocinio": "Teste as palavras de cada alternativa nas regras (veja: *Hífen*). Basta uma errada para eliminar a alternativa.\n\n1. A: “contra-regra” ✗ (contra + r → junta e dobra: contrarregra).\n2. C: “auto-aprendizagem” ✗ (vogais diferentes → junta).\n3. D: “semi-novo” ✗ (vogal + consoante → junta).\n4. B: autoaprendizagem (o + a, vogais diferentes → junta ✓), pré-história (*pré-* tônico → hífen ✓), micro-ondas (o + o → hífen ✓).\n\nResposta: **B**.",
       "interativo": null
@@ -415,8 +419,8 @@
         "conectivos"
       ],
       "essencial": [
-        "Organizadores textuais têm funções: enumerar (“Em primeiro lugar”), acrescentar (“também”), reformular (“Isto é”), exemplificar (“Por exemplo”).",
-        "As reformulações trazem a síntese: “tanto… quanto” põe educação, infraestrutura e saúde no mesmo nível."
+        "Organizadores textuais têm funções: enumerar (*em primeiro lugar*), acrescentar (*também*), reformular (*isto é*), exemplificar (*por exemplo*).",
+        "Expressões de reformulação costumam trazer a síntese do parágrafo."
       ],
       "raciocinio": "1. Identifique a função de cada organizador (veja: *Conectivos e relações de sentido*): “Em primeiro lugar” enumera; “Por outro lado” e “também” acrescentam; “Dito de outro modo” e “Isto é” reformulam; “Por exemplo” exemplifica.\n2. As expressões de reformulação trazem a síntese do parágrafo: “tanto a educação quanto a infraestrutura e a saúde são pilares fundamentais”. A estrutura “tanto… quanto” coloca os três no mesmo nível.\n\nResposta: **B**.",
       "interativo": null
@@ -444,8 +448,8 @@
         "vozes-verbais"
       ],
       "essencial": [
-        "Voz passiva analítica: verbo *ser* + particípio, com agente introduzido por *por*: “O bolo **foi trazido por** Raquel”.",
-        "Na passiva, o sujeito sofre a ação (o bolo), e o agente a pratica (Raquel)."
+        "Voz passiva analítica: verbo *ser* + particípio, com agente introduzido por *por*.",
+        "Na passiva, o sujeito sofre a ação, e o agente da passiva a pratica."
       ],
       "raciocinio": "1. Procure as marcas da voz passiva analítica (veja: *Vozes verbais*): verbo **ser + particípio** e agente da passiva com **por**.\n2. Só a D tem “**foi trazido por** Raquel”: o bolo (sujeito) sofre a ação, e Raquel (agente) a pratica.\n3. A, B e C são a mesma frase na voz ativa, em ordens diferentes.\n\nResposta: **D**.",
       "interativo": null
@@ -475,8 +479,8 @@
         "sequencias"
       ],
       "essencial": [
-        "Para achar a regularidade, transforme cada figura num número: aqui, a soma dos pontos da peça.",
-        "As somas 0, 3, 6, 9 crescem de 3 em 3: a próxima é 12."
+        "Para achar o padrão de uma sequência de figuras, transforme cada figura num número.",
+        "Se a diferença entre termos seguidos é constante, a sequência é uma progressão aritmética."
       ],
       "raciocinio": "1. Transforme cada peça num número: a soma dos pontos (veja: *Sequências e progressão aritmética*). 0 + 0 = 0; 1 + 2 = 3; 3 + 3 = 6; 4 + 5 = 9.\n2. As somas crescem de 3 em 3. A próxima é \\(9 + 3 = 12\\).\n3. Como cada metade vai de 0 a 6, a única peça com 12 pontos é a 6|6; por isso a alternativa fala em “uma peça”.\n\nResposta: **D**.",
       "interativo": null
@@ -504,8 +508,9 @@
         "principio-multiplicativo"
       ],
       "essencial": [
-        "Princípio multiplicativo: multiplique as opções de cada posição: \\(21 \\cdot 20 \\cdot 5 \\cdot 4\\).",
-        "“Outra” consoante ou vogal tira uma opção: 21 consoantes e depois 20; 5 vogais e depois 4."
+        "Princípio multiplicativo: multiplique as opções de cada posição.",
+        "Quando a posição seguinte pede um elemento “outro”, diferente do anterior, tira-se uma opção.",
+        "O alfabeto tem 26 letras: 5 vogais e 21 consoantes."
       ],
       "raciocinio": "Monte o quadro de posições (veja: *Princípio multiplicativo*):\n\n| Posição | 1ª | 2ª | 3ª | 4ª |\n|---|---|---|---|---|\n| Tipo | consoante | outra consoante | vogal | outra vogal |\n| Opções | 21 | 20 | 5 | 4 |\n\nTotal: \\(21 \\cdot 20 \\cdot 5 \\cdot 4 = 420 \\cdot 20 = 8\\,400\\).\n\nResposta: **A**.\n\n**Dica de prova:** em contagem, as alternativas erradas costumam ser o resultado de esquecer uma condição. Decompor cada uma (como \\(26^4\\)) mostra qual regra ela ignorou.",
       "interativo": null
@@ -536,7 +541,8 @@
       ],
       "essencial": [
         "Área do trapézio: \\(\\frac{(B + b) \\cdot h}{2}\\); do retângulo: base × altura.",
-        "Área externa = terreno − galpão. Se \\(\\frac{1}{3}\\) é pavimentado, a grama ocupa os outros \\(\\frac{2}{3}\\)."
+        "Área de uma região que sobra = área total − área ocupada.",
+        "Se uma fração da área tem um uso, o restante é o complemento: \\(1 - \\frac{1}{n}\\)."
       ],
       "raciocinio": "1. Terreno (trapézio): \\(\\frac{(18 + 12) \\cdot 20}{2} = 300\\) m² (veja: *Áreas de figuras planas*).\n2. Galpão (retângulo): \\(10 \\cdot 15 = 150\\) m². Área externa: \\(300 - 150 = 150\\) m².\n3. Pavimentado: \\(\\frac{1}{3}\\) de 150 = 50 m². Grama: o restante, \\(150 - 50 = 100\\) m².\n\nResposta: **C**.",
       "interativo": null
@@ -565,8 +571,8 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "Se a aresta do cubo fica \\(k\\) vezes maior, o volume fica \\(k^3\\) vezes maior: \\(4^3 = 64\\).",
-        "1 L = 1.000 cm³, então \\(40^3 = 64\\,000\\) cm³ = 64 L."
+        "Se as medidas de um sólido ficam \\(k\\) vezes maiores, o volume fica \\(k^3\\) vezes maior.",
+        "1 L = 1.000 cm³ = 1 dm³."
       ],
       "raciocinio": "1. A aresta passou de 10 cm para 40 cm: ficou 4 vezes maior.\n2. O volume cresce no comprimento, na largura e na altura, então fica \\(4^3 = 64\\) vezes maior (veja: *Volumes de sólidos*): \\(1\\ \\text{L} \\cdot 64 = 64\\ \\text{L}\\).\n\n<div data-interativo=\"25b-q19-cubo\"></div>\n\n3. Conferindo pela fórmula: \\(40^3 = 64\\,000\\) cm³ e, como \\(1\\ \\text{L} = 1000\\ \\text{cm}^3\\), são 64 L (veja: *Conversão de unidades*).\n\nResposta: **C**.",
       "interativo": null
@@ -594,8 +600,9 @@
         "notacao-cientifica"
       ],
       "essencial": [
-        "Use o dado certo: a aproximação máxima é de 54,6 milhões de km; ida e volta é o dobro.",
-        "Notação científica: \\(109{,}2 \\times 10^6 = 1{,}092 \\times 10^8\\) (a vírgula anda 2 casas, e o expoente sobe 2)."
+        "Notação científica: um número de 1 a 10 vezes uma potência de 10.",
+        "Mover a vírgula \\(n\\) casas para a esquerda soma \\(n\\) ao expoente.",
+        "Milhão = \\(10^6\\)."
       ],
       "raciocinio": "1. O texto traz duas distâncias. A de 70 milhões de km é a conta que “parece simples” e que o texto desmente. A aproximação máxima é de 54,6 milhões de km.\n2. Ida e volta: \\(2 \\cdot 54{,}6 = 109{,}2\\) milhões de km.\n3. Em notação científica (veja: *Potências de 10 e notação científica*): \\(109{,}2 \\times 10^6 = 1{,}092 \\times 10^8\\).\n\nResposta: **D**.",
       "interativo": null
@@ -624,7 +631,7 @@
       ],
       "essencial": [
         "Ponto médio é a média das coordenadas das pontas: \\(\\left(\\frac{x_A + x_B}{2}, \\frac{y_A + y_B}{2}\\right)\\).",
-        "Cuidado com o sinal: \\(\\frac{3 + (-5)}{2} = -1\\)."
+        "Cuidado com sinais negativos ao somar coordenadas."
       ],
       "raciocinio": "1. O ponto médio é a média das coordenadas das pontas (veja: *Plano cartesiano e ponto médio*).\n2. \\(x_M = \\frac{2 + 4}{2} = 3\\).\n3. \\(y_M = \\frac{3 + (-5)}{2} = \\frac{-2}{2} = -1\\).\n\nM(3, −1). Resposta: **A**.",
       "interativo": null
@@ -655,8 +662,8 @@
         "sequencias"
       ],
       "essencial": [
-        "Progressão aritmética: a diferença entre termos seguidos é sempre a mesma (aqui, 5).",
-        "Termo geral: \\(a_n = a_1 + (n - 1) \\cdot r\\). Do 1º ao 8º termo há 7 saltos: \\(3 + 7 \\cdot 5 = 38\\)."
+        "Progressão aritmética: a diferença entre termos seguidos é sempre a mesma, a razão \\(r\\).",
+        "Termo geral: \\(a_n = a_1 + (n - 1) \\cdot r\\)."
       ],
       "raciocinio": "1. Sequência: 3, 8, 13, 18. A diferença é sempre 5: é uma PA de razão 5 (veja: *Sequências e progressão aritmética*).\n2. \\(a_8 = a_1 + 7 \\cdot r = 3 + 7 \\cdot 5 = 38\\).\n\nResposta: **B**.\n\n**Dica de prova:** do 1º ao 8º termo há 7 saltos, e não 8. As alternativas A e D exploram esse erro: um termo a mais ou a menos.",
       "interativo": null
@@ -684,8 +691,8 @@
         "porcentagem"
       ],
       "essencial": [
-        "Porcentagem de um valor: 5% de 40 = \\(0{,}05 \\cdot 40 = 2\\).",
-        "Veja sobre qual valor o desconto incide: aqui, sempre sobre a 1ª hora (R$ 40)."
+        "Porcentagem de um valor: \\(p\\%\\) de \\(V\\) = \\(\\frac{p}{100} \\cdot V\\).",
+        "Confira sobre qual valor cada desconto incide: o original ou o já descontado."
       ],
       "raciocinio": "1. Todos os descontos são calculados sobre o valor da 1ª hora, R$ 40 (veja: *Porcentagem*).\n2. 2ª hora: 5% de 40 = 2 → R$ 38.\n3. 3ª e 4ª horas: 10% de 40 = 4 → R$ 36 cada.\n4. Total: \\(40 + 38 + 36 + 36 = 150\\).\n\nResposta: **B**.",
       "interativo": null
@@ -713,8 +720,8 @@
         "media-mediana-e-moda"
       ],
       "essencial": [
-        "Média aritmética = soma dos valores ÷ quantidade: \\(8\\,540 \\div 5 = 1\\,708\\).",
-        "A média resume o grupo: nenhum município precisa ter perdido exatamente 1.708 habitantes."
+        "Média aritmética = soma dos valores ÷ quantidade de valores.",
+        "A média resume o grupo: nenhum valor precisa ser igual a ela."
       ],
       "raciocinio": "1. Some as perdas dos cinco municípios: \\(1\\,851 + 1\\,661 + 265 + 2\\,512 + 2\\,251 = 8\\,540\\).\n2. Média: \\(8\\,540 \\div 5 = 1\\,708\\) (veja: *Média, mediana e moda*).\n\nResposta: **D**.",
       "interativo": null
@@ -743,7 +750,8 @@
       ],
       "essencial": [
         "Uma paralela a um lado do triângulo forma outro triângulo, semelhante ao original.",
-        "Critérios de semelhança: AA (dois ângulos iguais), LAL (dois lados proporcionais e o ângulo entre eles igual) e LLL."
+        "Critérios de semelhança: AA (dois ângulos iguais), LAL (dois lados proporcionais e o ângulo entre eles igual) e LLL.",
+        "Razão de semelhança é a razão constante entre lados correspondentes."
       ],
       "raciocinio": "Avalie cada afirmação (veja: *Semelhança de triângulos*):\n\n1. 1ª: falsa. Pelo teorema fundamental, a paralela forma um triângulo **semelhante** ao original.\n2. 2ª: verdadeira. É o critério LAL.\n3. 3ª: falsa. Dois ângulos iguais bastam (critério AA), porque o terceiro também será igual.\n4. 4ª: verdadeira. É a definição de razão de semelhança.\n\nF – V – F – V. Resposta: **C**.",
       "interativo": null
@@ -772,8 +780,8 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "Com a mesma velocidade, tempo e tamanho do arquivo são diretamente proporcionais: 2,2 vezes os dados, 2,2 vezes o tempo.",
-        "Converta para uma unidade só: 6 min 20 s = 380 s. 20 segundos não são 0,20 minuto."
+        "Com a mesma velocidade, tempo e quantidade de dados são diretamente proporcionais.",
+        "1 min = 60 s. Converta tudo para uma unidade só antes de calcular: 30 segundos não são 0,30 minuto."
       ],
       "raciocinio": "1. Com a mesma velocidade, tempo e tamanho do arquivo são diretamente proporcionais: 2,2 vezes os dados levam 2,2 vezes o tempo (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Converta para uma unidade só (veja: *Conversão de unidades*): 6 min 20 s = \\(6 \\cdot 60 + 20 = 380\\) s.\n3. \\(380 \\cdot 2{,}2 = 836\\) s.\n4. \\(836 = 13 \\cdot 60 + 56\\): 13 min 56 s.\n\nResposta: **A**.",
       "interativo": null
@@ -801,9 +809,9 @@
         "media-mediana-e-moda"
       ],
       "essencial": [
-        "Mediana com número par de dados: média dos dois valores centrais (aqui, o 20º e o 21º).",
-        "A frequência acumulada mostra quantos livros leram o 20º e o 21º aluno.",
-        "Moda é o valor mais frequente: a quantidade de livros lida pelo maior grupo de alunos (4)."
+        "Mediana: o valor central dos dados ordenados. Com número par de dados, é a média dos dois centrais.",
+        "A frequência acumulada ajuda a localizar a posição de cada dado.",
+        "Moda é o valor mais frequente."
       ],
       "raciocinio": "1. São 40 alunos (número par): a mediana é a média do 20º e do 21º valores (veja: *Média, mediana e moda*).\n2. Frequência acumulada: 2, 6, 13, **20**, 30, 37, 40. O 20º aluno leu 3 livros; o 21º, 4. Mediana: \\(Y = \\frac{3 + 4}{2} = 3{,}5\\).\n3. Moda: o maior grupo é o de 10 alunos, que leram 4 livros. \\(Z = 4\\).\n4. \\(Y + Z = 3{,}5 + 4 = 7{,}5\\).\n\nResposta: **B**.",
       "interativo": null
@@ -834,8 +842,8 @@
         "sequencias"
       ],
       "essencial": [
-        "Traduza o fluxograma caixa por caixa: \\(n \\to n^2 \\to 3n^2 \\to 3n^2 + \\frac{3}{2}\\).",
-        "Para achar termos consecutivos, calcule \\(T_n\\) para \\(n = 1, 2, 3…\\) e compare com as alternativas."
+        "Traduza um fluxograma caixa por caixa numa expressão algébrica.",
+        "Para achar termos de uma sequência dada por fórmula, substitua \\(n = 1, 2, 3…\\)."
       ],
       "raciocinio": "1. Traduza o fluxograma, caixa por caixa (veja: *Expressões algébricas*): \\(n\\) → \\(n^2\\) → \\(3n^2\\) → \\(3n^2 + \\frac{3}{2}\\). Então \\(T_n = 3n^2 + \\frac{3}{2}\\).\n2. Calcule os primeiros termos (veja: *Sequências e progressão aritmética*):\n\n| \\(n\\) | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| \\(T_n\\) | \\(\\frac{9}{2}\\) | \\(\\frac{27}{2}\\) | \\(\\frac{57}{2}\\) | \\(\\frac{99}{2}\\) | \\(\\frac{153}{2}\\) |\n\n3. \\(\\frac{27}{2}\\), \\(\\frac{57}{2}\\) e \\(\\frac{99}{2}\\) são \\(T_2\\), \\(T_3\\) e \\(T_4\\): consecutivos.\n\nResposta: **C**.",
       "interativo": null
@@ -866,7 +874,8 @@
       ],
       "essencial": [
         "Todo ponto de uma circunferência está à distância do raio até o centro.",
-        "Com centros em A e em B e raio AB, o ponto C fica a distância AB dos dois: o triângulo é equilátero."
+        "Triângulo equilátero tem os três lados iguais.",
+        "Duas circunferências de mesmo raio, com centros nas pontas de um segmento, se cruzam em pontos equidistantes das duas pontas."
       ],
       "raciocinio": "1. Para o triângulo ser equilátero, é preciso \\(AC = BC = AB\\).\n2. Todo ponto de uma circunferência está à distância do raio até o centro (veja: *Circunferência, mediatriz e bissetriz*). Com centro em A e raio AB, o ponto C fica a distância AB de A; com centro em B e raio AB, fica a distância AB de B.\n3. Só a D usa raio igual a AB nas duas circunferências.\n\nResposta: **D**.",
       "interativo": null
@@ -897,8 +906,8 @@
         "raizes-e-radicais"
       ],
       "essencial": [
-        "Área do semicírculo: \\(\\frac{\\pi r^2}{2}\\). Com \\(\\pi = 3\\), \\(\\frac{3r^2}{2} = 30\\) dá \\(r^2 = 20\\).",
-        "Simplifique a raiz tirando um quadrado perfeito: \\(\\sqrt{20} = \\sqrt{4 \\cdot 5} = 2\\sqrt{5}\\)."
+        "Área do círculo: \\(\\pi r^2\\); do semicírculo: \\(\\frac{\\pi r^2}{2}\\).",
+        "Simplifique a raiz tirando fatores que são quadrados perfeitos: \\(\\sqrt{18} = 3\\sqrt{2}\\)."
       ],
       "raciocinio": "1. Terreno: \\(30 \\cdot 20 = 600\\) m². Jardim: 5% de 600 = \\(0{,}05 \\cdot 600 = 30\\) m².\n2. Área do semicírculo (veja: *Círculo e circunferência*): \\(\\frac{\\pi r^2}{2} = 30\\). Com \\(\\pi = 3\\): \\(\\frac{3r^2}{2} = 30 \\Rightarrow 3r^2 = 60 \\Rightarrow r^2 = 20\\).\n3. \\(r = \\sqrt{20} = \\sqrt{4 \\cdot 5} = 2\\sqrt{5}\\) m (veja: *Raízes e radicais*).\n\nResposta: **B**.",
       "interativo": null

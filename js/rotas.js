@@ -1,5 +1,5 @@
 import { sessao } from './armazenamento.js?v=2026-10-30';
-import { app, dialogo, zoom, painelMapa, explicacoes, painelTema, estado, esc, descartarPaineis, depoisDosPaineis, carregarProva, guardarImagens, carregarTeorias, lerProgresso, primeiraSemResposta, lerAndamento, lerResultadoSimulado } from './base.js';
+import { app, dialogo, zoom, painelMapa, explicacoes, painelTema, estado, esc, limparAnuncio, descartarPaineis, depoisDosPaineis, carregarProva, guardarImagens, carregarTeorias, lerProgresso, primeiraSemResposta, lerAndamento, lerResultadoSimulado } from './base.js';
 import { telaQuestaoAtiva, sairTelaCheia, prepararAjuste, cabecalhoInicio, rodape, telaSobre, telaAjuda, ajustarFixos } from './interface.js';
 import { telaInicio } from './inicio.js';
 import { telaQuestao } from './questao.js';
@@ -42,6 +42,7 @@ export async function render(opcoes = {}) {
   const mudouTela = JSON.stringify(rota) !== JSON.stringify(estado.rota);
   estado.rota = rota;
   if (mudouTela) {
+    limparAnuncio();
     descartarPaineis();
     if (zoom.open) zoom.close();
     if (dialogo.open) dialogo.close();

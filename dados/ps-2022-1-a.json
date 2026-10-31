@@ -27,9 +27,9 @@
         "hifen"
       ],
       "essencial": [
-        "Prefixo terminado em vogal + palavra que começa com a **mesma** vogal: usa-se hífen, como em *micro-ondas*.",
-        "Vogais diferentes: junta sem hífen: *autoescola*, *semiaberto*, *extraoficial*.",
-        "Antes de *r* ou *s*, junta e dobra a consoante: *ultrassom*."
+        "Prefixo terminado em vogal seguido de palavra que começa com a mesma vogal leva hífen: *anti-inflamatório*, *contra-ataque*.",
+        "Com vogais diferentes, prefixo e palavra se juntam sem hífen: *infraestrutura*, *autoestima*.",
+        "Diante de *r* ou *s*, prefixo terminado em vogal se junta e dobra a consoante: *antirracista*, *minissaia*."
       ],
       "raciocinio": "1. Veja qual palavra **ganhou** hífen (veja: *Hífen*): só *micro-ondas*. O prefixo termina em **o**, e a palavra seguinte começa com **o**.\n2. As outras perderam o hífen: *autoescola* (o + e), *semiaberto* (i + a) e *extraoficial* (a + o) têm vogais diferentes e se juntam; *ultrassom* dobra o *s*.\n3. A regra que explica o hífen da tabela é a da vogal igual dos dois lados.\n\nResposta: **B**.",
       "interativo": null
@@ -59,9 +59,9 @@
         "classes-de-palavras"
       ],
       "essencial": [
-        "O artigo indefinido marca o gênero: *um* (masculino), *uma* (feminino).",
-        "*Cientista* serve para homens e mulheres; na frase, é o artigo que define o gênero.",
-        "O algarismo “1” não tem gênero: “Nunca vi 1 cientista” não escolhe entre masculino e feminino."
+        "Substantivos comuns de dois gêneros têm uma só forma para masculino e feminino: *estudante*, *artista*, *jovem*.",
+        "Nesses substantivos, quem marca o gênero é o determinante: artigo, pronome ou adjetivo (*o/a estudante*, *esse/essa artista*).",
+        "Evitar a marca de gênero pode ser uma escolha intencional, para não restringir a quem o texto se refere."
       ],
       "raciocinio": "1. Pense no que o artigo faria: “Nunca vi **um** cientista” ou “Nunca vi **uma** cientista”. A palavra *cientista* serve para homens e mulheres; quem marca o gênero é o artigo (veja: *Classes de palavras*).\n2. O algarismo “1” não tem masculino nem feminino: com ele, o nome não escolhe um gênero.\n3. O contexto reforça a escolha: o canal foi criado por duas mulheres cientistas, e “um cientista” puxaria a imagem para o masculino.\n\nResposta: **C**.",
       "interativo": null
@@ -90,9 +90,9 @@
         "oracoes-subordinadas"
       ],
       "essencial": [
-        "Orações coordenadas têm sentido próprio e se ligam por conjunções como *e*, *mas* e *logo*.",
-        "Oração subordinada depende de um termo de outra oração: “que não se sentia bem” caracteriza *Susana*.",
-        "Oração com *que* entre vírgulas, logo depois de um nome, costuma ser subordinada adjetiva."
+        "Orações coordenadas têm estrutura independente e se ligam por conjunções como *e*, *mas*, *logo* e *ou*.",
+        "Oração subordinada exerce uma função dentro de outra oração: sujeito, complemento, adjunto.",
+        "Oração iniciada por pronome relativo (*que*, *o qual*, *onde*) que caracteriza um nome anterior é subordinada adjetiva."
       ],
       "raciocinio": "1. Nos períodos 1, 2 e 3, as orações se ligam por *logo*, *e* e *mas*, e cada uma tem sentido próprio: são coordenadas (veja: *Orações coordenadas*).\n2. No período 4, “que não se sentia bem” depende de *Susana*, que ela caracteriza: é uma oração subordinada adjetiva (veja: *Orações subordinadas*).\n3. Só o período 4 tem oração subordinada.\n\nResposta: **D**.",
       "interativo": null
@@ -123,9 +123,9 @@
         "textos-persuasivos"
       ],
       "essencial": [
-        "Na publicidade, imagem e texto se completam: aqui, as copas das árvores formam um par de pulmões.",
-        "O imperativo (“Comece a preservar”) chama o leitor à ação.",
-        "A mensagem: a floresta produz o ar que respiramos, e preservá-la é garantir a vida."
+        "Em textos que juntam imagem e palavra, o sentido nasce da combinação das duas linguagens, e uma completa a outra.",
+        "Campanhas e anúncios usam o imperativo para chamar o leitor à ação.",
+        "Perguntas retóricas envolvem o leitor e preparam a mensagem principal."
       ],
       "raciocinio": "1. Imagem: as copas das árvores formam um par de pulmões (veja: *Linguagem verbal e não verbal*). A floresta aparece como o órgão que permite respirar.\n2. Texto: “Quer continuar a respirar? Comece a preservar.” O imperativo *comece* chama o leitor a agir (veja: *Publicidade e propaganda*).\n3. Juntos, dizem: a floresta produz o oxigênio de que precisamos, e preservá-la é preservar a vida. É o que diz a D.\n\nResposta: **D**.",
       "interativo": null
@@ -156,9 +156,9 @@
         "vozes-verbais"
       ],
       "essencial": [
-        "Verbo transitivo direto + *se*: voz passiva sintética. “Colocam-se as pilhas” = “as pilhas são colocadas”.",
-        "Na passiva, o termo que sofre a ação é o sujeito, e o verbo concorda com ele: *colocam*, no plural.",
-        "Sujeito simples tem um só núcleo: *pilhas*."
+        "Verbo transitivo direto + *se* forma a voz passiva sintética: “Vendem-se casas” equivale a “Casas são vendidas”.",
+        "Na passiva sintética, o termo que sofre a ação é o sujeito, e o verbo concorda com ele em número.",
+        "Sujeito simples tem um único núcleo; composto, dois ou mais."
       ],
       "raciocinio": "1. Pergunte ao verbo: o que é colocado? **As pilhas** (veja: *Sujeito e predicado*).\n2. “Onde se colocam as pilhas” = “onde as pilhas são colocadas”. O *se* é partícula apassivadora: é voz passiva sintética (veja: *Vozes verbais*).\n3. Na passiva, quem sofre a ação é o sujeito, e o verbo concorda com ele: *colocam* está no plural por causa de *as pilhas*. O sujeito é simples.\n\nResposta: **C**.",
       "interativo": null
@@ -188,9 +188,9 @@
         "infograficos"
       ],
       "essencial": [
-        "Num infográfico, compare os números antes de olhar o desenho: aqui, 6.420, 3.384 e 3.367 mortes.",
-        "Discrepância é uma diferença grande: comércio e serviços tem quase o dobro de cada um dos outros setores.",
-        "Palavras como “exatamente” exigem igualdade total: 3.384 e 3.367 são próximos, mas não iguais."
+        "Em infográficos, os números trazem a informação precisa; desenhos e cores guiam a leitura.",
+        "Compare valores pela diferença ou pela razão entre eles para saber se estão próximos ou distantes.",
+        "Palavras como *exatamente*, *sempre* e *nunca* exigem precisão total: valores parecidos não bastam."
       ],
       "raciocinio": "1. Leia os números (veja: *Leitura de infográficos*): comércio e serviços, 6.420; agricultura, 3.384; transportes, 3.367.\n2. Agricultura e transportes estão quase empatados (diferença de 17 mortes).\n3. Comércio e serviços tem quase o dobro de cada um: é o setor que se destaca dos demais.\n\nResposta: **B**.",
       "interativo": null
@@ -219,9 +219,10 @@
         "concordancia-verbal"
       ],
       "essencial": [
-        "Concordância nominal: o adjetivo concorda com o substantivo a que se refere: “jornadas longas”, “motoristas excluídos”.",
-        "Com *se* apassivador, o verbo concorda com o sujeito: “Produziram-se duas experiências”.",
-        "Termo introduzido por preposição (“com orientadores…”) não é sujeito."
+        "Concordância nominal: artigos, adjetivos e particípios concordam em gênero e número com o substantivo a que se referem.",
+        "Advérbios não variam: “muito cansadas”, “meio preocupados”.",
+        "Com *se* apassivador, o verbo concorda com o sujeito paciente: “Alugam-se salas”.",
+        "Termo iniciado por preposição não é sujeito, e o verbo não concorda com ele."
       ],
       "raciocinio": "1. **I – certa.** *Excluído* se refere aos motoristas, no plural: “o risco de serem excluídos” (veja: *Concordância nominal*).\n2. **II – errada.** *Longas* é adjetivo de *jornadas* e concorda com ele; o advérbio é *excessivamente*.\n3. **III – certa.** O sujeito de “produziu-se” é “duas experiências” (voz passiva sintética): o certo é “Produziram-se” (veja: *Concordância verbal*).\n4. **IV – errada.** Esses termos completam “No contato havido com…”: não são sujeito de nenhum verbo.\n\nAfirmações certas: I e III. Resposta: **A**.",
       "interativo": null
@@ -250,9 +251,9 @@
         "poesia"
       ],
       "essencial": [
-        "Esquema de rimas: dê a mesma letra aos versos que rimam. *aclare / triste / existe / equipare* = ABBA.",
-        "ABBA são rimas opostas (interpoladas): o 1º verso rima com o 4º, e o 2º com o 3º.",
-        "Estrofe de quatro versos é quarteto; de três, terceto."
+        "Esquema de rimas: dê a mesma letra (A, B, C…) aos versos que terminam com o mesmo som.",
+        "Rimas opostas ou interpoladas seguem ABBA; cruzadas ou alternadas, ABAB; emparelhadas, AABB.",
+        "Estrofe de quatro versos é quarteto; de três, terceto; de dois, dístico."
       ],
       "raciocinio": "1. Marque o som final de cada verso (veja: *Figuras sonoras: aliteração, assonância e rima*). 1ª estrofe: acl**are** (A), tr**iste** (B), ex**iste** (B), equip**are** (A).\n2. 2ª estrofe: situ**ado**, cr**esce**, par**ece**, quebr**ado**: ABBA. 3ª estrofe: p**ovo**, epig**astro**, **astro**, **ovo**: ABBA.\n3. Nas três, o 1º verso rima com o 4º, e o 2º com o 3º: são rimas opostas. Cada estrofe tem quatro versos, um quarteto (veja: *Poesia: verso, eu lírico e poema visual*).\n\nResposta: **A**.",
       "interativo": null
@@ -280,9 +281,9 @@
         "discurso-direto-e-indireto"
       ],
       "essencial": [
-        "Discurso direto reproduz as palavras exatas de alguém, marcadas por aspas ou travessão.",
-        "Pistas: o verbo *afirma*, as aspas e a 1ª pessoa mantida (“nossas sociedades”, “todos nós”).",
-        "No discurso indireto, a fala é recontada sem aspas, geralmente com “que”: “afirma que…”."
+        "Discurso direto reproduz as palavras exatas de alguém, marcadas por aspas ou travessão, com a pessoa verbal original.",
+        "Verbos como *afirmar*, *dizer* e *declarar* costumam introduzir a fala.",
+        "No discurso indireto, o narrador reconta a fala sem aspas, em geral com *que*: “Ela disse que viria”."
       ],
       "raciocinio": "1. Localize a fala de Michelle Bachelet: “Covid-19 é um teste para as nossas sociedades […]”.\n2. Ela vem **entre aspas**, depois do verbo *afirma*, e mantém a 1ª pessoa (“nossas sociedades”, “todos nós estamos”): são as palavras exatas da comissária (veja: *Discurso direto, indireto e indireto livre*).\n3. Palavras exatas entre aspas: discurso direto.\n\nResposta: **B**.",
       "interativo": null
@@ -310,9 +311,9 @@
         "conectivos"
       ],
       "essencial": [
-        "*Isto é* reformula ou explica o termo anterior: “a termodinâmica, isto é, a ciência do calor”.",
-        "*Por exemplo* introduz um caso concreto; *em primeiro / segundo lugar* enumeram; *por outro lado* contrasta.",
-        "Pistas no texto: “duas maneiras” pede enumeração; caçadores-coletores × agricultores pede contraste."
+        "*Isto é* e *ou seja* reformulam ou explicam o termo anterior.",
+        "*Por exemplo* introduz um caso concreto; *em primeiro lugar* e *em segundo lugar* enumeram.",
+        "*Por outro lado* e *em contrapartida* marcam contraste entre ideias."
       ],
       "raciocinio": "1. [1] e [2] explicam o termo anterior: “a termodinâmica, **isto é**, a ciência do calor”. É reformulação (veja: *Conectivos e relações de sentido*).\n2. [3] traz um caso concreto: “em um forno, **por exemplo**”.\n3. [4] e [5] enumeram as “duas maneiras”: **em primeiro lugar**, **em segundo lugar**.\n4. [6] contrasta agricultores e caçadores-coletores: “Os agricultores, **por outro lado**”.\n\nResposta: **C**.",
       "interativo": null
@@ -343,9 +344,9 @@
         "verbos-de-ligacao"
       ],
       "essencial": [
-        "Adjunto adnominal acompanha o substantivo dentro do mesmo termo: “o cachorro **da vizinha**”.",
-        "Predicativo do sujeito vem depois de verbo de ligação e atribui um estado ao sujeito: “ele **está irritado**”.",
-        "Teste: se há *ser*, *estar* ou *parecer* entre o sujeito e a característica, é predicativo."
+        "Adjunto adnominal acompanha o substantivo dentro do mesmo termo, sem verbo no meio: “a casa **de madeira**”.",
+        "Predicativo do sujeito atribui estado ou qualidade ao sujeito por meio de verbo de ligação: “A rua ficou **deserta**”.",
+        "Teste: se há *ser*, *estar*, *parecer*, *ficar* ou *continuar* entre o sujeito e a característica, é predicativo."
       ],
       "raciocinio": "1. “O cachorro **da vizinha**”: a locução acompanha o substantivo *cachorro* e o especifica, sem verbo no meio. É adjunto adnominal (veja: *Adjunto adnominal e locução adjetiva*).\n2. “Ele **está** irritado”: *estar* é verbo de ligação, e *irritado* é um estado atribuído ao sujeito *ele*. É predicativo do sujeito (veja: *Verbos de ligação e predicativo do sujeito*).\n\nResposta: **A**.",
       "interativo": null
@@ -373,9 +374,10 @@
         "conectivos"
       ],
       "essencial": [
-        "Cada conectivo marca uma relação: *onde* (lugar), *porque* (causa), *bem como* (adição), *por consequência* (consequência).",
-        "Para testar, pergunte se a relação existe entre as ideias. Ser poluidor não causa desinteresse pela poluição.",
-        "Frio × ir à praia é quebra de expectativa: pede *mas* ou *mesmo assim*, e não adição."
+        "Cada conectivo marca uma relação de sentido: causa, consequência, adição, oposição, lugar.",
+        "Para avaliar um conectivo, confira se a relação que ele indica existe de fato entre as ideias ligadas.",
+        "*Onde* só retoma lugar; para outros antecedentes, use *em que* ou *no qual*.",
+        "Quebra de expectativa pede oposição ou concessão: *mas*, *mesmo assim*, *embora*."
       ],
       "raciocinio": "1. Teste cada conectivo pela relação que ele deveria marcar (veja: *Conectivos e relações de sentido*).\n2. I: *onde* indica lugar, e “desvantagens” não é lugar. Inadequado.\n3. III: *porque* liga o efeito (dormir cedo) à causa (sono). Adequado.\n4. IV: *bem como* indica adição, mas ir à praia com frio é uma quebra de expectativa. Inadequado.\n5. II: ser grande poluidor não **causa** pouca preocupação com a poluição. *Por consequência* está inadequado, como diz a D.\n\nResposta: **D**.",
       "interativo": null
@@ -403,8 +405,8 @@
         "tempos-e-modos-verbais"
       ],
       "essencial": [
-        "Presente do indicativo indica fatos atuais, dados como certos: *estamos*, *são*, *continuam*.",
-        "Pessoa e número vêm da terminação: *-mos* é 1ª do plural (nós); *são* e *continuam*, 3ª do plural (eles).",
+        "O presente do indicativo expressa fatos atuais ou habituais, apresentados como certos.",
+        "A terminação indica pessoa e número: *-mos* marca a 1ª do plural (nós); *-m*, a 3ª do plural (eles).",
         "O subjuntivo exprime dúvida, desejo ou hipótese: “que eles sejam”, “se fôssemos”."
       ],
       "raciocinio": "1. Liste os verbos que se referem ao momento da fala: **estamos** (vendo), **são**, **continuam** (sendo) (veja: *Tempos e modos verbais*).\n2. Todos estão no presente do indicativo: fatos dados como certos, que acontecem agora.\n3. Pessoa e número: *estamos* é 1ª do plural (nós); *são* e *continuam* são 3ª do plural (as cotas).\n\nResposta: **A**.",
@@ -433,9 +435,9 @@
         "formacao-de-palavras"
       ],
       "essencial": [
-        "Composição: duas ou mais palavras formam uma nova.",
-        "Justaposição: as partes não perdem som: *beija-flor*, *passatempo*, *malmequer*.",
-        "Aglutinação: alguma parte perde ou muda som: *aguardente* (água + ardente), *planalto* (plano + alto)."
+        "Composição: duas ou mais palavras (ou radicais) formam uma palavra nova.",
+        "Justaposição: as partes se unem sem perder som: *girassol*, *guarda-chuva*.",
+        "Aglutinação: alguma parte perde ou muda som: *fidalgo* (filho + de + algo), *embora* (em + boa + hora)."
       ],
       "raciocinio": "1. Justaposição: as palavras se unem sem perder nenhum som. Aglutinação: alguma parte perde ou muda som (veja: *Formação de palavras*).\n2. Procure a aglutinação em cada alternativa: A tem *aguardente* (água + ardente); B, *boquiaberto* (boca + aberto); D, *planalto* (plano + alto).\n3. Em C, todas mantêm os sons: *beija-flor*, *bem-me-quer*, *audiovisual*, *passatempo* (passa + tempo), *malmequer* (mal + me + quer).\n\nResposta: **C**.",
       "interativo": null
@@ -465,9 +467,9 @@
         "oracoes-subordinadas"
       ],
       "essencial": [
-        "Oração subordinada substantiva faz o papel de um substantivo: troque-a por *isso*.",
-        "“Admitir **que é chata**” = “admitir isso”: complemento sem preposição, logo objetiva direta.",
-        "Com preposição (“gostar **de** que…”), seria objetiva indireta."
+        "Oração subordinada substantiva faz o papel de um substantivo e pode ser trocada por *isso*.",
+        "Se completa um verbo sem preposição, é objetiva direta: “Espero **que você venha**”.",
+        "Se o verbo exige preposição, é objetiva indireta: “Gosto **de que me avisem**”."
       ],
       "raciocinio": "1. Ache o verbo de que a oração depende: “admitir **que é chata**”. Quem admite, admite **algo** (veja: *Orações subordinadas*).\n2. A oração “que é chata” é esse algo: completa *admitir* sem preposição. Troque por *isso*: “admitir isso”.\n3. Complemento sem preposição de um verbo é objeto direto: a oração é subordinada substantiva objetiva direta.\n\nResposta: **B**.",
       "interativo": null
@@ -498,9 +500,9 @@
         "raizes-e-radicais"
       ],
       "essencial": [
-        "Segmento inclinado na malha: conte os quadradinhos na horizontal e na vertical; eles são os catetos.",
-        "Pitágoras: \\(DE^2 = 3^2 + 3^2 = 18\\).",
-        "Raiz de número que não é quadrado perfeito é irracional: \\(\\sqrt{18} = 3\\sqrt{2}\\)."
+        "Num segmento inclinado na malha, os deslocamentos horizontal e vertical são os catetos de um triângulo retângulo.",
+        "Teorema de Pitágoras: \\(a^2 = b^2 + c^2\\), em que \\(a\\) é a hipotenusa.",
+        "Raiz de número que não é quadrado perfeito é irracional; simplifique tirando fatores quadrados: \\(\\sqrt{12} = 2\\sqrt{3}\\)."
       ],
       "raciocinio": "1. Conte os quadradinhos: de D até E, são 3 para a direita e 3 para baixo.\n2. DE é a hipotenusa de um triângulo retângulo de catetos 3 e 3 (veja: *Teorema de Pitágoras*): \\(DE^2 = 3^2 + 3^2 = 18\\).\n3. \\(DE = \\sqrt{18} = 3\\sqrt{2} \\approx 4{,}24\\) cm. Como 18 não é quadrado perfeito, a raiz é irracional (veja: *Raízes e radicais*).\n\nResposta: **D**.",
       "interativo": null
@@ -528,9 +530,9 @@
         "sistemas-de-equacoes"
       ],
       "essencial": [
-        "Duas compras, duas equações: \\(2p + c = 8\\) e \\(3p + 2c = 13\\).",
-        "Substituição: isole \\(c = 8 - 2p\\) e troque na outra equação.",
-        "Confira: o preço tem de funcionar nas duas compras."
+        "Cada informação do problema vira uma equação; duas incógnitas pedem duas equações.",
+        "Método da substituição: isole uma incógnita numa equação e troque na outra.",
+        "Confira a solução nas duas equações originais."
       ],
       "raciocinio": "1. Monte o sistema, com \\(p\\) = pão de queijo e \\(c\\) = café com leite (veja: *Sistemas de equações do 1º grau*): \\(2p + c = 8\\) e \\(3p + 2c = 13\\).\n2. Da primeira: \\(c = 8 - 2p\\). Na segunda: \\(3p + 2(8 - 2p) = 13 \\Rightarrow 16 - p = 13 \\Rightarrow p = 3\\).\n3. Conferindo: \\(c = 2\\); \\(2 \\cdot 3 + 2 = 8\\) ✓ e \\(3 \\cdot 3 + 2 \\cdot 2 = 13\\) ✓.\n\nResposta: **C**.",
       "interativo": null
@@ -561,9 +563,9 @@
         "equacoes-do-2o-grau"
       ],
       "essencial": [
-        "Área do retângulo: \\(x \\cdot (20 - 2x) = 50\\).",
-        "Organize a equação: \\(20x - 2x^2 = 50\\) vira \\(x^2 - 10x + 25 = 0\\).",
-        "Trinômio quadrado perfeito: \\(x^2 - 10x + 25 = (x - 5)^2\\)."
+        "Área do retângulo = comprimento × largura; com uma medida escrita em função da outra, surge uma equação do 2º grau.",
+        "Passe todos os termos para um lado e simplifique, dividindo por um fator comum.",
+        "Trinômio quadrado perfeito: \\(a^2 - 2ab + b^2 = (a - b)^2\\), que tem uma raiz dupla."
       ],
       "raciocinio": "1. Área do retângulo = lado × lado (veja: *Áreas de figuras planas*): \\(x(20 - 2x) = 50\\).\n2. Distributiva: \\(20x - 2x^2 = 50\\). Passe tudo para um lado: \\(2x^2 - 20x + 50 = 0\\).\n3. Divida por 2: \\(x^2 - 10x + 25 = 0\\). É o quadrado da diferença: \\((x - 5)^2 = 0\\) (veja: *Equações do 2º grau*).\n4. Conferindo: \\(x = 5\\) dá um jardim de 5 m por 10 m, com 50 m² ✓.\n\nResposta: **A**.",
       "interativo": null
@@ -598,9 +600,9 @@
         "vistas-ortogonais"
       ],
       "essencial": [
-        "Vistas ortogonais: o que se vê de frente, de cima e de lado, como desenhos planos do objeto.",
+        "Vistas ortogonais mostram o objeto de frente, de cima e de lado, como desenhos planos.",
         "Na vista superior, a parte de cima do desenho corresponde ao fundo do objeto.",
-        "Combine as três: a coluna aparece à esquerda (frente), no canto de cima (topo) e à direita (lado)."
+        "Uma vista sozinha pode enganar; cruze as três para localizar cada parte do sólido."
       ],
       "raciocinio": "1. Vista superior: um quadradinho no canto de cima, à esquerda. A coluna fica no fundo do bloco, encostada à esquerda (veja: *Vistas ortogonais de sólidos*).\n2. Vista frontal: a coluna aparece encostada na borda esquerda ✓.\n3. Vista lateral (olhando pela direita): a coluna aparece à direita, que é o fundo do bloco ✓.\n4. Só o bloco D tem a coluna estreita no canto de trás, à esquerda.\n\nResposta: **D**.",
       "interativo": null
@@ -628,9 +630,9 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "Escolha a unidade que deixa o número fácil de ler: nem muito grande, nem muito pequeno.",
+        "Escolha a unidade que deixa o número fácil de ler, nem enorme nem minúsculo.",
         "1 km = 1.000 m; 1 m = 100 cm = 1.000 mm.",
-        "Grafite (0,5 mm) → milímetro; rua (alguns metros) → metro; Terra–Sol (150 milhões de km) → quilômetro."
+        "Milímetros servem para espessuras finas; metros, para medidas do dia a dia; quilômetros, para distâncias grandes."
       ],
       "raciocinio": "1. Escolha a unidade de tamanho parecido com o que se mede (veja: *Conversão de unidades*).\n2. Grafite de lapiseira: cerca de 0,5 mm ou 0,7 mm: **milímetro**.\n3. Largura de uma rua: alguns metros: **metro**.\n4. Distância da Terra ao Sol: cerca de 150 milhões de quilômetros: **quilômetro**.\n\nResposta: **C**.",
       "interativo": null
@@ -661,9 +663,9 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "Volume do bloco retangular: comprimento × largura × altura: \\(80 \\cdot 30 \\cdot 40 = 96\\,000\\) cm³.",
-        "1.000 cm³ = 1 L, então o aquário tem 96 L.",
-        "1 gota a cada 4 litros: divida o volume por 4."
+        "Volume do bloco retangular: comprimento × largura × altura.",
+        "1.000 cm³ = 1 dm³ = 1 L.",
+        "Se cada porção corresponde a um volume fixo, divida o volume total por esse valor."
       ],
       "raciocinio": "1. Volume do aquário (veja: *Volumes de sólidos*): \\(80 \\cdot 30 \\cdot 40 = 96\\,000\\) cm³.\n2. Em litros (veja: *Conversão de unidades*): \\(96\\,000 \\div 1000 = 96\\) L.\n3. Uma gota a cada 4 litros: \\(96 \\div 4 = 24\\) gotas.\n\nResposta: **A**.",
       "interativo": null
@@ -693,9 +695,9 @@
         "funcao-afim"
       ],
       "essencial": [
-        "Função afim: \\(C = at + b\\). O \\(b\\) é onde a reta corta o eixo vertical; aqui, 0.",
-        "Taxa de variação: \\(a = \\frac{\\Delta C}{\\Delta t} = \\frac{1200}{3} = 400\\).",
-        "Reta crescente tem \\(a\\) positivo; decrescente, \\(a\\) negativo."
+        "Função afim: \\(y = ax + b\\), em que \\(b\\) é o ponto onde a reta corta o eixo vertical.",
+        "Taxa de variação: \\(a = \\frac{\\Delta y}{\\Delta x}\\), calculada com dois pontos da reta.",
+        "Reta que passa pela origem tem \\(b = 0\\): a relação é proporcional."
       ],
       "raciocinio": "1. A reta passa pela origem: com \\(t = 0\\), \\(C = 0\\). Então \\(b = 0\\) e \\(C = at\\) (veja: *Funções afins e retas*).\n2. Taxa de variação: \\(a = \\frac{1200 - 0}{3 - 0} = 400\\) kW por dia.\n3. Conferindo: \\(400 \\cdot 5 = 2000\\) ✓ e \\(400 \\cdot 8 = 3200\\) ✓.\n\nResposta: **C**.",
       "interativo": null
@@ -726,9 +728,9 @@
         "raizes-e-radicais"
       ],
       "essencial": [
-        "Escreva as medidas com uma letra só: comprimento \\(x\\), largura \\(\\frac{3x}{4}\\).",
-        "Área do retângulo: \\(x \\cdot \\frac{3x}{4} = 60\\), então \\(x^2 = 80\\).",
-        "Simplifique a raiz tirando quadrados perfeitos: \\(\\sqrt{80} = \\sqrt{16 \\cdot 5} = 4\\sqrt{5}\\)."
+        "Escreva todas as medidas em função de uma só incógnita antes de montar a equação.",
+        "Área do retângulo: comprimento × largura.",
+        "Simplifique raízes tirando fatores que são quadrados perfeitos: \\(\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}\\)."
       ],
       "raciocinio": "1. Largura: 3 fileiras de \\(\\frac{x}{4}\\), ou seja, \\(\\frac{3x}{4}\\).\n2. Área (veja: *Áreas de figuras planas*): \\(x \\cdot \\frac{3x}{4} = 60 \\Rightarrow x^2 = 80 \\Rightarrow x = \\sqrt{80}\\).\n3. Simplifique (veja: *Raízes e radicais*): \\(\\sqrt{80} = \\sqrt{16 \\cdot 5} = 4\\sqrt{5}\\). Esse é o comprimento.\n4. Largura: \\(\\frac{3}{4} \\cdot 4\\sqrt{5} = 3\\sqrt{5}\\) m.\n\nResposta: **B**.",
       "interativo": null
@@ -756,9 +758,9 @@
         "progressao-geometrica"
       ],
       "essencial": [
-        "Progressão geométrica: cada termo é o anterior multiplicado por um valor fixo, a razão. Aqui, \\(q = 1{,}25\\).",
-        "Do ciclo 0 ao ciclo 4 há quatro multiplicações: \\(256 \\cdot 1{,}25^4\\).",
-        "Use frações para facilitar: \\(1{,}25 = \\frac{5}{4}\\), e \\(4^4 = 256\\)."
+        "Progressão geométrica: cada termo é o anterior multiplicado por um valor fixo, a razão \\(q\\).",
+        "Termo geral: \\(a_n = a_0 \\cdot q^n\\), com \\(n\\) multiplicações a partir do termo inicial.",
+        "Decimais ficam mais fáceis de elevar a potências quando escritos como fração: \\(0{,}75 = \\frac{3}{4}\\)."
       ],
       "raciocinio": "1. A cada ciclo, os casos novos são multiplicados por \\(R = 1{,}25\\): \\(256 \\cdot 1{,}25 = 320\\), como na tabela. É uma progressão geométrica (veja: *Progressão geométrica*).\n2. Continue: ciclo 2, \\(320 \\cdot 1{,}25 = 400\\); ciclo 3, \\(400 \\cdot 1{,}25 = 500\\); ciclo 4, \\(500 \\cdot 1{,}25 = 625\\).\n3. Em uma conta só: \\(256 \\cdot \\left(\\frac{5}{4}\\right)^4 = 256 \\cdot \\frac{625}{256} = 625\\).\n\nResposta: **D**.",
       "interativo": null
@@ -786,9 +788,9 @@
         "razoes-especiais"
       ],
       "essencial": [
-        "Rendimento = distância ÷ litros: gasolina, 12 km/L; etanol, 8,8 km/L.",
-        "Custo por km = preço do litro ÷ rendimento: \\(6{,}00 \\div 12 = 0{,}50\\).",
-        "Para igualar, o etanol deve custar \\(0{,}50 \\cdot 8{,}8 = 4{,}40\\) por litro."
+        "Rendimento de combustível = distância percorrida ÷ volume consumido (km/L).",
+        "Custo por quilômetro = preço do litro ÷ rendimento.",
+        "Para comparar combustíveis, compare o custo por quilômetro, e não só o preço do litro."
       ],
       "raciocinio": "1. Rendimento de cada combustível (veja: *Razões especiais: velocidade, densidade e escala*): gasolina, \\(396 \\div 33 = 12\\) km/L; etanol, \\(352 \\div 40 = 8{,}8\\) km/L.\n2. Custo por km com gasolina: \\(6{,}00 \\div 12 = 0{,}50\\) real.\n3. Para o etanol custar o mesmo por km: preço do litro \\(= 0{,}50 \\cdot 8{,}8 = 4{,}40\\).\n\nResposta: **B**.",
       "interativo": null
@@ -816,9 +818,9 @@
         "notacao-cientifica"
       ],
       "essencial": [
-        "Conte as casas decimais: 0,000001 tem 6, então vale \\(10^{-6}\\).",
-        "1,5 μm = \\(1{,}5 \\times 10^{-6}\\) m.",
-        "Notação científica: um número de 1 a 10 vezes uma potência de 10."
+        "Decimal menor que 1 vira potência de 10 negativa: o expoente é o número de casas depois da vírgula.",
+        "Prefixos de medida: mili = \\(10^{-3}\\), micro = \\(10^{-6}\\), nano = \\(10^{-9}\\).",
+        "Notação científica: um número de 1 a 10 multiplicado por uma potência de 10."
       ],
       "raciocinio": "1. Escreva o micrômetro como potência de 10: \\(0{,}000001 = 10^{-6}\\) m, porque são 6 casas depois da vírgula (veja: *Potências de 10 e notação científica*).\n2. Diâmetro: 1,5 μm \\(= 1{,}5 \\times 10^{-6}\\) m.\n3. O número da frente, 1,5, já está entre 1 e 10: a notação científica está pronta.\n\nResposta: **D**.",
       "interativo": null
@@ -846,9 +848,9 @@
         "probabilidade"
       ],
       "essencial": [
-        "Eventos independentes: um não muda a chance do outro. Cada partida é 50% para cada lado.",
-        "Dois eventos independentes juntos: multiplique as chances: \\(\\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4}\\).",
-        "Às vezes é mais fácil calcular o contrário: perder as duas seguintes tem chance \\(\\frac{1}{4}\\); vencer, \\(\\frac{3}{4}\\)."
+        "Eventos independentes: o resultado de um não muda a chance do outro.",
+        "Para a chance de dois eventos independentes acontecerem juntos, multiplique as probabilidades.",
+        "Às vezes é mais fácil calcular o contrário: \\(P(A) = 1 - P(\\text{não } A)\\)."
       ],
       "raciocinio": "1. Cada partida: 50% para cada uma, e uma partida não depende da outra (veja: *Probabilidade*).\n2. **I – certa.** A vence as duas primeiras: \\(\\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4} = 25\\%\\).\n3. **II – errada.** A segunda partida não depende da primeira: 50%.\n4. **III – errada.** Pelo mesmo motivo, vencer a primeira não muda a chance na segunda.\n5. **IV – certa.** Quem venceu a primeira só perde a disputa se perder as duas seguintes, com chance \\(\\frac{1}{4}\\). Então vence com \\(1 - \\frac{1}{4} = 75\\%\\).\n\nResposta: **B**.",
       "interativo": null
@@ -878,9 +880,9 @@
         "equacoes-do-1o-grau"
       ],
       "essencial": [
-        "Números consecutivos: chame o do meio de \\(n\\). A soma de cinco é \\(5n\\).",
-        "“A subtraído de B” significa \\(B - A\\): a ordem importa.",
-        "Quinta parte de 15 é \\(\\frac{15}{5} = 3\\); metade de 16 é 8."
+        "Em números consecutivos, chamar o do meio de \\(n\\) simplifica a soma: \\((n - 1) + n + (n + 1) = 3n\\).",
+        "A quinta parte de um número é ele dividido por 5; a metade, dividido por 2.",
+        "Subtrair um valor maior de um menor dá resultado negativo."
       ],
       "raciocinio": "1. Cinco consecutivos: \\(n - 2,\\ n - 1,\\ n,\\ n + 1,\\ n + 2\\). Soma: \\(5n = 75 \\Rightarrow n = 15\\) (veja: *Equações do 1º grau e problemas*). Sequência: 13, 14, 15, 16, 17.\n2. Terceiro número mais sua quinta parte: \\(15 + \\frac{15}{5} = 18\\).\n3. “Subtraído **da** metade do quarto”: tira-se 18 de \\(\\frac{16}{2} = 8\\). Então \\(8 - 18 = -10\\).\n\nResposta: **A**.\n\n**Dica de prova:** em contas descritas por palavras, escreva cada trecho como expressão antes de calcular. “Subtraído de” inverte a ordem da conta.",
       "interativo": null
@@ -908,9 +910,9 @@
         "grandezas-proporcionais"
       ],
       "essencial": [
-        "Inversamente proporcional: quanto maior a idade, menos tarefas. Tarefas \\(= \\frac{k}{\\text{idade}}\\).",
-        "Some as partes e iguale ao total: \\(\\frac{k}{20} + \\frac{k}{30} + \\frac{k}{40} + \\frac{k}{60} = 120\\).",
-        "Use o MMC (120) para somar as frações: \\(\\frac{15k}{120} = 120\\), então \\(k = 960\\)."
+        "Grandezas inversamente proporcionais têm produto constante: \\(y = \\frac{k}{x}\\). Se uma dobra, a outra cai pela metade.",
+        "Para dividir um total em partes inversamente proporcionais, some as partes \\(\\frac{k}{x}\\) e iguale ao total.",
+        "Use o MMC dos denominadores para somar as frações."
       ],
       "raciocinio": "1. Inversamente proporcional à idade: tarefas \\(= \\frac{k}{\\text{idade}}\\) (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Total: \\(\\frac{k}{20} + \\frac{k}{30} + \\frac{k}{40} + \\frac{k}{60} = 120\\). Com denominador 120: \\(\\frac{6k + 4k + 3k + 2k}{120} = \\frac{k}{8} = 120\\), então \\(k = 960\\).\n3. Tarefas: 48, 32, 24 e 16. Os dois mais velhos (40 e 60 anos): \\(24 + 16 = 40\\).\n\nResposta: **C**.",
       "interativo": null
@@ -939,8 +941,8 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "Cada dose de 0,3 mL tem solução na proporção \\(\\frac{1{,}8}{2{,}25} = 0{,}8\\): são 0,24 mL.",
-        "Multiplique pelo número de doses: \\(75{,}9 \\times 10^6 \\cdot 0{,}24 \\approx 18{,}2 \\times 10^6\\) mL.",
+        "Numa mistura homogênea, qualquer porção mantém a mesma proporção entre os componentes.",
+        "O total é a quantidade por porção vezes o número de porções; potências de 10 ajudam com números grandes.",
         "1 m³ = 1.000 L = \\(10^6\\) mL."
       ],
       "raciocinio": "1. Depois da diluição, o frasco tem 2,25 mL, dos quais 1,8 mL são de solução. Cada dose de 0,3 mL tem solução na mesma proporção (veja: *Grandezas diretamente e inversamente proporcionais*): \\(0{,}3 \\cdot \\frac{1{,}8}{2{,}25} = 0{,}24\\) mL.\n2. Para 75,9 milhões de doses: \\(75{,}9 \\times 10^6 \\cdot 0{,}24 \\approx 18{,}2 \\times 10^6\\) mL.\n3. Converta (veja: *Conversão de unidades*): 1 m³ = 1.000 L = \\(10^6\\) mL. Então \\(18{,}2 \\times 10^6\\) mL \\(\\approx 18\\) m³.\n\nResposta: **B**.",

@@ -30,8 +30,8 @@
       ],
       "essencial": [
         "Tema é o assunto de que o texto trata. Para confirmar um tema, ache um trecho que fale dele.",
-        "A pergunta tem **NÃO**: a alternativa sem trecho no texto é a resposta. Nenhum parágrafo fala de relação amorosa abusiva.",
-        "Cuidado com temas vizinhos: ser ignorado (4º parágrafo) é indiferença e solidão, e não abuso amoroso."
+        "Quando a pergunta tem *não*, a alternativa sem trecho que a sustente é a resposta.",
+        "Cuidado com temas vizinhos: um assunto parecido não é o mesmo assunto."
       ],
       "raciocinio": "1. O comando pede o tema que **NÃO** foi criticado. A tarefa é achar um trecho para cada alternativa: a que ficar sem trecho é a resposta.\n2. Consumismo: 6º parágrafo (cartazes, anúncios, “catarata dos produtos”). Natureza: 7º parágrafo (rios, passarinho, planta). Violência: 3º parágrafo (guerra, mortos). Escolhas que poupam a vida: último parágrafo.\n3. Relações amorosas abusivas não têm trecho. O mais próximo é o 4º parágrafo (“sorrir para as pessoas sem receber um sorriso de volta”, “ser ignorado”), mas ele fala de indiferença e solidão, não de relacionamento amoroso nem de abuso. É um tema vizinho, não um tema do texto (veja: *Tema e ideia central*).\n\nResposta: **C**.\n\n**Dica de prova:** em questões com NÃO ou EXCETO, anote ao lado de cada alternativa o parágrafo que a confirma. A que ficar sem anotação é a resposta.",
       "interativo": null
@@ -62,10 +62,10 @@
         "generos-textuais"
       ],
       "essencial": [
-        "Paralelismo é repetir a mesma estrutura: “A gente se acostuma…” organiza o texto e reforça a crítica, sem atrapalhar a leitura.",
+        "Paralelismo é a repetição de uma mesma estrutura; organiza o texto e reforça a ideia.",
         "Crônica: texto curto que parte de cenas do cotidiano para refletir sobre elas.",
-        "*Para* + infinitivo indica finalidade: “para não se ralar” = “a fim de não se ralar”.",
-        "“A gente” é marca de linguagem informal, usada em todo o país; não é regionalismo."
+        "*Para* + infinitivo indica finalidade: equivale a *a fim de*.",
+        "Regionalismo é uma marca de fala de uma região; expressões usadas no país inteiro não são regionalismo."
       ],
       "raciocinio": "1. **I – falsa.** A repetição de “A gente se acostuma” é um paralelismo: organiza o texto e martela a crítica (veja: *Repetição, paralelismo e anáfora*), sem dificultar a leitura.\n2. **II – verdadeira.** “para não se ralar” = “a fim de não se ralar”: *para* + infinitivo indica finalidade.\n3. **III – verdadeira.** É um texto curto que parte de cenas do cotidiano (apartamento, ônibus, fila) para refletir sobre elas: é uma crônica (veja: *Gêneros textuais*). Os traços poéticos são o ritmo, as repetições e imagens como “catarata dos produtos”.\n4. **IV – falsa.** “A gente” é marca de linguagem informal, usada em todo o país, e não regionalismo.\n\nCorretas: II e III. Resposta: **C**.\n\n**Dica de prova:** com afirmações de I a IV, decida primeiro a que você tem mais certeza e risque as alternativas que a contradizem. Muitas vezes sobram só duas.",
       "interativo": null
@@ -96,8 +96,8 @@
       ],
       "essencial": [
         "Orações coordenadas são independentes: uma não depende da outra para ter sentido.",
-        "O “E” no início das frases soma uma ação à outra: “E, porque não tem vista… E, porque não olha para fora…”.",
-        "Frases curtas que se somam criam o efeito de acúmulo, como a rotina que o texto critica."
+        "O *e* aditivo soma uma informação à outra.",
+        "Frases curtas encadeadas por adição criam efeito de acúmulo."
       ],
       "raciocinio": "1. Observe o tamanho das frases: quase todas trazem uma ideia só (“A comer sanduíche porque não dá para almoçar.”).\n2. Observe como elas se ligam: “E, porque não tem vista… E, porque não olha para fora… E, porque não abre as cortinas…”. O “E” soma uma ação à outra, sem que uma dependa da outra: é coordenação aditiva (veja: *Orações coordenadas*).\n3. O efeito é de acúmulo: um hábito vai se somando ao outro, como a rotina que o texto critica.\n\nResposta: **E**.",
       "interativo": null
@@ -127,8 +127,8 @@
         "metafora-e-comparacao"
       ],
       "essencial": [
-        "Metáfora usa a palavra fora do sentido literal. Teste: aquilo acontece de verdade, exatamente como está escrito?",
-        "*Faca* e *baioneta* representam as agressões do dia a dia; “poupar o peito” é proteger os sentimentos."
+        "Metáfora usa a palavra fora do sentido literal, aproximando duas coisas por uma semelhança.",
+        "Teste: aquilo acontece de verdade, exatamente como está escrito? Se não, o sentido é figurado."
       ],
       "raciocinio": "1. Aplique a cada alternativa o teste do “ao pé da letra” (veja: *Metáfora e comparação*): aquilo acontece de verdade, exatamente como está escrito?\n2. A, B, C e D: sim. São ações reais da rotina.\n3. E: não. Ninguém se acostuma à rotina para escapar de uma baioneta de verdade. *Feridas*, *sangramentos*, *faca* e *baioneta* representam as dores e as agressões do dia a dia; “poupar o peito” é proteger os sentimentos.\n\nResposta: **E**.",
       "interativo": null
@@ -160,8 +160,8 @@
         "intertextualidade"
       ],
       "essencial": [
-        "Intertextualidade: um texto retoma outro. Compare o que se manteve e o que mudou.",
-        "Sísifo empurra a pedra sem fim, como castigo. Na tirinha, a pedra vira “bola de nada”, e as pessoas **querem** empurrá-la."
+        "Intertextualidade: um texto retoma outro conhecido.",
+        "Para interpretar a retomada, compare o que se manteve e o que mudou em relação ao original."
       ],
       "raciocinio": "1. Ideia central do mito: Sísifo faz um esforço enorme, repetitivo e sem fim, como castigo.\n2. O que se manteve na tirinha: pessoas empurrando com esforço um objeto enorme. O que mudou: a pedra virou uma “grande bola **de nada**”, ninguém está sendo castigado e um personagem chega correndo porque **quer** empurrar (veja: *Intertextualidade*).\n3. A bola representa, então, esforços grandes, repetitivos e sem resultado que as pessoas aceitam no dia a dia, e até procuram: a burocracia e a rotina.\n\nResposta: **B**.",
       "interativo": null
@@ -193,8 +193,8 @@
         "poesia"
       ],
       "essencial": [
-        "No poema visual, a forma também significa: o tabuleiro sugere um jogo.",
-        "Leia linha por linha: **amor**, **a** + **rdor** = *ardor*, **a**, **dor**. O “a” de fora serve para formar *ardor*."
+        "No poema visual, a forma também produz sentido: a disposição das letras e o desenho fazem parte da leitura.",
+        "Palavras podem se formar pela junção de partes separadas no espaço da página."
       ],
       "raciocinio": "1. Leia o tabuleiro linha por linha: **amor**; **a** + **rdor** = *ardor*; **a**; **dor** (veja: *Poesia: verso, eu lírico e poema visual*).\n2. A forma (tabuleiro) sugere um jogo; a sequência das palavras mostra o amor passando pela paixão e terminando em dor. Isso confirma A, B, C e D.\n3. A letra “a” fora do tabuleiro serve para formar *ardor* na segunda linha. Nada no poema indica que o amor seja “sempre inalcançável”.\n\nResposta: **E**.",
       "interativo": null
@@ -226,7 +226,7 @@
       ],
       "essencial": [
         "Resenha crítica apresenta uma obra, resume e avalia: identificação, resumo e opinião do resenhista.",
-        "Aqui, há resumo (o filme acompanha Valter Hugo Mãe) e avaliação (“sensível”, “Falha em algumas decisões”)."
+        "A avaliação aparece em adjetivos e expressões que elogiam ou criticam."
       ],
       "raciocinio": "1. Pergunte qual é a finalidade do texto: apresentar o documentário “De Lugar Nenhum” e dizer o que funciona e o que não funciona nele.\n2. Procure as partes da resenha (veja: *Resenha crítica*): identificação (o diretor Miguel Gonçalves Mendes, “cerca de 80 minutos”), resumo (o filme acompanha Valter Hugo Mãe em viagens) e avaliação (“sensível”, “Falha em algumas decisões”, “puxa-saquismo da ovação”).\n3. Essa combinação de resumo e avaliação de uma obra é o que distingue a resenha dos outros gêneros das alternativas (veja: *Gêneros textuais*).\n\nResposta: **B**.",
       "interativo": null
@@ -256,8 +256,8 @@
         "fato-e-opiniao"
       ],
       "essencial": [
-        "Fato pode ser conferido por qualquer um; opinião é um julgamento de quem escreve.",
-        "Palavras avaliativas revelam a crítica: “**Não dá muito certo**”, “**picada e sem rumo**”."
+        "Fato pode ser conferido por qualquer pessoa; opinião é um julgamento de quem escreve.",
+        "Palavras avaliativas, positivas ou negativas, revelam a apreciação crítica."
       ],
       "raciocinio": "1. Apreciação crítica é opinião: procure palavras que julgam o filme (veja: *Fato e opinião*).\n2. A, B, C e E podem ser conferidas por qualquer espectador: são descrições.\n3. D tem “**Não dá muito certo**”, “**picada e sem rumo**” e “só **tolher** a imaginação literária”: o crítico avalia negativamente as encenações com atores.\n\nResposta: **D**.\n\n**Dica de prova:** para separar fato de opinião, pergunte se alguém que viu o filme poderia discordar da frase. Se pode, é opinião.",
       "interativo": null
@@ -287,8 +287,8 @@
         "sentido-pelo-contexto"
       ],
       "essencial": [
-        "O sentido vem da família da palavra e do contexto: *incensado* vem de *incenso*, queimado em homenagens.",
-        "O texto fala de leitores que cumprimentam o autor e de “ovação”: incensado = muito elogiado."
+        "O sentido de uma palavra desconhecida vem da família dela e do contexto.",
+        "Teste a troca: ponha o sentido que você imagina no lugar da palavra e veja se a frase continua coerente."
       ],
       "raciocinio": "1. Família da palavra: *incensado* vem de *incenso*, queimado em homenagens. Incensar alguém é exaltá-lo, elogiá-lo muito (veja: *Sentido das palavras pelo contexto*).\n2. Contexto: o texto fala da “infinidade de leitores que o cumprimentam” e da “ovação” nos festivais. Tudo aponta para admiração.\n3. Teste a troca: “o escritor português mais **elogiado** no Brasil hoje” mantém o sentido.\n\nResposta: **A**.",
       "interativo": null
@@ -319,7 +319,7 @@
       ],
       "essencial": [
         "Pronome demonstrativo no início da frase costuma retomar o que acabou de ser dito.",
-        "Teste a troca: ponha a ideia anterior no lugar de “Isso” e veja se a frase faz sentido."
+        "Teste a troca: ponha a ideia anterior no lugar do pronome e veja se a frase faz sentido."
       ],
       "raciocinio": "1. “Isso”, no início da frase, retoma algo já dito: a frase anterior, “nenhum país é tão importante quanto a Islândia” (veja: *Coesão referencial: retomar e anunciar*).\n2. Faça o teste da troca: “[A Islândia ser o país mais importante] por uma questão de recorte”. Faz sentido, e o que vem depois do travessão explica o motivo.\n\nResposta: **B**.",
       "interativo": null
@@ -349,8 +349,8 @@
         "conectivos"
       ],
       "essencial": [
-        "Cada conectivo indica uma relação: *que* (comparação), *portanto* (conclusão), *se* (condição), *além de* (adição), *já que* (explicação).",
-        "Teste trocando por um conectivo conhecido: “já que a busca” = “porque a busca”."
+        "Cada conectivo indica uma relação: comparação (*que*, *como*), conclusão (*portanto*), condição (*se*), adição (*além de*), explicação (*já que*).",
+        "Para classificar, troque por um conectivo conhecido da mesma relação."
       ],
       "raciocinio": "Classifique cada conectivo (veja: *Conectivos e relações de sentido*):\n\n1. “menos um documentário **que** um ensaio” → comparação (3).\n2. “**portanto** é a melhor oportunidade” → conclusão (4).\n3. “**Se** não com uma parceira” → condição (2).\n4. “**além de** cansar o espectador” → adição (5).\n5. “**já que** a busca” = “porque a busca” → explicação (1).\n\nSequência: 3, 4, 2, 5, 1. Resposta: **A**.\n\n**Dica de prova:** em associações em sequência, resolva primeiro o item mais fácil e elimine. Aqui, só a A começa com 3.",
       "interativo": null
@@ -380,8 +380,8 @@
         "tema-e-ideia-central"
       ],
       "essencial": [
-        "A ideia central de um trecho costuma estar na frase que o abre: o grito “sempre teve conotações diferentes para homens e mulheres”.",
-        "Repetir palavras do texto (“histeria”) não basta: a autora critica essa ideia, e não a defende."
+        "A ideia central de um trecho costuma estar na frase que o abre; o resto traz exemplos e explicações.",
+        "Repetir palavras do texto não basta: a alternativa precisa manter a posição do autor."
       ],
       "raciocinio": "1. A pergunta delimita o trecho: a parte com o subtítulo “Recorte de gênero”.\n2. A frase que abre essa parte traz a ideia central: o ato de gritar “sempre teve conotações diferentes para homens e mulheres”. O resto do parágrafo dá os exemplos: a mulher que grita é chamada de histérica e penalizada; o homem ganha status.\n3. B e E repetem palavras do trecho (“penalizadas”, “histeria”), mas apresentam como opinião da autora ideias que ela critica (veja: *Tema e ideia central*).\n\nResposta: **A**.",
       "interativo": null
@@ -412,8 +412,9 @@
         "ironia-e-humor"
       ],
       "essencial": [
-        "Parênteses podem inserir um comentário do autor sobre o que acabou de escrever: é a voz autoral.",
-        "Ironia: dizer uma coisa querendo dizer outra. “Desculpe, não resisti” mostra que o trocadilho foi proposital."
+        "Parênteses podem inserir um comentário do autor sobre o que ele mesmo escreveu.",
+        "Ironia: dizer uma coisa querendo dizer outra.",
+        "Trocadilho é o jogo com palavras de sons ou sentidos parecidos."
       ],
       "raciocinio": "1. Veja o que vem antes dos parênteses: “A tendência viajou na velocidade do **som**”. Como o assunto é o grito, a expressão é um trocadilho.\n2. Os parênteses inserem um comentário da própria autora sobre o que ela acabou de escrever: é a voz autoral entrando no texto (veja: *Sinais de pontuação e seus efeitos*).\n3. Ela diz “desculpe”, mas não está arrependida: “não resisti” mostra que fez o trocadilho de propósito e gostou dele. Dizer uma coisa querendo dizer outra é ironia (veja: *Ironia e humor*).\n\nResposta: **C**.",
       "interativo": null
@@ -444,7 +445,7 @@
       ],
       "essencial": [
         "Exemplificação é uma estratégia argumentativa: um caso concreto sustenta a ideia.",
-        "A “primal scream therapy”, dos anos 1970, mostra historicamente que a ideia de um clube do grito não é nova."
+        "Exemplos históricos mostram que algo já existia antes."
       ],
       "raciocinio": "1. Leia a frase que abre o parágrafo: “A ideia de um clube do grito não é exatamente nova.”\n2. Em seguida vem um caso concreto do passado: a “primal scream therapy”, dos anos 1970, criada por Arthur Janov.\n3. Pergunte para que a autora trouxe essa informação: para mostrar, com um exemplo histórico, que a ideia já existia, e depois marcar a diferença (“Mas agora o enredo é outro”) (veja: *Estratégias argumentativas*).\n\nResposta: **D**.",
       "interativo": null
@@ -476,8 +477,8 @@
         "linguagem-verbal-e-nao-verbal"
       ],
       "essencial": [
-        "Linguagem não verbal: no quadro, rosto, gestos e linhas comunicam emoção.",
-        "Mãos no rosto, boca aberta e linhas retorcidas expressam angústia; no texto, o grito em grupo une as pessoas."
+        "Linguagem não verbal: em imagens, rosto, gestos, cores e linhas comunicam emoção.",
+        "Em questões de “respectivamente”, a ordem das respostas segue a ordem dos elementos citados."
       ],
       "raciocinio": "1. Texto: o grito é feito em grupo e produz “coesão”; é “descarga, mas também encontro”. Função **social**.\n2. Quadro: uma figura sozinha, mãos no rosto, boca aberta, linhas retorcidas ao redor (veja: *Linguagem verbal e não verbal*). O que ele expressa é **angústia**.\n3. “Respectivamente” pede primeiro o texto e depois o quadro: social / angustiado.\n\nResposta: **D**.",
       "interativo": null
@@ -507,8 +508,8 @@
         "equacoes-do-1o-grau"
       ],
       "essencial": [
-        "Para descobrir quanto havia no começo, desfaça as operações de trás para frente.",
-        "Pela equação, com salário \\(S\\): \\(\\frac{S - 200}{2} = 1800\\), então \\(S = 3800\\)."
+        "Para descobrir o valor inicial, desfaça as operações de trás para frente.",
+        "Outra saída: chame o valor inicial de \\(x\\), monte a equação e resolva."
       ],
       "raciocinio": "Faça o caminho de volta, desfazendo as operações de trás para frente (veja: *Equações do 1º grau e problemas*):\n\n1. Os R$ 1.800 que sobraram são a metade do que havia depois da poupança. Volta: \\(1800 \\cdot 2 = 3600\\).\n2. Antes disso, ele tinha tirado R$ 200. Volta: \\(3600 + 200 = 3800\\).\n3. Conferindo: \\(3800 - 200 = 3600\\), e metade de 3.600 é 1.800 ✓.\n\nPela equação, com salário \\(S\\): \\(\\frac{S - 200}{2} = 1800 \\Rightarrow S = 3800\\).\n\nResposta: **C**.\n\n**Dica de prova:** quando as alternativas são números, dá para testá-las no enunciado. Comece pela do meio: se ela der muito ou pouco, você já sabe para que lado ir.",
       "interativo": null
@@ -539,7 +540,7 @@
       ],
       "essencial": [
         "Fatorar é escrever o número como produto de primos. Teste os primos em ordem: 2, 3, 5, 7, 11, 13…",
-        "\\(221 = 13 \\cdot 17\\). Os únicos produtos são \\(1 \\cdot 221\\) e \\(13 \\cdot 17\\); “mais de 5” elimina o primeiro."
+        "Se o número é produto de dois primos, ele só pode ser escrito como produto de dois fatores de duas formas."
       ],
       "raciocinio": "1. \\(m\\) filas com \\(n\\) alunos: \\(m \\cdot n = 221\\), com \\(m > 5\\) e \\(n > 5\\).\n2. Fatore 221 (veja: *Divisibilidade e fatoração em primos*): não é divisível por 2, 3, 5, 7 nem 11; por 13, sim: \\(221 = 13 \\cdot 17\\).\n3. Como 13 e 17 são primos, os únicos produtos possíveis são \\(1 \\cdot 221\\) e \\(13 \\cdot 17\\). A condição “mais de 5” elimina o primeiro.\n4. \\(m + n = 13 + 17 = 30\\).\n\nResposta: **D**.",
       "interativo": null
@@ -569,8 +570,8 @@
         "fracoes"
       ],
       "essencial": [
-        "O que sobra de um todo: \\(1 - \\frac{1}{3} = \\frac{2}{3}\\).",
-        "Para dividir uma fração por um inteiro, multiplique o denominador: \\(\\frac{2}{3} \\div 4 = \\frac{2}{12} = \\frac{1}{6}\\)."
+        "O que sobra de um todo: \\(1 - \\text{fração usada}\\).",
+        "Para dividir uma fração por um inteiro, multiplique o denominador pelo inteiro."
       ],
       "raciocinio": "1. Viúva: \\(\\frac{1}{3}\\). Restante: \\(1 - \\frac{1}{3} = \\frac{2}{3}\\) (veja: *Frações*).\n2. O restante vai para 4 filhos: \\(\\frac{2}{3} \\div 4 = \\frac{2}{12} = \\frac{1}{6}\\).\n3. Conferindo: \\(\\frac{1}{3} + 4 \\cdot \\frac{1}{6} = \\frac{2}{6} + \\frac{4}{6} = 1\\) ✓.\n\nResposta: **E**.",
       "interativo": null
@@ -600,8 +601,8 @@
         "porcentagem"
       ],
       "essencial": [
-        "Preço = custo + lucro. Dobrar o lucro não mexe no custo: \\(25 + 30 = 55\\).",
-        "Aumento percentual = aumento ÷ valor antigo: \\(\\frac{15}{40} = 37{,}5\\%\\)."
+        "Preço de venda = custo + lucro.",
+        "Aumento percentual = aumento ÷ valor antigo × 100."
       ],
       "raciocinio": "1. Preço = custo + lucro: \\(40 = 25 + 15\\) (veja: *Porcentagem*).\n2. Dobrar o lucro: \\(15 \\cdot 2 = 30\\). O custo não muda, então o novo preço é \\(25 + 30 = 55\\).\n3. Aumento sobre o preço antigo: \\(\\frac{55 - 40}{40} = \\frac{15}{40} = 0{,}375 = 37{,}5\\%\\).\n\nResposta: **A**.",
       "interativo": null
@@ -631,8 +632,8 @@
         "grandezas-proporcionais"
       ],
       "essencial": [
-        "Grandezas inversamente proporcionais: o produto é constante. Aqui, nota × dias = 5.",
-        "Ache a constante pelos extremos: nota 5 com 1 dia. Com 2 dias, \\(\\frac{5}{2} = 2{,}5\\)."
+        "Grandezas inversamente proporcionais têm produto constante: \\(x \\cdot y = k\\).",
+        "Ache a constante com um par de valores conhecido."
       ],
       "raciocinio": "1. Inversamente proporcional: nota × dias = constante (veja: *Grandezas diretamente e inversamente proporcionais*).\n2. Encontre a constante pelos extremos: a melhor nota (5) corresponde ao menor tempo (1 dia), então \\(k = 5 \\cdot 1 = 5\\). O outro extremo confirma: nota 1 com 5 dias, \\(1 \\cdot 5 = 5\\) ✓.\n3. Com 2 dias: \\(\\text{nota} = \\frac{5}{2} = 2{,}5\\).\n\n<div data-interativo=\"26-q20-inversa\"></div>\n\nResposta: **B**.",
       "interativo": null
@@ -663,7 +664,7 @@
       ],
       "essencial": [
         "Ordem das operações: primeiro parênteses, depois colchetes; dentro deles, multiplicação e divisão antes de soma e subtração.",
-        "Cuidado com o sinal: \\(1 - (-4) = 1 + 4 = 5\\)."
+        "Menos com menos dá mais: \\(a - (-b) = a + b\\)."
       ],
       "raciocinio": "Resolva cada número na ordem certa (veja: *Expressões numéricas e ordem das operações*):\n\n1. \\(a\\): primeiro o numerador. \\(25 \\div 125 = 0{,}2\\), então \\(a = \\frac{0{,}2}{500} = 0{,}0004\\).\n2. \\(b = 100 \\cdot (100 \\div 2) = 100 \\cdot 50 = 5000\\).\n3. \\(c\\), de dentro para fora: \\(1 - 5 = -4\\); \\(1 - (-4) = 5\\); \\(c = 1 + 5 = 6\\).\n4. \\(a \\cdot b = 0{,}0004 \\cdot 5000 = 2\\), e \\(2 \\cdot 6 = 12\\).\n\nResposta: **E**.",
       "interativo": null
@@ -693,8 +694,8 @@
         "equacoes-do-1o-grau"
       ],
       "essencial": [
-        "Números consecutivos: \\(x - 1\\), \\(x\\) e \\(x + 1\\). A soma é \\(3x\\).",
-        "No dia do aniversário, ano de nascimento = ano atual − idade. O mais velho tem o menor ano."
+        "Números consecutivos: \\(x - 1\\), \\(x\\) e \\(x + 1\\). A soma de três consecutivos é \\(3x\\).",
+        "Ano de nascimento = ano atual − idade, no dia do aniversário ou depois dele."
       ],
       "raciocinio": "1. Idades consecutivas: \\(x - 1\\), \\(x\\) e \\(x + 1\\). Soma: \\(3x = 129 \\Rightarrow x = 43\\) (veja: *Equações do 1º grau e problemas*).\n2. Idades: 42, 43 e 44. O mais velho tem 44 anos.\n3. No dia do aniversário, ano de nascimento = ano atual − idade: \\(2025 - 44 = 1981\\).\n\nResposta: **A**.\n\n**Dica de prova:** quem é mais velho nasceu antes e tem o **menor** ano de nascimento. As alternativas trazem os anos dos três amigos; confira qual deles a pergunta quer.",
       "interativo": null
@@ -727,9 +728,9 @@
         "circulo-e-circunferencia"
       ],
       "essencial": [
-        "Área cinza = área do quadrado − área do setor branco.",
-        "Círculo que encosta nos quatro lados do quadrado tem diâmetro igual ao lado: \\(r = 20\\).",
-        "Setor circular é uma fração do círculo: 270° são \\(\\frac{3}{4}\\) de 360°, então o setor é \\(\\frac{3}{4} \\cdot \\pi r^2\\)."
+        "Área de uma região sombreada = área da figura maior − área das partes brancas.",
+        "Círculo inscrito num quadrado tem diâmetro igual ao lado.",
+        "Setor circular é uma fração do círculo: área = \\(\\frac{\\alpha}{360^\\circ} \\cdot \\pi r^2\\)."
       ],
       "raciocinio": "1. Área cinza = quadrado − setor branco (veja: *Áreas de figuras planas*).\n2. Quadrado: \\(40^2 = 1600\\).\n3. O círculo encosta nos quatro lados, então o diâmetro é 40 e o raio é 20. Círculo inteiro: \\(\\pi \\cdot 20^2 = 400\\pi\\).\n4. 270° são \\(\\frac{3}{4}\\) de 360°: setor \\(= \\frac{3}{4} \\cdot 400\\pi = 300\\pi\\) (veja: *Círculo e circunferência*).\n5. Cinza: \\(1600 - 300\\pi\\).\n\nResposta: **B**.",
       "interativo": null
@@ -761,8 +762,8 @@
         "perimetro"
       ],
       "essencial": [
-        "Perímetro é o contorno: some só os lados de fora.",
-        "Quando dois quadrados se encostam, o lado comum fica dentro da figura e não conta."
+        "Perímetro é o contorno da figura: some só os lados de fora.",
+        "Lados encostados ficam dentro da figura e não entram no perímetro."
       ],
       "raciocinio": "1. Letra I: coluna de 4 quadrados, ou seja, um retângulo de 10 × 40: \\(2 \\cdot (10 + 40) = 100\\) cm.\n2. Letra F: a mesma coluna (100 cm) mais dois quadrados, cada um encostado por um só lado. Cada um acrescenta 2 lados de 10 cm ao contorno (veja: *Perímetro*): \\(100 + 20 + 20 = 140\\) cm.\n3. Total: \\(100 + 140 = 240\\) cm.\n\nResposta: **D**.",
       "interativo": null
@@ -792,8 +793,8 @@
         "volumes"
       ],
       "essencial": [
-        "Volume do bloco retangular: comprimento × largura × altura. Caixa: 60.000 cm³; livreto: 300 cm³.",
-        "Dividir os volumes dá um máximo; confirme que a arrumação existe: \\(5 \\cdot 2 \\cdot 20 = 200\\), sem sobra."
+        "Volume do bloco retangular: comprimento × largura × altura.",
+        "Dividir volumes dá só um limite máximo; confira se a arrumação cabe de fato nas medidas."
       ],
       "raciocinio": "1. Volume da caixa: \\(50 \\cdot 40 \\cdot 30 = 60\\,000\\) cm³. Volume do livreto: \\(15 \\cdot 10 \\cdot 2 = 300\\) cm³ (veja: *Volumes de sólidos*).\n2. Máximo possível: \\(60\\,000 \\div 300 = 200\\).\n3. Confirme que essa arrumação existe: o lado de 10 cm do livreto ao longo dos 50 cm da caixa (5 livretos), o de 15 cm ao longo dos 30 cm (2) e a espessura de 2 cm ao longo dos 40 cm (20). \\(5 \\cdot 2 \\cdot 20 = 200\\), sem sobra de espaço.\n\nResposta: **C**.",
       "interativo": null
@@ -826,8 +827,8 @@
         "triangulos"
       ],
       "essencial": [
-        "Combinação: escolher sem importar a ordem. Trios de 5 pontos: \\(C_{5,3} = 10\\).",
-        "Três pontos alinhados não formam triângulo: A, P, C e B, P, D estão nas diagonais, então \\(10 - 2 = 8\\)."
+        "Combinação: escolher sem importar a ordem. \\(C_{n,k} = \\frac{n!}{k!(n - k)!}\\).",
+        "Três pontos alinhados não formam triângulo."
       ],
       "raciocinio": "1. Cada triângulo é um trio de pontos, e a ordem não importa: \\(C_{5,3} = \\frac{5 \\cdot 4 \\cdot 3}{3 \\cdot 2 \\cdot 1} = 10\\) trios (veja: *Combinações: escolher sem importar a ordem*).\n2. Três pontos alinhados não formam triângulo (veja: *Triângulos: classificação e propriedades*). P está nas duas diagonais, então A, P, C (diagonal AC) e B, P, D (diagonal BD) estão alinhados: \\(10 - 2 = 8\\).\n\n<div data-interativo=\"26-q26-triangulos\"></div>\n\n3. “Não congruentes” quer dizer triângulos diferentes entre si. Num quadrilátero sem simetria, como o da figura, os 8 são todos diferentes; por isso o enunciado fala em número **máximo** (num quadrado, por exemplo, alguns seriam iguais).\n\nResposta: **C**.",
       "interativo": null
@@ -858,8 +859,8 @@
         "conversao-de-unidades"
       ],
       "essencial": [
-        "1 km = 1000 m: 10 km a 40 s por metro dão 400.000 s.",
-        "Para passar segundos a horas, divida por 3600; o resto, divida por 60 para achar os minutos."
+        "1 km = 1.000 m.",
+        "1 h = 60 min = 3.600 s. Para passar segundos a horas, divida por 3.600; o resto, por 60, dá os minutos."
       ],
       "raciocinio": "1. Converta a distância para metros (veja: *Conversão de unidades*): 10 km = 10 000 m.\n2. Tempo total: \\(10\\,000 \\cdot 40 = 400\\,000\\) s.\n3. Para h min s: \\(400\\,000 = 111 \\cdot 3600 + 400\\), e \\(400 = 6 \\cdot 60 + 40\\). O tempo é **111 h 6 min 40 s**.\n4. Nenhuma alternativa traz esse valor. A D (11 h 6 min 40 s = 40 000 s) é o tempo de 1 km, o que indica um erro no enunciado (10 km no lugar de 1 km) ou nas alternativas.\n\nPor isso a questão foi **anulada** no gabarito final e vale ponto para todos.",
       "interativo": null
@@ -891,8 +892,8 @@
         "graficos"
       ],
       "essencial": [
-        "No gráfico de barras agrupadas, cada trimestre tem duas barras: some novos e usados.",
-        "O menor total é o do 2º trimestre: \\(15 + 20 = 35\\) carros."
+        "No gráfico de barras agrupadas, cada categoria tem uma barra por série.",
+        "Para o total de cada categoria, some as barras dela."
       ],
       "raciocinio": "1. A pergunta é sobre carros vendidos, novos e usados juntos. Some as duas barras de cada trimestre (veja: *Leitura de gráficos*):\n\n| Trimestre | Novos | Usados | Total |\n|---|---|---|---|\n| 1º | 20 | 20 | 40 |\n| 2º | 15 | 20 | **35** |\n| 3º | 15 | 25 | 40 |\n| 4º | 10 | 30 | 40 |\n\n2. O menor total é o do 2º trimestre: 35 carros.\n\nResposta: **D**.",
       "interativo": null
@@ -922,8 +923,8 @@
         "tabelas"
       ],
       "essencial": [
-        "Na tabela de jogos, leia sempre a linha do time: o primeiro número é o gol dele.",
-        "Vitória é quando o primeiro número é maior. Confira com o exemplo do enunciado (Bayern 3 – 1 Barça)."
+        "Numa tabela de dupla entrada, leia sempre a partir da linha indicada pela regra.",
+        "Use o exemplo do enunciado para conferir como a tabela deve ser lida."
       ],
       "raciocinio": "1. Pela regra, o primeiro número é o gol do time da linha. Para contar as vitórias de um time, percorra a linha dele e marque as células em que o primeiro número é maior (veja: *Leitura de tabelas*).\n2. Barça: 1 – 0 → 1 vitória. Bayern: 3 – 1 e 2 – 0 → 2. City: 2 – 1, 1 – 0 e 2 – 1 → 3. Juventus: 4 – 2, 3 – 1 e 5 – 2 → 3. Real: nenhuma.\n\nResposta: **C**.\n\n**Dica de prova:** antes de contar, use o exemplo do próprio enunciado (Bayern 3 – 1 Barça) para conferir se você está lendo a tabela do jeito certo.",
       "interativo": null
@@ -953,9 +954,9 @@
         "problemas-de-logica"
       ],
       "essencial": [
-        "Em problemas de lógica, aplique primeiro a regra mais restritiva: a marrom fica na casa 5.",
-        "“Entre” vale no sentido amplo: a branca fica em qualquer posição entre a rosa e a azul, sem precisar encostar.",
-        "Monte uma tabela com cada posição possível da amarela e veja onde a rosa pode ficar."
+        "Em problemas de lógica, aplique primeiro a regra mais restritiva.",
+        "*Entre* pode valer no sentido amplo: em qualquer posição entre dois elementos, sem precisar encostar.",
+        "Uma tabela com as posições possíveis ajuda a testar todos os casos."
       ],
       "raciocinio": "Numere as casas de 1 (topo) a 5 (base) e comece pela regra mais restritiva (veja: *Problemas de lógica*):\n\n1. A marrom fica na casa 5; as outras quatro ocupam as casas 1 a 4.\n2. A amarela não pode ser a 1: fica na 2, 3 ou 4.\n3. Das três casas que sobram, a branca fica na do meio, **entre** a rosa e a azul, que vão nas pontas.\n\n| Amarela | Casas livres | Branca | Rosa pode ficar em |\n|---|---|---|---|\n| 2 | 1, 3, 4 | 3 | 1 ou 4 |\n| 3 | 1, 2, 4 | 2 | 1 ou 4 |\n| 4 | 1, 2, 3 | 2 | 1 ou 3 |\n\n<div data-interativo=\"26-q30-casas\"></div>\n\n4. A rosa pode ficar nas casas 1, 3 e 4: **3 possibilidades**.\n\nResposta: **C**.",
       "interativo": null

@@ -26,7 +26,7 @@ js/armazenamento.js   localStorage com alternativa em memória
 js/interativos.js     registro dos componentes interativos
 js/interativos/       kit.js (peças comuns), comuns.js (usados por mais de uma prova) e os componentes de cada prova
 vendor/               fontes Bricolage Grotesque, Source Sans 3 e IBM Plex Mono (Google Fonts, licença OFL), KaTeX 0.16.11 e marked 12.0.2
-dados/provas.json     lista de provas (a ordem aqui é a ordem no app)
+dados/provas.json     lista de provas (a ordem aqui é a ordem no app), com o gabarito e os temas de teoria usados, para a tela inicial não abrir cada prova
 dados/temas.json      lista fixa de temas por matéria
 dados/frases.json     frases sobre educação (destaque da home e sorteio do resultado)
 dados/<prova>.json    uma prova por arquivo
@@ -35,7 +35,7 @@ img/<prova>/          imagens recortadas de cada prova
 manifest.webmanifest  nome, cores e ícones do app instalado
 sw.js                 service worker: guarda os arquivos para o app abrir sem internet
 REVISAR.md            discordâncias e observações sobre os gabaritos
-ferramentas/          validar-dados.mjs confere os dados antes de publicar; gerar-sw.mjs atualiza a lista de arquivos do sw.js
+ferramentas/          validar-dados.mjs confere os dados antes de publicar; gerar-sw.mjs atualiza o resumo de provas.json e a lista de arquivos do sw.js
 ```
 
 ## Adicionar uma prova
@@ -46,6 +46,8 @@ ferramentas/          validar-dados.mjs confere os dados antes de publicar; gera
 ```json
 { "id": "ps-2024-1-b", "nome": "PS 2024.1 – Prova B", "arquivo": "ps-2024-1-b.json" }
 ```
+
+Os campos `gabarito` e `teoria` de `provas.json` são preenchidos por `node ferramentas/gerar-sw.mjs`; não edite à mão.
 
 O `id` aparece no endereço (`#/ps-2024-1-b/5`) e é a chave do progresso salvo no navegador. Não mude o `id` de uma prova já publicada, senão o progresso dos alunos se perde.
 
@@ -74,7 +76,7 @@ O `id` aparece no endereço (`#/ps-2024-1-b/5`) e é a chave do progresso salvo 
 - **`conteudo`** é o tema da questão e aparece na lista “Para revisar” do resultado. Ele precisa ser um dos temas fixos de [dados/temas.json](dados/temas.json) (15 de Português e 14 de Matemática), para que as provas usem os mesmos nomes. Isso é **obrigatório**: rode `node ferramentas/validar-dados.mjs` antes de publicar. Ele falha se algum tema estiver fora da lista e também confere alternativas, gabarito, explicações, imagens e a biblioteca de teoria. Para criar um tema novo, acrescente-o primeiro em `temas.json`.
 - **`imagens`** lista as imagens usadas na questão (para referência). Onde cada imagem aparece é definido pelo próprio texto (veja abaixo).
 - **`teoria`** é a lista de temas da biblioteca (`dados/teoria/<id>.json`) que a questão usa: **no máximo 2**, os mais importantes. Na “Base teórica”, eles viram os botões de “Quer se aprofundar?”. Veja “Biblioteca de teoria” abaixo.
-- **`essencial`** é o resumo da teoria escrito para esta questão (veja “As três explicações”).
+- **`essencial`** é o resumo do conceito geral que a questão usa (veja “As três explicações”).
 - **`interativo`:** opcional. Use `{ "tipo": "nome", ...configurações }` e registre uma função com o mesmo nome em `js/interativos.js`. O componente aparece logo abaixo dos textos de apoio, **antes** de o aluno responder (cuidado para não entregar a resposta).
 
 ### As três explicações
@@ -84,7 +86,7 @@ As seções aparecem nesta ordem: **Raciocínio para resolver** (aberta), **Por 
 - **`raciocinio`:** o passo a passo desta questão, com os números e trechos dela. **Até 120 palavras.** Quando precisa de um conceito, remete ao tema com “(veja: *Título do tema*)”, usando o título exato do arquivo; cada tema listado em `teoria` deve ser citado assim pelo menos uma vez. Termina com no máximo uma **Dica de prova** (até 30 palavras, fora do limite de 120), e só se ela for útil e diferente das dicas já dadas em questões do mesmo tema.
 - **`porQueErradas`:** uma frase por alternativa errada, apontando o erro específico (conta errada, conceito confundido, leitura equivocada). **Até 25 palavras.** Não reexplica a teoria.
 - **Base teórica**, em duas camadas:
-  - **`essencial`:** de 2 a 4 tópicos curtos (**até 25 palavras cada**), só com o conceito que esta questão usa, escritos para ela. Pode trazer um exemplo do próprio texto da questão.
+  - **`essencial`:** de 2 a 4 tópicos curtos (**até 25 palavras cada**), só com o conceito geral que esta questão usa. Exemplos, se houver, são genéricos: trechos, números e dados da prova ficam no `raciocinio`, e nada se repete entre os dois.
   - **`teoria`:** até 2 referências à biblioteca. Embaixo do essencial, “Quer se aprofundar?” mostra um botão por tema, que abre o tema completo (com os vídeos) num painel por cima da questão. A teoria completa nunca é escrita dentro da questão.
 
 As palavras são contadas como no verificador: cada fórmula `\\( … \\)` vale uma palavra, e imagens e interativos não contam.
@@ -167,17 +169,16 @@ A página **Sobre** (`#/sobre`) reúne cinco blocos: projeto independente, de on
 
 O rodapé segue o fim da tela de Início do design (rejunte de 2 px no topo, texto secundário e links azuis sublinhados) e aparece em todas as telas, menos na tela cheia. Os links são Ajuda, Sobre e Contato.
 
-## Ajuda, passo a passo e dicas
+## Ajuda, boas-vindas e dicas
 
 A página **Ajuda** (`#/ajuda`) explica cada recurso do app, um bloco por assunto, com atalhos no topo. Os textos ficam na constante `AJUDA` de [js/app.js](js/app.js), e dá para abrir direto num bloco: `#/ajuda/simulado`, `#/ajuda/atalhos`. Ao mudar um comportamento do app, atualize o bloco correspondente.
 
 As orientações aparecem **uma vez só** e sempre podem ser puladas:
 
-- **Boas-vindas** (3 passos), no primeiro acesso. Chave `boas-vindas`.
-- **Primeiro simulado:** as regras vêm em 3 passos (tempo, gabarito no fim, sem pausa) antes de começar. Depois disso, começar um simulado pede só uma confirmação curta. Chave `intro-simulado`, gravada só quando o aluno começa de fato.
+- **Boas-vindas** (uma tela), no primeiro acesso. Chave `boas-vindas`.
 - **Dicas** numa faixa discreta no topo da tela, que somem em “Entendi”: na primeira questão (só no celular: ▦ e Aa) e na primeira revisão. Chaves `dica:questao` e `dica:revisao`; os textos ficam em `DICAS`.
 
-O passo a passo usa `abrirPassos()`, que serve para qualquer sequência curta de passos.
+As regras do simulado não têm passo a passo: ficam numa linha na confirmação de início (3 horas, o tempo não pausa, aviso quando faltarem 20 minutos).
 
 ## Uso sem internet (PWA)
 

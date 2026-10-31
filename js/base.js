@@ -17,7 +17,8 @@ anuncio.setAttribute('aria-live', 'polite');
 document.body.appendChild(anuncio);
 
 export const estado = {
-  catalogo: null,          // [{ id, nome, arquivo }]
+  catalogo: null,          // [{ id, nome, arquivo, gabarito }]
+  temasTeoria: [],         // ids dos temas de teoria usados nas provas
   provas: new Map(),       // id → dados da prova
   teoria: new Map(),       // id do tema → { titulo, texto, videos } (ou null se faltar)
   selecao: null,          // { chave: 'id/n', letra }
@@ -39,9 +40,16 @@ export function listaNumeros(nums) {
   return nums.slice(0, -1).join(', ') + ' e ' + nums[nums.length - 1];
 }
 
+let anuncioPendente = null;
+
 export function anunciar(texto) {
+  limparAnuncio();
+  anuncioPendente = setTimeout(() => { anuncio.textContent = texto; }, 60);
+}
+
+export function limparAnuncio() {
+  clearTimeout(anuncioPendente);
   anuncio.textContent = '';
-  setTimeout(() => { anuncio.textContent = texto; }, 60);
 }
 
 export const normalizar = (s) => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
@@ -77,7 +85,16 @@ export async function carregarCatalogo() {
   if (!r.ok) throw new Error('Não foi possível carregar a lista de provas.');
   const j = await r.json();
   estado.catalogo = j.provas;
+  estado.temasTeoria = j.teoria || [];
   return estado.catalogo;
+}
+
+export function provaResumida(item) {
+  return {
+    id: item.id,
+    nome: item.nome,
+    questoes: [...(item.gabarito || '')].map((l, i) => ({ numero: i + 1, correta: l === '*' ? null : l, anulada: l === '*' })),
+  };
 }
 
 export async function carregarProva(id) {
@@ -119,29 +136,29 @@ export async function carregarTeorias(ids) {
   }));
 }
 
-export async function carregarListaTemas() {
-  if (!estado.temas) estado.temas = await (await fetch('dados/temas.json', { cache: 'no-cache' })).json();
-  return estado.temas;
-}
+let listaTemas = null;
 
+export function carregarListaTemas() {
+  if (!listaTemas) {
+    listaTemas = fetch('dados/temas.json', { cache: 'no-cache' })
+      .then(r => { if (!r.ok) throw new Error('Não foi possível carregar a lista de temas.'); return r.json(); })
+      .catch(e => { listaTemas = null; throw e; });
+  }
+  return listaTemas;
+}
 
 export async function carregarBiblioteca() {
-  const cat = await carregarCatalogo();
-  const provas = (await Promise.all(cat.map(p => carregarProva(p.id).catch(() => null)))).filter(Boolean);
-  await carregarTeorias(idsTeoria(provas));
-  return idsTeoria(provas).map(id => [id, estado.teoria.get(id)]).filter(([, t]) => t).map(([id, t]) => ({ ...t, id }));
+  await carregarCatalogo();
+  const ids = estado.temasTeoria;
+  await carregarTeorias(ids);
+  return ids.map(id => [id, estado.teoria.get(id)]).filter(([, t]) => t).map(([id, t]) => ({ ...t, id }));
 }
-
-export function idsTeoria(provas) {
-  return [...new Set(provas.flatMap(p => p.questoes.flatMap(q => q.teoria || [])))];
-}
-
 
 async function verificarTemas(prova) {
   try {
-    await carregarListaTemas();
+    const temas = await carregarListaTemas();
     for (const q of prova.questoes) {
-      const lista = estado.temas[q.materia];
+      const lista = temas[q.materia];
       if (!lista || !lista.includes(q.conteudo)) {
         console.warn(`${prova.nome}, questão ${q.numero}: o tema "${q.conteudo}" não está em dados/temas.json`);
       }
