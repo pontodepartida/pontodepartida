@@ -163,14 +163,14 @@ export async function telaInicio() {
 
   const htmlCelular = `<div class="inicio__celular so-celular">
       <div class="modos" role="group" aria-label="Como fazer as provas">
-        ${modoCartao('estudar', 'Estudar', 'Sem tempo. Explicação a cada resposta.')}
-        ${modoCartao('simulado', 'Simulado', 'Com tempo. Resultado só no fim.')}
+        ${modoCartao('estudar', 'Estudar', 'Sem limite de tempo, com a explicação após cada resposta.')}
+        ${modoCartao('simulado', 'Simulado', 'Com 3 horas de prova e o gabarito só no final.')}
       </div>
       <section class="lista-celular" aria-labelledby="lista-celular-titulo">
         <div class="lista-celular__topo">
           <h2 class="rotulo" id="lista-celular-titulo">Provas</h2>
           <button type="button" class="lista-celular__ordem" data-acao="ordem" data-ordem="${ordem === 'recentes' ? 'antigas' : 'recentes'}"
-            aria-label="Ordenadas das ${ordem === 'recentes' ? 'mais recentes' : 'mais antigas'} para as ${ordem === 'recentes' ? 'mais antigas' : 'mais recentes'}. Inverter a ordem">
+            aria-label="As provas estão das ${ordem === 'recentes' ? 'mais recentes' : 'mais antigas'} para as ${ordem === 'recentes' ? 'mais antigas' : 'mais recentes'}; ative para inverter a ordem">
             ${ordem === 'recentes' ? 'Mais recentes' : 'Mais antigas'} <span aria-hidden="true">${ordem === 'recentes' ? '↓' : '↑'}</span>
           </button>
         </div>

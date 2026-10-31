@@ -260,10 +260,10 @@ const celulaExemplo = (s, n, simbolo) => `<span class="celula celula--${s} celul
 
 const AJUDA = [
   ['comecar', 'Primeiros passos', `
-    <p>Na tela inicial, escolha uma prova. Você pode fazer as questões em qualquer ordem e parar quando quiser: ao voltar, o cartão da prova mostra <b>Continuar na questão…</b> e leva para a primeira que ficou sem resposta.</p>
-    <p>A chave <b>Estudar / ◷ Simulado</b>, acima da lista de provas, escolhe o modo. No estudo não há cronômetro, e a explicação aparece logo depois de cada resposta. No simulado, a prova é feita como no dia: com 3 horas e com o gabarito só no final.</p>`],
+    <p>Na tela inicial, escolha uma prova. Você pode fazer as questões em qualquer ordem e parar quando quiser: ao voltar, a prova aparece com a opção <b>Continuar na questão…</b>, que leva para a primeira que ficou sem resposta.</p>
+    <p>Acima da lista de provas fica a escolha entre <b>Estudar</b> e <b>Simulado</b>. No estudo não há cronômetro, e a explicação aparece logo depois de cada resposta. No simulado, a prova é feita como no dia: com 3 horas e com o gabarito só no final.</p>`],
   ['questao', 'Responder uma questão', `
-    <p>Toque numa alternativa e depois em <b>Confirmar resposta</b>; até confirmar, dá para trocar de alternativa. Depois disso, a resposta fica gravada. Para refazer a prova, use <b>Recomeçar</b> no cartão dela, o que apaga todas as respostas daquela prova.</p>
+    <p>Toque numa alternativa e depois em <b>Confirmar resposta</b>; até confirmar, dá para trocar de alternativa. Depois disso, a resposta fica gravada. Para refazer a prova, use <b>Recomeçar</b> na tela inicial; isso apaga todas as respostas daquela prova.</p>
     <p>Se não souber, use <b>Pular para a…</b> e volte depois. Toque numa imagem para ampliá-la.</p>`],
   ['explicacoes', 'As explicações', `
     <p>Depois de confirmar, aparecem três seções:</p>
