@@ -106,7 +106,7 @@ document.addEventListener('click', (e) => {
     case 'modo': {
       armazenamento.gravar('modo-provas', alvo.dataset.modo);
       return render({ manterRolagem: true }).then(() => {
-        const b = app.querySelector(`[data-acao="modo"][data-modo="${alvo.dataset.modo}"]`);
+        const b = [...app.querySelectorAll(`[data-acao="modo"][data-modo="${alvo.dataset.modo}"]`)].find(x => x.offsetParent);
         if (b) b.focus({ preventScroll: true });
       });
     }

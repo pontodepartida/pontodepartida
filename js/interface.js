@@ -137,16 +137,12 @@ function botaoTelaCheia() {
 
 // ---------- Cabeçalhos ----------
 
-export function cabecalhoInicio(titulo = 'Suas provas', nTemas = 0) {
+export function cabecalhoInicio(nTemas = 0) {
   return `<header class="cabecalho cabecalho--inicio">
     <div class="cabecalho__barra">
-      <a class="cabecalho__marca so-computador" href="#/">Ponto de Partida</a>
+      <a class="cabecalho__marca" href="#/">Ponto de Partida</a>
       <span class="cabecalho__sub so-computador">Provas antigas do processo seletivo do IFSP</span>
-      <div class="cabecalho__inicio-mobile">
-        <h1 class="cabecalho__grande so-celular" tabindex="-1" style="margin:0">${titulo}</h1>
-        <span class="cabecalho__sub">Ponto de Partida · IFSP</span>
-      </div>
-      <span class="cabecalho__espaco so-computador"></span>
+      <span class="cabecalho__espaco"></span>
       <a class="cabecalho__link" href="#/teoria">Teoria${nTemas ? `<span class="so-computador">&nbsp;· ${nTemas} temas</span>` : ''}</a>
       <a class="cabecalho__link" href="#/pdfs">PDFs</a>
     </div>
@@ -232,7 +228,7 @@ export function telaSobre(secao) {
   document.title = 'Sobre · Ponto de Partida';
   app.innerHTML = `<div class="app">
     ${cabecalhoPagina('Sobre')}
-    <main id="conteudo" class="conteudo sobre">
+    <main id="conteudo" class="conteudo sobre sobre--leitura">
       <div class="sobre__cabeca">
         <h1 class="sobre__titulo" tabindex="-1">Sobre o Ponto de Partida</h1>
         <p class="sobre__intro">O Ponto de Partida reúne provas antigas do processo seletivo do IFSP para estudar uma questão por vez, com a explicação de cada alternativa.</p>
@@ -318,13 +314,17 @@ export function telaAjuda(secao) {
   document.title = 'Ajuda · Ponto de Partida';
   app.innerHTML = `<div class="app">
     ${cabecalhoPagina('Ajuda', '#/', 'Voltar às provas', 'ajuda')}
-    <main id="conteudo" class="conteudo sobre ajuda">
+    <main id="conteudo" class="conteudo sobre sobre--leitura ajuda">
       <div class="sobre__cabeca">
         <h1 class="sobre__titulo" tabindex="-1">Como usar o Ponto de Partida</h1>
         <p class="sobre__intro">Aqui está explicado como funciona cada parte do app. Dúvidas que não estejam respondidas podem ser enviadas para o <a href="#/sobre/contato">contato</a>.</p>
       </div>
       <nav class="ajuda__sumario" aria-label="Assuntos da ajuda">
-        ${AJUDA.map(([id, rotulo]) => `<a class="ajuda__assunto" href="#/ajuda/${id}">${rotulo}</a>`).join('')}
+        ${AJUDA.map(([id, rotulo], i) => `<a class="ajuda__assunto" href="#/ajuda/${id}">
+          <span class="ajuda__num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>
+          <span class="ajuda__rotulo">${rotulo}</span>
+          <span class="ajuda__seta" aria-hidden="true">›</span>
+        </a>`).join('')}
       </nav>
       <div class="grupo">
         ${AJUDA.map(([id, rotulo, html]) => `<section class="sobre__bloco" id="ajuda-${id}" aria-labelledby="ajuda-${id}-titulo">

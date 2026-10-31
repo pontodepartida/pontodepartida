@@ -118,17 +118,81 @@ export async function telaInicio() {
     </div>`;
   }
 
+  const linhaProva = (i) => {
+    const id = i.prova.id;
+    let href = `#/${id}`, sub, contagem = '', extra = '';
+    if (modo === 'simulado') {
+      const res = lerResultadoSimulado(id);
+      if (res) {
+        const rr = resumo(i.prova, res);
+        href = `#/${id}/simulado/resultado`;
+        sub = `Feito em ${dataCurta(res.feitoEm)} · ${rr.acertos} de ${rr.total}`;
+      } else {
+        href = `#/${id}/simulado`;
+        extra = ` data-acao="comecar-simulado" data-id="${id}"`;
+        sub = `3 horas · ${i.r.total} questões`;
+      }
+    } else if (i.status === 'concluida') {
+      href = `#/${id}/resultado`;
+      sub = 'Concluída · ver resultado';
+    } else if (i.status === 'andamento') {
+      const n = primeiraSemResposta(i.prova, i.prog);
+      href = n ? `#/${id}/${n}` : `#/${id}/resultado`;
+      sub = `<span class="linha-prova__acao">${n ? `Continuar na questão ${n}` : 'Ver resultado'}</span>`;
+      contagem = `<span class="linha-prova__contagem">${i.r.respondidas}/${i.r.total}<span class="visualmente-oculto"> respondidas</span></span>`;
+    } else {
+      sub = `${i.r.total} questões · não iniciada`;
+    }
+    const recomecar = modo === 'estudar' && i.status !== 'nova'
+      ? ` <span aria-hidden="true">·</span> <button type="button" class="linha-prova__recomecar" data-acao="recomecar" data-id="${id}" aria-label="Recomeçar a ${esc(i.prova.nome)}">Recomeçar</button>`
+      : '';
+    return `<li class="linha-prova">
+      <span class="linha-prova__textos">
+        <a class="linha-prova__nome" href="${href}"${extra}>${esc(i.prova.nome)}</a>
+        <span class="linha-prova__sub">${sub}${recomecar}</span>
+      </span>
+      ${contagem}
+      <span class="linha-prova__seta" aria-hidden="true">›</span>
+    </li>`;
+  };
+
+  const modoCartao = (valor, titulo, texto) => `<button type="button" class="modo-cartao" data-acao="modo" data-modo="${valor}" aria-pressed="${modo === valor}">
+      <span class="modo-cartao__titulo">${titulo}</span>
+      <span class="modo-cartao__texto">${texto}</span>
+    </button>`;
+
+  const htmlCelular = `<div class="inicio__celular so-celular">
+      <div class="modos" role="group" aria-label="Como fazer as provas">
+        ${modoCartao('estudar', 'Estudar', 'Sem tempo. Explicação a cada resposta.')}
+        ${modoCartao('simulado', 'Simulado', 'Com tempo. Resultado só no fim.')}
+      </div>
+      <section class="lista-celular" aria-labelledby="lista-celular-titulo">
+        <div class="lista-celular__topo">
+          <h2 class="rotulo" id="lista-celular-titulo">Provas</h2>
+          <button type="button" class="lista-celular__ordem" data-acao="ordem" data-ordem="${ordem === 'recentes' ? 'antigas' : 'recentes'}"
+            aria-label="Ordenadas das ${ordem === 'recentes' ? 'mais recentes' : 'mais antigas'} para as ${ordem === 'recentes' ? 'mais antigas' : 'mais recentes'}. Inverter a ordem">
+            ${ordem === 'recentes' ? 'Mais recentes' : 'Mais antigas'} <span aria-hidden="true">${ordem === 'recentes' ? '↓' : '↑'}</span>
+          </button>
+        </div>
+        <ul class="lista-celular__provas">${ordenarProvas(infos, ordem).map(linhaProva).join('')}</ul>
+      </section>
+      ${htmlFrase(frases && frases.destaque, 'citacao--fim')}
+    </div>`;
+
   const notaModo = modo === 'simulado'
     ? 'No simulado, cada prova tem 3 horas e o gabarito só aparece no final. O progresso do modo estudo não é afetado.'
     : 'Neste modo não há limite de tempo, e a explicação aparece logo depois de cada resposta.';
 
   app.innerHTML = `<div class="app">
-    ${cabecalhoInicio(titulo, idsTeoria(provas).length)}
+    ${cabecalhoInicio(idsTeoria(provas).length)}
     <main id="conteudo" class="conteudo inicio">
-      ${htmlFrase(frases && frases.destaque, destaque ? 'citacao--destaque' : 'citacao--destaque citacao--primeira')}
+      ${htmlFrase(frases && frases.destaque, `citacao--destaque${destaque ? '' : ' citacao--primeira'} so-computador`)}
       <div class="inicio__cabeca">
-        <h1 class="inicio__titulo" tabindex="-1">${titulo}</h1>
+        <h1 class="inicio__titulo" tabindex="-1">${titulo === 'Escolha uma prova' ? titulo
+          : `<span class="so-computador">${titulo}</span><span class="so-celular">Escolha uma prova</span>`}</h1>
       </div>
+      ${htmlCelular}
+      <div class="inicio__computador so-computador">
       ${htmlDestaque}
       ${outras.length ? `<div class="lista-provas__topo">
         <div class="lista-provas__esq">
@@ -146,6 +210,7 @@ export async function telaInicio() {
       </div>
       <p class="lista-provas__nota">${notaModo}</p>
       <div class="grade-provas">${htmlOutras}</div>` : ''}
+      </div>
       ${avisoSalvo}
     </main>
     ${rodape()}
