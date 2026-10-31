@@ -8,7 +8,7 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23FFFFFF'/%3E%3Cpath d='M0 0H32A32 32 0 0 1 0 32Z' fill='%232638A0'/%3E%3Ccircle cx='24' cy='24' r='4' fill='%23E3A72F'/%3E%3C/svg%3E">
   <link rel="stylesheet" href="vendor/fontes/fontes.css">
   <link rel="stylesheet" href="vendor/katex/katex.min.css">
-  <link rel="stylesheet" href="css/estilo.css?v=2026-10-30k">
+  <link rel="stylesheet" href="css/estilo.css?v=2026-10-30l">
   <script defer src="vendor/katex/katex.min.js"></script>
   <script defer src="vendor/marked/marked.min.js"></script>
   <script type="module" src="js/app.js?v=2026-10-30j"></script>
@@ -16,7 +16,10 @@
 <body>
   <a class="pular-conteudo" href="#conteudo">Pular para o conteúdo</a>
   <div id="app" aria-live="off">
-    <div class="carregando">Carregando…</div>
+    <div class="carregando" role="status">
+      <div class="carregando__mosaico" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <span>Carregando…</span>
+    </div>
   </div>
 
   <dialog id="dialogo" class="dialogo"></dialog>
