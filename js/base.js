@@ -27,6 +27,7 @@ export const estado = {
   letraAberta: false,      // painel "Tamanho da letra" aberto
   biblioteca: null,        // página Teoria: { temas, grupos, materias, aba }
   comemorar: false,
+  instalar: null,          // pedido de instalação guardado do evento beforeinstallprompt
 };
 
 // ---------- Utilidades ----------

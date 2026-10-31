@@ -156,6 +156,13 @@ document.addEventListener('click', (e) => {
       alvo.closest('.dica').remove();
       return ajustarFixos();
     }
+    case 'instalar': {
+      const pedido = estado.instalar;
+      if (!pedido) return;
+      estado.instalar = null;
+      mostrarInstalar();
+      return pedido.prompt();
+    }
     case 'exportar': return exportarProgresso();
     case 'importar': return importarProgresso();
     case 'tela-cheia': return entrarTelaCheia();
@@ -296,6 +303,22 @@ window.addEventListener('beforeunload', (e) => {
     e.returnValue = '';
   }
 });
+// ---------- Instalar o app ----------
+
+function mostrarInstalar() {
+  document.querySelectorAll('[data-acao="instalar"]').forEach(b => { b.hidden = !estado.instalar; });
+}
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  estado.instalar = e;
+  mostrarInstalar();
+});
+
+window.addEventListener('appinstalled', () => {
+  estado.instalar = null;
+  mostrarInstalar();
+});
+
 render().then(() => {
   if (!armazenamento.ler('boas-vindas') && !dialogo.open) abrirBoasVindas();
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});

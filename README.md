@@ -167,7 +167,7 @@ Ficam em [dados/frases.json](dados/frases.json). A frase em `destaque` aparece f
 
 A página **Sobre** (`#/sobre`) reúne cinco blocos: projeto independente, de onde vêm as provas, sobre as explicações, privacidade e contato. Os textos ficam na constante `SOBRE` de [js/app.js](js/app.js), e o e-mail, em `CONTATO`. Dá para abrir direto num bloco: `#/sobre/privacidade`, `#/sobre/contato`.
 
-O rodapé segue o fim da tela de Início do design (rejunte de 2 px no topo, texto secundário e links azuis sublinhados) e aparece em todas as telas, menos na tela cheia. Os links são Ajuda, Sobre e Contato.
+O rodapé segue o fim da tela de Início do design (rejunte de 2 px no topo, texto secundário e links azuis sublinhados) e aparece em todas as telas, menos na tela cheia. Os links são Ajuda, Sobre e Contato. No celular, quando o navegador oferece a instalação (evento `beforeinstallprompt`, no Chrome do Android), aparece também **Instalar**, que abre o pedido de instalação do próprio navegador. O botão some depois que o app é instalado.
 
 ## Ajuda, boas-vindas e dicas
 

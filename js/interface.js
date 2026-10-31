@@ -201,6 +201,7 @@ export function rodape() {
         <a class="link-botao link-botao--sublinhado" href="#/ajuda">Ajuda</a>
         <a class="link-botao link-botao--sublinhado" href="#/sobre">Sobre</a>
         <a class="link-botao link-botao--sublinhado" href="#/sobre/contato">Contato</a>
+        <button type="button" class="link-botao link-botao--sublinhado rodape__instalar so-celular" data-acao="instalar"${estado.instalar ? '' : ' hidden'}>Instalar</button>
       </nav>
     </div>
   </footer>`;
@@ -307,7 +308,8 @@ const AJUDA = [
     </table>`],
   ['progresso', 'Onde fica o seu progresso', `
     <p>As respostas ficam salvas só neste navegador, sem cadastro. Elas somem se você limpar os dados de navegação ou usar uma janela anônima.</p>
-    <p>Para continuar em outro aparelho, use <b>↓ Exportar progresso</b>, no fim da tela inicial, e depois <b>↑ Importar</b> no outro navegador. Importar troca o progresso de lá pelo do arquivo.</p>`],
+    <p>Para continuar em outro aparelho, use <b>↓ Exportar progresso</b>, no fim da tela inicial, e depois <b>↑ Importar</b> no outro navegador. Importar troca o progresso de lá pelo do arquivo.</p>
+    <p>No celular, o app pode ser instalado na tela inicial e funciona sem internet depois da primeira visita. Quando o navegador permite, aparece a opção <b>Instalar</b> no rodapé. No iPhone, use Compartilhar e depois Adicionar à Tela de Início.</p>`],
 ];
 
 export function telaAjuda(secao) {
