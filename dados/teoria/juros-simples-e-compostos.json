@@ -1,0 +1,17 @@
+{
+  "id": "juros-simples-e-compostos",
+  "titulo": "Juros simples e compostos",
+  "materia": "Matemática",
+  "grupo": "Razão, proporção e porcentagem",
+  "texto": "**Juros** são o valor cobrado numa dívida, ou recebido numa aplicação, pelo uso do dinheiro ao longo do tempo.\n\n| Termo | Significado |\n|---|---|\n| **Capital** \\(C\\) | valor inicial |\n| **Taxa** \\(i\\) | porcentagem por período (ao mês, ao ano) |\n| **Tempo** \\(t\\) | número de períodos, na mesma unidade da taxa |\n| **Montante** \\(M\\) | valor final: capital + juros |\n\n**Juros simples:** os juros de todos os períodos são calculados sobre o **capital inicial**. Todo período rende o mesmo valor.\n\n\\[J = C \\cdot i \\cdot t \\qquad M = C\\,(1 + i \\cdot t)\\]\n\n**Juros compostos:** os juros de cada período são calculados sobre o **montante do período anterior** (“juros sobre juros”). Cada período multiplica o valor por \\(1 + i\\).\n\n\\[M = C\\,(1 + i)^t\\]\n\nExemplo: R$ 1.000,00 a 10% ao ano, por 3 anos.\n\n| Ano | Simples | Compostos |\n|---|---|---|\n| 1 | \\(1000 + 100 = 1100\\) | \\(1000 \\cdot 1{,}1 = 1100\\) |\n| 2 | \\(1100 + 100 = 1200\\) | \\(1100 \\cdot 1{,}1 = 1210\\) |\n| 3 | \\(1200 + 100 = 1300\\) | \\(1210 \\cdot 1{,}1 = 1331\\) |\n\nNo 1º período, os dois regimes dão o mesmo valor. Depois, os compostos crescem mais depressa, porque os juros também passam a render.\n\n**Cuidados:**\n\n- taxa e tempo precisam estar na mesma unidade (taxa ao mês com tempo em meses);\n- escreva a taxa como decimal: \\(20\\% = 0{,}2\\), e o fator de um período é \\(1{,}2\\);\n- juros compostos são aumentos sucessivos: os fatores se multiplicam (veja *Aumentos e descontos sucessivos*).",
+  "videos": [
+    {
+      "titulo": "Juros simples - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=iL574dWQ5Ew"
+    },
+    {
+      "titulo": "Juros compostos - Prof. Paulo Pereira",
+      "url": "https://www.youtube.com/watch?v=-n8_IZbVAyw"
+    }
+  ]
+}

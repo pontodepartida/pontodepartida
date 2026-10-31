@@ -1,4 +1,4 @@
-import { app, esc, carregarCatalogo } from './base.js';
+import { app, esc, carregarCatalogo, htmlModalidade } from './base.js';
 import { cabecalhoPagina, rodape } from './interface.js';
 
 // ---------- PDFs ----------
@@ -11,7 +11,8 @@ export async function telaPdfs() {
   const [catalogo, r] = await Promise.all([carregarCatalogo(), fetch('dados/pdfs.json', { cache: 'no-cache' })]);
   if (!r.ok) throw new Error('Não foi possível carregar a lista de PDFs.');
   const { pasta, provas } = await r.json();
-  const nome = (id) => (catalogo.find(p => p.id === id) || {}).nome || id;
+  const item = (id) => catalogo.find(p => p.id === id) || {};
+  const nome = (id) => item(id).nome || id;
   document.title = 'PDFs · Ponto de Partida';
 
   app.innerHTML = `<div class="app">
@@ -23,7 +24,7 @@ export async function telaPdfs() {
       </div>
       <div class="grupo">
         ${provas.map(p => `<section class="pdfs__prova" aria-labelledby="pdfs-${p.id}">
-          <h2 class="pdfs__nome" id="pdfs-${p.id}">${esc(nome(p.id))}</h2>
+          <h2 class="pdfs__nome" id="pdfs-${p.id}">${esc(nome(p.id))}${htmlModalidade(item(p.id).modalidade)}</h2>
           <ul class="pdfs__arquivos">
             ${p.arquivos.map(a => `<li><a class="pdfs__arquivo" href="${encodeURI(pasta + a.arquivo)}" target="_blank" rel="noopener"
               download="${esc(nome(p.id) + ' - ' + a.rotulo)}.pdf">

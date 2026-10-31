@@ -1,0 +1,963 @@
+{
+  "id": "ps-2026-2",
+  "nome": "PS 2026.2",
+  "edital": "Edital IFSP nº 74/2026 – Concomitante e Subsequente (cadernos Tipo 1 e Tipo 2, com as mesmas questões)",
+  "fonteGabarito": "Gabarito final – Prova Tipo 1 – Processo Seletivo dos Cursos Técnicos Concomitantes ou Subsequentes 2026.2",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você implica com algumas comidas? Tudo bem, vamos conversar\n> *Anna Virginia Balloussier*\n>\n> Fala sério, tem algumas comidas que apenas não rolam para você. E elas nunca são sorvete, chocolate, lasanha. Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n>\n> Se você se identificou aqui, saiba que não está só. Basta lembrar daquela cena em que Riley, a garotinha da animação \"Divertidamente\", tem sentimentos de nojo e depois raiva quando o pai tenta enfiar um aviãozinho com brócolis na sua boca.\n>\n> Quer dizer que esse vegetal verde é ruim mesmo, ainda que os mais velhos repitam a mesma ladainha de que ele faz bem para a saúde? Claro que não!\n>\n> Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite de cara. Ela desenvolveu um método divertido para conversar com seus pequenos pacientes sobre a importância de comer bem, e isso não quer dizer apenas ingerir mais vegetais e legumes.\n>\n> Significa abandonar hábitos que fazem mal ao nosso corpo, como se empanturrar de doces e alimentos ultraprocessados – aqueles que têm uma lista de ingredientes enorme com nomes difíceis de entender, como \"glutamato monossódico\".\n>\n> Isso acontece justamente porque eles não são naturais, e sim aditivos químicos fabricados pela indústria. Sabe aquele suco de maçã que não tem maçã coisa nenhuma? É disso que a gente está falando aqui.\n>\n> A profissão da Bia é ser tipo um detetive da comida. O nutricionista estuda os alimentos para entender o que cada um faz dentro da gente. Qual ajuda a crescer, qual nos protege de doenças e qual dá energia para correr no recreio, por exemplo.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/folhinha/2026/03/voce-implica-com-algumas-comidas-tudo-bem-vamos-conversar.shtml. Acesso em: 05 maio 2026. Adaptado.</cite>\n\nConsiderando-se a leitura do texto, é correto afirmar que a ideia principal que a nutricionista Bia quer passar aos seus pacientes é",
+      "imagens": [],
+      "alternativas": {
+        "A": "entender que vegetais verdes são ruins e que existem outros alimentos que podem substituí-los.",
+        "B": "consumir alimentos ultraprocessados, por serem saborosos, deve fazer parte da dieta, pois são irresistíveis e deixam as pessoas felizes.",
+        "C": "comer vegetais é obrigatório e saudável, mesmo sem gostar, pois crianças devem respeitar os mais velhos porque eles sabem o que fortalece o corpo.",
+        "D": "modificar hábitos que prejudicam o corpo e dar uma chance a alimentos saudáveis, permitindo que eles contribuam para uma vida mais equilibrada.",
+        "E": "ingerir açúcar ajuda o cérebro a se desenvolver melhor, por isso quanto mais doce e chocolate forem consumidos, mais saudáveis as pessoas estarão."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O texto diz o contrário: o vegetal verde não é ruim (“Claro que não!”).",
+        "B": "O texto pede para abandonar o hábito de se empanturrar de ultraprocessados, e não para consumi-los.",
+        "C": "Bia não fala em obrigação nem em respeito aos mais velhos: propõe um método divertido e pede uma chance.",
+        "E": "O texto critica o excesso de doces e não diz em lugar nenhum que açúcar faz bem ao cérebro."
+      },
+      "teoria": [
+        "tema-e-ideia-central"
+      ],
+      "essencial": [
+        "A ideia principal é o que o texto inteiro defende, e não um detalhe ou uma frase isolada.",
+        "Alternativas que dizem o contrário do texto ou exageram uma ideia dele costumam ser as erradas."
+      ],
+      "raciocinio": "1. Procure no texto o que Bia propõe. O 4º parágrafo diz que ela conversa sobre “a importância de comer bem”, e o 5º explica o que isso significa: “abandonar hábitos que fazem mal ao nosso corpo”.\n2. O texto também convida a criança a “dar uma chance” a receitas com ingredientes que ela rejeitaria.\n3. Juntando as duas ideias, mudar hábitos ruins e experimentar alimentos saudáveis, chega-se à alternativa D (veja: *Tema e ideia central*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você implica com algumas comidas? Tudo bem, vamos conversar\n> *Anna Virginia Balloussier*\n>\n> Fala sério, tem algumas comidas que apenas não rolam para você. E elas nunca são sorvete, chocolate, lasanha. Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n>\n> Se você se identificou aqui, saiba que não está só. Basta lembrar daquela cena em que Riley, a garotinha da animação \"Divertidamente\", tem sentimentos de nojo e depois raiva quando o pai tenta enfiar um aviãozinho com brócolis na sua boca.\n>\n> Quer dizer que esse vegetal verde é ruim mesmo, ainda que os mais velhos repitam a mesma ladainha de que ele faz bem para a saúde? Claro que não!\n>\n> Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite de cara. Ela desenvolveu um método divertido para conversar com seus pequenos pacientes sobre a importância de comer bem, e isso não quer dizer apenas ingerir mais vegetais e legumes.\n>\n> Significa abandonar hábitos que fazem mal ao nosso corpo, como se empanturrar de doces e alimentos ultraprocessados – aqueles que têm uma lista de ingredientes enorme com nomes difíceis de entender, como \"glutamato monossódico\".\n>\n> Isso acontece justamente porque eles não são naturais, e sim aditivos químicos fabricados pela indústria. Sabe aquele suco de maçã que não tem maçã coisa nenhuma? É disso que a gente está falando aqui.\n>\n> A profissão da Bia é ser tipo um detetive da comida. O nutricionista estuda os alimentos para entender o que cada um faz dentro da gente. Qual ajuda a crescer, qual nos protege de doenças e qual dá energia para correr no recreio, por exemplo.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/folhinha/2026/03/voce-implica-com-algumas-comidas-tudo-bem-vamos-conversar.shtml. Acesso em: 05 maio 2026. Adaptado.</cite>\n\nNo texto, aparecem expressões como “Fala sério” e “eca!”, além de diálogo com o leitor, como, por exemplo, “Se você se identificou aqui, saiba que não está só”.\n\nNesse sentido, é correto afirmar que esses recursos de linguagem têm a função de",
+      "imagens": [],
+      "alternativas": {
+        "A": "tornar o texto mais formal e técnico.",
+        "B": "explicar termos científicos de forma detalhada.",
+        "C": "convencer o leitor por meio de dados estatísticos e gráficos.",
+        "D": "aproximar-se do leitor criando um tom de conversa descontraída.",
+        "E": "garantir que o texto seja usado apenas em ambientes escolares."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É o contrário: a gíria “Fala sério” e a interjeição “eca!” deixam o texto informal.",
+        "B": "Essas expressões não explicam termo nenhum; servem para criar proximidade com o leitor.",
+        "C": "O texto não traz dados estatísticos nem gráficos.",
+        "E": "Nada nesses recursos limita o uso do texto, que foi publicado na Folhinha, a seção infantil de um jornal."
+      },
+      "teoria": [
+        "variacao-linguistica"
+      ],
+      "essencial": [
+        "Registro informal: gírias, interjeições e perguntas ao leitor imitam uma conversa do dia a dia.",
+        "Falar diretamente com o leitor, usando *você*, cria proximidade e prende a atenção, sobretudo do público jovem."
+      ],
+      "raciocinio": "1. “Fala sério” é uma gíria, e “eca!” é uma interjeição de nojo: são marcas de linguagem informal, típicas da fala (veja: *Variação linguística*).\n2. “Se você se identificou aqui, saiba que não está só” fala diretamente com o leitor, como numa conversa.\n3. O texto foi publicado na Folhinha, voltada para crianças. Esses recursos servem para se aproximar desse leitor num tom descontraído.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você implica com algumas comidas? Tudo bem, vamos conversar\n> *Anna Virginia Balloussier*\n>\n> Fala sério, tem algumas comidas que apenas não rolam para você. E elas nunca são sorvete, chocolate, lasanha. Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n>\n> Se você se identificou aqui, saiba que não está só. Basta lembrar daquela cena em que Riley, a garotinha da animação \"Divertidamente\", tem sentimentos de nojo e depois raiva quando o pai tenta enfiar um aviãozinho com brócolis na sua boca.\n>\n> Quer dizer que esse vegetal verde é ruim mesmo, ainda que os mais velhos repitam a mesma ladainha de que ele faz bem para a saúde? Claro que não!\n>\n> Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite de cara. Ela desenvolveu um método divertido para conversar com seus pequenos pacientes sobre a importância de comer bem, e isso não quer dizer apenas ingerir mais vegetais e legumes.\n>\n> Significa abandonar hábitos que fazem mal ao nosso corpo, como se empanturrar de doces e alimentos ultraprocessados – aqueles que têm uma lista de ingredientes enorme com nomes difíceis de entender, como \"glutamato monossódico\".\n>\n> Isso acontece justamente porque eles não são naturais, e sim aditivos químicos fabricados pela indústria. Sabe aquele suco de maçã que não tem maçã coisa nenhuma? É disso que a gente está falando aqui.\n>\n> A profissão da Bia é ser tipo um detetive da comida. O nutricionista estuda os alimentos para entender o que cada um faz dentro da gente. Qual ajuda a crescer, qual nos protege de doenças e qual dá energia para correr no recreio, por exemplo.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/folhinha/2026/03/voce-implica-com-algumas-comidas-tudo-bem-vamos-conversar.shtml. Acesso em: 05 maio 2026. Adaptado.</cite>\n\nAprender a falar e a escrever um idioma significa saber escolher e empregar as palavras corretamente, compreendendo não apenas o seu significado, mas também o efeito que produzem na construção da mensagem.\n\nConsiderando o contexto em “Você implica com algumas comidas? Tudo bem, vamos conversar”, associe corretamente a palavra ao seu respectivo significado.\n\n**PALAVRAS**\n\n(1) Aditivos\n(2) Hábitos\n(3) Ladainha\n(4) Método\n\n**SIGNIFICADOS**\n\n( ) O que se realiza de forma regular, quase automática, com rotinas de comportamento.\n( ) O que é repetitivo, cansativo ou monótono, dito muitas vezes da mesma forma, sem novidade.\n( ) O que é organizado, uma forma planejada ou um procedimento usado para alcançar um objetivo.\n( ) O que é adicionado a um alimento ou produto para modificar ou melhorar alguma característica dele.\n\nA sequência correta dessa associação é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "4, 3, 2, 1.",
+        "B": "2, 3, 4, 1.",
+        "C": "4, 1, 3, 2.",
+        "D": "2, 3, 1, 4.",
+        "E": "1, 4, 2, 3."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Começa com 4 (método), mas o que se faz de forma regular e quase automática são os hábitos (2).",
+        "C": "Põe aditivos (1) como o que é repetitivo; o que se repete sem novidade é a ladainha (3).",
+        "D": "Troca os dois últimos: o procedimento planejado é o método (4), e o que se acrescenta ao alimento são os aditivos (1).",
+        "E": "Põe aditivos (1) como rotina de comportamento; a rotina quase automática é o hábito (2)."
+      },
+      "teoria": [
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "Para associar palavras a significados, comece pela que você tem mais certeza e elimine alternativas.",
+        "O contexto ajuda: veja como a palavra é usada na frase do texto."
+      ],
+      "raciocinio": "1. Rotina regular, quase automática: **hábitos** (2), como em “abandonar hábitos que fazem mal”.\n2. O que é repetitivo, dito sempre igual: **ladainha** (3), a “mesma ladainha” dos mais velhos.\n3. Procedimento planejado: **método** (4), o “método divertido” de Bia.\n4. O que se acrescenta a um produto: **aditivos** (1), os “aditivos químicos fabricados pela indústria” (veja: *Sentido das palavras pelo contexto*).\n\nSequência 2, 3, 4, 1. Resposta: **B**.\n\n**Dica de prova:** depois dos dois primeiros números (2, 3), só sobram B e D. Basta decidir o terceiro.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você implica com algumas comidas? Tudo bem, vamos conversar\n> *Anna Virginia Balloussier*\n>\n> Fala sério, tem algumas comidas que apenas não rolam para você. E elas nunca são sorvete, chocolate, lasanha. Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n>\n> Se você se identificou aqui, saiba que não está só. Basta lembrar daquela cena em que Riley, a garotinha da animação \"Divertidamente\", tem sentimentos de nojo e depois raiva quando o pai tenta enfiar um aviãozinho com brócolis na sua boca.\n>\n> Quer dizer que esse vegetal verde é ruim mesmo, ainda que os mais velhos repitam a mesma ladainha de que ele faz bem para a saúde? Claro que não!\n>\n> Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite de cara. Ela desenvolveu um método divertido para conversar com seus pequenos pacientes sobre a importância de comer bem, e isso não quer dizer apenas ingerir mais vegetais e legumes.\n>\n> Significa abandonar hábitos que fazem mal ao nosso corpo, como se empanturrar de doces e alimentos ultraprocessados – aqueles que têm uma lista de ingredientes enorme com nomes difíceis de entender, como \"glutamato monossódico\".\n>\n> Isso acontece justamente porque eles não são naturais, e sim aditivos químicos fabricados pela indústria. Sabe aquele suco de maçã que não tem maçã coisa nenhuma? É disso que a gente está falando aqui.\n>\n> A profissão da Bia é ser tipo um detetive da comida. O nutricionista estuda os alimentos para entender o que cada um faz dentro da gente. Qual ajuda a crescer, qual nos protege de doenças e qual dá energia para correr no recreio, por exemplo.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/folhinha/2026/03/voce-implica-com-algumas-comidas-tudo-bem-vamos-conversar.shtml. Acesso em: 05 maio 2026. Adaptado.</cite>\n\nO texto utiliza exemplos do cotidiano infantil, referências a filmes, além de explicações simples sobre alimentos ultraprocessados.\n\nEsses elementos revelam que o objetivo principal do texto é",
+      "imagens": [],
+      "alternativas": {
+        "A": "registrar fatos do cotidiano, ideias e emoções do próprio autor.",
+        "B": "persuadir o leitor e convencê-lo a consumir produtos anunciados.",
+        "C": "destacar a trajetória profissional de uma especialista em nutrição.",
+        "D": "apresentar diferentes pontos de vista com a participação de um debatedor.",
+        "E": "fornecer informações de maneira clara e acessível sobre alimentação saudável."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Registrar fatos, ideias e emoções de quem escreve é próprio do diário ou do relato pessoal, e não deste texto.",
+        "B": "O texto não anuncia produtos; ao contrário, critica os ultraprocessados da indústria.",
+        "C": "Bia aparece como exemplo do que faz um nutricionista, mas o texto não conta a carreira dela.",
+        "D": "Não há debate nem opiniões opostas: o texto explica um assunto com uma só voz."
+      },
+      "teoria": [
+        "divulgacao-cientifica"
+      ],
+      "essencial": [
+        "Texto de divulgação científica explica um assunto da ciência para o público leigo, em linguagem simples.",
+        "Exemplos do cotidiano e comparações tornam a informação acessível para o leitor a que o texto se dirige."
+      ],
+      "raciocinio": "1. O texto explica o que são ultraprocessados (“lista de ingredientes enorme”, “aditivos químicos”) e o que faz um nutricionista (“tipo um detetive da comida”).\n2. Para isso, usa exemplos que uma criança reconhece: brócolis, “Divertidamente”, suco de maçã sem maçã.\n3. Explicar um assunto de saúde de modo simples para um leitor leigo é o objetivo da divulgação científica (veja: *Divulgação científica*).\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "O pronome é uma palavra variável em gênero, número e pessoa, usada para substituir ou acompanhar o substantivo, indicando o vínculo entre os seres e as pessoas do discurso.\n\nA esse respeito, avalie as afirmações acerca dos pronomes destacados nas passagens a seguir.\n\nI - No trecho “É disso que <u>a gente</u> está falando aqui”, a expressão “a gente” classifica-se como pronome pessoal.\nII - Em “Sabe <u>aquele</u> suco de maçã que não tem maçã coisa nenhuma?”, o pronome destacado é indefinido, pois refere-se à pessoa do discurso de maneira imprecisa.\nIII - Na passagem “Significa abandonar hábitos que fazem mal ao <u>nosso</u> corpo”, sublinha-se o pronome que indica relação de posse ou de pertencimento em relação à pessoa do discurso.\n\nEstá correto **apenas** o que se afirma em",
+      "imagens": [],
+      "alternativas": {
+        "A": "I.",
+        "B": "II.",
+        "C": "III.",
+        "D": "I e II.",
+        "E": "I e III."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A I está certa, mas a III também: *nosso* é pronome possessivo.",
+        "B": "A II é falsa: *aquele* é pronome demonstrativo, que aponta um suco específico, e não indefinido.",
+        "C": "A III está certa, mas a I também: *a gente*, no sentido de *nós*, funciona como pronome pessoal.",
+        "D": "Inclui a II, que é falsa (*aquele* é demonstrativo), e deixa de fora a III, que é verdadeira."
+      },
+      "teoria": [
+        "pronomes"
+      ],
+      "essencial": [
+        "*A gente*, no sentido de *nós*, funciona como pronome pessoal, com o verbo na 3ª pessoa do singular.",
+        "Demonstrativos (este, esse, aquele) situam o ser no espaço, no tempo ou no texto.",
+        "Possessivos (meu, teu, seu, nosso) indicam a quem algo pertence."
+      ],
+      "raciocinio": "1. **I é verdadeira.** “A gente está falando” = “nós estamos falando”: *a gente* faz o papel de pronome pessoal (veja: *Pronomes*).\n2. **II é falsa.** *Aquele* aponta um suco específico, que o leitor conhece: é pronome demonstrativo. Indefinidos são palavras como *algum*, *nenhum*, *todo*, *outro*.\n3. **III é verdadeira.** *Nosso* indica que o corpo pertence a nós: pronome possessivo.\n\nCorretas: I e III. Resposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você implica com algumas comidas? Tudo bem, vamos conversar\n> *Anna Virginia Balloussier*\n>\n> Fala sério, tem algumas comidas que apenas não rolam para você. E elas nunca são sorvete, chocolate, lasanha. Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n>\n> Se você se identificou aqui, saiba que não está só. Basta lembrar daquela cena em que Riley, a garotinha da animação \"Divertidamente\", tem sentimentos de nojo e depois raiva quando o pai tenta enfiar um aviãozinho com brócolis na sua boca.\n>\n> Quer dizer que esse vegetal verde é ruim mesmo, ainda que os mais velhos repitam a mesma ladainha de que ele faz bem para a saúde? Claro que não!\n>\n> Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite de cara. Ela desenvolveu um método divertido para conversar com seus pequenos pacientes sobre a importância de comer bem, e isso não quer dizer apenas ingerir mais vegetais e legumes.\n>\n> Significa abandonar hábitos que fazem mal ao nosso corpo, como se empanturrar de doces e alimentos ultraprocessados – aqueles que têm uma lista de ingredientes enorme com nomes difíceis de entender, como \"glutamato monossódico\".\n>\n> Isso acontece justamente porque eles não são naturais, e sim aditivos químicos fabricados pela indústria. Sabe aquele suco de maçã que não tem maçã coisa nenhuma? É disso que a gente está falando aqui.\n>\n> A profissão da Bia é ser tipo um detetive da comida. O nutricionista estuda os alimentos para entender o que cada um faz dentro da gente. Qual ajuda a crescer, qual nos protege de doenças e qual dá energia para correr no recreio, por exemplo.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/folhinha/2026/03/voce-implica-com-algumas-comidas-tudo-bem-vamos-conversar.shtml. Acesso em: 05 maio 2026. Adaptado.</cite>\n\nAnalise as asserções a seguir e a relação proposta entre elas.\n\nI - A palavra “Divertidamente”, no contexto em que está empregada, aparece escrita com inicial maiúscula no texto\n\n**PORQUE**\n\nII - trata-se de um advérbio de modo terminado em “-mente”.\n\nSobre as asserções, é correto afirmar que",
+      "imagens": [],
+      "alternativas": {
+        "A": "as duas são falsas.",
+        "B": "a primeira é falsa e a segunda é verdadeira.",
+        "C": "a primeira é verdadeira e a segunda é falsa.",
+        "D": "as duas são verdadeiras, mas não estabelecem relação entre si.",
+        "E": "as duas são verdadeiras, e a segunda é uma justificativa correta da primeira."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A I é verdadeira: a palavra está com maiúscula porque é o título de um filme.",
+        "B": "É o contrário: a I é verdadeira e a II é falsa.",
+        "D": "A II é falsa: ali a palavra é o nome do filme, um substantivo próprio, e não um advérbio.",
+        "E": "A II é falsa, então não pode justificar a I. A maiúscula vem de a palavra ser título de filme."
+      },
+      "teoria": [
+        "classes-de-palavras",
+        "adverbios"
+      ],
+      "essencial": [
+        "Substantivo próprio nomeia um ser específico e começa com maiúscula; títulos de filmes e de livros também.",
+        "A classe de uma palavra depende do papel dela na frase, e não só da terminação.",
+        "Advérbio de modo em *-mente* modifica um verbo: *falou calmamente*."
+      ],
+      "raciocinio": "1. No texto: “a garotinha da animação \"Divertidamente\"”. A palavra é o **nome** de um filme.\n2. **I é verdadeira:** como título, ela é um substantivo próprio e por isso começa com maiúscula.\n3. **II é falsa:** a terminação *-mente* lembra um advérbio de modo (veja: *Advérbios e adjuntos adverbiais*), mas aqui a palavra não modifica verbo nenhum. Ela nomeia a animação, e o que define a classe é o papel na frase (veja: *Classes de palavras*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "O processo pelo qual uma palavra é formada a partir de outra já existente chama-se derivação.\n\nA esse respeito, a formação das palavras retiradas do texto está corretamente justificada em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“alimentação” vem do verbo alimentar + sufixo -ção, que significa ação, ou seja, “alimentar em movimento”.",
+        "B": "“glutamato” é formado pelo radical glutam- (que significa “sal de cozinha”) + sufixo -ato, que indica a “ação de salgar demais os alimentos”.",
+        "C": "“ultraprocessados” é formado pelo prefixo ultra- (excesso, além) + “processados”, indicando alimentos processados em excesso pela indústria.",
+        "D": "“nutricionista” vem de “nutrição” (processo de obtenção e aproveitamento de nutrientes pelo organismo) + sufixo -ista, que indica recepcionar os alimentos.",
+        "E": "“empanturrar” vem da palavra “panturrilha” (batata da perna) + sufixo -ar, que significa “elevar demais a barriga”."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*-ção* forma o substantivo que nomeia a ação ou o resultado de alimentar, e não “alimentar em movimento”.",
+        "B": "*Glutamato* é um termo da química e não tem relação com “sal de cozinha” nem com “salgar demais”.",
+        "D": "*-ista* indica quem exerce uma atividade: o nutricionista trabalha com nutrição, e não “recepciona alimentos”.",
+        "E": "A semelhança com *panturrilha* é só de som; *empanturrar* é encher-se de comida, sem relação com a perna."
+      },
+      "teoria": [
+        "formacao-de-palavras"
+      ],
+      "essencial": [
+        "Prefixo vem antes do radical e acrescenta um sentido: *ultra-* = além, excesso (ultrapassar, ultravioleta).",
+        "Sufixos mudam a classe ou o sentido: *-ção* forma substantivos de ação; *-ista*, nomes de profissão ou de adepto.",
+        "Semelhança de som não prova parentesco entre palavras: confira se o sentido também combina."
+      ],
+      "raciocinio": "1. *Ultraprocessados* = prefixo *ultra-* (além, excesso) + *processados*. O texto fala de alimentos com “lista de ingredientes enorme” e aditivos industriais: processados além da conta. A justificativa da C está certa (veja: *Formação de palavras*).\n2. A e D dão sentidos errados aos sufixos: *-ção* indica ação, e não “movimento”; *-ista* indica profissão, e não “recepcionar”.\n3. B e E inventam origens a partir de palavras parecidas (sal, panturrilha).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Pontuação",
+      "enunciado": "A língua escrita serve-se da pontuação para representar recursos específicos da língua falada.\n\nConsidere esse princípio e informe se é verdadeiro (V) ou falso (F) o que se afirma sobre a pontuação no trecho a seguir.\n\n> Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n\n( ) Os dois-pontos após “comam:” sugerem o prolongamento da frase ou a continuação do fato.\n( ) As reticências no final de “fígado…” indicam continuidade ou sugestão de que haveria mais exemplos além dos citados.\n( ) A exclamação dentro das aspas em “eca!” reforça o tom emocional da interjeição. O “eca” é uma reação de repulsa, e o ponto de exclamação intensifica esse sentimento.\n( ) As vírgulas em “um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado” separam orações explicativas de itens de uma lista, deixando claro que são elementos distintos.\n\nDe acordo com as afirmações, a sequência correta é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "F, V, V, F.",
+        "B": "F, V, F, V.",
+        "C": "V, F, F, V.",
+        "D": "F, V, F, F.",
+        "E": "V, F, V, F."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Erra as duas últimas: a exclamação reforça o nojo (V), e as vírgulas separam itens, e não orações (F).",
+        "C": "Erra as quatro: os dois-pontos anunciam a lista, e as reticências sugerem mais exemplos.",
+        "D": "Erra a 3ª: a exclamação em “eca!” intensifica a reação de nojo, então a afirmação é verdadeira.",
+        "E": "Erra as duas primeiras: os dois-pontos anunciam a lista (F), e as reticências sugerem continuação (V)."
+      },
+      "teoria": [
+        "pontuacao"
+      ],
+      "essencial": [
+        "Dois-pontos anunciam o que vem a seguir: uma enumeração, uma explicação ou uma fala.",
+        "Reticências no fim de uma lista sugerem que ela poderia continuar.",
+        "Vírgulas separam os itens de uma enumeração; um item sem verbo não é oração."
+      ],
+      "raciocinio": "1. **F.** Os dois-pontos depois de “comam” anunciam a lista dos alimentos que os adultos querem que as crianças comam. Não prolongam um fato (veja: *Sinais de pontuação e seus efeitos*).\n2. **V.** As reticências depois de “fígado” sugerem que haveria outros exemplos.\n3. **V.** A exclamação intensifica a repulsa expressa pela interjeição “eca”.\n4. **F.** As vírgulas separam itens de uma lista, mas “um pouco de espinafre” não tem verbo: não é oração explicativa.\n\nSequência F, V, V, F. Resposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Em \"Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite <u>de cara</u>\", a expressão sublinhada no trecho tem sentido de",
+      "imagens": [],
+      "alternativas": {
+        "A": "após uma longa reflexão.",
+        "B": "imediatamente, sem pensar.",
+        "C": "com o rosto virado para o prato.",
+        "D": "com vergonha, diante dos outros.",
+        "E": "olhando fixamente para o ingrediente."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É o oposto: rejeitar “de cara” é rejeitar logo, sem refletir.",
+        "C": "Lê “cara” ao pé da letra, como rosto; a expressão tem sentido figurado.",
+        "D": "Nada no trecho fala de vergonha; “de cara” indica que a recusa vem logo de início.",
+        "E": "Também lê “cara” como rosto; a expressão é figurada e indica rapidez."
+      },
+      "teoria": [
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "Expressões populares têm sentido figurado: o significado não é a soma das palavras ao pé da letra.",
+        "*De cara* significa logo de início, imediatamente, à primeira vista."
+      ],
+      "raciocinio": "1. O trecho diz que Bia vai convencer a criança a provar receitas com ingredientes “que talvez você rejeite de cara”.\n2. A ideia é que a criança recusa o alimento logo de início, antes mesmo de provar. Por isso Bia precisa convencê-la.\n3. *De cara* é uma expressão de sentido figurado, “imediatamente, à primeira vista”, e não fala do rosto (veja: *Sentido das palavras pelo contexto*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Ortografia e acentuação",
+      "enunciado": "Em “Isso acontece justamente <u>porque</u> eles não são naturais, e sim aditivos químicos fabricados pela indústria”, a palavra “porque” escreve-se junto e sem acento por",
+      "imagens": [],
+      "alternativas": {
+        "A": "esclarecer um motivo.",
+        "B": "atuar como substantivo.",
+        "C": "introduzir uma conclusão.",
+        "D": "indicar uma pergunta direta.",
+        "E": "ser sinônimo da palavra “motivo”."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Como substantivo, a forma é *porquê*, junto e com acento: “o porquê da recusa”.",
+        "C": "*Porque* aqui introduz a causa do que foi dito antes, e não uma conclusão, como faria *portanto*.",
+        "D": "Em perguntas diretas usa-se *por que*, separado: “Por que isso acontece?”.",
+        "E": "Sinônimo de *motivo* é o substantivo *porquê*, com acento; o *porque* do trecho é conjunção."
+      },
+      "teoria": [
+        "porques"
+      ],
+      "essencial": [
+        "*Porque* (junto, sem acento) é conjunção: introduz causa ou explicação e pode ser trocado por *pois*.",
+        "*Por que* (separado) inicia perguntas; *por quê* vem no fim da frase; *porquê* é substantivo e vem com artigo."
+      ],
+      "raciocinio": "1. No texto, “isso” são os nomes difíceis dos ultraprocessados, e a oração “porque eles não são naturais” dá o motivo de eles existirem.\n2. Dá para trocar por *pois*: “isso acontece justamente **pois** eles não são naturais”.\n3. Quando introduz uma causa ou explicação, *porque* é conjunção e se escreve junto e sem acento (veja: *Por que, porque, por quê e porquê*).\n\nResposta: **A**.\n\n**Dica de prova:** se der para trocar por *pois*, escreva *porque*, junto e sem acento.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir.\n\n> ### Você implica com algumas comidas? Tudo bem, vamos conversar\n> *Anna Virginia Balloussier*\n>\n> Fala sério, tem algumas comidas que apenas não rolam para você. E elas nunca são sorvete, chocolate, lasanha. Quase sempre, o que provoca uma reação de \"eca!\" são aquelas que os adultos mais querem que as crianças comam: um pouco de espinafre, um punhado de beterraba, aquela carninha de fígado…\n>\n> Se você se identificou aqui, saiba que não está só. Basta lembrar daquela cena em que Riley, a garotinha da animação \"Divertidamente\", tem sentimentos de nojo e depois raiva quando o pai tenta enfiar um aviãozinho com brócolis na sua boca.\n>\n> Quer dizer que esse vegetal verde é ruim mesmo, ainda que os mais velhos repitam a mesma ladainha de que ele faz bem para a saúde? Claro que não!\n>\n> Se você der uma chance, a nutricionista Beatriz Bortoletto, a Bia, vai te convencer a provar receitas com ingredientes que talvez você rejeite de cara. Ela desenvolveu um método divertido para conversar com seus pequenos pacientes sobre a importância de comer bem, e isso não quer dizer apenas ingerir mais vegetais e legumes.\n>\n> Significa abandonar hábitos que fazem mal ao nosso corpo, como se empanturrar de doces e alimentos ultraprocessados – aqueles que têm uma lista de ingredientes enorme com nomes difíceis de entender, como \"glutamato monossódico\".\n>\n> Isso acontece justamente porque eles não são naturais, e sim aditivos químicos fabricados pela indústria. Sabe aquele suco de maçã que não tem maçã coisa nenhuma? É disso que a gente está falando aqui.\n>\n> A profissão da Bia é ser tipo um detetive da comida. O nutricionista estuda os alimentos para entender o que cada um faz dentro da gente. Qual ajuda a crescer, qual nos protege de doenças e qual dá energia para correr no recreio, por exemplo.\n>\n> <cite>Disponível em: https://www1.folha.uol.com.br/folhinha/2026/03/voce-implica-com-algumas-comidas-tudo-bem-vamos-conversar.shtml. Acesso em: 05 maio 2026. Adaptado.</cite>\n\nLeia a tirinha a seguir.\n\n![Tirinha de Calvin em quatro quadros. 1: à mesa, Calvin recusa o prato, e o pai come. 2: o pai, com ar maroto, responde; Calvin arregala os olhos. 3: Calvin devora a comida, com várias onomatopeias de mastigação. 4: Calvin fala de boca cheia; a mãe, brava, fala com o pai, que sorri.](img/2026-2/q11.jpg \"Calvin: EU NÃO VOU COPMER ESTE TROÇO VERDE! EEEEECA! | Pai: ISSO MESMO, CALVIN. ISSO AÍ É UM RESÍDUO TÓXICO QUE, SE VOCÊ COMER, TE TRANSFORMA EM UM MUTANTE. | (Calvin come tudo: RRGHHMPHFFG, MMMM, SCRAPE, URF, GLUP, SMACK) | Mãe: DEVE HAVER UMA MANEIRA MELHOR DE FAZER ELE COMER! | Calvin: AHHH... JÁ SINTO O EFEITO...\")\n\n<cite>Disponível em: https://www.instagram.com/p/C2H6Do6uB3K/. Acesso em: 10 maio 2026.</cite>\n\nRelacionando a tirinha ao texto “Você implica com algumas comidas? Tudo bem, vamos conversar”, é possível inferir que ambos tratam, especialmente, de que",
+      "imagens": [
+        "img/2026-2/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "as crianças rejeitam alimentos saudáveis por teimosia.",
+        "B": "a rejeição a certos alimentos é comum, mas que experimentar com uma abordagem diferente pode ajudar a superá-la.",
+        "C": "os adultos devem forçar as crianças a comer vegetais, como o pai de Calvin faz na tirinha, ao convencê-lo com um argumento científico.",
+        "D": "os ultraprocessados são a principal causa da recusa das crianças em comer alimentos saudáveis, sendo a indústria alimentícia a grande vilã.",
+        "E": "o \"EEEEECA!\" e o \"eca!\", respectivamente presentes na tirinha e no texto, ilustram que ambos rejeitam o humor como forma de abordar a alimentação infantil, preferindo uma linguagem científica e formal."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Nenhum dos dois fala em teimosia; o texto diz que essa reação é comum (“não está só”).",
+        "C": "O pai não força Calvin nem usa ciência: inventa uma história. E o texto propõe conversa, e não força.",
+        "D": "A tirinha não fala de ultraprocessados, e o texto não diz que eles são a principal causa da recusa.",
+        "E": "É o contrário: os dois usam humor e linguagem informal, como os próprios “eca!” mostram."
+      },
+      "teoria": [
+        "comparacao-entre-textos"
+      ],
+      "essencial": [
+        "Comparar textos é achar o assunto que eles têm em comum e o modo como cada um o trata.",
+        "A alternativa certa precisa valer para os dois textos ao mesmo tempo."
+      ],
+      "raciocinio": "1. **O que os dois têm em comum:** uma criança recusa um alimento verde. No texto, o “eca!” diante de espinafre e brócolis; na tirinha, o “EEEEECA!” de Calvin.\n2. **Como a recusa é superada:** o texto propõe o método divertido de Bia; o pai de Calvin inventa uma história de mutante, e Calvin come tudo.\n3. Os dois mostram que a rejeição é comum e que uma abordagem diferente ajuda (veja: *Comparação entre textos*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a tirinha a seguir.\n\n![Tirinha de Calvin em quatro quadros. 1: à mesa, Calvin recusa o prato, e o pai come. 2: o pai, com ar maroto, responde; Calvin arregala os olhos. 3: Calvin devora a comida, com várias onomatopeias de mastigação. 4: Calvin fala de boca cheia; a mãe, brava, fala com o pai, que sorri.](img/2026-2/q11.jpg \"Calvin: EU NÃO VOU COPMER ESTE TROÇO VERDE! EEEEECA! | Pai: ISSO MESMO, CALVIN. ISSO AÍ É UM RESÍDUO TÓXICO QUE, SE VOCÊ COMER, TE TRANSFORMA EM UM MUTANTE. | (Calvin come tudo: RRGHHMPHFFG, MMMM, SCRAPE, URF, GLUP, SMACK) | Mãe: DEVE HAVER UMA MANEIRA MELHOR DE FAZER ELE COMER! | Calvin: AHHH... JÁ SINTO O EFEITO...\")\n\n<cite>Disponível em: https://www.instagram.com/p/C2H6Do6uB3K/. Acesso em: 10 maio 2026.</cite>\n\nA palavra \"tóxico\" é utilizada pelo pai de Calvin para caracterizar o alimento oferecido a ele.\n\nNo contexto em que está empregada, um sinônimo correto para essa palavra é",
+      "imagens": [
+        "img/2026-2/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "viçoso.",
+        "B": "viciante.",
+        "C": "versátil.",
+        "D": "vigoroso.",
+        "E": "venenoso."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Viçoso* quer dizer cheio de vida, como uma planta saudável: quase o oposto de tóxico.",
+        "B": "*Viciante* é o que causa vício; tóxico é o que envenena.",
+        "C": "*Versátil* é o que tem vários usos e não tem relação com veneno.",
+        "D": "*Vigoroso* é forte, cheio de energia; nada a ver com fazer mal."
+      },
+      "teoria": [
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "Sinônimo é a palavra que pode substituir outra no mesmo contexto sem mudar o sentido.",
+        "Teste a troca na própria frase antes de escolher."
+      ],
+      "raciocinio": "1. O pai diz que o vegetal é “um resíduo tóxico” que transforma quem come em mutante. *Tóxico* é o que faz mal ao organismo, o que envenena.\n2. Troque na frase: “um resíduo **venenoso**” mantém o sentido (veja: *Sentido das palavras pelo contexto*).\n3. As outras palavras também começam com *v*, mas têm sentidos sem relação com veneno: cheio de vida, que vicia, que tem vários usos, forte.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia a tirinha a seguir.\n\n![Tirinha de Calvin em quatro quadros. 1: à mesa, Calvin recusa o prato, e o pai come. 2: o pai, com ar maroto, responde; Calvin arregala os olhos. 3: Calvin devora a comida, com várias onomatopeias de mastigação. 4: Calvin fala de boca cheia; a mãe, brava, fala com o pai, que sorri.](img/2026-2/q11.jpg \"Calvin: EU NÃO VOU COPMER ESTE TROÇO VERDE! EEEEECA! | Pai: ISSO MESMO, CALVIN. ISSO AÍ É UM RESÍDUO TÓXICO QUE, SE VOCÊ COMER, TE TRANSFORMA EM UM MUTANTE. | (Calvin come tudo: RRGHHMPHFFG, MMMM, SCRAPE, URF, GLUP, SMACK) | Mãe: DEVE HAVER UMA MANEIRA MELHOR DE FAZER ELE COMER! | Calvin: AHHH... JÁ SINTO O EFEITO...\")\n\n<cite>Disponível em: https://www.instagram.com/p/C2H6Do6uB3K/. Acesso em: 10 maio 2026.</cite>\n\nNa frase \"Deve haver uma maneira melhor de fazer ele comer\", é correto afirmar que a palavra “melhor” exerce a função de",
+      "imagens": [
+        "img/2026-2/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "advérbio, pois modifica o verbo \"fazer\".",
+        "B": "pronome, porque substitui o nome Calvin.",
+        "C": "conjunção, já que liga duas ideias na frase.",
+        "D": "adjetivo, visto que caracteriza o substantivo \"maneira\".",
+        "E": "substantivo, em razão de indicar uma qualidade isolada."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Melhor” não modifica *fazer*: está ligado a *maneira*. Que maneira? Uma maneira melhor.",
+        "B": "“Melhor” não substitui Calvin; quem se refere a Calvin na frase é o pronome *ele*.",
+        "C": "“Melhor” não liga orações; conjunções são palavras como *e*, *mas*, *porque*.",
+        "E": "“Melhor” não nomeia nada sozinho: qualifica um substantivo que está na frase."
+      },
+      "teoria": [
+        "classes-de-palavras"
+      ],
+      "essencial": [
+        "Adjetivo caracteriza o substantivo e concorda com ele: *maneira melhor*, *maneiras melhores*.",
+        "*Melhor* é adjetivo quando acompanha um substantivo e advérbio quando modifica um verbo (*canta melhor*)."
+      ],
+      "raciocinio": "1. Na frase, “melhor” vem logo depois de “maneira” e diz como é essa maneira.\n2. Faça o teste do plural: “maneiras **melhores**”. Como “melhor” varia junto com o substantivo, ele é adjetivo. Advérbio não vai para o plural.\n3. Compare: em “ele come **melhor** agora”, *melhor* modifica o verbo e é advérbio. O que decide é o papel na frase (veja: *Classes de palavras*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Em \"Deve haver uma maneira melhor de fazer ele comer\", o verbo “haver”, quando usado no sentido de \"existir\", é impessoal.\n\nA esse respeito, a locução verbal que **NÃO** possui a concordância adequada é",
+      "imagens": [],
+      "alternativas": {
+        "A": "devem haver maneiras.",
+        "B": "deverá haver maneiras.",
+        "C": "deveria haver maneiras.",
+        "D": "deve ter havido maneiras.",
+        "E": "deverá ter havido maneiras."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Está adequada: *deverá* fica no singular porque *haver*, no sentido de existir, é impessoal.",
+        "C": "Está adequada: *deveria* fica no singular, acompanhando o *haver* impessoal.",
+        "D": "Está adequada: *deve ter havido*, toda no singular, mantém a impessoalidade de *haver*.",
+        "E": "Está adequada: *deverá ter havido* fica no singular, como pede o *haver* impessoal."
+      },
+      "teoria": [
+        "concordancia-verbal"
+      ],
+      "essencial": [
+        "*Haver* no sentido de existir é impessoal: não tem sujeito e fica sempre no singular.",
+        "Numa locução verbal, o auxiliar herda a impessoalidade: *deve haver*, *pode haver*, *vai haver*."
+      ],
+      "raciocinio": "1. *Haver* = existir não tem sujeito: “maneiras” é o objeto. Por isso o verbo fica no singular (veja: *Concordância verbal*).\n2. Na locução, o auxiliar acompanha o verbo principal e também fica no singular: “**deve** haver maneiras”.\n3. Em “**devem** haver maneiras”, o auxiliar foi para o plural como se “maneiras” fosse sujeito. É a única concordância inadequada.\n\nResposta: **A**.\n\n**Dica de prova:** compare com *existir*, que tem sujeito: “**devem** existir maneiras”, mas “**deve** haver maneiras”.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Leia a tirinha a seguir.\n\n![Tirinha de Calvin em quatro quadros. 1: à mesa, Calvin recusa o prato, e o pai come. 2: o pai, com ar maroto, responde; Calvin arregala os olhos. 3: Calvin devora a comida, com várias onomatopeias de mastigação. 4: Calvin fala de boca cheia; a mãe, brava, fala com o pai, que sorri.](img/2026-2/q11.jpg \"Calvin: EU NÃO VOU COPMER ESTE TROÇO VERDE! EEEEECA! | Pai: ISSO MESMO, CALVIN. ISSO AÍ É UM RESÍDUO TÓXICO QUE, SE VOCÊ COMER, TE TRANSFORMA EM UM MUTANTE. | (Calvin come tudo: RRGHHMPHFFG, MMMM, SCRAPE, URF, GLUP, SMACK) | Mãe: DEVE HAVER UMA MANEIRA MELHOR DE FAZER ELE COMER! | Calvin: AHHH... JÁ SINTO O EFEITO...\")\n\n<cite>Disponível em: https://www.instagram.com/p/C2H6Do6uB3K/. Acesso em: 10 maio 2026.</cite>\n\nUm texto coerente é aquele cujas ideias se relacionam de forma lógica e não se contradizem, permitindo que o leitor compreenda a mensagem transmitida.\n\nCom base na coerência textual, informe se é verdadeiro (V) ou falso (F) o que se afirma sobre a fala do pai considerando o alimento: “é um resíduo tóxico, que, se você comer, te transforma em um mutante”.\n\n( ) O pai usa um argumento científico verdadeiro para convencer Calvin a comer.\n( ) A fala do pai é uma estratégia criativa para fazer Calvin experimentar o alimento.\n( ) A afirmação condiz com a realidade, pois alguns alimentos realmente transformam o organismo.\n( ) A afirmação do pai é incoerente com a realidade, pois nenhum alimento transforma pessoas em mutantes.\n\nDe acordo com as afirmações, a sequência correta é:",
+      "imagens": [
+        "img/2026-2/q11.jpg"
+      ],
+      "alternativas": {
+        "A": "F, F, V, V.",
+        "B": "V, V, F, F.",
+        "C": "F, V, F, V.",
+        "D": "V, F, V, F.",
+        "E": "V, F, F, V."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Erra a 2ª e a 3ª: a fala é uma estratégia criativa (V), e nenhum alimento cria mutantes (F).",
+        "B": "Erra a 1ª e a 4ª: não há argumento científico (F), e a afirmação contradiz a realidade (V).",
+        "D": "Erra as quatro: trata a invenção do pai como ciência e realidade e não vê a estratégia.",
+        "E": "Erra a 1ª e a 2ª: o pai não usa ciência (F), e sim uma estratégia criativa (V)."
+      },
+      "teoria": [
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Uma afirmação é coerente com a realidade quando não contradiz o que sabemos do mundo.",
+        "Exagero e absurdo são recursos de humor: o leitor sabe que aquilo não é para ser levado ao pé da letra."
+      ],
+      "raciocinio": "1. **F.** Nenhuma ciência diz que um vegetal transforma alguém em mutante: o argumento é inventado.\n2. **V.** Calvin adora monstros e aventuras. Ao dizer que a comida é perigosa, o pai desperta a curiosidade do filho, que come tudo (veja: *Ironia e humor*).\n3. **F.** Alimentos nutrem o organismo, mas não o transformam em mutante.\n4. **V.** A afirmação contradiz a realidade, e é justamente esse absurdo que faz o humor da tirinha.\n\nSequência F, V, F, V. Resposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "No sistema de equações\n\n\\[\\begin{cases} a + b = 2 \\\\ 2a - b = -5 \\end{cases}\\]\n\no produto correto entre *a* e *b* é igual a",
+      "imagens": [],
+      "alternativas": {
+        "A": "–5.",
+        "B": "–3.",
+        "C": "–1.",
+        "D": "1.",
+        "E": "3."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "–5 é o termo independente da 2ª equação, e não o produto \\(a \\cdot b\\).",
+        "C": "–1 é só o valor de *a*; falta multiplicar por \\(b = 3\\).",
+        "D": "Vem de errar o sinal ao somar as equações (\\(3a = 3\\)); o certo é \\(3a = -3\\).",
+        "E": "3 é o valor de *b*, e não o produto; falta multiplicar por \\(a = -1\\)."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Método da adição: some as equações para cancelar uma incógnita cujos coeficientes são opostos.",
+        "Com um valor encontrado, substitua numa das equações para achar o outro."
+      ],
+      "raciocinio": "1. Os coeficientes de \\(b\\) são opostos (\\(+b\\) e \\(-b\\)). Some as equações (veja: *Sistemas de equações do 1º grau*):\n\n\\[(a + b) + (2a - b) = 2 + (-5) \\Rightarrow 3a = -3 \\Rightarrow a = -1\\]\n\n2. Na 1ª equação: \\(-1 + b = 2 \\Rightarrow b = 3\\).\n3. Produto: \\(a \\cdot b = (-1) \\cdot 3 = -3\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) é o principal índice oficial de inflação no Brasil. De 01/01/2025 a 31/12/2025, o IPCA foi de 4,3%.\n\nUm determinado produto que, em 01/01/2025 custava R$ 10,00 e foi reajustado segundo esse índice, passou a custar, em reais, em 31/12/2025 o equivalente a",
+      "imagens": [],
+      "alternativas": {
+        "A": "10,43.",
+        "B": "11,57.",
+        "C": "12,70.",
+        "D": "13,34.",
+        "E": "14,30."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Seria um aumento de 15,7%; 4,3% de R$ 10,00 são só R$ 0,43.",
+        "C": "Seria um aumento de 27%, muito acima dos 4,3% do IPCA.",
+        "D": "Seria um aumento de 33,4%, muito acima dos 4,3% do IPCA.",
+        "E": "Soma R$ 4,30 ao preço, como se 4,3% de R$ 10,00 fossem R$ 4,30."
+      },
+      "teoria": [
+        "porcentagem"
+      ],
+      "essencial": [
+        "Reajustar um valor em \\(p\\%\\) é multiplicá-lo por \\(1 + \\frac{p}{100}\\).",
+        "\\(p\\%\\) de 10 é \\(\\frac{p}{10}\\): basta mover a vírgula uma casa para a esquerda."
+      ],
+      "raciocinio": "1. Reajuste de 4,3% sobre R$ 10,00 (veja: *Porcentagem*):\n\n\\[4{,}3\\% \\text{ de } 10 = 0{,}043 \\cdot 10 = 0{,}43\\]\n\n2. Preço novo: \\(10 + 0{,}43 = 10{,}43\\), o mesmo que \\(10 \\cdot 1{,}043\\).\n\nResposta: **A**.\n\n**Dica de prova:** antes de calcular, estime. 4,3% é menos de 5%, e 5% de R$ 10 são R$ 0,50: o preço novo fica abaixo de R$ 10,50.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Um professor de matemática apresentou a equação do segundo grau, em *x*, para os seus alunos no formato \\(ax^2 + bx + c = 0\\) e discutiu com eles as consequências para o resultado decimal da fração \\(\\dfrac{b^2}{4ac}\\).\n\nDentre as opções a seguir, o resultado, no qual a equação possui duas raízes reais distintas, está corretamente apresentado em",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,4.",
+        "B": "0,6.",
+        "C": "0,8.",
+        "D": "1,0.",
+        "E": "1,2."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "0,4 é menor que 1: \\(b^2\\) fica menor que \\(4ac\\), então \\(\\Delta < 0\\) e não há raiz real.",
+        "B": "0,6 é menor que 1: \\(b^2 < 4ac\\), então \\(\\Delta < 0\\) e a equação não tem raiz real.",
+        "C": "0,8 é menor que 1: ainda \\(b^2 < 4ac\\), \\(\\Delta < 0\\), nenhuma raiz real.",
+        "D": "Razão 1 significa \\(b^2 = 4ac\\), ou seja, \\(\\Delta = 0\\): a equação tem uma só raiz (dupla)."
+      },
+      "teoria": [
+        "equacoes-do-2o-grau"
+      ],
+      "essencial": [
+        "\\(\\Delta = b^2 - 4ac\\): duas raízes reais distintas se \\(\\Delta > 0\\), uma se \\(\\Delta = 0\\), nenhuma se \\(\\Delta < 0\\).",
+        "\\(\\Delta > 0\\) é o mesmo que \\(b^2 > 4ac\\)."
+      ],
+      "raciocinio": "1. Duas raízes reais distintas exigem \\(\\Delta = b^2 - 4ac > 0\\), ou seja, \\(b^2 > 4ac\\) (veja: *Equações do 2º grau*).\n2. Nas alternativas a fração é positiva; como \\(b^2\\) nunca é negativo, \\(4ac\\) é positivo. Dividindo \\(b^2 > 4ac\\) por \\(4ac\\):\n\n\\[\\frac{b^2}{4ac} > 1\\]\n\n3. A fração precisa ser maior que 1. Só 1,2 serve.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Um triângulo retângulo possui catetos com medidas iguais a 1 cm e 2 cm.\n\nSobre esse triângulo, é correto afirmar que",
+      "imagens": [],
+      "alternativas": {
+        "A": "a hipotenusa desse triângulo mede 3 cm.",
+        "B": "sua existência é impossível com catetos nessas medidas.",
+        "C": "a medida da hipotenusa desse triângulo é um número racional.",
+        "D": "esse triângulo será retângulo se, somente se, sua hipotenusa medir \\(\\sqrt{5}\\) cm.",
+        "E": "a medida de sua hipotenusa é um número natural."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Somar os catetos (1 + 2) não dá a hipotenusa; pelo teorema de Pitágoras, ela mede \\(\\sqrt{5}\\) cm.",
+        "B": "Quaisquer dois catetos formam um triângulo retângulo; com 1 cm e 2 cm, a hipotenusa mede \\(\\sqrt{5}\\) cm.",
+        "C": "\\(\\sqrt{5}\\) não é racional: 5 não é quadrado perfeito, então a raiz é irracional.",
+        "E": "\\(\\sqrt{5} \\approx 2{,}24\\) não é natural: está entre 2 e 3."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Teorema de Pitágoras: num triângulo retângulo, \\(a^2 = b^2 + c^2\\), sendo \\(a\\) a hipotenusa.",
+        "A recíproca também vale: se \\(a^2 = b^2 + c^2\\), o triângulo é retângulo.",
+        "A raiz quadrada de um número natural que não é quadrado perfeito é irracional."
+      ],
+      "raciocinio": "1. Pelo teorema (veja: *Teorema de Pitágoras*):\n\n\\[h^2 = 1^2 + 2^2 = 5 \\Rightarrow h = \\sqrt{5}\\ \\text{cm}\\]\n\n2. Como 5 não é quadrado perfeito, \\(\\sqrt{5} \\approx 2{,}24\\) é irracional (veja: *Raízes e radicais*). Isso elimina A, C e E, e B cai porque o triângulo existe.\n3. A D junta o teorema e a recíproca: com lados de 1 cm e 2 cm, o triângulo tem ângulo reto entre eles exatamente quando o terceiro lado mede \\(\\sqrt{5}\\) cm.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Observe o quadro a seguir que relaciona as grandezas *m* e *n*.\n\n| *m* | *n* |\n|---|---|\n| –1 | –12 |\n| 0 | –8 |\n| 1 | –4 |\n| 2 | 0 |\n\nUma expressão matemática que relaciona corretamente essas grandezas está indicada em",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(m = \\dfrac{n + 8}{4}\\)",
+        "B": "\\(n = 4m + 8\\)",
+        "C": "\\(m = \\dfrac{n - 8}{4}\\)",
+        "D": "\\(n = 4m - 4\\)",
+        "E": "\\(m = \\dfrac{4m + 8}{4}\\)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Com \\(m = 0\\), daria \\(n = 8\\), mas o quadro mostra \\(n = -8\\): o sinal do 8 está trocado.",
+        "C": "Com \\(n = 0\\), daria \\(m = -2\\), mas o quadro mostra \\(m = 2\\).",
+        "D": "Com \\(m = 0\\), daria \\(n = -4\\), mas o quadro mostra \\(n = -8\\).",
+        "E": "A expressão não tem *n*: relaciona *m* com ele mesmo e não descreve o quadro."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Se \\(n\\) aumenta sempre o mesmo valor quando \\(m\\) aumenta 1, a relação é afim: \\(n = am + b\\).",
+        "\\(a\\) é quanto \\(n\\) varia a cada unidade de \\(m\\); \\(b\\) é o valor de \\(n\\) quando \\(m = 0\\)."
+      ],
+      "raciocinio": "1. A cada aumento de 1 em \\(m\\), \\(n\\) aumenta 4 (−12, −8, −4, 0): a relação é afim, com taxa 4 (veja: *Funções afins e retas*).\n2. Quando \\(m = 0\\), \\(n = -8\\). Logo, \\(n = 4m - 8\\).\n3. Nenhuma alternativa traz essa forma, mas a A é a mesma relação com \\(m\\) isolado:\n\n\\[n + 8 = 4m \\Rightarrow m = \\frac{n + 8}{4}\\]\n\n4. Conferindo: \\(n = -12 \\Rightarrow m = \\frac{-4}{4} = -1\\), como no quadro.\n\nResposta: **A**.\n\n**Dica de prova:** teste um par do quadro em cada alternativa. Comece pelos pares com zero, que deixam as contas mais simples.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "O exemplo correto de uma situação que indica quando dois triângulos serão semelhantes ocorre quando",
+      "imagens": [],
+      "alternativas": {
+        "A": "a soma das medidas dos ângulos desses dois triângulos for 180 graus.",
+        "B": "a soma das medidas dos lados de um for o dobro da soma das medidas dos lados do outro.",
+        "C": "os três lados forem distintos entre si em cada um dos dois triângulos.",
+        "D": "o lado oposto ao menor ângulo for a metade do ângulo correspondente no outro.",
+        "E": "o dois forem retângulos e eles possuírem um ângulo agudo congruente entre si."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Os ângulos de qualquer triângulo somam 180°; isso vale para todos e não garante semelhança.",
+        "B": "Perímetros na razão 2 não bastam: triângulos de formas diferentes podem ter perímetros assim.",
+        "C": "Ter três lados diferentes (escaleno) não diz nada sobre a forma: dois escalenos podem ter ângulos bem diferentes.",
+        "D": "Compara um lado com um ângulo, medidas de tipos diferentes; semelhança exige ângulos iguais ou lados proporcionais."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Dois triângulos são semelhantes quando têm os três ângulos iguais; aí os lados correspondentes são proporcionais.",
+        "Caso AA: bastam dois ângulos iguais, porque o terceiro fica determinado (a soma é 180°)."
+      ],
+      "raciocinio": "1. Pelo caso AA, dois ângulos iguais bastam para a semelhança (veja: *Semelhança de triângulos*).\n2. Na E, os dois triângulos são retângulos: já têm um ângulo igual, o de 90°.\n3. Têm também um ângulo agudo igual. São dois ângulos iguais, e o terceiro também fica igual, porque a soma é sempre 180°.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "As escalas Celsius (°C) e Fahrenheit (°F) são utilizadas para medir temperaturas e a relação entre elas se dá pela função \\(F = \\dfrac{9}{5}C + 32\\), em que *F* é a temperatura em °F e *C* é a temperatura em °C.\n\nNesse sentido, é correto afirmar que",
+      "imagens": [],
+      "alternativas": {
+        "A": "100 °C e 132 °F indicam a mesma temperatura.",
+        "B": "0 °C e 0 °F indicam a mesma temperatura.",
+        "C": "a razão entre uma temperatura em °C e °F será constante e igual a \\(\\dfrac{5}{9} - 32\\).",
+        "D": "a diferença entre uma temperatura em °C e °F será constante e igual a \\(\\dfrac{5}{9} - 32\\).",
+        "E": "o valor da temperatura de 320 °F é o dobro do valor da mesma temperatura em °C."
+      },
+      "correta": "E",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(F = \\frac{9}{5} \\cdot 100 + 32 = 212\\): 100 °C equivalem a 212 °F, e não a 132 °F.",
+        "B": "0 °C equivalem a 32 °F; as duas escalas não começam no mesmo ponto.",
+        "C": "Por causa do “+ 32”, a razão muda com a temperatura: \\(\\frac{0}{32} = 0\\) em 0 °C, \\(\\frac{100}{212}\\) em 100 °C.",
+        "D": "A diferença também varia: em 0 °C, \\(F - C = 32\\); em 100 °C, \\(F - C = 112\\)."
+      },
+      "teoria": [
+        "funcao-afim",
+        "equacoes-do-1o-grau"
+      ],
+      "essencial": [
+        "Para converter, substitua o valor conhecido na fórmula e resolva a equação para achar o outro.",
+        "Numa função afim com termo independente diferente de zero, a razão entre as grandezas não é constante."
+      ],
+      "raciocinio": "1. Substitua \\(F = 320\\) e resolva a equação (veja: *Equações do 1º grau e problemas*):\n\n\\[320 = \\frac{9}{5}C + 32 \\Rightarrow \\frac{9}{5}C = 288 \\Rightarrow C = 288 \\cdot \\frac{5}{9} = 160\\]\n\n2. 320 °F = 160 °C, e \\(320 = 2 \\cdot 160\\). A E está certa.\n3. A relação é afim, com termo independente 32 (veja: *Funções afins e retas*). Por isso nem a razão nem a diferença entre F e C são constantes, o que elimina C e D.\n\nResposta: **E**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Num grupo, o quantitativo de pessoas que possuem 12, 14 e 16 anos de idade é o mesmo e igual a 5. O quantitativo de pessoas que possuem 13 e 15 anos de idade também é o mesmo e igual a 4.\n\nÉ correto afirmar que a idade média desse grupo é igual a",
+      "imagens": [],
+      "alternativas": {
+        "A": "12.",
+        "B": "13.",
+        "C": "14.",
+        "D": "15.",
+        "E": "16."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "12 é a menor idade do grupo; a média fica entre as idades, e não numa ponta.",
+        "B": "A soma das 23 idades é 322, e \\(322 \\div 23 = 14\\), e não 13.",
+        "D": "O grupo se equilibra em 14: cada pessoa de 15 tem uma de 13 correspondente, e cada uma de 16, uma de 12.",
+        "E": "16 é a maior idade do grupo; a média não pode estar numa ponta."
+      },
+      "teoria": [
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Média ponderada: multiplique cada valor pela quantidade de vezes que ele aparece, some e divida pelo total.",
+        "Se os valores se distribuem simetricamente em torno de um número, a média é esse número."
+      ],
+      "raciocinio": "1. Média ponderada (veja: *Média, mediana e moda*): cada idade vezes o número de pessoas.\n\n\\[5 \\cdot (12 + 14 + 16) + 4 \\cdot (13 + 15) = 210 + 112 = 322\\]\n\n2. Total de pessoas: \\(3 \\cdot 5 + 2 \\cdot 4 = 23\\).\n3. Média: \\(322 \\div 23 = 14\\).\n\nResposta: **C**.\n\n**Dica de prova:** 12 e 16 têm 5 pessoas cada; 13 e 15, 4 cada. Tudo se equilibra em torno de 14, sem precisar de conta.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Uma urna continha 20 bolas, 9 delas azuis e as outras vermelhas. Foram retiradas 5 bolas da urna, e essas bolas foram descartadas. Após essa retirada, a distribuição das bolas restantes na urna ficou de modo que a probabilidade de se retirar uma bola azul aleatoriamente passou a ser de \\(\\dfrac{1}{3}\\).\n\nO número correto de bolas azuis descartadas foi igual a",
+      "imagens": [],
+      "alternativas": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4.",
+        "E": "5."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Descartando 1 azul, sobrariam 8 azuis em 15 bolas: probabilidade \\(\\frac{8}{15}\\), e não \\(\\frac{1}{3}\\).",
+        "B": "Descartando 2 azuis, sobrariam 7 em 15: probabilidade \\(\\frac{7}{15}\\).",
+        "C": "Descartando 3 azuis, sobrariam 6 em 15: probabilidade \\(\\frac{6}{15} = \\frac{2}{5}\\).",
+        "E": "Descartando 5 azuis, sobrariam 4 em 15: probabilidade \\(\\frac{4}{15}\\)."
+      },
+      "teoria": [
+        "probabilidade"
+      ],
+      "essencial": [
+        "Probabilidade = casos favoráveis ÷ casos possíveis.",
+        "Conhecidos a probabilidade e o total, o número de casos favoráveis é probabilidade × total."
+      ],
+      "raciocinio": "1. Depois do descarte, a urna tem \\(20 - 5 = 15\\) bolas.\n2. A probabilidade de azul é \\(\\frac{1}{3}\\) (veja: *Probabilidade*), então há \\(\\frac{1}{3} \\cdot 15 = 5\\) azuis na urna.\n3. Eram 9 azuis e sobraram 5: foram descartadas \\(9 - 5 = 4\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Um cliente de um banco deixou uma dívida, inicialmente de R$ 1.500,00, aumentar durante três anos à taxa de juros de 20% ao ano. Quando tentou quitar a dívida, ele teve uma decepção: esperava que a aplicação da taxa seria em regime de juros simples, mas o banco calculou esse montante em regime de juros compostos.\n\nA dívida cobrada pelo banco, em reais, superou a expectativa do cliente em",
+      "imagens": [],
+      "alternativas": {
+        "A": "180.",
+        "B": "192.",
+        "C": "206.",
+        "D": "214.",
+        "E": "228."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Seriam três vezes os R$ 60,00 de “juros sobre juros” do 2º ano, mas no 3º ano essa diferença já chega a R$ 132,00.",
+        "C": "Os montantes são R$ 2.592,00 (compostos) e R$ 2.400,00 (simples); a diferença é 192, e não 206.",
+        "D": "Os juros sobre juros somam R$ 60,00 no 2º ano e R$ 132,00 no 3º: R$ 192,00, e não 214.",
+        "E": "228 passa do valor certo: a diferença entre R$ 2.592,00 e R$ 2.400,00 é R$ 192,00."
+      },
+      "teoria": [
+        "juros-simples-e-compostos"
+      ],
+      "essencial": [
+        "Juros simples: os juros de cada período são calculados sobre o valor inicial, \\(M = C(1 + i \\cdot t)\\).",
+        "Juros compostos: cada período rende sobre o montante anterior, \\(M = C(1 + i)^t\\)."
+      ],
+      "raciocinio": "1. **Simples** (veja: *Juros simples e compostos*): 20% de 1500 = 300 por ano. Em 3 anos, \\(1500 + 3 \\cdot 300 = 2400\\).\n2. **Compostos:** cada ano multiplica a dívida por 1,2.\n\n\\[1500 \\cdot 1{,}2^3 = 1500 \\cdot 1{,}728 = 2592\\]\n\n3. Diferença: \\(2592 - 2400 = 192\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Arredondando-se o número irracional π para o inteiro mais próximo de seu valor, obtém-se 3. Repetindo-se o mesmo processo para os números irracionais \\(\\dfrac{1}{\\pi}\\), \\(\\pi^2\\) e \\(\\sqrt{\\pi}\\), obtêm-se, respectivamente, os inteiros \"a\", \"b\" e \"c\".\n\nO valor correto de (a + b + c) é igual a",
+      "imagens": [],
+      "alternativas": {
+        "A": "9.",
+        "B": "10.",
+        "C": "11.",
+        "D": "12.",
+        "E": "13."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Baixo demais: só \\(\\pi^2 \\approx 9{,}87\\) já arredonda para 10, mais que 9.",
+        "B": "10 é só o valor de \\(b\\); falta somar \\(c = 2\\), já que \\(\\sqrt{\\pi} \\approx 1{,}77\\).",
+        "C": "Vem de arredondar \\(\\pi^2\\) para 9 (\\(3^2\\)); mas \\(\\pi^2 \\approx 9{,}87\\) fica mais perto de 10.",
+        "E": "Vem de arredondar \\(\\frac{1}{\\pi}\\) para 1; mas \\(\\frac{1}{\\pi} \\approx 0{,}32\\) fica mais perto de 0."
+      },
+      "teoria": [
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Para arredondar ao inteiro mais próximo, olhe a primeira casa decimal: de 5 para cima, sobe; abaixo de 5, desce.",
+        "Para estimar uma raiz quadrada, compare com quadrados conhecidos: \\(1{,}7^2 = 2{,}89\\) e \\(1{,}8^2 = 3{,}24\\)."
+      ],
+      "raciocinio": "Use \\(\\pi \\approx 3{,}14\\).\n1. \\(\\frac{1}{\\pi} \\approx 0{,}32\\), mais perto de 0: \\(a = 0\\).\n2. \\(\\pi^2 \\approx 3{,}14 \\cdot 3{,}14 \\approx 9{,}86\\), mais perto de 10: \\(b = 10\\).\n3. \\(\\sqrt{\\pi}\\): como \\(1{,}7^2 = 2{,}89\\) e \\(1{,}8^2 = 3{,}24\\), a raiz fica entre 1,7 e 1,8, mais perto de 2: \\(c = 2\\) (veja: *Raízes e radicais*).\n4. \\(a + b + c = 0 + 10 + 2 = 12\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "A figura a seguir é um prisma obtido recortando-se um paralelepípedo retângulo e descartando-se uma parte dele equivalente a outro paralelepípedo retângulo.\n\n![Prisma comprido cujas faces das pontas têm forma de L: um bloco retangular do qual foi retirado, ao longo de todo o comprimento, um bloco menor no canto de cima.](img/2026-2/q27.png)\n\nNesse prisma, é correto afirmar que as faces são",
+      "imagens": [
+        "img/2026-2/q27.png"
+      ],
+      "alternativas": {
+        "A": "6, sendo 2 hexágonos e 4 retângulos.",
+        "B": "6, sendo todas quadriláteros.",
+        "C": "8, sendo 2 hexágonos e 6 retângulos.",
+        "D": "8, sendo todas quadriláteros.",
+        "E": "8, sendo 4 hexágonos e 4 retângulos."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Conta só 4 faces laterais; o recorte cria mais duas, e são 6 retângulos ao todo.",
+        "B": "Descreve o paralelepípedo antes do recorte; depois dele, as faces das pontas viram hexágonos.",
+        "D": "As duas faces das pontas têm forma de L, com 6 lados: são hexágonos, e não quadriláteros.",
+        "E": "Só as duas bases, nas pontas, são hexágonos; as outras 6 faces são retângulos."
+      },
+      "teoria": [
+        "volumes",
+        "quadrilateros"
+      ],
+      "essencial": [
+        "Prisma: duas bases iguais e paralelas, ligadas por faces laterais retangulares, uma para cada lado da base.",
+        "Total de faces de um prisma = número de lados da base + 2.",
+        "Polígonos pelo número de lados: quadrilátero (4), pentágono (5), hexágono (6)."
+      ],
+      "raciocinio": "1. As bases do prisma são as faces das pontas, em forma de L. O L tem 6 lados, então cada base é um hexágono (veja: *Quadriláteros e polígonos*).\n2. Cada lado da base gera uma face lateral retangular: 6 retângulos.\n3. Total: \\(2 + 6 = 8\\) faces (veja: *Volumes de sólidos*).\n\nResposta: **C**.\n\n**Dica de prova:** num prisma, identifique a base, conte os lados dela e some 2. Esse é o número de faces.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Pablo achou seu primeiro computador guardado no sótão de sua casa, e por curiosidade, leu algumas de suas especificações, dentre elas a capacidade de armazenamento do seu disco rígido igual a 16 Mega Bytes (MB). Hoje ele possui um moderno aparelho de telefone celular cuja capacidade de armazenamento é de 1 Tera Byte (TB), acessíveis em um espaço físico muito menor do que seu velho PC. Sabe-se que 1TB = 1024 GB, que 1 GB = 1024 MB e 1 MB = 1024 KB.\n\nComparando-se a capacidade de armazenamento do antigo computador de Pablo com a do seu do atual celular, é correto afirmar que o número de vezes que o primeiro “cabe” dentro do segundo é",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(2^{16}\\)",
+        "B": "\\(2^{26}\\)",
+        "C": "\\(2^{60}\\)",
+        "D": "\\(2^{106}\\)",
+        "E": "\\(2^{600}\\)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Seria dividir 1 TB em KB (\\(2^{30}\\)) por 16; mas a capacidade antiga está em MB, e não em KB.",
+        "C": "Grande demais: 1 TB inteiro tem \\(2^{40}\\) bytes, então nenhuma comparação com ele passa disso.",
+        "D": "Grande demais: nem o número de bytes de 1 TB (\\(2^{40}\\)) chega perto de \\(2^{106}\\).",
+        "E": "Grande demais: nem o número de bytes de 1 TB (\\(2^{40}\\)) chega perto de \\(2^{600}\\)."
+      },
+      "teoria": [
+        "conversao-de-unidades",
+        "propriedades-de-potencias"
+      ],
+      "essencial": [
+        "Produto de potências de mesma base: some os expoentes, \\(2^{10} \\cdot 2^{10} = 2^{20}\\).",
+        "Divisão de potências de mesma base: subtraia os expoentes, \\(2^{20} \\div 2^4 = 2^{16}\\).",
+        "Escreva 1024 como \\(2^{10}\\) e 16 como \\(2^4\\)."
+      ],
+      "raciocinio": "1. Passe 1 TB para MB (veja: *Conversão de unidades*):\n\n\\[1\\ \\text{TB} = 1024 \\cdot 1024\\ \\text{MB} = 2^{10} \\cdot 2^{10} = 2^{20}\\ \\text{MB}\\]\n\n2. O disco antigo tem \\(16\\ \\text{MB} = 2^4\\ \\text{MB}\\).\n3. Quantas vezes cabe (veja: *Propriedades das potências*):\n\n\\[\\frac{2^{20}}{2^4} = 2^{20 - 4} = 2^{16}\\]\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Observe a expressão a seguir.\n\n\\[\\frac{(0{,}636363\\ldots)^2 : \\dfrac{21}{44}}{0{,}121212\\ldots + 0{,}212121\\ldots}\\]\n\nO valor correto da expressão é",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\dfrac{11}{29}\\)",
+        "B": "\\(\\dfrac{19}{28}\\)",
+        "C": "\\(\\dfrac{21}{33}\\)",
+        "D": "\\(\\dfrac{28}{11}\\)",
+        "E": "\\(\\dfrac{33}{19}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "É menor que 1, mas o numerador \\(\\frac{28}{33}\\) dividido por \\(\\frac{1}{3}\\) dá \\(\\frac{28}{11}\\), maior que 2.",
+        "B": "Erra as geratrizes: \\(0{,}6363\\ldots = \\frac{7}{11}\\), e o denominador da expressão vale \\(\\frac{1}{3}\\).",
+        "C": "Lembra o numerador, que vale \\(\\frac{28}{33}\\), mas troca 28 por 21 e ainda esquece de dividir por \\(\\frac{1}{3}\\).",
+        "E": "\\(\\frac{33}{19} \\approx 1{,}7\\), mas o valor certo é \\(\\frac{28}{11} \\approx 2{,}5\\)."
+      },
+      "teoria": [
+        "dizimas-periodicas",
+        "fracoes"
+      ],
+      "essencial": [
+        "Dízima com período de 2 algarismos: a geratriz é o período sobre 99, \\(0{,}4545\\ldots = \\frac{45}{99}\\).",
+        "Dividir por uma fração é multiplicar pelo inverso dela."
+      ],
+      "raciocinio": "1. Geratrizes (veja: *Dízimas periódicas*): \\(0{,}6363\\ldots = \\frac{63}{99} = \\frac{7}{11}\\) e \\(0{,}1212\\ldots + 0{,}2121\\ldots = 0{,}3333\\ldots = \\frac{1}{3}\\).\n2. Numerador (veja: *Frações*):\n\n\\[\\left(\\frac{7}{11}\\right)^2 : \\frac{21}{44} = \\frac{49}{121} \\cdot \\frac{44}{21} = \\frac{7 \\cdot 4}{11 \\cdot 3} = \\frac{28}{33}\\]\n\n3. A expressão toda: \\(\\frac{28}{33} : \\frac{1}{3} = \\frac{28}{33} \\cdot 3 = \\frac{28}{11}\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Um governador passava por uma série de complicações em sua administração, desde problemas fiscais até acusações de corrupção. Para mostrar sua popularidade entre os eleitores, ele encomendou uma pesquisa de aprovação e divulgou os resultados no gráfico que foi construído utilizando uma estratégia visual para induzir o leitor a uma interpretação diferente da realidade.\n\n![Gráfico de colunas “Aprovação do Governo”, com o subtítulo “Trabalho que gera confiança. Futuro que a gente constrói.” e, embaixo, a faixa “Nosso Estado avança com união, diálogo e resultados!”. O eixo vertical, “Aprovação (%)”, vai de 0% a 100%, de 20 em 20. As colunas ficam mais altas da esquerda para a direita.](img/2026-2/q30.jpg \"março: 40% | fevereiro: 50% | janeiro: 60%\")\n\n<cite>Fonte: A banca elaboradora, 2026.</cite>\n\nA esse respeito, é correto afirmar que essa estratégia foi",
+      "imagens": [
+        "img/2026-2/q30.jpg"
+      ],
+      "alternativas": {
+        "A": "fazer a entrevista com uma amostra selecionada de eleitores, fazendo com que o resultado desejado fosse obtido a partir da escolha de grupos com tendência prévia a apoiar o governo.",
+        "B": "inverter a ordem cronológica dos meses no eixo horizontal, dando a entender que a aprovação está crescendo, ao contrário do que de fato ocorreu nesses três meses.",
+        "C": "manipular a escala do gráfico de maneira desproporcional, dando mais ênfase nos dados positivos para o governo e diminuindo o espaço reservado aos dados negativos.",
+        "D": "trocar os eixos horizontais e verticais entre si, uma vez que, se as barras fossem horizontais, ficaria nítida a perda de popularidade do governo no período.",
+        "E": "utilizar valores percentuais em vez de número absoluto de pessoas em cada mês, impossibilitando saber qual é a real tendência dos números de aprovação do governo."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O gráfico não informa como a amostra foi escolhida; a estratégia visual está no próprio gráfico.",
+        "C": "A escala está correta: o eixo começa em 0% e sobe de 20 em 20, e as alturas são proporcionais.",
+        "D": "Deitar as barras não mudaria nada: a ordem dos meses continuaria invertida.",
+        "E": "Porcentagens mostram a tendência tão bem quanto números absolutos; o problema é a ordem dos meses."
+      },
+      "teoria": [
+        "graficos"
+      ],
+      "essencial": [
+        "Num gráfico ao longo do tempo, as datas devem seguir a ordem cronológica, da esquerda para a direita.",
+        "Antes de concluir algo, leia eixos, escala e rótulos: um gráfico pode ser montado para induzir uma leitura."
+      ],
+      "raciocinio": "1. Leia o eixo horizontal: março, fevereiro, janeiro. Os meses estão de trás para a frente (veja: *Leitura de gráficos*).\n2. Quem lê da esquerda para a direita vê as colunas subindo (40%, 50%, 60%) e conclui que a aprovação cresce.\n3. Na ordem certa, janeiro tem 60%, fevereiro 50% e março 40%: a aprovação **caiu** 20 pontos em três meses.\n\nResposta: **B**.",
+      "interativo": null
+    }
+  ]
+}

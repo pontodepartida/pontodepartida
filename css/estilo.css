@@ -345,6 +345,11 @@ button { font: inherit; color: inherit; }
 .etiqueta--ok { background: var(--cor-certo-suave); color: var(--cor-certo); }
 .etiqueta--neutra { color: var(--cor-texto-2); }
 .etiqueta--materia { font-size: 14px; padding: 6px 12px; }
+.modalidade {
+  margin-left: 4px; vertical-align: 0.15em; white-space: nowrap;
+  font-family: var(--fonte-texto); font-size: 13px; font-weight: 600; letter-spacing: 0.02em;
+  color: var(--cor-texto-2);
+}
 
 .rotulo {
   font-size: var(--fs-rotulo); font-weight: 700; letter-spacing: .06em;

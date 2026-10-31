@@ -262,6 +262,7 @@ const celulaExemplo = (s, n, simbolo) => `<span class="celula celula--${s} celul
 const AJUDA = [
   ['comecar', 'Primeiros passos', `
     <p>Na tela inicial, escolha uma prova. Você pode fazer as questões em qualquer ordem e parar quando quiser: ao voltar, a prova aparece com a opção <b>Continuar na questão…</b>, que leva para a primeira que ficou sem resposta.</p>
+    <p>Ao lado do nome, cada prova diz de qual processo seletivo ela é: <b>Integrado</b>, para quem terminou o 9º ano, ou <b>Concomitante</b>, para os cursos concomitantes e subsequentes ao ensino médio. As duas têm o mesmo formato e cobram conteúdo do ensino fundamental, então qualquer uma serve de treino.</p>
     <p>Acima da lista de provas fica a escolha entre <b>Estudar</b> e <b>Simulado</b>. No estudo não há cronômetro, e a explicação aparece logo depois de cada resposta. No simulado, a prova é feita como no dia: com 3 horas e com o gabarito só no final.</p>`],
   ['questao', 'Responder uma questão', `
     <p>Toque numa alternativa e depois em <b>Confirmar resposta</b>; até confirmar, dá para trocar de alternativa. Depois disso, a resposta fica gravada. Para refazer a prova, use <b>Recomeçar</b> na tela inicial; isso apaga todas as respostas daquela prova.</p>

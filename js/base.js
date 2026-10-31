@@ -94,9 +94,13 @@ export function provaResumida(item) {
   return {
     id: item.id,
     nome: item.nome,
+    modalidade: item.modalidade,
     questoes: [...(item.gabarito || '')].map((l, i) => ({ numero: i + 1, correta: l === '*' ? null : l, anulada: l === '*' })),
   };
 }
+
+const MODALIDADES = { integrado: 'Integrado', concomitante: 'Concomitante' };
+export const htmlModalidade = (m) => MODALIDADES[m] ? ` <span class="modalidade">${MODALIDADES[m]}</span>` : '';
 
 export async function carregarProva(id) {
   if (estado.provas.has(id)) return estado.provas.get(id);

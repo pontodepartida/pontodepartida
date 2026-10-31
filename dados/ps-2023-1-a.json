@@ -674,21 +674,23 @@
         "C": "\\(14\\sqrt{2}\\)",
         "D": "\\(12 + 6\\sqrt{2}\\)"
       },
-      "correta": "D",
+      "correta": "C",
       "anulada": false,
       "porQueErradas": {
-        "A": "\\(17\\sqrt{2} \\approx 24\\) m: alto demais para qualquer conta coerente com a figura.",
-        "B": "\\(9 + 8\\sqrt{2}\\) soma à altura de P a distância PE (9 m), como se E estivesse logo acima de P. E fica de lado.",
-        "C": "O gabarito oficial é a D."
+        "A": "\\(17\\sqrt{2}\\) não sai das medidas: a altura de E é a de P (\\(8\\sqrt{2}\\)) mais a distância de P ao lado ED (\\(6\\sqrt{2}\\)).",
+        "B": "\\(9 + 8\\sqrt{2}\\) soma à altura de P a distância PE (9 m), como se E estivesse logo acima de P; E fica deslocado para o lado.",
+        "D": "\\(12 + 6\\sqrt{2}\\) usa OP = 12 como se fosse a altura de P, mas a altura do triângulo OPQ é \\(8\\sqrt{2}\\)."
       },
       "teoria": [
+        "teorema-de-pitagoras",
         "semelhanca-de-triangulos"
       ],
       "essencial": [
-        "Um segmento paralelo a um lado do triângulo forma um triângulo semelhante, com todos os lados na mesma razão.",
-        "Num polígono regular, o centro fica à mesma distância de todos os vértices."
+        "No triângulo isósceles, a altura relativa à base cai no meio dela: use Pitágoras com metade da base.",
+        "Um segmento paralelo a um lado do triângulo forma um triângulo semelhante, com todas as medidas na mesma razão.",
+        "Num polígono regular, o centro fica à mesma distância de todos os lados."
       ],
-      "raciocinio": "1. Como AH // OQ, o triângulo PHA é uma redução de POQ na razão \\(\\frac{AH}{OQ} = \\frac{6}{8} = \\frac{3}{4}\\) (veja: *Semelhança de triângulos*). Os outros lados seguem a mesma razão: \\(PA = PH = \\frac{3}{4} \\cdot 12 = 9\\) m.\n2. No octógono regular, o centro P fica à mesma distância de todos os vértices, então \\(PE = 9\\) m também, e à mesma distância de lados opostos, como AH e ED.\n\nResposta: **D**.",
+      "raciocinio": "1. Altura de P: no triângulo isósceles OPQ, a altura cai no meio de OQ. Com metade da base (4 m) e OP = 12 m (veja: *Teorema de Pitágoras*): \\(h = \\sqrt{12^2 - 4^2} = \\sqrt{128} = 8\\sqrt{2}\\).\n2. Como AH // OQ, o triângulo PHA é uma redução de POQ na razão \\(\\frac{AH}{OQ} = \\frac{6}{8} = \\frac{3}{4}\\) (veja: *Semelhança de triângulos*). A altura dele, que é a distância de P até AH, mede \\(\\frac{3}{4} \\cdot 8\\sqrt{2} = 6\\sqrt{2}\\).\n3. No octógono regular, P fica à mesma distância de lados opostos: até ED, também \\(6\\sqrt{2}\\). Altura de E: \\(8\\sqrt{2} + 6\\sqrt{2} = 14\\sqrt{2}\\).\n\nResposta: **C**.",
       "interativo": null
     },
     {
@@ -826,12 +828,12 @@
         "C": "R$5,00 e R$ 1,60",
         "D": "R$8,00 e R$ 5,00"
       },
-      "correta": "D",
+      "correta": "A",
       "anulada": false,
       "porQueErradas": {
-        "A": "O gabarito oficial é a D.",
         "B": "Com trufa a R$ 1,60 e pão de mel a R$ 8,85: \\(6 \\cdot 8{,}85 + 10 \\cdot 1{,}60 = 69{,}10 \\neq 98\\).",
-        "C": "Com pão de mel a R$ 1,60: \\(6 \\cdot 1{,}60 + 10 \\cdot 5 = 59{,}60 \\neq 98\\)."
+        "C": "Com pão de mel a R$ 1,60: \\(6 \\cdot 1{,}60 + 10 \\cdot 5 = 59{,}60 \\neq 98\\).",
+        "D": "Tem os valores certos na ordem trocada: R$ 8,00 é o pão de mel, e a pergunta pede primeiro a trufa."
       },
       "teoria": [
         "sistemas-de-equacoes"
@@ -841,7 +843,7 @@
         "Método da substituição: isole uma letra numa equação e troque-a na outra.",
         "Confira a solução nas duas equações originais."
       ],
-      "raciocinio": "1. Monte o sistema, com \\(p\\) = pão de mel e \\(t\\) = trufa (veja: *Sistemas de equações do 1º grau*): \\(6p + 10t = 98\\) e \\(8p + 2t = 74\\).\n2. Da segunda: \\(t = 37 - 4p\\). Substituindo na primeira: \\(6p + 10(37 - 4p) = 98 \\Rightarrow 370 - 34p = 98 \\Rightarrow p = 8\\). Logo, \\(t = 37 - 32 = 5\\).\n3. Conferindo: \\(6 \\cdot 8 + 10 \\cdot 5 = 98\\) ✓ e \\(8 \\cdot 8 + 2 \\cdot 5 = 74\\) ✓.\n4. Os valores são R$ 8,00 e R$ 5,00, como na alternativa D.\n\nResposta: **D**.",
+      "raciocinio": "1. Monte o sistema, com \\(p\\) = pão de mel e \\(t\\) = trufa (veja: *Sistemas de equações do 1º grau*): \\(6p + 10t = 98\\) e \\(8p + 2t = 74\\).\n2. Da segunda: \\(t = 37 - 4p\\). Substituindo na primeira: \\(6p + 10(37 - 4p) = 98 \\Rightarrow 370 - 34p = 98 \\Rightarrow p = 8\\). Logo, \\(t = 37 - 32 = 5\\).\n3. Conferindo: \\(6 \\cdot 8 + 10 \\cdot 5 = 98\\) ✓ e \\(8 \\cdot 8 + 2 \\cdot 5 = 74\\) ✓.\n4. A pergunta pede a trufa e o pão de mel, nessa ordem: R$ 5,00 e R$ 8,00.\n\nResposta: **A**.\n\n**Dica de prova:** antes de marcar, confira a ordem pedida (“respectivamente”). Aqui, a alternativa com os valores trocados também aparece.",
       "interativo": null
     },
     {

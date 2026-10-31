@@ -69,6 +69,7 @@ const ids = new Set();
 for (const item of provas) {
   if (ids.has(item.id)) erros.push(`provas.json: id repetido "${item.id}"`);
   ids.add(item.id);
+  if (!['integrado', 'concomitante'].includes(item.modalidade)) erros.push(`provas.json: "modalidade" de "${item.id}" deve ser "integrado" ou "concomitante"`);
   if (!existsSync(join(RAIZ, 'dados', item.arquivo))) {
     erros.push(`provas.json: arquivo dados/${item.arquivo} não existe`);
     continue;

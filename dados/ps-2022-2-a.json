@@ -1,0 +1,924 @@
+{
+  "id": "ps-2022-2-a",
+  "nome": "PS 2022.2 – Prova A",
+  "edital": "Edital IFSP nº 225/2022 – Concomitante e Subsequente – Prova A",
+  "fonteGabarito": "Gabarito após recurso – Prova A – Edital nº 225/2022 – Processo Seletivo 2022.2",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto e responda à questão:\n\n> \\- Foi demitido? Situação difícil... Mas tudo ficará menos pior com um hambúrguer na mão.\n>\n> Nos EUA, uma ação do Burger King está dando *whoppers* de graça para quem acabou de perder o emprego.\n>\n> Para isso, a pessoa precisa avisar o fato em sua página no LinkedIn e escrever “Fui demitido. Quero um *whopper* grátis”.\n>\n> Além disso, deve usar a *hashtag* #WhopperSeverance. “Severance” quer dizer “indenização”, em inglês.\n>\n> Depois, a pessoa recebe em seu e-mail um *link* onde pode se cadastrar para finalmente receber, em casa, uma carta “oficial” e um cartão que dá direito a trocar por um lanche em um dos restaurantes da rede. (...)\n>\n> <cite>DEARO, Guilherme. Burger King vai dar hambúrguer de graça para quem for demitido. São Paulo, 30 ago. 2017. Exame. Fonte: https://exame.com/marketing/burger-king-hamburguer-gratis-quem-for-demitido/. Acesso em: 05 out. 2021. Fragmento.</cite>\n\nQuanto ao complemento do verbo, assinale a opção verdadeira:",
+      "imagens": [],
+      "alternativas": {
+        "A": "No quarto parágrafo, há o verbo “usar”, que rege complemento indireto.",
+        "B": "No segundo parágrafo, há o verbo “perder”, que rege complemento indireto.",
+        "C": "No segundo parágrafo, há o verbo “dar”, que rege complemento direto e indireto.",
+        "D": "No terceiro parágrafo, há o verbo “querer”, que rege complemento direto e indireto."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Usar* tem complemento sem preposição (“usar **a hashtag**”): é direto, e não indireto.",
+        "B": "*Perder* tem complemento sem preposição (“perder **o emprego**”): é direto.",
+        "D": "*Querer* tem só complemento direto: “Quero **um whopper grátis**”."
+      },
+      "teoria": [
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Objeto direto liga-se ao verbo sem preposição; objeto indireto, com preposição.",
+        "Alguns verbos pedem os dois: quem dá, dá **algo** (direto) **a alguém** (indireto)."
+      ],
+      "raciocinio": "1. No 2º parágrafo: “uma ação do Burger King está **dando** whoppers de graça **para quem acabou de perder o emprego**”.\n2. Dando **o quê**? *Whoppers*: objeto direto, sem preposição. Dando **para quem**? Para quem perdeu o emprego: objeto indireto, com preposição. *Dar* rege os dois (veja: *Transitividade verbal: verbos e complementos*).\n3. *Usar*, *perder* e *querer* têm só complemento direto: a hashtag, o emprego, um whopper.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia atentamente o texto abaixo:\n\n> O Ministério da Educação criou em 2017, o programa Educação Conectada, com o objetivo de universalizar o acesso à internet de alta velocidade. No entanto, em abril deste ano, os recursos do programa foram reduzidos em 45,1%, representando um corte de 82 milhões de reais.\n>\n> As dificuldades ao acesso à internet levaram a evasão de 1,38 milhões de crianças e adolescentes das instituições de ensino. Esse número representa 3,8% dos estudantes brasileiros. Os dados são do Unicef.\n>\n> Segundo o relatório, o perfil das crianças e adolescentes mais impactados pelo “fracasso escolar” já é bastante conhecido: “se concentram nas regiões Norte e Nordeste, são muitas vezes negras e indígenas ou estudantes com deficiências”.\n>\n> Hoje o Brasil possui 5,5 milhões de crianças e adolescentes sem acesso à educação.\n>\n> <cite>Fonte: https://www.cartacapital.com.br/educacao/o-papel-da-internet-como-elemento-fundamental-para-a-educacao/. Acesso em: 02 set. 2021.</cite>\n\nAo analisar a coesão e coerência do texto apresentado, escolha a alternativa correta:",
+      "imagens": [],
+      "alternativas": {
+        "A": "No primeiro parágrafo, a expressão *no entanto* é utilizada para destacar um aumento nos investimentos no programa Educação Conectada.",
+        "B": "No primeiro parágrafo, a expressão *no entanto* é utilizada para apontar redução dos investimentos no programa Educação Conectada.",
+        "C": "No segundo parágrafo, a palavra *evasão* é utilizada para indicar alunos que continuaram estudando durante a pandemia.",
+        "D": "No terceiro parágrafo, a palavra *impactados* é utilizada de maneira inadequada, com desvio de concordância do sujeito."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*No entanto* introduz o contrário do esperado: os recursos foram **reduzidos** em 45,1%, e não aumentados.",
+        "C": "*Evasão* é a saída dos alunos da escola: 1,38 milhão de estudantes deixaram de estudar.",
+        "D": "“Impactados” concorda com “crianças e adolescentes”, no masculino plural por abranger os dois gêneros; não há desvio."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "*No entanto* é conectivo de oposição: introduz algo que contraria o que se esperava da frase anterior.",
+        "*Evasão escolar* é o abandono da escola."
+      ],
+      "raciocinio": "1. O 1º parágrafo diz que o programa foi criado para universalizar a internet de alta velocidade. Espera-se que ele receba mais recursos.\n2. *No entanto* introduz o oposto: “os recursos do programa foram **reduzidos** em 45,1%” (veja: *Conectivos e relações de sentido*).\n3. O conectivo aponta a redução dos investimentos, que contraria o objetivo do programa.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia os textos abaixo:\n\n#### Texto I\n\n> ### Como o horror na literatura pode ser benéfico para as crianças\n> [...] Outro exemplo <u>de que gosto</u> muito é *Tenho medo*, escrito e ilustrado por Ivar da Coll. Trata-se de mais um livro de monstros — e há muitos aqui, para todos os gostos. [...]\n>\n> <cite>NESTAREZ, Oscar. Como o horror na literatura pode ser benéfico para as crianças. Galileu. 08 out. 2021. Fonte: https://revistagalileu.globo.com/Cultura/noticia/2021/10/como-o-horror-na-literatura-pode-ser-benefico-para-criancas.html. Acesso em: 09 out. 2021. Fragmento.</cite>\n\n#### Texto II\n\n> ### Ela perdeu 38 kg após saber que a obesidade era fator de risco para a covid\n> [...] Não fiz dietas restritivas, emagreci comendo de tudo, com equilíbrio. Sabia que não deveria me privar de coisas <u>que gosto</u>, pois não conseguiria manter uma alimentação assim por um longo prazo. Então, comecei controlando principalmente as quantidades do que eu consumia, depois fui fazendo substituições saudáveis. [...]\n>\n> <cite>SANTOS, Roseane. Ela perdeu 38 kg após saber que a obesidade era fator de risco para a covid. Uol. 30 set. 2021. Fonte: https://www.uol.com.br/vivabem/noticias/redacao/2021/09/30/ela-perdeu-38-kg-apos-saber-que-a-obesidade-era-fator-de-risco-para-a-covid.htm. Acesso em: 09 out. 2021. Fragmento.</cite>\n\nA partir da diferença de uso constatada nas expressões sublinhadas nos textos I e II, escolha a opção que corresponda ao emprego do verbo *gostar*:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O sentido do verbo *gostar* é o mesmo em ambos os textos, e a ausência da preposição no texto II ocorre em razão de uso coloquial da língua.",
+        "B": "O sentido do verbo *gostar* é diferente em cada um dos textos, e a anteposição da preposição em apenas em um deles justifica-se por essa razão.",
+        "C": "O sentido do verbo *gostar* é o mesmo em ambos os textos, e a anteposição da preposição no texto I desconsidera o uso exigido pela norma-padrão.",
+        "D": "O sentido do verbo *gostar* é diferente em cada um dos textos, e ambas as ocorrências seguem o uso exigido pela norma-padrão."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O sentido é o mesmo nos dois (ter apreço por algo); a diferença está só no uso da preposição.",
+        "C": "É o texto I que segue a norma (“**de** que gosto”); a falta da preposição no texto II é que é coloquial.",
+        "D": "O sentido é o mesmo, e o texto II foge da norma-padrão ao omitir a preposição *de*."
+      },
+      "teoria": [
+        "regencia-verbal",
+        "variacao-linguistica"
+      ],
+      "essencial": [
+        "*Gostar* pede a preposição *de*: gosto **de** música; o livro **de que** gosto.",
+        "Com pronome relativo, a preposição exigida pelo verbo vem antes dele; na fala, é comum omiti-la."
+      ],
+      "raciocinio": "1. Nos dois textos, *gostar* tem o mesmo sentido: ter apreço por algo.\n2. Pela norma, quem gosta, gosta **de** algo (veja: *Regência verbal*). Com o pronome relativo, a preposição vem antes: “Outro exemplo **de que** gosto” (texto I).\n3. No texto II, “coisas **que** gosto” omite a preposição, como é comum na fala (veja: *Variação linguística*). O padrão seria “coisas **de que** gosto”.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto a seguir:\n\n![Fotografia em preto e branco: uma criança, com um saco plástico na cabeça, olha para a câmera com as mãos no rosto.](img/2022-2-a/q04.jpg)\n\n<cite>Foto: Aragon Renuncio / 2019 fotógrafo ambiental do ano de Ciwem.</cite>\n\n> Um garoto brinca com um saco plástico. Cerca de 380 milhões de toneladas de plástico são produzidas em todo o mundo a cada ano. A produção aumentou exponencialmente de 2,3 milhões de toneladas em 1950 para 448 milhões de toneladas até 2015. Todos os dias, aproximadamente 8 milhões de peças de poluição plástica entram nos oceanos.\n>\n> <cite>Fonte: https://cebds.org/fotografias-retratam-questoes-sociais-e-ambientais/#.YVnDn9rMLIU. Acesso em: 06 jun. 2022.</cite>\n\nApós a leitura do texto, assinale a alternativa que corresponde ao tema da fotorreportagem:",
+      "imagens": [
+        "img/2022-2-a/q04.jpg"
+      ],
+      "alternativas": {
+        "A": "Declínio.",
+        "B": "Decomposição.",
+        "C": "Decadência.",
+        "D": "Danificação."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Declínio* é queda, diminuição; o texto mostra o contrário: a produção de plástico só aumenta.",
+        "B": "*Decomposição* seria o plástico se desfazendo; o texto fala do acúmulo de plástico, que chega aos oceanos todos os dias.",
+        "C": "*Decadência* é perda de valor ou de prestígio; a reportagem trata do estrago que o plástico causa ao ambiente."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Fotorreportagem: a imagem conta a história, e o texto curto traz os dados que a explicam.",
+        "Para achar o tema, junte o que a foto mostra e o que os números do texto indicam."
+      ],
+      "raciocinio": "1. A foto mostra uma criança brincando com um saco plástico: o plástico já faz parte do cotidiano, até das brincadeiras (veja: *Linguagem verbal e não verbal*).\n2. O texto completa com dados: 380 milhões de toneladas produzidas por ano e 8 milhões de peças de plástico entrando nos oceanos todos os dias.\n3. Imagem e dados tratam do estrago que o plástico causa ao ambiente: a danificação.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Durante a pandemia de COVID-19, muitos países adotaram medidas de *lockdown*, ou seja, seus cidadãos não poderiam sair de casa, a não ser em casos específicos, e o comércio deveria manter-se fechado. Algumas empresas adotaram o trabalho remoto e diversas pessoas recorreram à internet como um meio de manter contato com familiares e amigos. Sabendo que a internet foi fundamental para manutenção de vínculos sociais, analise o *cartoon* abaixo e escolha a alternativa correta:\n\n![Cartoon: um homem ajoelhado pede uma mulher em casamento, com um anel na mão. Em volta deles, vários notebooks em tripés mostram, numa chamada de vídeo, os rostos de pessoas que assistem ao pedido.](img/2022-2-a/q05.jpg)\n\n<cite>Fonte: https://www.newyorker.com/cartoons/daily-cartoon/monday-june-28th-pandemic-proposal. Acesso em: 04 out. 2021.</cite>",
+      "imagens": [
+        "img/2022-2-a/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "O *cartoon* retrata uma adaptação do ambiente de trabalho durante a pandemia de COVID-19.",
+        "B": "O *cartoon* retrata as interações sociais durante a pandemia de COVID-19.",
+        "C": "O *cartoon* retrata a produção de programas de TV durante a pandemia de COVID-19.",
+        "D": "O *cartoon* retrata as atividades comerciais durante a pandemia de COVID-19."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Não há ambiente de trabalho: a cena é um pedido de casamento, um momento pessoal.",
+        "C": "Não se trata de um programa de TV; os notebooks mostram pessoas assistindo por videochamada.",
+        "D": "Não há venda nem comércio na cena; ela mostra uma celebração entre pessoas próximas."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "No cartoon, o sentido nasce dos detalhes da imagem: aqui, os notebooks com rostos em volta do casal.",
+        "Ligue a imagem ao contexto dado no enunciado: a internet manteve os vínculos sociais na pandemia."
+      ],
+      "raciocinio": "1. A cena é um pedido de casamento: o homem está ajoelhado, com o anel.\n2. Em volta, notebooks em tripés mostram rostos numa chamada de vídeo: amigos e familiares assistem de longe, como fariam pessoalmente (veja: *Linguagem verbal e não verbal*).\n3. O cartoon retrata como as interações sociais passaram para a internet durante a pandemia.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia a tirinha a seguir para responder à questão que segue.\n\n![Tirinha “Rê Tinta”, de Estevão Ribeiro, em seis quadros. Duas meninas negras conversam depois de brincar na praia: uma delas explica à outra a origem da palavra “inhaca”, com um mapa de Moçambique.](img/2022-2-a/q06.jpg \"2º quadro: JOGÃO, HEIN? E AÍ, O QUE VAI FAZER AGORA? / AGORA VOU TOMAR UM BANHO PARA TIRAR ESSA INHACA... | 3º quadro: VOCÊ TÁ CHEIA DE AREIA, GEGÊ, MAS ACHO DIFÍCIL TIRAR UMA ILHA DE VOCÊ. / COMO ASSIM, RÊ? | 4º quadro: INHACA É UMA ILHA DE MAPUTO, EM MOÇAMBIQUE, ONDE VIVEM ATÉ HOJE OS NHACAS, UM POVO BANTO. OS PORTUGUESES NEGOCIAVAM MARFIM NO SÉCULO XVI ATRAVÉS DOS PORTOS DELES. | 5º quadro: ENTÃO, UM DOS NOMES QUE DAMOS AO ODOR CORPORAL É RELACIONADO A UM POVO PRETO? / BEM, OFICIALMENTE VEM DO TUPI YAKWA, QUE QUER DIZER ODOROSO... | 6º quadro: ...MAS SE TRATANDO DE RACISMO ESTRUTURAL CONSTRUÍDO POR SÉCULOS... NADA NESSA HISTÓRIA CHEIRA BEM.\")\n\n<cite>Fonte: https://twitter.com/estevaoribeiro/status/1184211793775943682/photo/1. Acesso em: 04 out. 2021.</cite>\n\nO uso de palavras ou expressões polissêmicas, isto é, com múltiplos sentidos, é um recurso recorrente em gêneros como a tirinha e a charge. Pela leitura do texto de Estevão Ribeiro, percebemos o emprego desse efeito de sentido a partir:",
+      "imagens": [
+        "img/2022-2-a/q06.jpg"
+      ],
+      "alternativas": {
+        "A": "Da expressão “Você tá cheia de areia”.",
+        "B": "Do uso das expressões “tirar uma ilha” e “povo preto”.",
+        "C": "Do verbo tomar em “tomar um banho”.",
+        "D": "Da expressão “cheira bem”."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Você tá cheia de areia” tem sentido literal: a menina voltou da praia com areia no corpo.",
+        "B": "“Tirar uma ilha” é um trocadilho com o nome próprio Inhaca, e “povo preto” tem sentido literal; não são palavras de vários sentidos.",
+        "C": "“Tomar um banho” tem sentido literal: lavar-se para tirar o cheiro."
+      },
+      "teoria": [
+        "ambiguidade"
+      ],
+      "essencial": [
+        "Palavra polissêmica tem mais de um sentido; o contexto pode ativar dois ao mesmo tempo.",
+        "*Cheirar bem* pode ser literal (ter bom cheiro) ou figurado (parecer correto, honesto)."
+      ],
+      "raciocinio": "1. A tira começa com *inhaca* no sentido de mau cheiro e mostra que a palavra também é o nome de uma ilha de Moçambique, habitada pelo povo Nhaca.\n2. No último quadro, “nada nessa história **cheira bem**” junta dois sentidos: o literal, ligado ao cheiro, e o figurado, de algo suspeito ou errado (veja: *Ambiguidade e duplo sentido*).\n3. Assim, a tira critica o racismo que pode estar por trás de palavras usadas no dia a dia.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Variação linguística",
+      "enunciado": "Leia o texto a seguir:\n\n![Tira de Anésia em cinco quadros. Anésia, uma senhora idosa, conta a uma amiga, enquanto tomam chá, que riu da prima; no último quadro, a prima aparece falando ao telefone com Anésia.](img/2022-2-a/q07.jpg \"Anésia: EU TENHO UMA PRIMA QUE ME DISSE OUTRO DIA QUE ESTAVA COM “POBREMA NO STOMBO”. | Amiga: O QUE É “ESTOMBO”? | Anésia: ELA QUIS DIZER ESTÔMAGO. EU RI TANTO. | Amiga: SUA PRIMA COM PROBLEMAS ESTOMACAIS E VOCÊ RINDO DELA? | (Anésia fica em silêncio) | Prima, ao telefone: OI, PRIMA! MEU “STOMBO” TÁ MELHOR. NÃO PRECISAVA SE PREOCUPAR.\")\n\n<cite>Fonte: http://www.willtirando.com.br/anesia-325/. Acesso em: 06 jun. 2022.</cite>\n\nApós a leitura do texto, assinale a alternativa que reflete a ideia central da tirinha, representada por D. Anésia:",
+      "imagens": [
+        "img/2022-2-a/q07.jpg"
+      ],
+      "alternativas": {
+        "A": "Variação na oralidade.",
+        "B": "Padronização da língua.",
+        "C": "Inconveniência linguística.",
+        "D": "Normatividade gramatical."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A tira não defende uma língua padronizada: mostra uma forma de falar diferente da norma.",
+        "C": "A fala da prima é entendida por todos; o que a tira questiona é o riso de Anésia, e não a fala.",
+        "D": "Ninguém na tira corrige a prima pela gramática; o tema é a variação na fala."
+      },
+      "teoria": [
+        "variacao-linguistica"
+      ],
+      "essencial": [
+        "Variação linguística: as pessoas falam de modos diferentes conforme a região, o grupo social e a escolaridade.",
+        "Nenhuma variedade é errada em si; zombar da fala do outro é preconceito linguístico."
+      ],
+      "raciocinio": "1. A prima de Anésia diz “pobrema no stombo”, e não “problema no estômago”: uma pronúncia diferente da norma-padrão, comum na fala de muitas pessoas (veja: *Variação linguística*).\n2. Anésia ri dessa fala, e a amiga a repreende: o que importa é que a prima estava doente.\n3. No fim, a própria prima liga e repete “meu stombo tá melhor”. A tira trata da variação na oralidade e do riso diante dela.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia o fragmento a seguir, retirado do romance “A paixão segundo G. H.”, de Clarice Lispector:\n\n> Eu estava agora tão maior que já não me via mais. Tão grande como uma paisagem ao longe. Eu era ao longe. <u>Mas</u> perceptível nas minhas mais últimas montanhas e nos meus mais remotos rios: a atualidade simultânea não me assustava mais, e na mais última extremidade de mim eu podia enfim sorrir sem nem ao menos sorrir. Enfim eu me estendia para além de minha sensibilidade.\n>\n> <cite>LISPECTOR, Clarice. A paixão segundo G. H. Rio de Janeiro: Rocco, 2009. p. 179.</cite>\n\nA conjunção “mas”, sublinhada no texto, indica oposição dos seguintes elementos:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Longe e perceptível.",
+        "B": "Paisagem e montanhas.",
+        "C": "Longe e montanhas.",
+        "D": "Paisagem e perceptível."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Paisagem* e *montanhas* estão do mesmo lado da imagem: a narradora se vê como paisagem, com montanhas e rios.",
+        "C": "*Montanhas* não se opõe a *longe*: é parte da imagem da narradora como paisagem.",
+        "D": "*Paisagem* não se opõe a *perceptível*; o contraste é entre estar ao longe e, ainda assim, ser percebida."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "*Mas* é conjunção adversativa: liga duas ideias que se opõem.",
+        "Para achar os elementos opostos, veja o que vem logo antes e logo depois do *mas*."
+      ],
+      "raciocinio": "1. Logo antes do *mas*: “Eu era ao **longe**”. Logo depois: “Mas **perceptível** nas minhas mais últimas montanhas”.\n2. Estar longe sugere não ser vista; *perceptível* é o contrário, poder ser notada. O *mas* opõe essas duas ideias (veja: *Conectivos e relações de sentido*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia um fragmento da canção “Pra ninguém (Por enquanto)”, da banda Capital Inicial:\n\n> Ninguém pra ligar e dizer onde estou\n> Ninguém pra ir comigo onde eu vou\n> Por outro lado\n> Ninguém pra abaixar o volume\n> Ninguém pra reclamar dos pratos sujos\n> Ninguém pra fingir que eu não amo\n>\n> <cite>ALVIN, L. Pra ninguém (Por enquanto). In: CAPITAL INICIAL: Rosas e vinho tinto. Gravadora Sony Music Entertainment, 2002.</cite>\n\nNo fragmento, a expressão “por outro lado” está sendo usada para dar um sentido de:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Explicação.",
+        "B": "Oposição.",
+        "C": "Alternativa.",
+        "D": "Conclusão."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Por outro lado* não explica o que veio antes: apresenta o outro lado da situação.",
+        "C": "Alternativa seria escolher entre duas opções (*ou*); aqui os dois lados existem ao mesmo tempo.",
+        "D": "*Por outro lado* não tira conclusão dos versos anteriores: mostra um contraste com eles."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "*Por outro lado* introduz um contraste: mostra o outro lado de uma mesma situação.",
+        "Compare o que vem antes e depois do conectivo: perdas de um lado, vantagens do outro."
+      ],
+      "raciocinio": "1. Antes de “por outro lado”, o eu lírico lamenta a solidão: não tem ninguém para ligar nem para ir com ele.\n2. Depois, aparecem as vantagens de estar só: ninguém para abaixar o volume nem para reclamar dos pratos sujos.\n3. O conectivo opõe o lado ruim ao lado bom de estar sozinho (veja: *Conectivos e relações de sentido*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Observe as orações abaixo:\n\nI. “Urge tomarmos uma providência.” (H. Sales).\nII. “Delfim sentiu bater-lhe o coração.” (M. de Assis).\nIII. “Despertei com os meninos a se levantarem da cama.” (J.L. do Rego).\nIV. “O remédio era ficar em casa.” (M. de Assis).\n\nSabendo que as orações subordinadas classificam-se em substantivas, adjetivas e adverbiais, pode-se afirmar que são exemplos de orações subordinadas substantivas:",
+      "imagens": [],
+      "alternativas": {
+        "A": "I, II e III.",
+        "B": "I, II e IV.",
+        "C": "II, III e IV.",
+        "D": "I, II, III e IV."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Inclui a III, em que “a se levantarem da cama” caracteriza *os meninos* (não é substantiva), e deixa de fora a IV.",
+        "C": "Deixa de fora a I, substantiva subjetiva (“Isso urge”), e inclui a III, que não é substantiva.",
+        "D": "A III não é substantiva: “a se levantarem da cama” caracteriza *os meninos*, como uma oração adjetiva."
+      },
+      "teoria": [
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Oração substantiva faz papel de sujeito, objeto ou predicativo; teste trocando por *isso*.",
+        "Orações reduzidas de infinitivo também podem ser substantivas: “Urge **tomarmos uma providência**” = “**Isso** urge”."
+      ],
+      "raciocinio": "1. Teste cada oração trocando por *isso* (veja: *Orações subordinadas*).\n2. **I:** “Urge **tomarmos uma providência**” → “Isso urge”: sujeito, substantiva subjetiva. **II:** “sentiu **bater-lhe o coração**” → “sentiu isso”: objeto, substantiva objetiva direta. **IV:** “O remédio era **ficar em casa**” → “era isso”: predicativo, substantiva predicativa.\n3. **III:** “os meninos **a se levantarem da cama**” descreve *os meninos*, como uma oração adjetiva.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o fragmento do conto abaixo e responda à questão:\n\n> Era domingo à noite, o quarteirão movimentado, rapazes no *footing*\\*, bares cheios. Enquanto ele andava, foi pensando no que acontecera. No começo fora só curiosidade; mas depois foi bacana, ficou alegre quando viu a traíra bem viva de novo, correndo pela água, esperta. Mas o que faria com ela agora? Matá-la, não ia; não, não faria isso. Se ela já estivesse morta, seria diferente; mas ela estava viva, e ele não queria criá-la. Mas o que faria com ela? Poderia criá-la; por que não? Havia o tanquinho do quintal, tanquinho que a mãe uma vez mandara fazer para criar patos. Estava entupido de terra, mas ele poderia desentupi-lo, arranjar tudo; ficaria cem por cento. É, é isso o que faria. Deixaria a traíra numa lata d’água até o dia seguinte e, de manhã, logo que se levantasse, iria mexer com isso. (...)\n>\n> \\* *footing*: passeio a pé, com o objetivo de arrumar namorado(a)\n>\n> <cite>VILELA, Luiz. Um Peixe. 7 ed. São Paulo: Ática, 2007. p. 36. Fragmento.</cite>\n\nO foco narrativo do conto é definido pela perspectiva em que o narrador relata os eventos relacionados ao enredo. No trecho, predomina:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O narrador personagem.",
+        "B": "O narrador testemunha.",
+        "C": "O narrador onisciente.",
+        "D": "O narrador observador."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O narrador não participa da história: conta em 3ª pessoa (“ele andava”, “foi pensando”).",
+        "B": "Narrador testemunha seria uma personagem secundária contando o que viu, em 1ª pessoa; aqui o relato é em 3ª pessoa.",
+        "D": "O observador só conta o que se vê; este narrador conhece os pensamentos do menino (“Matá-la, não ia”)."
+      },
+      "teoria": [
+        "elementos-da-narrativa"
+      ],
+      "essencial": [
+        "Narrador onisciente conta em 3ª pessoa e conhece os pensamentos e sentimentos das personagens.",
+        "Narrador observador também usa a 3ª pessoa, mas só relata o que se pode ver de fora."
+      ],
+      "raciocinio": "1. O narrador usa a 3ª pessoa: “Enquanto **ele** andava, foi pensando no que acontecera”. Não é personagem nem testemunha.\n2. Ele conhece o que se passa na cabeça do menino: “Mas o que faria com ela agora? Matá-la, não ia”; “ficou alegre quando viu a traíra bem viva”.\n3. Narrador em 3ª pessoa que conhece pensamentos e sentimentos é onisciente (veja: *Elementos da narrativa e tempo*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Pontuação",
+      "enunciado": "Leia a tira abaixo e responda à questão:\n\n![Tirinha de Armandinho em três quadros: Armandinho e uma amiga caminham e conversam sobre um motorista.](img/2022-2-a/q12.jpg \"1º quadro: ELE DIRIGIA E USAVA O TELEFONE! / “PRA NÃO PERDER TEMPO”... | 2º quadro: UM DIA BATEU EM UM POSTE! / CLARO... ERA QUESTÃO DE TEMPO... | 3º quadro: TEVE SORTE! NINGUÉM SE FERIU! / SÓ PERDEU DINHEIRO... ...E MUITO TEMPO...\")\n\n<cite>Fonte: https://tirasarmandinho.tumblr.com. Acesso em: 03 out. 2021.</cite>\n\nAs aspas no primeiro quadrinho indicam:",
+      "imagens": [
+        "img/2022-2-a/q12.jpg"
+      ],
+      "alternativas": {
+        "A": "A ênfase dada à expressão.",
+        "B": "A criação do neologismo “pra”.",
+        "C": "A uma citação de fala da pessoa que estava ao telefone.",
+        "D": "A uma expressão de gíria utilizada pela pessoa ao telefone."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Pra* é a forma reduzida de *para*, comum na fala; não é palavra nova, e as aspas envolvem a frase inteira.",
+        "C": "Ninguém da cena estava ao telefone falando com eles; as aspas não reproduzem uma fala ouvida ali.",
+        "D": "“Pra não perder tempo” não é gíria; as aspas destacam a desculpa, que a tira vai desmentir."
+      },
+      "teoria": [
+        "pontuacao"
+      ],
+      "essencial": [
+        "Aspas podem destacar uma expressão, dando a ela um sentido especial ou irônico.",
+        "Na tira, o destaque prepara a ironia: quem queria economizar tempo acabou perdendo muito."
+      ],
+      "raciocinio": "1. As aspas envolvem “Pra não perder tempo”, a justificativa de quem dirigia usando o telefone.\n2. O destaque chama a atenção para a expressão, que a tira vai virar do avesso: depois de bater no poste, ele “perdeu dinheiro... e muito tempo” (veja: *Sinais de pontuação e seus efeitos*).\n3. As aspas dão ênfase à expressão e preparam a ironia do final.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia o texto:\n\n> **Fotografia:** do grego φῶς [*fós*] (“luz”) e γραφίς [*grafís*] (“instrumento para escrever, gravar, desenhar ou pintar”) ou γραφή [*grafé*] (“escrita”), significa “desenhar com luz e contraste”; <u>**noutros termos**</u>, é essencialmente a *técnica de criação* de imagens por meio de exposição luminosa, fixando-as em uma superfície sensível. A primeira fotografia reconhecida remonta ao ano de 1826 e é atribuída ao francês Joseph Nicéphore Niépce. Contudo, a invenção da fotografia não é obra de um só autor, mas um processo de acúmulo de avanços por parte de muitas pessoas, trabalhando, juntas ou em paralelo, ao longo de muitos anos. Se, <u>**por um lado**</u>, os princípios fundamentais da fotografia se estabeleceram há décadas e, desde a introdução do filme fotográfico colorido, quase não sofreram mudanças, <u>**por outro**</u>, os avanços tecnológicos têm sistematicamente possibilitado melhorias na qualidade das imagens produzidas, agilização das etapas do processo de produção e a redução de custos, popularizando o uso da fotografia. (...)\n>\n> <cite>FOTOGRAFIA. In: WIKIPÉDIA, a enciclopédia livre. Fundação Wikimedia: São Francisco, EUA. Fonte: https://pt.wikipedia.org/wiki/Fotografia. Acesso em: 05 out. 2021. Fragmento.</cite>\n\nEscolha a alternativa que indica adequadamente a funcionalidade assumida pelos articuladores textuais destacados:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O articulador “noutros termos” avalia como verdadeira a declaração que o antecede, confirmando o grau de certeza e de obrigatoriedade que o sucede, o que explicita ao leitor a validade de ambas as declarações.",
+        "B": "Os articuladores “por um lado... por outro” estabelecem e organizam uma relação de comparação entre duas declarações, com grau de igualdade entre elas, em situação discursiva altamente argumentativa.",
+        "C": "Os articuladores “noutros termos” e “por um lado... por outro” indicam relação de oposição ao conjunto de conteúdos que os antecede, orientando a interpretação do leitor numa mesma direção de sentido.",
+        "D": "O articulador “noutros termos” funciona como introdutor de declaração de reformulação do conteúdo que o antecede, enquanto “por um lado... por outro” dá ordem às informações que se complementam."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Noutros termos” não avalia nada como verdadeiro: apenas diz a mesma coisa de outro modo.",
+        "B": "“Por um lado... por outro” não compara duas coisas iguais: organiza dois aspectos diferentes da fotografia, que se completam.",
+        "C": "Nenhum dos articuladores indica oposição: um reformula, o outro organiza informações que se completam."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "*Noutros termos*, *ou seja*, *isto é*: introduzem uma reformulação, dizendo a mesma ideia de outro modo.",
+        "*Por um lado… por outro*: organizam duas informações ou dois aspectos de um mesmo assunto."
+      ],
+      "raciocinio": "1. “significa ‘desenhar com luz e contraste’; **noutros termos**, é essencialmente a técnica de criação de imagens por meio de exposição luminosa”: a segunda parte repete a definição com outras palavras. É reformulação (veja: *Conectivos e relações de sentido*).\n2. “**Por um lado**, os princípios [...] quase não sofreram mudanças, **por outro**, os avanços tecnológicos têm [...] possibilitado melhorias”: dois aspectos da história da fotografia, ordenados lado a lado.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia o texto a seguir:\n\n> ### Por que guardar as palavras?\n> (Fragmento)\n>\n> *Sinto dificuldade em falar!* Sim, com a consciência de que esse é um conflito absolutamente pessoal travado por mim <u>**mesma**</u> diante de situações que me demandam atenção e desprendimento emocional. No entanto, confesso que esse é um boicote explícito que habita minhas relações. De personalidade intensamente emotiva, diante de assuntos pessoais simplesmente me calo, em total dificuldade de proferir minhas sentenças finais. Assim, em 99% das vezes as lágrimas se sobrepõem ao desenrolar da frase. E quase tudo acaba ali <u>**mesmo**</u>, com muito choro e sem palavras claras.\n>\n> <cite>Fonte: https://vidasimples.co/colunistas/por-que-guardar-as-palavras/. Acesso em: 04 out. 2021.</cite>\n\nAssinale a alternativa correta de acordo com o emprego no texto:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Mesma” = conjunção e “mesmo” = adjetivo.",
+        "B": "“Mesma” = adjetivo e “mesmo” = pronome.",
+        "C": "“Mesma” = pronome e “mesmo” = advérbio.",
+        "D": "“Mesma” = advérbio e “mesmo” = conjunção."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Mesma* não liga orações, então não é conjunção; e o *mesmo* de “ali mesmo” modifica um advérbio.",
+        "B": "Em “por mim mesma”, *mesma* reforça o pronome *mim*: é pronome. E “ali mesmo” é advérbio, e não pronome.",
+        "D": "*Mesma* concorda com a autora (feminino), e advérbio não varia; e *mesmo* não liga orações."
+      },
+      "teoria": [
+        "classes-de-palavras"
+      ],
+      "essencial": [
+        "*Mesmo* é pronome quando reforça um pronome ou substantivo e varia: “por mim **mesma**”, “eles **mesmos**”.",
+        "*Mesmo* é advérbio quando modifica verbo ou advérbio e não varia: “ali **mesmo**” = exatamente ali."
+      ],
+      "raciocinio": "1. “Por mim **mesma**”: reforça o pronome *mim* e concorda com a autora, no feminino. É pronome (veja: *Classes de palavras*).\n2. “E quase tudo acaba ali **mesmo**”: modifica o advérbio *ali*, com o sentido de “exatamente ali”, e não varia. É advérbio.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Em abril de 2018, Mark Zuckerberg, presidente executivo da rede social *Facebook*, foi convocado para depor no senado estadunidense após o escândalo *Cambridge Analytica* que envolveu vazamento de dados de 87 milhões de usuários do *Facebook*. Desde então, a proteção de dados pessoais é uma pauta amplamente debatida e que se faz presente em debates públicos, na elaboração de leis como a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709) e em propagandas de eletrônicos. Observe a propaganda de celular abaixo:\n\n![Propaganda de celular: uma garota segura um celular bem diante do rosto, que fica escondido atrás do aparelho.](img/2022-2-a/q15.jpg \"Privacidade. Isso é iPhone.\")\n\n<cite>Fonte: https://blogdoiphone.com/videos/video-privacidade-iphone/. Acesso em: 07 out. 2021.</cite>\n\nApós leitura do enunciado e análise da campanha publicitária, é correto afirmar que:",
+      "imagens": [
+        "img/2022-2-a/q15.jpg"
+      ],
+      "alternativas": {
+        "A": "O vazamento de dados de usuários de redes sociais é irrelevante na estratégia de persuasão adotada na campanha publicitária acima.",
+        "B": "A imagem da garota é irrelevante para estratégia de persuasão adotada na campanha publicitária acima.",
+        "C": "O modo como o rosto da garota está encoberto pelo celular faz parte da estratégia de persuasão adotada na campanha publicitária acima.",
+        "D": "O debate sobre proteção de dados não faz parte da estratégia de persuasão adotada na campanha publicitária acima."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O vazamento de dados é justamente o contexto que dá força à campanha, que vende privacidade.",
+        "B": "A imagem é central: o rosto escondido atrás do celular representa a ideia de privacidade.",
+        "D": "A campanha se apoia no debate sobre proteção de dados: o slogan é “Privacidade”."
+      },
+      "teoria": [
+        "textos-persuasivos"
+      ],
+      "essencial": [
+        "Na propaganda, imagem e slogan trabalham juntos para associar o produto a uma ideia.",
+        "O contexto, como os vazamentos de dados, torna essa ideia mais desejável para o público."
+      ],
+      "raciocinio": "1. O slogan é “Privacidade. Isso é iPhone.”: a campanha associa o celular à proteção de dados.\n2. A imagem reforça a ideia: o rosto da garota fica escondido atrás do aparelho, protegido de quem olha (veja: *Publicidade e propaganda*).\n3. Num momento de vazamentos de dados, como o caso Cambridge Analytica, essa promessa é um forte argumento de venda.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Segundo o professor de matemática e autor de material didático Ricardo Suzuki, é possível fazer estimativas sobre a Covid-19, porque epidemias seguem um padrão matemático chamado função exponencial, usado para representar fenômenos que se multiplicam muito rapidamente ao longo do tempo.\n\nO físico Silas Poloni, do Instituto de Física Teórica da Universidade Estadual Paulista (Unesp), explica que dizer que uma doença cresce exponencialmente significa, na prática, que “cada infectado é capaz de infectar mais de uma pessoa ao mesmo tempo”. Por isso, segundo o físico Vitor Sudbrack, também da Unesp, quanto mais doentes por Covid-19 existirem, mais pessoas irão adoecer pelo vírus.\n\nA Organização Mundial da Saúde (OMS) já alertou para o aumento da velocidade do crescimento:\n\n- os primeiros 100 mil casos de Covid-19 foram registrados em 67 dias,\n- mas foram necessários apenas mais 11 dias para atingir 200 mil casos,\n- outros quatro dias para chegar a 300 mil casos.\n\n<cite>Fonte: https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/31/crescimento-exponencial-e-curva-epidemica-entenda-os-principais-conceitos-matematicos-que-explicam-a-pandemia-de-coronavirus.ghtml. Acesso em 05 out. 2021.</cite>\n\nA ideia de crescimento exponencial também pode ser vista numa sequência de números, como 3, 9, 27,..., em que cada termo, a partir do segundo, é obtido pelo produto do termo anterior por 3 ou seguindo a potenciação \\(3^n\\), em que n é um número natural. Baseado nessa sequência, qual o valor obtido quando n=8 ?",
+      "imagens": [],
+      "alternativas": {
+        "A": "27",
+        "B": "81",
+        "C": "243",
+        "D": "6561"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "27 é \\(3^3\\), o terceiro termo; o pedido é \\(3^8\\).",
+        "B": "81 é \\(3^4\\); ainda falta multiplicar por 3 mais quatro vezes.",
+        "C": "243 é \\(3^5\\); o pedido é \\(3^8\\)."
+      },
+      "teoria": [
+        "propriedades-de-potencias",
+        "progressao-geometrica"
+      ],
+      "essencial": [
+        "\\(3^n\\) é o produto de \\(n\\) fatores iguais a 3.",
+        "Numa sequência em que cada termo é o anterior vezes 3 (progressão geométrica), o termo de ordem \\(n\\) é \\(3^n\\)."
+      ],
+      "raciocinio": "1. O termo de ordem \\(n\\) é \\(3^n\\) (veja: *Propriedades das potências*). Para \\(n = 8\\), é \\(3^8\\).\n2. Multiplicando por 3 a partir de 27 (veja: *Progressão geométrica*): \\(3^4 = 81\\), \\(3^5 = 243\\), \\(3^6 = 729\\), \\(3^7 = 2187\\), \\(3^8 = 6561\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "“Desde o início da quarentena, em março de 2020, o desejo de investir no lazer em casa cresceu, aquecendo a procura por piscinas. O calor, junto ao isolamento social, fez com que o setor de vendas desse produto se surpreendesse com a quantidade de vendas.”\n\n<cite>Fonte: https://www.sbtnews.com.br. Acesso em: 8 out. 2021 (adaptado).</cite>\n\nPara escolher uma piscina é necessário considerar o espaço, o tipo desejado e o orçamento disponível. Uma medida bastante utilizada é a de 4 m de largura por 8 m de comprimento e 1,4 metros de profundidade. Uma pessoa que comprou uma piscina retangular com essas dimensões, precisará de quantos litros de água para enchê-la?",
+      "imagens": [],
+      "alternativas": {
+        "A": "44.800",
+        "B": "44,8",
+        "C": "448.000",
+        "D": "448"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "44,8 é o volume em metros cúbicos; em litros, multiplica-se por 1000.",
+        "C": "448.000 tem um zero a mais: \\(44{,}8 \\cdot 1000 = 44\\,800\\).",
+        "D": "448 resulta de um erro na conversão: \\(44{,}8\\ \\text{m}^3 = 44\\,800\\) L."
+      },
+      "teoria": [
+        "volumes"
+      ],
+      "essencial": [
+        "Volume do bloco retangular = largura × comprimento × profundidade.",
+        "1 m³ = 1000 litros."
+      ],
+      "raciocinio": "1. Volume (veja: *Volumes de sólidos*): \\(4 \\cdot 8 \\cdot 1{,}4 = 44{,}8\\ \\text{m}^3\\).\n2. Em litros: \\(44{,}8 \\cdot 1000 = 44\\,800\\) L.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "O IgNobel é um prêmio concedido anualmente desde 1991 para cientistas e seus estudos inusitados em diferentes áreas do conhecimento. O prêmio, que tem como lema “fazer as pessoas rirem para depois pensarem”, laureou, em 2009, os pesquisadores Catherine Douglas e Peter Rowlinson, da Universidade de Newcastle, no Reino Unido, por seu estudo que concluiu que vacas que têm nomes produzem mais leite do que vacas que não os têm.\n\nUm fazendeiro resolveu replicar o estudo em seu rebanho com vacas das raças Holandesa, Girolando e Guzerá. Ele dividiu as vacas de cada raça em dois grupos com a mesma quantidade de animais. Para as vacas de um grupo, foram atribuídos nomes e para as outras não.\n\nApós um tempo, ele organizou os dados coletados em gráficos. Entre as opções abaixo, qual gráfico possibilita identificar exatamente a produção leiteira diária total das vacas que receberam nomes, desconsiderando suas raças?\n\n<cite>Fonte das imagens: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2022-2-a/q18-a.png",
+        "img/2022-2-a/q18-b.png",
+        "img/2022-2-a/q18-c.png",
+        "img/2022-2-a/q18-d.png"
+      ],
+      "alternativas": {
+        "A": "![Gráfico de colunas empilhadas “Produção Leiteira Diária”: uma coluna por raça (Holandesa, Girolanda e Guzerá), dividida entre vacas com nome (cinza) e sem nome (preto). O eixo vai de 0 a 30.000 litros, sem os valores escritos nas colunas.](img/2022-2-a/q18-a.png)",
+        "B": "![Gráfico de setores “Produção Leiteira Diária (litros)”: vacas com nome, 30025 (52,9%); vacas sem nome, 26754 (47,1%).](img/2022-2-a/q18-b.png)",
+        "C": "![Gráfico de setores “Produção Leiteira Diária (%) x Raça”: Holandesa 34,6%, Girolanda 46,3% e Guzerá 19,2%.](img/2022-2-a/q18-c.png)",
+        "D": "![Gráfico de colunas “Produção Leiteira Diária das Vacas com Nome”: uma coluna por raça (Holandesa, Girolanda e Guzerá), com o eixo de 0 a 15.000 litros, sem os valores escritos nas colunas.](img/2022-2-a/q18-d.png)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Mostra as vacas com nome por raça, mas sem os valores escritos: pela escala, só dá para estimar.",
+        "C": "Mostra a produção por raça, em porcentagem, sem separar vacas com e sem nome.",
+        "D": "Mostra só as vacas com nome, mas por raça e sem os valores: o total exigiria somar estimativas."
+      },
+      "teoria": [
+        "graficos"
+      ],
+      "essencial": [
+        "Para ler um valor exato, o gráfico precisa trazer o número escrito; pela escala, só se estima.",
+        "Escolha o gráfico que mostra exatamente a categoria pedida, sem precisar somar ou separar grupos."
+      ],
+      "raciocinio": "1. A pergunta pede o total exato das vacas com nome, sem separar por raça (veja: *Leitura de gráficos*).\n2. O gráfico B separa só em “com nome” e “sem nome” e traz o valor escrito: 30025 litros para as vacas com nome.\n3. Nos gráficos de colunas, os valores só podem ser estimados pela escala; o C divide por raça, e não por nome.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Sobre um bloco de teste, de forma retangular, é lançada uma pequena esfera que, ao perder o contato com a superfície superior do bloco, percorre a trajetória indicada na sequência de figuras abaixo:\n\n![Sequência de cinco figuras: uma pequena esfera sai do alto de um bloco retangular de 4 m de altura e cai descrevendo uma curva até o chão. Na última figura, a esfera toca o chão a 3 m da base do bloco, e uma linha tracejada liga o ponto de partida ao ponto de chegada.](img/2022-2-a/q19.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nCom base nas figuras mostradas, assinale a única afirmação verdadeira dentre as apresentadas a seguir:",
+      "imagens": [
+        "img/2022-2-a/q19.png"
+      ],
+      "alternativas": {
+        "A": "A medida total da trajetória da esfera é menor que 4 m.",
+        "B": "A medida total da trajetória da esfera é igual a 4 m.",
+        "C": "A medida total da trajetória da esfera é igual a 5 m.",
+        "D": "A medida total da trajetória da esfera é maior que 5 m."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Só a queda já tem 4 m de altura, e a esfera ainda avança 3 m: a trajetória é bem maior que 4 m.",
+        "B": "4 m é só a altura do bloco; a esfera também avança 3 m na horizontal.",
+        "C": "5 m é a distância em linha reta (o segmento tracejado); a trajetória curva é mais longa que ele."
+      },
+      "teoria": [
+        "teorema-de-pitagoras"
+      ],
+      "essencial": [
+        "O caminho mais curto entre dois pontos é o segmento de reta; qualquer curva entre eles é mais longa.",
+        "Com catetos 3 e 4, a hipotenusa mede 5 (terno pitagórico 3, 4, 5)."
+      ],
+      "raciocinio": "1. O segmento tracejado liga o ponto de partida ao de chegada e é a hipotenusa de um triângulo retângulo de catetos 4 m e 3 m (veja: *Teorema de Pitágoras*):\n\n\\[d = \\sqrt{4^2 + 3^2} = \\sqrt{25} = 5\\ \\text{m}\\]\n\n2. A esfera não segue esse segmento: faz uma curva entre os mesmos dois pontos.\n3. Como o segmento é o caminho mais curto, a trajetória curva mede mais que 5 m.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Um restaurante dá 20% de desconto no valor de cada item quando comprado em combos. Como promoção, concede mais 50% de desconto sobre cada item do combo através de cupons do *Instagram*. Um cliente compra dois combos utilizando os cupons do *Instagram*:\n\nCombo A = 5 pastéis e 3 esfirras\nCombo B = 2 pastéis e 5 esfirras\n\nSabendo que o combo A custou R$55,00 e o combo B custou R$41,00, determine o custo de um pastel fora do combo e sem cupom:",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 26,00",
+        "B": "R$ 20,00",
+        "C": "R$ 15,00",
+        "D": "R$ 12,50"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com o pastel a R$ 26,00, os preços não fecham os dois combos ao mesmo tempo.",
+        "C": "Com o pastel a R$ 15,00, o preço da esfirra que fecha o combo A não fecha o combo B.",
+        "D": "R$ 12,50 é o preço cheio da esfirra, e não o do pastel."
+      },
+      "teoria": [
+        "sistemas-de-equacoes",
+        "aumentos-e-descontos-sucessivos"
+      ],
+      "essencial": [
+        "Descontos sucessivos se multiplicam: 20% e depois 50% deixam \\(0{,}8 \\cdot 0{,}5 = 0{,}4\\) do preço.",
+        "Dois combos dão duas equações: resolva o sistema para achar os dois preços."
+      ],
+      "raciocinio": "1. Cada item paga \\(0{,}8 \\cdot 0{,}5 = 0{,}4\\) do preço cheio (veja: *Aumentos e descontos sucessivos*). Com \\(p\\) = pastel e \\(e\\) = esfirra:\n\n\\[0{,}4(5p + 3e) = 55 \\Rightarrow 5p + 3e = 137{,}5 \\qquad 0{,}4(2p + 5e) = 41 \\Rightarrow 2p + 5e = 102{,}5\\]\n\n2. Multiplique a 1ª por 5, a 2ª por 3 e subtraia (veja: *Sistemas de equações do 1º grau*): \\(19p = 380\\), então \\(p = 20\\).\n3. Conferindo: \\(e = 12{,}5\\) e \\(2 \\cdot 20 + 5 \\cdot 12{,}5 = 102{,}5\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "O jogo *“PERMU”* foi desenvolvido para dois jogadores, sendo composto de 4 peças, identificadas por B, R, G e Y, e um tabuleiro no qual estas devem ser encaixadas.\n\n![Quatro peças, com as letras B, R, G e Y, e um tabuleiro com quatro encaixes em fila.](img/2022-2-a/q21.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nInicialmente, o primeiro jogador encaixa as 4 peças no tabuleiro da maneira que quiser, sem mostrar para o adversário. As figuras abaixo mostram 2 exemplos possíveis de encaixe:\n\n![Exemplo 1: o tabuleiro com as peças na ordem G, B, Y, R.](img/2022-2-a/q21-ex1.png)\n\n![Exemplo 2: o tabuleiro com as peças na ordem Y, B, G, R.](img/2022-2-a/q21-ex2.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nFeito isso, o segundo jogador deverá adivinhar qual foi a sequência de peças montada pelo primeiro jogador, recebendo deste um retorno sobre a quantia de peças nas posições corretas para o palpite fornecido. O jogo termina quando a sequência de peças é corretamente adivinhada. Feito isso, invertem-se os papéis entre os dois jogadores. Vencerá aquele que conseguir acertar a sequência estabelecida pelo adversário com a menor quantia de palpites.\n\nDe quantas maneiras diferentes o jogador pode criar uma sequência de peças no tabuleiro?",
+      "imagens": [
+        "img/2022-2-a/q21.png",
+        "img/2022-2-a/q21-ex1.png",
+        "img/2022-2-a/q21-ex2.png"
+      ],
+      "alternativas": {
+        "A": "10",
+        "B": "16",
+        "C": "24",
+        "D": "64"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "10 é a soma 4 + 3 + 2 + 1; as escolhas de cada posição se multiplicam, e não se somam.",
+        "B": "16 seria \\(4 \\cdot 4\\); são 4 posições, e cada peça só pode ser usada uma vez.",
+        "D": "64 seria \\(4^3\\), como se as peças pudessem se repetir; cada uma entra uma vez só."
+      },
+      "teoria": [
+        "principio-multiplicativo"
+      ],
+      "essencial": [
+        "Para ordenar \\(n\\) objetos diferentes em \\(n\\) posições, multiplique \\(n \\cdot (n - 1) \\cdots 1\\).",
+        "Se um objeto não pode se repetir, cada posição tem uma opção a menos que a anterior."
+      ],
+      "raciocinio": "1. 1ª posição: 4 peças possíveis. 2ª: sobram 3. 3ª: sobram 2. 4ª: sobra 1 (veja: *Princípio multiplicativo*).\n2. \\(4 \\cdot 3 \\cdot 2 \\cdot 1 = 24\\) sequências diferentes.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Os dados abaixo referem-se ao tempo de internação em UTI, em dias, de pacientes com COVID-19 de um determinado hospital.\n\n| | | | | |\n|---|---|---|---|---|\n| 2 | 3 | 6 | 3 | 4 |\n| 5 | 27 | 6 | 4 | 11 |\n| 19 | 35 | 2 | 4 | 32 |\n| 3 | 3 | 27 | 4 | 9 |\n| 47 | 4 | 6 | 12 | 5 |\n\nPara compreender melhor o tempo de internação na UTI deste hospital, foram agrupados os dados da seguinte forma:\n\n| Classe | Frequência | Frequência Relativa (%) |\n|---|---|---|\n| 0 ⊢ 3 | 2 | 8 |\n| 3 ⊢ 6 | **A** | **D** |\n| 6 ⊢ 10 | **B** | **E** |\n| 10 ⊢ 15 | 2 | 8 |\n| 15 ⊢ 30 | 3 | **F** |\n| 30 ⊢ 50 | **C** | **G** |\n| Frequência Total | 25 | 100 |\n\nEntão, o valor de \\(D - A \\cdot C + (F - G)^B\\) é igual a:",
+      "imagens": [],
+      "alternativas": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "15"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "10 vem de errar alguma contagem; com \\(A = 11\\), \\(C = 3\\), \\(D = 44\\) e \\(F = G = 12\\), o valor é 11.",
+        "C": "12 vem de errar uma classe por um dado; contando com cuidado, \\(44 - 33 + 0 = 11\\).",
+        "D": "15 não sai da tabela: \\(D - A \\cdot C = 44 - 33 = 11\\), e \\((F - G)^B = 0^4 = 0\\)."
+      },
+      "teoria": [
+        "tabelas"
+      ],
+      "essencial": [
+        "Na classe a ⊢ b, entram os valores de a até antes de b: 3 ⊢ 6 inclui o 3 e exclui o 6.",
+        "Frequência relativa = frequência ÷ total × 100%."
+      ],
+      "raciocinio": "1. Conte os dados de cada classe (veja: *Leitura de tabelas*). 3 ⊢ 6 tem os 3, os 4 e os 5: \\(A = 4 + 5 + 2 = 11\\). 6 ⊢ 10: \\(B = 4\\). 30 ⊢ 50: 32, 35 e 47, então \\(C = 3\\).\n2. Relativas, sobre 25: \\(D = \\frac{11}{25} = 44\\%\\), \\(F = \\frac{3}{25} = 12\\%\\) e \\(G = 12\\%\\).\n3. \\(44 - 11 \\cdot 3 + (12 - 12)^4 = 44 - 33 + 0 = 11\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "### ‘Geração fotovoltaica é a melhor solução para crise energética’, diz Absolar\n\n![Placas de energia solar instaladas sobre um telhado.](img/2022-2-a/q23-foto.jpg)\n\n> Fica mais barato para o governo brasileiro apoiar a produção de energia elétrica a partir do Sol do que incentivar a população a economizar energia, aumentar a produção das termelétricas ou importar energia dos países vizinhos. A avaliação é da Associação Brasileira de Energia Solar Fotovoltaica (Absolar), entidade que congrega empresas e profissionais da cadeia produtiva do setor no Brasil, diante das recentes medidas adotadas pelo Ministério das Minas e Energias (MME) e da Agência Nacional de Energia Elétrica (Aneel) que inclui mais um aumento na conta de energia da população, por meio da chamada bandeira da escassez hídrica, que vai vigorar até abril de 2022. Em âmbito nacional, a estimativa é de mais de R$ 52,7 bilhões em investimentos privados e mais de 300 mil empregos acumulados desde 2012. A conta é favorável também para o clima, pois 10,7 milhões de toneladas de CO² deixaram de ser emitidos por meio da geração de energia solar.\n>\n> <cite>Fonte: https://www.seculodiario.com.br/meio-ambiente/geracao-fotovoltaica-e-a-melhor-solucao-para-crise-energetica-diz-absolar. Acesso em: 09 out. 2021.</cite>\n\nPara instalar placas de energia fotovoltaicas, é importante, inicialmente, saber o consumo médio mensal de energia elétrica da residência nos últimos 12 meses para poder dimensionar o número necessário de placas. Baseado no histórico da conta de energia elétrica da figura abaixo, qual o **consumo médio mensal** (kWh) desta residência de março a agosto de 2021.\n\n![Histórico de consumo de uma conta de luz, em barras horizontais, com o consumo em kWh e o número de dias de cada mês, de agosto de 2020 a agosto de 2021.](img/2022-2-a/q23.png \"2021 AGO: 251 kWh | JUL: 234 | JUN: 235 | MAI: 283 | ABR: 358 | MAR: 409 | FEV: 376 | JAN: 292 | 2020 DEZ: 382 | NOV: 342 | OUT: 373 | SET: 290 | AGO: 218\")\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2022-2-a/q23-foto.jpg",
+        "img/2022-2-a/q23.png"
+      ],
+      "alternativas": {
+        "A": "283",
+        "B": "311",
+        "C": "295",
+        "D": "251"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "283 é só o consumo de maio; a média junta os seis meses, de março a agosto.",
+        "B": "311 usa outros meses além de março a agosto; com os seis meses pedidos, a média é 295.",
+        "D": "251 é só o consumo de agosto; faltam os outros cinco meses."
+      },
+      "teoria": [
+        "graficos",
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Média mensal = soma do consumo dos meses ÷ número de meses.",
+        "Antes de somar, confira no gráfico quais meses entram no período pedido."
+      ],
+      "raciocinio": "1. De março a agosto de 2021 são 6 meses (veja: *Leitura de gráficos*): 409, 358, 283, 235, 234 e 251 kWh.\n2. Soma: \\(409 + 358 + 283 + 235 + 234 + 251 = 1770\\).\n3. Média (veja: *Média, mediana e moda*): \\(1770 \\div 6 = 295\\) kWh.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Em calculadoras científicas, quando um número muito grande ou muito pequeno precisa ser exibido, excedendo a quantidade de algarismos comportados no visor da calculadora, ele é representado em forma de notação científica, que é uma forma de escrever os números como potências de base 10, como mostrado na imagem abaixo:\n\n![Visor de uma calculadora científica Casio fx-82MS: na linha de cima, a conta 150000000 ÷ 10 elevado a 13; na de baixo, o resultado 1,5 × 10⁻⁰⁵.](img/2022-2-a/q24.jpg)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSe a expressão \\((2{,}7 \\cdot 10^{-16} \\times 1{,}5 \\cdot 10^{-2}) + 7{,}35 \\cdot 10^{-18}\\) for resolvida em uma calculadora como a da imagem acima, o resultado exibido no visor desta calculadora, em notação científica, será:",
+      "imagens": [
+        "img/2022-2-a/q24.jpg"
+      ],
+      "alternativas": {
+        "A": "\\(11{,}4 \\cdot 10^{-18}\\)",
+        "B": "\\(1{,}14 \\cdot 10^{-19}\\)",
+        "C": "\\(1{,}14 \\cdot 10^{-17}\\)",
+        "D": "\\(1{,}14 \\cdot 10^{-18}\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "11,4 não está em notação científica: a parte decimal precisa ficar entre 1 e 10.",
+        "C": "O gabarito oficial é a B.",
+        "D": "A parte decimal mudou de 11,4 para 1,14 sem o ajuste correspondente no expoente."
+      },
+      "teoria": [
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Na multiplicação, multiplique as partes decimais e some os expoentes das potências de 10.",
+        "Para somar, escreva as parcelas com a mesma potência de 10; no fim, deixe a parte decimal entre 1 e 10."
+      ],
+      "raciocinio": "1. Multiplicação: multiplique as partes decimais (\\(2{,}7 \\cdot 1{,}5\\)) e some os expoentes das potências de 10 (veja: *Potências de 10 e notação científica*).\n2. Soma: escreva esse resultado e \\(7{,}35 \\cdot 10^{-18}\\) com a mesma potência de 10 e some as partes decimais.\n3. Notação científica: ajuste a parte decimal para ficar entre 1 e 10, corrigindo o expoente.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Já pensando em suas merecidas férias de final de ano, um estudante do IFSP começou a rascunhar a construção de uma pipa. Para isso, utilizou um software de geometria, no qual desenhou um dos modelos mais fáceis, conhecido como *raia*:\n\n![Desenho numa malha quadriculada com eixos de 0 a 9: a raia ABCD tem A (5, 8) em cima, B (2, 4) à esquerda, C (5, 0) embaixo e D (8, 4) à direita. As varetas AC (vertical) e BD (horizontal) se cruzam em F (5, 4). A parte de cima é riscada, e a de baixo, pontilhada.](img/2022-2-a/q25.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nEmbora tenha gostado do rascunho que construiu, o estudante percebeu que as medidas utilizadas impossibilitariam construir uma raia: elas estavam muito pequenas! Para não fazer um novo desenho, ele pensou em usar uma escala: imaginando que o lado de cada quadradinho da malha quadriculada valesse 1 cm, para a construção da raia ele valeria 5 cm. Após a construção, ele a encaparia com dois papéis coloridos (um riscado e outro pontilhado). Com isso, a raia ficaria com o tamanho ideal!\n\nUtilizando essa escala para a construção da raia e sabendo que os segmentos de retas AC e BD são varetas de suporte para construí-la, é correto dizer que:",
+      "imagens": [
+        "img/2022-2-a/q25.png"
+      ],
+      "alternativas": {
+        "A": "Após a construção, a raia terá uma área 5 vezes maior que a área do desenho.",
+        "B": "Serão necessários 70 cm de varetas para a construção da raia e 300 cm² de papel para encapá-la.",
+        "C": "Serão necessários 40 cm de varetas para a construção da raia e 600 cm² de papel para encapá-la.",
+        "D": "Serão necessários 70 cm de varetas para a construção da raia e 600 cm² de papel para encapá-la."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Se cada medida fica 5 vezes maior, a área fica \\(5^2 = 25\\) vezes maior, e não 5.",
+        "B": "Acerta as varetas (70 cm), mas a área é \\(\\frac{40 \\cdot 30}{2} = 600\\) cm², e não 300.",
+        "C": "Acerta a área, mas as varetas somam 40 + 30 = 70 cm, e não 40."
+      },
+      "teoria": [
+        "razoes-especiais",
+        "areas-de-figuras-planas"
+      ],
+      "essencial": [
+        "Quadrilátero de diagonais perpendiculares (losango, pipa): área = \\(\\frac{D \\cdot d}{2}\\).",
+        "Numa ampliação com escala \\(k\\), os comprimentos ficam \\(k\\) vezes maiores e as áreas, \\(k^2\\) vezes."
+      ],
+      "raciocinio": "1. No desenho, AC vai de \\(y = 0\\) a \\(y = 8\\) (8 quadradinhos) e BD vai de \\(x = 2\\) a \\(x = 8\\) (6 quadradinhos).\n2. Com cada quadradinho valendo 5 cm (veja: *Razões especiais: velocidade, densidade e escala*): AC = 40 cm e BD = 30 cm. Varetas: 70 cm.\n3. As varetas são as diagonais, perpendiculares (veja: *Áreas de figuras planas*): \\(\\frac{40 \\cdot 30}{2} = 600\\) cm² de papel.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "O preço da gasolina já subiu mais de 32% nos postos em 2021. Em 1 ano, a quantidade de gasolina que o motorista pode comprar com R$ 100 caiu de 24 para 17 litros. O preço da gasolina segue em alta para o consumidor. Em agosto de 2020, a quantia de R$ 100 era suficiente para comprar cerca de 24 litros do combustível. No começo de 2021, essa quantidade já havia caído para 22 litros. Em agosto de 2021, o mesmo montante de dinheiro conseguia comprar 17 litros de combustível – uma queda de 29% em 1 ano. É o que aponta levantamento feito pelo InvestNews considerando dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Segundo a agência, o valor médio da gasolina estava em R$ 5,92 por litro na semana terminada em 21 de agosto de 2021. Existe, no entanto, grande variação regional, e, em algumas cidades das regiões Norte, Sudeste e Sul do Brasil, a ANP chegou a encontrar preços acima de R$ 7 por litro **no mesmo período.**\n\n![Gráfico de linha “Quantos litros de gasolina se comprava com R$ 100?”, de 2013 a 2021. A linha cai ao longo do período, com destaques: 36 litros em jan. 2013, 23 em ago. 2019, 24 em ago. 2020 e 22 em jan. 2021.](img/2022-2-a/q26.jpg)\n\n<cite>Fonte: https://investnews.com.br/economia/preco-da-gasolina-acumulado-2021. Acesso em: 06 jun. 2022.</cite>\n\nDe acordo com o gráfico, considerando um carro que consegue percorrer 11km com 1L de gasolina em média, qual foi a perda em km que se teve com um abastecimento de 100 reais, considerando o aumento no preço da gasolina entre janeiro de 2013 e janeiro de 2021?",
+      "imagens": [
+        "img/2022-2-a/q26.jpg"
+      ],
+      "alternativas": {
+        "A": "154 km",
+        "B": "242 km",
+        "C": "396 km",
+        "D": "638 km"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "242 km é o que o carro roda com 22 L (jan. 2021); a perda é a diferença entre as duas datas.",
+        "C": "396 km é o que o carro rodava com 36 L (jan. 2013); falta subtrair o que ele roda com 22 L.",
+        "D": "638 km soma as distâncias das duas datas (396 + 242); a perda é a diferença entre elas."
+      },
+      "teoria": [
+        "graficos",
+        "razoes-especiais"
+      ],
+      "essencial": [
+        "Num gráfico de linha, leia os valores das datas pedidas e só então faça a conta.",
+        "Distância = consumo (km/L) × litros."
+      ],
+      "raciocinio": "1. No gráfico, R$ 100 compravam 36 L em janeiro de 2013 e 22 L em janeiro de 2021 (veja: *Leitura de gráficos*).\n2. A perda é de \\(36 - 22 = 14\\) litros por abastecimento.\n3. A 11 km por litro (veja: *Razões especiais: velocidade, densidade e escala*): \\(14 \\cdot 11 = 154\\) km.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Um fluxograma é um diagrama muito comum para representar visualmente uma sequência de etapas para a realização de uma tarefa. De modo geral, ele está vinculado à ideia de apresentar um algoritmo por meio de um esquema visual. Por sua vez, um algoritmo é um conjunto de regras que fornece uma sequência de operações para solucionar uma tarefa.\n\nAbaixo, apresentamos uma tarefa em que a primeira etapa é dada por um fluxograma e a segunda por dois passos escritos para finalizá-la.\n\n![Fluxograma com cinco caixas ligadas por setas.](img/2022-2-a/q27.png \"Marque o ponto A (0,4) → Marque o ponto B (3,0) → Construa o segmento AB → Marque o ponto C simétrico do ponto B → Construa o segmento CB\")\n\n> **1º Passo**: Marque o ponto D (4,0)\n> **2º Passo**: Com a medida do segmento AB, construa um quadrado com um dos vértices no ponto D.\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nSabendo que um estudante, ao realizar corretamente essa tarefa, demarcou o ponto C considerando o eixo vertical como eixo de simetria e utilizou um plano cartesiano (usando a distância de 1 cm entre os pontos com coordenadas que são números inteiros), construiu dois polígonos:",
+      "imagens": [
+        "img/2022-2-a/q27.png"
+      ],
+      "alternativas": {
+        "A": "Um triângulo equilátero e um quadrado com lado medindo 5 cm",
+        "B": "Um triângulo equilátero e um quadrado com lado medindo 6 cm",
+        "C": "Um triângulo isósceles e um quadrado com lado medindo 5 cm",
+        "D": "Um triângulo isósceles e um quadrado com lado medindo 6 cm"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O triângulo ABC tem lados 5, 5 e 6: dois iguais, e não três. É isósceles, e não equilátero.",
+        "B": "O triângulo não é equilátero (lados 5, 5 e 6), e o quadrado tem o lado de AB, que mede 5 cm.",
+        "D": "Acerta o triângulo isósceles, mas o lado do quadrado é AB = 5 cm; 6 cm é a medida de BC."
+      },
+      "teoria": [
+        "plano-cartesiano",
+        "triangulos"
+      ],
+      "essencial": [
+        "Simétrico em relação ao eixo vertical: troca o sinal da coordenada x. O simétrico de (3, 0) é (−3, 0).",
+        "Distância entre pontos: use o teorema de Pitágoras com as diferenças de x e de y."
+      ],
+      "raciocinio": "1. A = (0, 4), B = (3, 0), e C, simétrico de B pelo eixo vertical, é (−3, 0) (veja: *Plano cartesiano e ponto médio*).\n2. AB tem catetos 3 e 4, então \\(AB = 5\\) cm. Por simetria, \\(AC = 5\\) cm. E \\(BC = 3 - (-3) = 6\\) cm.\n3. Lados 5, 5 e 6: triângulo isósceles (veja: *Triângulos: classificação e propriedades*). O quadrado tem lado AB = 5 cm.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Uma loja, em comemoração ao dia do cliente, está presenteando com almoços e jantares cada uma das culinárias: japonesa, francesa, italiana, portuguesa e brasileira. Após o cliente realizar a compra, é orientado a retirar um papel de cada uma das urnas como ilustra a figura a seguir. A Urna 1 define se será um almoço ou um jantar; a Urna 2 o tipo de culinária.\n\n![Duas urnas. Urna 1: papéis com “Almoço” e “Jantar”. Urna 2: papéis com Japonesa, Francesa, Italiana, Portuguesa e Brasileira.](img/2022-2-a/q28.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nQual a probabilidade de um cliente ser presenteado com um almoço da culinária Japonesa?",
+      "imagens": [
+        "img/2022-2-a/q28.png"
+      ],
+      "alternativas": {
+        "A": "\\(\\dfrac{1}{2}\\)",
+        "B": "\\(\\dfrac{1}{5}\\)",
+        "C": "\\(\\dfrac{1}{7}\\)",
+        "D": "\\(\\dfrac{1}{10}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "1/2 é só a chance de sair almoço na urna 1; falta a chance de sair a culinária japonesa.",
+        "B": "1/5 é só a chance de sair japonesa na urna 2; falta a chance de ser almoço.",
+        "C": "1/7 soma os papéis das duas urnas (2 + 5); como as retiradas são independentes, as chances se multiplicam."
+      },
+      "teoria": [
+        "probabilidade"
+      ],
+      "essencial": [
+        "Para eventos independentes (uma urna **e** outra), multiplique as probabilidades.",
+        "Também dá para contar: \\(2 \\cdot 5 = 10\\) resultados possíveis, e só 1 é almoço japonês."
+      ],
+      "raciocinio": "1. Urna 1: chance de almoço = \\(\\frac{1}{2}\\). Urna 2: chance de japonesa = \\(\\frac{1}{5}\\) (veja: *Probabilidade*).\n2. As retiradas são independentes, então as probabilidades se multiplicam: \\(\\frac{1}{2} \\cdot \\frac{1}{5} = \\frac{1}{10}\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Uma comissão de formatura está organizando os ambientes de uma festa. O salão de festas é quadrangular com lados de 15 metros. O evento terá uma pista de dança de x² metros, duas áreas retangulares de alimentação e um restaurante quadrangular. A figura ilustra a divisão dos ambientes no salão.\n\n![Salão quadrado de 15 metros de lado, dividido em quatro partes: a pista de dança, quadrada, de área x², embaixo à esquerda; o restaurante, quadrado, em cima à direita; e duas áreas retangulares de alimentação, uma acima da pista (Alimentação 1) e outra à direita dela (Alimentação 2).](img/2022-2-a/q29.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nQual a equação do 2º grau que representa a soma das duas áreas retangulares de alimentação?",
+      "imagens": [
+        "img/2022-2-a/q29.png"
+      ],
+      "alternativas": {
+        "A": "15x - x²",
+        "B": "15x + x²",
+        "C": "30x - 2x²",
+        "D": "30x + 2x²"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(15x - x^2\\) é a área de uma só área de alimentação; são duas.",
+        "B": "Soma \\(x^2\\) em vez de subtrair: cada retângulo mede \\(x(15 - x) = 15x - x^2\\), e são dois.",
+        "D": "Soma \\(2x^2\\) em vez de subtrair: as duas áreas valem \\(2(15x - x^2) = 30x - 2x^2\\)."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "expressoes-algebricas"
+      ],
+      "essencial": [
+        "Área do retângulo = base × altura; com medidas algébricas, aplique a distributiva.",
+        "Lado que sobra = lado total − parte conhecida: \\(15 - x\\)."
+      ],
+      "raciocinio": "1. A pista é um quadrado de área \\(x^2\\), então tem lado \\(x\\). Cada área de alimentação é um retângulo com um lado \\(x\\) e o outro \\(15 - x\\), o que sobra do salão.\n2. Área de cada uma (veja: *Áreas de figuras planas*): \\(x(15 - x) = 15x - x^2\\).\n3. As duas juntas (veja: *Expressões algébricas*): \\(2(15x - x^2) = 30x - 2x^2\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Uma máquina está programada para liberar uma quantidade de bolas em três saídas (I, II e III). A tabela a seguir mostra a quantidade de bolas liberadas em cada saída nas cinco primeiras sequências.\n\n| Sequência | Saída I | Saída II | Saída III |\n|---|---|---|---|\n| 1 | 2 | 3 | 4 |\n| 2 | 4 | 6 | 8 |\n| 3 | 6 | 9 | 12 |\n| 4 | 8 | 12 | 16 |\n| 5 | 10 | 15 | 20 |\n| ⋮ | ⋮ | ⋮ | ⋮ |\n| n | | | |\n\nQual a soma da quantidade de bolas liberadas na sequência “n” das três saídas (I, II e III)?",
+      "imagens": [],
+      "alternativas": {
+        "A": "3n",
+        "B": "4n",
+        "C": "5n",
+        "D": "9n"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "3n é só a saída II; a soma das três saídas é 2n + 3n + 4n.",
+        "B": "4n é só a saída III; faltam as saídas I e II.",
+        "C": "5n soma só as saídas I e II (2n + 3n); falta a III."
+      },
+      "teoria": [
+        "sequencias"
+      ],
+      "essencial": [
+        "Para achar a regra de uma coluna, compare cada valor com o número da sequência: 2, 4, 6, 8… = 2n.",
+        "Termos semelhantes se somam pelos coeficientes: \\(2n + 3n + 4n = 9n\\)."
+      ],
+      "raciocinio": "1. Compare cada saída com o número da sequência (veja: *Sequências e progressão aritmética*): saída I = 2, 4, 6… = \\(2n\\); saída II = 3, 6, 9… = \\(3n\\); saída III = 4, 8, 12… = \\(4n\\).\n2. Soma: \\(2n + 3n + 4n = 9n\\).\n3. Conferindo na sequência 5: \\(10 + 15 + 20 = 45 = 9 \\cdot 5\\).\n\nResposta: **D**.",
+      "interativo": null
+    }
+  ]
+}

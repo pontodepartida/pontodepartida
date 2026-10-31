@@ -1,0 +1,911 @@
+{
+  "id": "ps-2023-2",
+  "nome": "PS 2023.2",
+  "edital": "Edital IFSP nº 261/2023 – Concomitante e Subsequente",
+  "fonteGabarito": "Gabarito definitivo – Prova Edital 261 – PS 2023.2",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o seguinte quadrinho de Hagar, o Horrível:\n\n![Quadrinho de Hagar em três quadros. 1: Hagar pergunta o que tem para o jantar, e Helga responde de fora do quadro. 2: Hagar, sozinho, ouve a continuação da resposta. 3: Hagar, de pé, fala com Helga, que cozinha de costas para ele.](img/2023-2/q01.jpg \"Hagar: O QUE TEM PRO JANTAR, HELGA? | Helga: EU VOU COMER FAISÃO COM BATATAS GRATINADAS E ERVILHAS FRESCAS EM UM DELICIOSO MOLHO DE QUEIJO | Helga: VOCÊ VAI COMER MINGAU DE AVEIA FRIO | Hagar: ESQUECI NOSSO ANIVERSÁRIO DE CASAMENTO DE NOVO, NÉ?\")\n\n<cite>Fonte: https://ensineducamix.blogspot.com/2011/06/conheca-hagar-e-helga.html?m=0. Acesso em: 11 set. 2022.</cite>\n\nHagar percebe que esqueceu o aniversário de casamento (“*esqueci nosso aniversário* ***de casamento*** *de novo, né*”?) quando pergunta sobre o jantar e Helga responde: “*Você vai comer mingau de aveia* ***frio***”.\n\nOs termos ***de casamento*** e ***frio*** são modificadores que qualificam outros termos das orações. Entretanto, eles não desempenham a mesma função nos exemplos escolhidos do quadrinho. Marque a alternativa correta segundo a função de cada termo, respectivamente:",
+      "imagens": [
+        "img/2023-2/q01.jpg"
+      ],
+      "alternativas": {
+        "A": "Adjunto adnominal e predicativo do sujeito.",
+        "B": "Predicativo do sujeito e complemento nominal.",
+        "C": "Complemento nominal e adjunto adnominal.",
+        "D": "Predicativo do sujeito e adjunto adnominal."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*De casamento* completa o sentido de *aniversário*, e *frio* não se liga ao sujeito por verbo de ligação.",
+        "B": "Não há verbo de ligação para haver predicativo do sujeito; e *frio*, sem preposição, não é complemento nominal.",
+        "D": "*De casamento* não se liga a um sujeito por verbo de ligação: ele completa o nome *aniversário*."
+      },
+      "teoria": [
+        "adjunto-adnominal",
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Complemento nominal completa, com preposição, o sentido de um nome: responde a “de quê?”, “a quê?”.",
+        "Adjunto adnominal acompanha o substantivo para caracterizá-lo, dentro do mesmo termo: *mingau* ***frio***.",
+        "Predicativo do sujeito só aparece com verbo de ligação: “O mingau **está** frio”."
+      ],
+      "raciocinio": "1. **De casamento:** liga-se, com preposição, ao nome *aniversário* e completa o sentido dele: aniversário de quê? De casamento. É complemento nominal (veja: *Adjunto adnominal e locução adjetiva*).\n2. **Frio:** em “mingau de aveia frio”, o adjetivo acompanha o substantivo *mingau* e o caracteriza, dentro do mesmo termo. É adjunto adnominal.\n3. Não há verbo de ligação nessas frases, então nenhum dos dois é predicativo do sujeito (veja: *Verbos de ligação e predicativo do sujeito*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o anúncio:\n\n> ### O Alzheimer leva embora as memórias, pedacinho por pedacinho\n\n![Anúncio: o retrato de uma mulher de óculos é montado como um quebra-cabeça. As peças se encaixam, mas os pedaços do rosto estão fora do lugar, e a imagem fica embaralhada.](img/2023-2/q02.jpg)\n\n<cite>Campanha Alzheimer da BBDO de Düsseldorf. 2018. Disponível em: https://www.updateordie.com/2018/05/02/o-alzheimer-leva-embora-as-memorias-pedacinho-por-pedacinho. Acesso em: 11 set. 2022.</cite>\n\nA associação entre os recursos verbais e não verbais que compõem a campanha produz sentido que tem por objetivo:",
+      "imagens": [
+        "img/2023-2/q02.jpg"
+      ],
+      "alternativas": {
+        "A": "ilustrar a figura da metonímia, já que as peças do quebra-cabeças, representando a visão de uma pessoa, remetem ao transtorno dissociativo de personalidade, indicando uma relação de pertinência entre eles: a parte pelo todo.",
+        "B": "dirigir o leitor à participação ativa no Dia Mundial de Prevenção ao Alzheimer, que acomete sobretudo os idosos, é incurável e se agrava com o tempo, levando o paciente a uma dependência para executar suas atividades de vida diária.",
+        "C": "explicar a diferença que o Alzheimer faz na saúde mental e emocional dos portadores, incentivando-os a refletir acerca da aceitação da doença ou da busca de outras possibilidades de tratamento.",
+        "D": "retratar a gradual perda de memória dos portadores da doença usando um quebra-cabeças com peças que, apesar de se encaixarem perfeitamente, montam imagens embaralhadas, remetendo à confusão mental, bastante comum em quadros de Alzheimer."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O anúncio fala de Alzheimer, e não de transtorno dissociativo de personalidade.",
+        "B": "O anúncio não cita data nem convida o leitor a participar de nada: ele retrata a doença.",
+        "C": "O anúncio não se dirige aos portadores para falar de aceitação ou tratamento; mostra, pela imagem, o efeito da doença."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Em anúncios, imagem e texto se completam: a imagem mostra o que a frase diz.",
+        "Uma imagem concreta pode representar uma ideia abstrata, como peças trocadas para a memória que se perde."
+      ],
+      "raciocinio": "1. A frase diz que o Alzheimer leva as memórias “pedacinho por pedacinho”.\n2. A imagem traduz isso: o retrato é um quebra-cabeça cujas peças se encaixam, mas estão trocadas, e o rosto fica embaralhado (veja: *Linguagem verbal e não verbal*).\n3. Juntas, frase e imagem retratam a perda gradual da memória e a confusão mental da doença.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Ortografia e acentuação",
+      "enunciado": "Leia a charge a seguir e responda à questão:\n\n![Charge “SP Gourmet”: um governador vestido de chef de cozinha, ao lado de outros chefs, aponta para uma represa seca e rachada, com poucas poças de água.](img/2023-2/q03.jpg \"Placa: SP GOURMET | Pergunta: E AGORA, GOVERNADOR? | Governador: VAMOS COZINHANDO ESSA CRISE EM BANHO-MARIA!!!\")\n\n<cite>Fonte: Crise da falta d’água em SP ainda é gravíssima. Disponível em: http:www.juniao.com.br/crise-da-falta-dagua-em-sp-ainda-e-gravissima-charge-juniao/. Acesso em: 10 nov. 2021.</cite>\n\nA palavra “banho-maria”, que aparece na charge acima, deveria conter hífen pelo mesmo motivo das seguintes palavras compostas:",
+      "imagens": [
+        "img/2023-2/q03.jpg"
+      ],
+      "alternativas": {
+        "A": "água-marinha, arco-íris.",
+        "B": "micro-ondas, beija-flor.",
+        "C": "anti-inflamatório, hiper-requisitado",
+        "D": "guarda-chuva, super-homem."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Micro-ondas* leva hífen por outra regra: prefixo terminado na mesma vogal que começa a palavra seguinte.",
+        "C": "As duas palavras têm prefixos (*anti-*, *hiper-*): o hífen vem da regra dos prefixos, e não da composição.",
+        "D": "*Super-homem* tem prefixo antes de *h*: o hífen dele vem da regra dos prefixos, e não da composição."
+      },
+      "teoria": [
+        "hifen"
+      ],
+      "essencial": [
+        "Palavras compostas por dois substantivos, ou substantivo e adjetivo, sem elemento de ligação, levam hífen: *arco-íris*, *água-marinha*.",
+        "Com prefixos, a regra é outra: hífen antes de *h* ou de vogal igual à do fim do prefixo (*super-homem*, *micro-ondas*)."
+      ],
+      "raciocinio": "1. *Banho-maria* é formada por dois substantivos (*banho* + *Maria*), sem preposição entre eles. Por isso leva hífen (veja: *Hífen*).\n2. *Água-marinha* (substantivo + adjetivo) e *arco-íris* (substantivo + substantivo) seguem a mesma regra.\n3. As outras alternativas trazem pelo menos uma palavra com **prefixo** (*micro-*, *anti-*, *hiper-*, *super-*), cujo hífen segue outra regra.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto abaixo e responda à questão:\n\n> “Talvez se houvesse passado uma meia hora, ou mesmo uma hora (pois só podia medir o tempo imperfeitamente), quando ergui de novo os olhos para o forro. O que vi, então, encheu-me de confusão e de espanto. O balanço do pêndulo tinha aumentado de quase uma jarda de extensão. Como consequência natural, sua velocidade era, também, muito maior. Mas o que sobretudo me perturbou foi a ideia de que ele havia imperceptivelmente descido. Observava agora — com que horror é desnecessário dizer — que sua extremidade inferior era formada por um crescente de aço, cintilante, tendo cerca de um pé de comprimento, de ponta a ponta; as pontas voltavam-se para cima e a borda de baixo era evidentemente afiada como a folha de uma navalha. Como uma navalha, também, parecia pesado e maciço, estendendo-se para cima, a partir do corte, numa sólida e larga configuração. Estava ajustado a uma pesada haste de bronze, e o conjunto assoviava ao balançar-se no ar (...)\n>\n> De que serve falar das longas, das infindáveis horas de horror mais que mortal, durante as quais contei as precipitadas oscilações da lâmina? Polegada a polegada, linha a linha, com uma descida somente apreciável a intervalos que pareciam séculos, descia sempre, cada vez mais baixo, cada vez mais baixo! Dias se passaram — pode ser que se tenham passado muitos dias — até que ele se balançasse tão perto de mim que me abanasse com seu sopro acre”.\n>\n> <cite>POE, Edgar Allan. Contos de imaginação e mistério. Trad. Cássio de Arantes Leite. São Paulo: Tordesilhas, 2015.</cite>\n\nVerbos transitivos diretos precisam de um complemento para fazer sentido. Esse complemento, chamado de objeto direto, se liga ao verbo sem preposição obrigatória. Assinale a alternativa em que o termo em destaque apresenta um exemplo desse complemento verbal:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“pois só podia medir o tempo <u>**imperfeitamente**</u>”.",
+        "B": "“ergui de novo <u>**os olhos**</u> para o forro”.",
+        "C": "“parecia <u>**pesado**</u> e maciço”.",
+        "D": "“assoviava ao balançar-se <u>**no ar**</u>”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Imperfeitamente* indica o modo de medir: é adjunto adverbial. O objeto de *medir* é *o tempo*, que não está em destaque.",
+        "C": "*Pesado* liga-se ao sujeito pelo verbo de ligação *parecer*: é predicativo do sujeito.",
+        "D": "*No ar* indica lugar: é adjunto adverbial, e não complemento do verbo."
+      },
+      "teoria": [
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Objeto direto completa um verbo transitivo direto, sem preposição: ergui **o quê**? **Os olhos**.",
+        "Advérbios e locuções adverbiais (modo, lugar, tempo) não são objetos: indicam circunstâncias."
+      ],
+      "raciocinio": "1. Faça a pergunta ao verbo: ergui **o quê**? **Os olhos**. O termo completa o verbo sem preposição: é objeto direto (veja: *Transitividade verbal: verbos e complementos*).\n2. Os outros destaques respondem a outras perguntas: medir **como**? (*imperfeitamente*); balançar-se **onde**? (*no ar*). São circunstâncias.\n3. Em “parecia **pesado**”, o verbo é de ligação, e *pesado* é uma característica do sujeito.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto e responda à questão:\n\n> A indústria global de games movimentou US$ 175,8 bilhões em 2021, de acordo com os últimos dados consolidados e preliminares da consultoria Newzoo. Esse montante <u>**apresentou**</u> uma ligeira queda de -1,1% em relação a 2020, mas nada que afete o desempenho de alta dos próximos anos que deve levar um dos principais segmentos do entretenimento a <u>**movimentar**</u> mais de US$ 200 bilhões em 2023.\n>\n> Para os motivos dessa quebra no ritmo de crescimento, a Newzoo aponta uma alta fora da curva em 2020, em função da pandemia e a alta demanda por entretenimento virtual. Naquele ano, o mercado cresceu 23,1%, alta recorde já registrada pela consultoria. Os lançamentos do PlayStation 5 e do Xbox Series X | S também contribuíram para esse movimento expressivo.\n>\n> A Newzoo alerta para um ritmo de queda nos jogos voltados a PC que devem cair 2,8% nos próximos anos. Em 2021, esse segmento movimentou US$ 35,9 bilhões, do total, US$ 33,3 bilhões foram destinados a jogos baixados e US$ 2,6 bilhões em jogos de navegador. Para os consoles, a perspectiva também é de um declínio que chega a 8,9%, para US$ 49,2 bilhões. Isso ocorre principalmente pelo atraso no desenvolvimento de alguns games que acabam por <u>**afetar**</u> toda a lógica de consumo.\n>\n> O impacto negativo também afeta o hardware, já que a escassez global de chips <u>**significa**</u> a falta de suprimentos para muitos produtos eletrônicos de consumo, incluindo consoles de próxima geração e componentes necessários para jogos de PC de última geração.\n>\n> <cite>PACETE, Luiz Gustavo. 2022 promissor: mercado de games ultrapassará US$ 200 bi até 2023. Forbes. Disponível em: https://forbes.com.br/forbes-tech/2022/01/com-2022-decisivo-mercado-de-games-ultrapassara-us-200-bi-ate-2023/ Acesso em: 11 set. 2022. Fragmento.</cite>\n\nQuanto ao complemento do verbo, assinale a opção verdadeira:",
+      "imagens": [],
+      "alternativas": {
+        "A": "No parágrafo 01, há o verbo “apresentar”, que rege complemento direto.",
+        "B": "No parágrafo 01, há o verbo “movimentar”, que rege complemento indireto.",
+        "C": "No parágrafo 03, há o verbo “afetar”, que rege complemento direto e indireto.",
+        "D": "No parágrafo 04, há o verbo “significar”, que não rege complemento."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Movimentar* tem complemento sem preposição (“movimentar mais de US$ 200 bilhões”): é direto, e não indireto.",
+        "C": "*Afetar* tem só complemento direto: “afetar toda a lógica de consumo”.",
+        "D": "*Significar* tem complemento: “significa **a falta de suprimentos**”, um objeto direto."
+      },
+      "teoria": [
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Complemento direto liga-se ao verbo sem preposição; o indireto, com preposição.",
+        "Para achar o complemento, pergunte ao verbo: apresentou **o quê**?"
+      ],
+      "raciocinio": "1. “Esse montante **apresentou** uma ligeira queda”: apresentou **o quê**? **Uma ligeira queda**. O complemento vem sem preposição: é direto (veja: *Transitividade verbal: verbos e complementos*).\n2. Os outros verbos também pedem complemento direto, o que desmente as alternativas: *movimentar mais de US$ 200 bilhões*, *afetar toda a lógica de consumo*, *significa a falta de suprimentos*.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia a letra da canção “Faça ela feliz”, da dupla sertaneja Maycon e Vinícius:\n\n> Não faça uma mulher sofrer\n> Não faça uma dama chorar\n> Se ela gosta de você\n> O que custa valorizar?\n> Não faça uma mulher sofrer\n> Não faça a garota chorar\n> Se ela faz de tudo pra ti ver sorrir\n> Cuide bem dela\n> Proteja ela\n> Valorize quem te ama\n> Valorize quem te ama\n> Não brinque com o coração de uma mulher\n> E não faça as promessas se você não é\n> Homem de palavra\n> Mas faça ela feliz enquanto se amarem\n> Mande rosas e versos no aniversário\n> De namoro ou casamento\n> Cuide bem dela\n> Proteja ela\n> Valorize quem te ama\n> Valorize quem te ama\n> Não brinque com o coração de uma mulher\n> E não faça as promessas se você não é\n> Homem de palavra\n> Mas faça ela feliz enquanto se amarem\n> Mande rosas e versos no aniversário\n> De namoro ou casamento\n> Cuide bem dela.\n>\n> <cite>MAYCON & VINÍCIUS. Faça ela feliz. In: SOCIAL, DVD. SDR Music, 2018.</cite>\n\nNo trecho lido, podemos encontrar um exemplo adequado do uso dos pronomes pessoais de acordo com a norma culta-padrão em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“mas faça ela feliz”.",
+        "B": "“proteja ela”.",
+        "C": "“se ela faz de tudo”.",
+        "D": "“pra ti ver sorrir”."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Ela* é pronome reto e faz papel de objeto em “faça ela feliz”; na norma-padrão seria “faça-a feliz”.",
+        "B": "Como objeto de *proteja*, a norma-padrão pede o oblíquo: “proteja-a”.",
+        "D": "*Ti* não funciona como objeto de *ver*; na norma-padrão seria “para te ver sorrir”."
+      },
+      "teoria": [
+        "pronomes"
+      ],
+      "essencial": [
+        "Na norma-padrão, pronomes retos (*eu*, *ele*, *ela*) são sujeito; como objeto direto, usam-se os oblíquos (*o*, *a*, *te*): *proteja-a*.",
+        "Na fala e nas canções, “proteja ela” é comum, mas foge da norma-padrão."
+      ],
+      "raciocinio": "1. Veja a função de cada pronome (veja: *Pronomes*).\n2. Em “se **ela** faz de tudo”, *ela* é sujeito do verbo *fazer*: pronome reto como sujeito, de acordo com a norma.\n3. Nas outras, o pronome é objeto: “faça **ela** feliz” e “proteja **ela**” pedem *a* (faça-a, proteja-a), e “pra **ti** ver” pede *te* (para te ver sorrir).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o seguinte excerto de um texto científico para responder à questão:\n\n> Buscar estratégias que visem o combate às *fake news* é relevante para encontrar uma medida de lidar com os efeitos que as mesmas causam. Na era digital, os filtros do mundo linear não funcionam, são regidos por velocidade, efemeridade, descentralização e complexidade. O caos informacional do século XXI está acarretando o definhamento do ser crítico e gerando um cidadão confuso e com o poder de disseminar uma informação em segundos (SPINELLI; ALMEIDA, 2019).\n>\n> Em um mundo em constante mudança, a educação escolar tem de ser mais do que uma mera assimilação certificada de saberes (...). A escola precisa assumir o papel de formar cidadãos para a complexidade do mundo e dos desafios que ele propõe. Preparar cidadãos conscientes para analisar criticamente o excesso de informações e a mudança a fim de lidar com as inovações e as transformações sucessivas dos conhecimentos em todas as áreas (KENSKI, 2012, p.64).\n>\n> Autores da contemporaneidade, como Júnior (2019) e Reis, Rodrigues (2022) e Valente (2014), afirmam que o uso das TDIC no contexto educativo contribui para a melhoria da ação pedagógica, sendo facilitadores da aprendizagem. A utilização desses recursos tecnológicos permite aos alunos participarem de diversas situações de desenvolvimento cognitivo e social, sejam eles de aprendizagens formais ou informais (BERALDO; MACIEL, 2016).\n>\n> Capacitar o aluno a fim de que adquira competências midiáticas com habilidade de identificar e analisar as *fake news* deve ser a meta de todo educador, além de combater as notícias inverídicas e buscar o desenvolvimento de uma prática pedagógica direcionada à alfabetização midiática.\n>\n> <cite>ALMEIDA, Geraldine Leal Martins et al. A educação midiática e o combate às fake news. In: Revista Ibero-Americana de Humanidades, Ciências e Educação. Disponível em: https://periodicorease.pro.br/rease/article/view/5564. Acesso em: 11 set. 2022.</cite>\n\nPode-se afirmar que a única alternativa que apresenta características diferentes de um texto científico é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Linguagem clara, objetiva e impessoal",
+        "B": "Citação para fundamentar uma afirmação.",
+        "C": "Vocabulário técnico e especializado.",
+        "D": "Expressões populares e linguagem coloquial."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Linguagem clara, objetiva e impessoal é característica do texto científico, como se vê no excerto.",
+        "B": "O excerto cita autores para fundamentar o que afirma, como (SPINELLI; ALMEIDA, 2019): é característica do gênero.",
+        "C": "Termos como *TDIC* e *alfabetização midiática* mostram vocabulário técnico, típico do texto científico."
+      },
+      "teoria": [
+        "divulgacao-cientifica"
+      ],
+      "essencial": [
+        "Texto científico: linguagem impessoal e objetiva, vocabulário técnico e citação de autores (SOBRENOME, ano).",
+        "Gírias, expressões populares e tom de conversa não fazem parte do texto científico."
+      ],
+      "raciocinio": "1. O excerto tem as marcas do texto científico (veja: *Divulgação científica*): linguagem impessoal (“é relevante”, “a escola precisa”), termos técnicos (*TDIC*, *alfabetização midiática*) e citações no formato (SOBRENOME, ano).\n2. A pergunta pede a característica **diferente**: expressões populares e linguagem coloquial não aparecem no texto e não combinam com o gênero.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o texto a seguir:\n\n> ### Como aprender a andar de bicicleta depois de adulto\n> “É um **sonho realizado**”. Essa fala é de Maria Helena, 55 anos, para o Bike Anjo, no dia em que ela aprendeu a pedalar sozinha pela primeira vez. Presente em diversos estados do Brasil, o projeto une pessoas com vontade de ensinar a outras que não veem a hora de pegar uma bicicleta e poder circular por toda a cidade sem medo, receio ou insegurança.\n>\n> A realidade de Maria Helena não é incomum e nem motivo de vergonha. Embora aprender a andar de bicicleta seja uma prática associada à infância ou à adolescência, **quatro em cada dez brasileiros ainda não sabem pedalar**, é o que diz o estudo realizado pelo Instituto Ipsos, número que representa cerca de 42% da população do país.\n>\n> Para reduzir esse índice, iniciativas como a Bike Anjo ou os sistemas de bicicletas públicas procuram incentivar o uso da bike — para lazer, como meio de transporte ou até mesmo esporte — como uma alternativa viável e acessível para as pessoas.\n>\n> <cite>Fonte: https://vidasimples.co/conviver/como-aprender-a-andar-de-bicicleta-depois-de-adulto/ Acesso em: 11 set 2022. Fragmento.</cite>\n\nNo texto lido, podemos encontrar:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Verbo de ligação em “<u>**é**</u> um sonho realizado”.",
+        "B": "Verbo intransitivo em “<u>**une**</u> pessoas”.",
+        "C": "Verbo transitivo direto em “não <u>**é**</u> incomum”.",
+        "D": "Verbo transitivo indireto em “<u>**diz**</u> o estudo”."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Unir* tem complementos (“une **pessoas** com vontade de ensinar **a outras**”); não é intransitivo.",
+        "C": "Em “não **é** incomum”, *ser* é verbo de ligação: liga o sujeito à característica *incomum*.",
+        "D": "*Dizer* tem complemento sem preposição (o que o estudo diz): é transitivo direto, e não indireto."
+      },
+      "teoria": [
+        "verbos-de-ligacao",
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica dele (predicativo): *ser*, *estar*, *parecer*.",
+        "Verbo transitivo pede complemento; verbo intransitivo tem sentido completo sozinho."
+      ],
+      "raciocinio": "1. Em “**É** um sonho realizado”, o verbo *ser* liga o sujeito subentendido (*isso*, aprender a pedalar) à característica “um sonho realizado”. É verbo de ligação (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Nas outras, a classificação está errada: *unir* tem complemento, o *é* de “não é incomum” também é verbo de ligação, e *dizer* pede complemento sem preposição (veja: *Transitividade verbal: verbos e complementos*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia a charge a seguir e responda à questão:\n\n![Charge: dois jovens negros conversam numa rua. Ao lado deles, uma placa traz uma notícia.](img/2023-2/q09.jpg \"Jovem 1: NÃO DISSERAM QUE O MUNDO IA ACABAR?! | Jovem 2: PRA GENTE TÁ ACABANDO AOS POUCOS! EM DOLOROSAS PRESTAÇÕES! | Placa: 147 MORTOS NO ESPÍRITO SANTO. MAIORIA SÃO JOVENS NEGROS\")\n\n<cite>Fonte: https://ponte.org/fim-do-mundo/charge_ponte_jornalismo_18_02_2016_mortos_es_72/. Acesso em: 10 nov. 2021.</cite>\n\nEm “Não disseram **que o mundo ia acabar**?!”, a oração destacada é:",
+      "imagens": [
+        "img/2023-2/q09.jpg"
+      ],
+      "alternativas": {
+        "A": "subordinada substantiva subjetiva.",
+        "B": "subordinada substantiva objetiva direta.",
+        "C": "subordinada substantiva completiva nominal.",
+        "D": "subordinada substantiva objetiva indireta."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Subjetiva faria papel de sujeito; aqui o sujeito de *disseram* é indeterminado, e a oração é o que foi dito.",
+        "C": "Completiva nominal completaria um nome; aqui a oração completa o verbo *dizer*.",
+        "D": "*Dizer* não pede preposição antes da oração: “disseram **isso**”, e não “disseram **disso**”."
+      },
+      "teoria": [
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Oração subordinada substantiva faz papel de sujeito, objeto ou complemento; teste trocando por *isso*.",
+        "Se a oração completa um verbo sem preposição, é objetiva direta: “Disseram **isso**”."
+      ],
+      "raciocinio": "1. Troque a oração por *isso*: “Não disseram **isso**?”. Ela funciona como um substantivo, então é substantiva (veja: *Orações subordinadas*).\n2. *Isso* é o que foi dito: completa o verbo *dizer* sem preposição. É objeto direto.\n3. Logo, a oração é subordinada substantiva objetiva direta.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "A publicidade utiliza técnicas de persuasão para convencer os receptores a comprar determinados produtos e a escolher determinada marca. Observe o anúncio a seguir para responder ao que se pede:\n\n![Anúncio em forma de meme, com a postagem de @miopiasincera. Embaixo, quatro fotos: sem óculos, uma mulher estende a mão para um vulto embaçado na calçada; depois, ela põe os óculos e vê que o vulto é uma pedra.](img/2023-2/q10.jpg \"Título: A miopia sem os óculos ela humilha | Postagem: - Indo acariciar um cachorro *coloco os óculos*\")\n\n<cite>Facebook. Óticas Diniz. A miopia sem os óculos ela humilha @miopiasincera – Indo acariciar um cachorro *coloco os óculos*. Disponível em: https://www.facebook.com/oficial.oticasdiniz. Acesso em: 07 out. 2021.</cite>\n\nA respeito das estratégias de persuasão e de apelo ao consumo presentes no anúncio, percebe-se a utilização:",
+      "imagens": [
+        "img/2023-2/q10.jpg"
+      ],
+      "alternativas": {
+        "A": "De um meme, o que permite a interação com um público específico; além disso, a história contada propõe uma reflexão sobre a importância de usar óculos, o que pode ser percebido pelas imagens “embaçadas”, imitando a visão de uma pessoa sem óculos.",
+        "B": "Do humor, o que leva o portador de óculos a se sentir ofendido por ser objeto de uma piada; além disso, a história contada não tem relação com a realidade, pois ninguém confunde uma pedra com um cachorro.",
+        "C": "De uma personagem que sai na rua sem óculos, o que gera identificação nos receptores de forma geral; além disso, há um jogo de palavras para identificar a miopia.",
+        "D": "De uma situação incomum para míopes, o que prejudica a persuasão; além disso, há identificação do público receptor com memes envolvendo cachorros de rua e pedestres."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O humor é leve e gera identificação, e não ofensa; e confundir objetos sem óculos é justamente a experiência de quem tem miopia.",
+        "C": "Não há jogo de palavras para identificar a miopia: ela é mostrada pelas imagens embaçadas.",
+        "D": "A situação é comum para míopes, e é isso que gera identificação e persuade, em vez de prejudicar."
+      },
+      "teoria": [
+        "textos-persuasivos"
+      ],
+      "essencial": [
+        "Memes são formatos conhecidos nas redes sociais: usá-los aproxima a marca do público que os compartilha.",
+        "A publicidade persuade pela identificação: o leitor se reconhece na situação e sente a necessidade do produto."
+      ],
+      "raciocinio": "1. O anúncio usa o formato de um meme das redes sociais, com a postagem de @miopiasincera (veja: *Publicidade e propaganda*).\n2. As fotos embaçadas imitam a visão de quem tem miopia: sem os óculos, a pessoa acha que vai acariciar um cachorro; com eles, vê que era uma pedra.\n3. A graça da situação aproxima o público e, ao mesmo tempo, mostra a importância de usar óculos, que é o que a ótica vende.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto e responda à questão:\n\n> ### Desmatamento na Amazônia no mês de abril é o maior em seis anos, aponta Inpe\n> A Amazônia perdeu em abril 581 quilômetros quadrados de sua cobertura vegetal (43% acima dos valores desmatados em 2020), o maior índice de desmatamento no mês de abril desde 2016, quando foram destruídos 440 quilômetros quadrados, de acordo com medições do Instituto Nacional de Pesquisas Espaciais (Inpe).(...)\n>\n> Mais uma vez, o Pará ― que ano passado concentrou quase metade do desmatamento na Amazônia Legal ―, foi o Estado com maior área sob alerta de destruição florestal: 211 quilômetros quadrados, equivalente a 36% do total registrado até 29 de abril. O Amazonas ficou em segundo lugar, com 175 quilômetros quadrados. Maranhão e Acre registraram os menores índices, com 4 quilômetros quadrados e 3 quilômetros quadrados, respectivamente. Apenas Amapá e Tocantins não tiveram áreas sob alerta de desmatamento. (...)\n>\n> <cite>OLIVEIRA, Joana. Desmatamento na Amazônia no mês de abril é o maior em seis anos, aponta Inpe. El País, São Paulo, 07 maio 2021. Disponível em: https://brasil.elpais.com/brasil/2021-05-07/desmatamento-na-amazonia-no-mes-de-abril-e-o-maior-em-seis-anos-aponta-inpe.html. Acesso em: 04 out. 2021. Fragmento.</cite>\n\nO “implícito” é um recurso linguístico argumentativo, utilizado para marcar a subjetividade do autor, ou seja, para subentender ou sugerir seus posicionamentos, suas ideias ou suas opiniões. Na notícia, podemos encontrar essa marca quando o autor:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Cita o Inpe.",
+        "B": "Diz “Mais uma vez”.",
+        "C": "Apresenta o ranking do Estado do Amazonas.",
+        "D": "Acrescenta os Estados do Maranhão e do Acre como exemplos."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Citar o Inpe é atribuir os dados a uma fonte; não sugere opinião do autor.",
+        "C": "O segundo lugar do Amazonas é um dado explícito do levantamento, sem ideia subentendida.",
+        "D": "Os números de Maranhão e Acre são informações objetivas, sem posição sugerida."
+      },
+      "teoria": [
+        "estrategias-argumentativas"
+      ],
+      "essencial": [
+        "Implícito (pressuposto) é a ideia que a frase não diz, mas leva o leitor a aceitar: “Mais uma vez” pressupõe que já aconteceu antes.",
+        "Palavras como *de novo*, *ainda*, *já* e *mais uma vez* carregam pressupostos."
+      ],
+      "raciocinio": "1. “**Mais uma vez**, o Pará [...] foi o Estado com maior área sob alerta” pressupõe que isso já tinha acontecido antes. O autor não diz com todas as letras que o problema se repete, mas sugere (veja: *Estratégias argumentativas*).\n2. Esse pressuposto marca uma avaliação crítica: o desmatamento no Pará é recorrente.\n3. As outras alternativas apresentam dados explícitos e fontes, sem nada subentendido.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a seguinte estrofe extraída da música “Koangagua” (Nos dias de hoje), do Brô Mcs:\n\n> (1) Hai amoite ndoikua’ai mbaeve (Olha lá eles não sabem de nada)\n> (2) Ko rap oguarê amoite tenonde (Esse rap chegou lá na frente)\n> (3) Apuka penderehe, nde ave reikotevê (Dou risada de vocês, agora que você precisa)\n> (4) Cheñe’e avamba’e oi chendive (Porque minha fala é forte e está comigo)\n> (5) Añe’e haetegua ndaikosei ndechagua (Falo a verdade, não quero ser que nem você)\n> (6) Aporahei apaichagua ajuahechuka (Canto vários temas e isso que venho mostrando)\n> (7) Ava mombueha ava koangagua (A voz indígena é a voz de agora)\n> (8) Rap orechuka upea ha e tegua (O rap mostra o que é verdade)\n> (9) Koa mombeucha ape orereta (Essa é a verdade e aqui nós somos uma banca)\n> (10) Orejavegua ndo aleike repuka (E a nossa galera tá com a gente, só não pode dar risada)\n> (11) Nandejara ochecha upea tuicha (Porque Deus está vendo e Ele é grande)\n> (12) Uperupi aha mombyryma aguata (E assim sigo em frente, já estou indo longe)\n\nNo trecho da música, o grupo de rappers indígena da Reserva de Dourados retrata a relação de tempo/espaço com:",
+      "imagens": [],
+      "alternativas": {
+        "A": "o saudosismo do passado, quando os indígenas eram felizes porque viviam como os seus ancestrais.",
+        "B": "o presente como um convite à luta contra os povos indígenas, já que eles não sabem de nada.",
+        "C": "a incerteza do futuro, uma vez que os povos indígenas correm risco de extinção devido ao avanço tecnológico.",
+        "D": "o presente como um novo momento, em que a voz indígena começa a ser ouvida e a cultura a ganhar espaço."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A letra não fala de saudade do passado: fala do rap que “chegou lá na frente” e da voz indígena “de agora”.",
+        "B": "“Eles não sabem de nada” critica quem não conhece os indígenas; não há convite à luta contra os povos indígenas.",
+        "C": "A letra não fala de extinção nem de tecnologia: mostra confiança (“sigo em frente, já estou indo longe”)."
+      },
+      "teoria": [
+        "tema-e-ideia-central"
+      ],
+      "essencial": [
+        "Para achar a ideia central, junte os versos que apontam na mesma direção e descarte o que o texto não diz.",
+        "Marcas de tempo (*agora*, *de hoje*, *já*) mostram como o texto se situa entre passado, presente e futuro."
+      ],
+      "raciocinio": "1. O título já situa no tempo: “Koangagua”, “Nos dias de hoje”.\n2. Versos-chave: “Esse rap chegou lá na frente”, “A voz indígena é a voz de agora”, “O rap mostra o que é verdade”, “já estou indo longe”.\n3. A letra apresenta o presente como um momento em que a voz indígena, pelo rap, ganha força e espaço (veja: *Tema e ideia central*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Os ditados populares, também chamados de provérbios ou ditos, são expressões muitas vezes repetidas sem sequer as pessoas perceberem aquilo que significam. Leia, abaixo, os ditados populares e os exemplos que os acompanham.\n\n| Ditado | Exemplo |\n|---|---|\n| I. “Nem tudo que reluz é ouro” | João __________ leal, mas é um traidor. |\n| II. “Água mole em pedra dura tanto bate até que fura” | Persistente que __________, Luísa passou no vestibular. |\n| III. “Quando a esmola é demais até santo desconfia” | Joana me deu um ótimo presente de aniversário. Se a conheço bem, ela __________ interessada em favores. |\n| IV. “Há males que vêm para bem” | Depois do acidente grave, o motorista __________ mais responsável. |\n| V. “A pressa é a inimiga da perfeição” | Rita começou a prova há mais de duas horas e __________ na sala. |\n\nA alternativa que apresenta a ordem correta dos verbos de ligação a serem preenchidos na segunda coluna acima é",
+      "imagens": [],
+      "alternativas": {
+        "A": "É — está — permanece — parece — ficou.",
+        "B": "Parece — é — ficou — permanece — está.",
+        "C": "Parece — é — está — ficou — permanece.",
+        "D": "É — está — ficou — parece — permanece."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Começa com “João **é** leal”, que contradiz o “mas é um traidor”; o ditado pede *parece* (aparência).",
+        "B": "Acerta I e II, mas troca o resto: Joana *está* interessada (estado passageiro), e o motorista *ficou* responsável (mudança).",
+        "D": "Começa com “João **é** leal”, que contradiz o “mas é um traidor”; o ditado pede *parece*."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Cada verbo de ligação dá um matiz ao estado: *ser* (permanente), *estar* (passageiro), *parecer* (aparente), *ficar* (mudança), *permanecer* (continuidade).",
+        "O contexto de cada frase indica qual matiz combina."
+      ],
+      "raciocinio": "1. I: João só **parece** leal, porque é traidor: estado aparente, como em “nem tudo que reluz é ouro” (veja: *Verbos de ligação e predicativo do sujeito*).\n2. II: “Persistente que **é**”: característica permanente de Luísa.\n3. III: Joana **está** interessada em favores (estado passageiro).\n4. IV: depois do acidente, o motorista **ficou** mais responsável (mudança de estado).\n5. V: Rita **permanece** na sala (continuidade).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia abaixo um trecho de “Um apólogo”, de Machado de Assis.\n\n> Era uma vez uma agulha, que disse a um novelo de linha:\n>\n> — Por que está você com esse ar, toda cheia de si, toda enrolada, para fingir que vale alguma coisa neste mundo?\n>\n> — Deixe-me, senhora.\n>\n> — Que a deixe? Que a deixe, por quê? Porque lhe digo que está com um ar insuportável? Repito que sim, e falarei sempre que me der na cabeça.\n>\n> — Que cabeça, senhora? A senhora não é alfinete, é agulha. Agulha não tem cabeça. Que lhe importa o meu ar? Cada qual tem o ar que Deus lhe deu. Importe-se com a sua vida e deixe a dos outros.\n>\n> — Mas você é orgulhosa.\n>\n> — <u>**Decerto que**</u> sou.\n>\n> — Mas por quê?\n>\n> — É boa! Porque coso. Então os vestidos e enfeites de nossa ama, quem é que os cose, senão eu?\n>\n> — Você? Esta agora é melhor. Você é que os cose? Você ignora que quem os cose sou eu, e muito eu?\n>\n> — Você fura o pano, nada mais; eu é que coso, prendo um pedaço ao outro, dou feição aos babados...\n>\n> — Sim, mas que vale isso? Eu é que furo o pano, vou adiante, puxando por você, que vem atrás, obedecendo ao que eu faço e mando...\n>\n> — Também os batedores vão adiante do imperador.\n>\n> — Você é imperador?\n>\n> — Não digo isso. Mas <u>**a verdade é que**</u> você faz um papel subalterno, indo adiante; vai só mostrando o caminho, vai fazendo o trabalho obscuro e ínfimo. Eu é que prendo, ligo, ajunto... (...)\n>\n> <cite>ASSIS, M. Um apólogo. Núcleo de Educação a Distância. Universidade da Amazônia. Disponível em: www.dominiopublico.gov.br. Acesso em: 06 out. 2021.</cite>\n\nSem comprometer o sentido original do texto, a única expressão abaixo que pode ser substituída pelos trechos destacados em negrito é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "potencialmente.",
+        "B": "provavelmente.",
+        "C": "evidentemente.",
+        "D": "possivelmente."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Potencialmente* indica uma possibilidade futura; as expressões destacadas afirmam algo com certeza.",
+        "B": "*Provavelmente* expressa probabilidade, e não certeza; *decerto* e *a verdade é que* afirmam com convicção.",
+        "D": "*Possivelmente* indica dúvida, mas as expressões destacadas afirmam com convicção."
+      },
+      "teoria": [
+        "modalizacao"
+      ],
+      "essencial": [
+        "Modalizadores de certeza (*certamente*, *decerto*, *evidentemente*, *sem dúvida*) mostram que quem fala tem convicção.",
+        "Modalizadores de possibilidade (*talvez*, *provavelmente*, *possivelmente*) mostram dúvida."
+      ],
+      "raciocinio": "1. “**Decerto que** sou” significa “claro que sou”, “sem dúvida que sou”: a personagem afirma o orgulho com convicção.\n2. “**A verdade é que** você faz um papel subalterno” também afirma com certeza (veja: *Modalização: o grau de certeza de quem fala*).\n3. A única opção que mantém essa certeza é *evidentemente*. As outras indicam possibilidade.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Classes de palavras",
+      "enunciado": "Leia o seguinte trecho do romance “Terra sonâmbula”, de Mia Couto:\n\n> A guerra é uma cobra que usa os nossos próprios dentes para nos morder. Seu veneno circulava agora em todos os rios da nossa alma. De dia já não saíamos, de noite não sonhávamos. O sonho é o olho da vida. Nós estávamos cegos.\n>\n> <cite>COUTO, Mia. Terra sonâmbula. São Paulo: Companhia das Letras, 2016.</cite>\n\nAssinale a alternativa que contém uma expressão com a mesma classificação sintática de “em todos os rios da nossa alma”:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Todos os membros do comitê poderão se encontrar em breve.",
+        "B": "Os candidatos devem se conservar obrigatoriamente em silêncio.",
+        "C": "O estabelecimento está fechado em virtude do temporal.",
+        "D": "O documento comprobatório permanecerá guardado em casa."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Em breve* é adjunto adverbial de **tempo** (quando?), e não de lugar.",
+        "B": "*Em silêncio* indica o **modo** ou o estado em que devem ficar (como?), e não um lugar.",
+        "C": "*Em virtude do temporal* indica **causa** (por quê?), e não lugar."
+      },
+      "teoria": [
+        "adverbios"
+      ],
+      "essencial": [
+        "Adjunto adverbial indica uma circunstância do verbo: lugar, tempo, modo, causa…",
+        "Para classificar, pergunte ao verbo: onde? quando? como? por quê?"
+      ],
+      "raciocinio": "1. “Seu veneno circulava **em todos os rios da nossa alma**”: circulava **onde**? A expressão indica lugar, ainda que figurado. É adjunto adverbial de lugar (veja: *Advérbios e adjuntos adverbiais*).\n2. Na D, “permanecerá guardado **em casa**”: onde? Também lugar.\n3. As outras respondem a outras perguntas: quando? (*em breve*), como? (*em silêncio*), por quê? (*em virtude do temporal*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Um ângulo com o vértice na circunferência, um dos lados sobre uma tangente e o outro lado sobre uma secante, determinando uma corda, é denominado ângulo de segmento. Na figura abaixo, β é um ângulo de segmento e o arco correspondente é AB. Sendo o centro da circunferência indicado pelo ponto O e a medida do ângulo α = 70°, podemos afirmar que a medida do ângulo β é igual a:\n\n![Circunferência de centro O, com os pontos A e B sobre ela. Uma reta tangente passa por B e pelo ponto C, fora da circunferência. O ângulo β fica em B, entre a tangente e a corda BA. O ângulo α fica no centro O, entre os raios OB e OA.](img/2023-2/q16.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2023-2/q16.png"
+      ],
+      "alternativas": {
+        "A": "35º",
+        "B": "70º",
+        "C": "90º",
+        "D": "140º"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "70° é o ângulo central α; o ângulo de segmento mede a metade do arco AB.",
+        "C": "90° é o ângulo entre a tangente e o raio OB, e não entre a tangente e a corda BA.",
+        "D": "140° é o dobro de α; o ângulo de segmento é a metade do arco, e não o dobro."
+      },
+      "teoria": [
+        "circulo-e-circunferencia"
+      ],
+      "essencial": [
+        "O ângulo central mede o mesmo que o arco que ele determina.",
+        "Ângulo de segmento (entre tangente e corda) e ângulo inscrito medem a metade do arco correspondente."
+      ],
+      "raciocinio": "1. α = 70° é o ângulo central \\(A\\hat{O}B\\), então o arco AB mede 70°.\n2. β tem o vértice na circunferência, entre a tangente e a corda BA: é ângulo de segmento e mede a metade do arco AB (veja: *Círculo e circunferência*).\n3. \\(\\beta = 70° \\div 2 = 35°\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Funções",
+      "enunciado": "Para realizar uma obra em seu terreno, uma pessoa alugou uma máquina, cujo custo diário é composto por uma taxa fixa mais um valor por hora trabalhada da máquina.\n\nAo estimar o custo que teria, a pessoa construiu um gráfico do gasto total *y*, em reais, com o aluguel da máquina em função de *t* horas trabalhadas por ela em um dia. Limitando-se em 8 horas de trabalho diário da máquina, o gráfico construído pela pessoa foi:\n\n![Gráfico de uma reta. No eixo horizontal, t (h), de 0 a 8; no vertical, y (reais), de 0 a 550. A reta passa pelos pontos (0, 150), (4, 350) e (8, 550).](img/2023-2/q17.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nConsiderando as informações contidas no gráfico, pode-se afirmar que a equação que relaciona o gasto total y, em reais, e as t horas trabalhadas pela máquina, com 0 ≤ t ≤ 8, em um dia é:",
+      "imagens": [
+        "img/2023-2/q17.png"
+      ],
+      "alternativas": {
+        "A": "y = 50t",
+        "B": "y = 50t + 150",
+        "C": "y = 87,5t",
+        "D": "y = 87,5t + 150"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "y = 50t passaria por (0, 0), mas o gráfico começa em 150: falta a taxa fixa.",
+        "C": "87,5 é 350 ÷ 4, que mistura a taxa fixa com o valor por hora; e falta o 150 do início.",
+        "D": "Com 87,5 por hora, em 8 horas o gasto seria 850, e não 550; o valor por hora é 50."
+      },
+      "teoria": [
+        "funcao-afim"
+      ],
+      "essencial": [
+        "Função afim: \\(y = at + b\\). \\(b\\) é o valor quando \\(t = 0\\) (taxa fixa), e \\(a\\) é quanto \\(y\\) aumenta a cada unidade de \\(t\\).",
+        "\\(a = \\frac{\\text{variação de } y}{\\text{variação de } t}\\), usando dois pontos do gráfico."
+      ],
+      "raciocinio": "1. Em \\(t = 0\\), o gasto é 150: é a taxa fixa, \\(b = 150\\) (veja: *Funções afins e retas*).\n2. Valor por hora: de \\(t = 0\\) a \\(t = 4\\), o gasto vai de 150 a 350. \\(a = \\frac{350 - 150}{4 - 0} = 50\\).\n3. \\(y = 50t + 150\\). Conferindo: \\(t = 8 \\Rightarrow 50 \\cdot 8 + 150 = 550\\), como no gráfico.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Analise as afirmações a seguir.\n\n( ) \\(\\sqrt[3]{5} \\cdot \\sqrt[3]{5} = \\sqrt[3]{25}\\)\n( ) Sendo “*a*” um numero real maior que 0 então \\(\\sqrt{a} < a\\)\n( ) \\(\\sqrt[5]{\\sqrt{x}} = \\sqrt[10]{x}\\) onde \\(x > 0\\)\n\nAssinale com verdadeiro ou falso:",
+      "imagens": [],
+      "alternativas": {
+        "A": "F; V; F.",
+        "B": "V; V; F.",
+        "C": "F; F; V.",
+        "D": "V; F; V."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Erra as três: \\(\\sqrt[3]{5} \\cdot \\sqrt[3]{5} = \\sqrt[3]{25}\\) é verdadeira, \\(\\sqrt{a} < a\\) falha para \\(a = 1\\), e raiz de raiz multiplica os índices.",
+        "B": "Erra a 2ª e a 3ª: \\(\\sqrt{a} < a\\) falha para \\(a = \\frac{1}{4}\\), e \\(\\sqrt[5]{\\sqrt{x}} = \\sqrt[10]{x}\\) é verdadeira.",
+        "C": "Erra a 1ª: com o mesmo índice, multiplicam-se os radicandos, e \\(\\sqrt[3]{5 \\cdot 5} = \\sqrt[3]{25}\\)."
+      },
+      "teoria": [
+        "raizes-e-radicais",
+        "propriedades-de-potencias"
+      ],
+      "essencial": [
+        "Produto de raízes de mesmo índice: \\(\\sqrt[n]{a} \\cdot \\sqrt[n]{b} = \\sqrt[n]{ab}\\).",
+        "Raiz de raiz: multiplique os índices, \\(\\sqrt[m]{\\sqrt[n]{x}} = \\sqrt[mn]{x}\\).",
+        "Para negar uma regra geral, basta um contraexemplo."
+      ],
+      "raciocinio": "1. **V.** Mesmo índice: \\(\\sqrt[3]{5} \\cdot \\sqrt[3]{5} = \\sqrt[3]{25}\\) (veja: *Raízes e radicais*).\n2. **F.** Contraexemplo: com \\(a = \\frac{1}{4}\\), \\(\\sqrt{a} = \\frac{1}{2}\\), que é **maior** que \\(\\frac{1}{4}\\). E com \\(a = 1\\), \\(\\sqrt{1} = 1\\).\n3. **V.** Em potências: \\(\\left(x^{\\frac{1}{2}}\\right)^{\\frac{1}{5}} = x^{\\frac{1}{10}} = \\sqrt[10]{x}\\) (veja: *Propriedades das potências*).\n\nSequência V, F, V. Resposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "No universo das máquinas mecânicas existem as que utilizam programas de computadores especializados chamados de Comandos Numéricos (CNC). Estes programas são usados para dar maior precisão nas execuções nas peças fabricadas. Basicamente, utilizam coordenadas cartesianas e distâncias percorridas ponto a ponto que a ferramenta da máquina deve percorrer. Também são utilizados desenhos para simular os caminhos que estas ferramentas devem percorrer. No desenho a seguir é mostrado um exemplo de peça a ser executada numa destas máquinas CNCs.\n\n![Desenho de uma peça no plano cartesiano, com medidas em milímetros. Os pontos C1 (1, 1), C2 (2, 2), C3 (2, 4), C4 (4, 6), C5 (6, 6) e C6 (10, 1) são ligados nessa ordem, e C6 se liga a C1 por um segmento horizontal.](img/2023-2/q19.png)\n\n<cite>Fonte: Gobi, N. 2018.</cite>\n\nEntre os pontos C5 e C6, qual a distância que a ferramenta deve percorrer?",
+      "imagens": [
+        "img/2023-2/q19.png"
+      ],
+      "alternativas": {
+        "A": "5 mm",
+        "B": "\\(5 + \\sqrt{2}\\) mm",
+        "C": "\\(\\sqrt{41}\\) mm",
+        "D": "\\(\\sqrt{52}\\) mm"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "5 mm é só a diferença vertical (6 − 1); falta a horizontal (10 − 6 = 4), e o caminho é a diagonal.",
+        "B": "\\(5 + \\sqrt{2}\\) soma trechos diferentes; entre C5 e C6 a ferramenta anda em linha reta, na diagonal.",
+        "D": "\\(\\sqrt{52}\\) viria de catetos 4 e 6, mas a diferença vertical entre C5 e C6 é 5 (de 6 para 1)."
+      },
+      "teoria": [
+        "plano-cartesiano",
+        "teorema-de-pitagoras"
+      ],
+      "essencial": [
+        "Distância entre dois pontos: as diferenças de x e de y são os catetos de um triângulo retângulo.",
+        "\\(d = \\sqrt{(\\Delta x)^2 + (\\Delta y)^2}\\)."
+      ],
+      "raciocinio": "1. Pela figura, C5 = (6, 6) e C6 = (10, 1) (veja: *Plano cartesiano e ponto médio*).\n2. Diferenças: \\(\\Delta x = 10 - 6 = 4\\) e \\(\\Delta y = 6 - 1 = 5\\). Elas são os catetos de um triângulo retângulo (veja: *Teorema de Pitágoras*):\n\n\\[d = \\sqrt{4^2 + 5^2} = \\sqrt{16 + 25} = \\sqrt{41}\\ \\text{mm}\\]\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Um reservatório, em forma de paralelepípedo reto retângulo, foi construído para captar e armazenar a água da chuva. Este reservatório possui 2 metros de comprimento, 180 centímetros de altura e 1,25 metro de largura. Em um período de chuvas intensas a água armazenada atingiu 60 centímetros de altura. Qual o volume, em litros, existente dentro do reservatório? Considere, em seus cálculos, que 1m³ = 1.000 litros.",
+      "imagens": [],
+      "alternativas": {
+        "A": "450",
+        "B": "1.500",
+        "C": "3.000",
+        "D": "4.500"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "450 L usa 0,18 m de altura; a água atingiu 60 cm, ou seja, 0,6 m.",
+        "C": "3.000 L corresponde a 1,2 m de água, o dobro da altura atingida.",
+        "D": "4.500 L é o volume do reservatório cheio (1,8 m de altura), e não o da água."
+      },
+      "teoria": [
+        "volumes",
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "Volume do paralelepípedo = comprimento × largura × altura, todos na mesma unidade.",
+        "Para a água, use a altura da água, e não a do reservatório. 1 m³ = 1000 L."
+      ],
+      "raciocinio": "1. Passe tudo para metros: 2 m, 1,25 m e altura da água 60 cm = 0,6 m (veja: *Conversão de unidades*).\n2. Volume de água (veja: *Volumes de sólidos*): \\(2 \\cdot 1{,}25 \\cdot 0{,}6 = 1{,}5\\ \\text{m}^3\\).\n3. Em litros: \\(1{,}5 \\cdot 1000 = 1500\\) L.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Um algoritmo é um conjunto de regras ou comandos que, se aplicados sempre numa determinada ordem, produzem resultados controlados e previsíveis que podem representar soluções para certos problemas. A seguir, você encontra um exemplo de um algoritmo e o resultado de sua aplicação em uma construção geométrica realizada com auxílio do *software* livre Geogebra.\n\n1º) Construir um quadrado ABCD.\n2º) Sobre a diagonal do quadrado ABCD, construir o quadrado ACEF.\n3º) Sobre a diagonal do quadrado ACEF, construir o quadrado AEGH.\n4º) Sobre a diagonal do quadrado AEGH, construir o quadrado AGIJ.\n5º) Continuar o procedimento, sempre construindo novos quadrados sobre a diagonal dos quadrado anteriores.\n\n![Construção no Geogebra: o quadrado ABCD; sobre a diagonal AC, o quadrado ACEF; sobre AE, o quadrado AEGH; sobre AG, o quadrado AGIJ. Cada quadrado é maior e está girado 45° em relação ao anterior.](img/2023-2/q21.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nConsiderando a descrição do algoritmo e a imagem auxiliar, se adotarmos como unidade de medida o segmento AB, referente ao lado do primeiro quadrado, a medida do lado dos quadrados ACEF, AEGH e AGIJ serão, respectivamente, números",
+      "imagens": [
+        "img/2023-2/q21.png"
+      ],
+      "alternativas": {
+        "A": "racional, irracional, racional.",
+        "B": "racional, racional, racional.",
+        "C": "racional, irracional, irracional.",
+        "D": "irracional, racional, irracional."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Inverte tudo: o lado de ACEF é \\(\\sqrt{2}\\) (irracional), o de AEGH é 2 (racional) e o de AGIJ é \\(2\\sqrt{2}\\) (irracional).",
+        "B": "Só o lado de AEGH (2) é racional; \\(\\sqrt{2}\\) e \\(2\\sqrt{2}\\) são irracionais.",
+        "C": "O lado de ACEF é \\(\\sqrt{2}\\), irracional, e o de AEGH é 2, racional: as duas primeiras estão trocadas."
+      },
+      "teoria": [
+        "teorema-de-pitagoras",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "A diagonal do quadrado de lado \\(\\ell\\) mede \\(\\ell\\sqrt{2}\\).",
+        "\\(\\sqrt{2}\\) e \\(2\\sqrt{2}\\) são irracionais; \\(\\sqrt{2} \\cdot \\sqrt{2} = 2\\) é racional."
+      ],
+      "raciocinio": "1. Cada quadrado novo tem lado igual à diagonal do anterior, ou seja, o lado anterior vezes \\(\\sqrt{2}\\) (veja: *Teorema de Pitágoras*).\n2. ABCD: 1. ACEF: \\(\\sqrt{2}\\). AEGH: \\(\\sqrt{2} \\cdot \\sqrt{2} = 2\\). AGIJ: \\(2\\sqrt{2}\\).\n3. \\(\\sqrt{2}\\) é irracional, 2 é racional e \\(2\\sqrt{2}\\) é irracional (veja: *Raízes e radicais*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "O Sistema de Bandeiras Tarifárias é utilizado pela Agência Nacional de Energia Elétrica (ANEEL) e representa as condições do processo de geração de energia, indicando se haverá ou não acréscimos na fatura dos consumidores. A bandeira Verde indica que não haverá acréscimos nas contas de energia elétrica. As bandeiras Amarela e Vermelha sinalizam condições menos favoráveis no processo de geração e indicam acréscimos na fatura. Já a Bandeira Vermelha sinaliza dificuldades ainda maiores no processo de geração. De janeiro de 2015 até agosto de 2021, ela esteve subdividida em duas: a Patamar 1 (Vermelha 1) e a Patamar 2 (Vermelha 2). A partir de 1º de setembro de 2021, a ANEEL inseriu uma nova classificação: a bandeira Escassez Hídrica. Nessa nova classificação, há um acréscimo maior que o indicado pela Vermelha 2.\n\nO quadro a seguir apresenta as bandeiras supostamente utilizadas entre janeiro de 2015 e agosto de 2021.\n\n| | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |\n|---|---|---|---|---|---|---|---|\n| **Jan.** | Vermelha 1 | Vermelha 1 | Verde | Verde | Verde | Amarela | Amarela |\n| **Fev.** | Vermelha 1 | Vermelha 1 | Verde | Verde | Verde | Verde | Amarela |\n| **Mar.** | Vermelha 2 | Amarela | Amarela | Verde | Verde | Verde | Amarela |\n| **Abr.** | Vermelha 2 | Verde | Vermelha 1 | Verde | Verde | Verde | Amarela |\n| **Mai.** | Vermelha 2 | Verde | Vermelha 1 | Amarela | Amarela | Verde | Vermelha 1 |\n| **Jun.** | Vermelha 2 | Verde | Verde | Vermelha 2 | Verde | Verde | Vermelha 2 |\n| **Jul.** | Vermelha 2 | Verde | Amarela | Vermelha 2 | Amarela | Verde | Vermelha 2 |\n| **Ago.** | Vermelha 2 | Verde | Vermelha 1 | Vermelha 2 | Vermelha 1 | Verde | Vermelha 2 |\n| **Set.** | Vermelha 2 | Verde | Amarela | Vermelha 2 | Vermelha 1 | Verde | |\n| **Out.** | Vermelha 2 | Verde | Vermelha 2 | Vermelha 2 | Amarela | Verde | |\n| **Nov.** | Vermelha 2 | Amarela | Vermelha 2 | Amarela | Vermelha 1 | Verde | |\n| **Dez.** | Vermelha 2 | Verde | Vermelha 1 | Verde | Amarela | Vermelha 2 | |\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nCom base nas informações do quadro resumo, observa-se que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Considerando a frequência apenas das cores, a amostra é bimodal.",
+        "B": "Comparando os dados dos primeiros trimestres com os dados dos segundos trimestres de cada ano, o número de meses em que houve acréscimos nas faturas de energia dos consumidores permaneceu o mesmo.",
+        "C": "O menor acréscimo tarifário ocorreu em 16% do período considerado.",
+        "D": "Os meses sem acréscimos representam 31% da amostra."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Pelas cores, há 33 meses de vermelha (1 e 2), 31 de verde e 16 de amarela: uma moda só, a vermelha.",
+        "C": "A amarela, de menor acréscimo, aparece em 16 dos 80 meses, ou 20%; 16 é a contagem, e não a porcentagem.",
+        "D": "A verde aparece em 31 dos 80 meses, cerca de 39%; 31 é a contagem, e não a porcentagem."
+      },
+      "teoria": [
+        "tabelas",
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Moda é o valor mais frequente; se dois valores empatam no topo, a amostra é bimodal.",
+        "Porcentagem = parte ÷ total × 100%: não confunda a contagem com a porcentagem."
+      ],
+      "raciocinio": "1. O quadro tem 80 meses: 6 anos inteiros e 8 meses de 2021 (veja: *Leitura de tabelas*).\n2. **B:** meses com acréscimo (não verdes) nos primeiros trimestres: 3, 3, 1, 0, 0, 1, 3, total 11. Nos segundos trimestres: 3, 0, 2, 2, 1, 0, 3, total 11. É o mesmo número.\n3. As outras falham: pelas cores há uma moda só, a vermelha, com 33 meses (veja: *Média, mediana e moda*); e amarela e verde ocupam 20% e cerca de 39%, e não 16% e 31%.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "O parque de uma cidade possui um local destinado ao *parkour* (atividade física relacionada à superação de obstáculos). Uma das partes desse local é composta por duas estruturas, um pilar e uma rampa, com um vão livre entre eles, conforme as figuras a seguir:\n\n![À esquerda, a vista lateral: um pilar de 1,0 m de largura e 4,0 m de altura, com o ponto B no pé esquerdo; à direita, uma rampa triangular de 2,5 m de altura e 3,0 m de base, que termina no ponto A. Uma linha tracejada prolonga a inclinação da rampa até o alto do pilar. À direita, a vista superior: o pilar e a rampa alinhados, com B numa ponta e A na outra.](img/2023-2/q23.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nConsiderando as informações das figuras das vistas lateral e superior, a distância entre os pontos *A* e *B*, que representa o comprimento total que ocupa o pilar, a rampa e o vão livre entre eles, é de:",
+      "imagens": [
+        "img/2023-2/q23.png"
+      ],
+      "alternativas": {
+        "A": "4,8m",
+        "B": "5,8m",
+        "C": "6,3m",
+        "D": "7,3m"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "4,8 m é a distância do pilar até A; falta somar a largura do pilar, 1,0 m.",
+        "C": "6,3 m não sai das medidas: a distância é 4,8 m (do pilar até A) mais 1,0 m (o pilar).",
+        "D": "7,3 m soma a altura da rampa (2,5 m) aos 4,8 m; o que falta somar é a largura do pilar."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos"
+      ],
+      "essencial": [
+        "Triângulos com os mesmos ângulos são semelhantes, e seus lados correspondentes são proporcionais.",
+        "Prolongar uma inclinação forma um triângulo maior, semelhante ao menor."
+      ],
+      "raciocinio": "1. A linha tracejada prolonga a rampa até o alto do pilar. Formam-se dois triângulos com a mesma inclinação: o da rampa (altura 2,5 e base 3) e o grande (altura 4 e base d) (veja: *Semelhança de triângulos*).\n2. Proporção: \\(\\frac{2{,}5}{3} = \\frac{4}{d} \\Rightarrow d = \\frac{4 \\cdot 3}{2{,}5} = 4{,}8\\) m, do pilar até A.\n3. Somando a largura do pilar: \\(AB = 4{,}8 + 1{,}0 = 5{,}8\\) m.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Quadriláteros e polígonos",
+      "enunciado": "A forma hexagonal está muito presente no dia a dia, tanto em diversas estruturas químicas, quanto, até mesmo, nas colmeias das abelhas. Para se construir um hexágono regular a partir da medida do ângulo central deve-se seguir o seguinte fluxograma:\n\n![Fluxograma em duas colunas de caixas, ligadas por setas. A caixa II está em branco. Uma chave ao lado das caixas V a VII indica: os passos de V a VII devem ser repetidos, até formar o polígono desejado.](img/2023-2/q24.png \"I – Construir uma circunferência | II – (em branco) | III – Marcar a intersecção dos lados do ângulo com a circunferência. | IV – Traçar um segmento de reta unindo os pontos obtidos. | V – Construir um ângulo central adjacente ao anterior. | VI – Marcar a intersecção do último ângulo construído com a circunferência. | VII – Traçar o segmento de reta consecutivo ao anterior, unindo ao último ponto obtido. | VIII – Traçar um segmento de reta, consecutivo ao anterior para formar o hexágono.\")\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nPara que o fluxograma fique completo e correto, qual é o comando II?",
+      "imagens": [
+        "img/2023-2/q24.png"
+      ],
+      "alternativas": {
+        "A": "Construir um ângulo central de 30º",
+        "B": "Construir um ângulo central de 45º",
+        "C": "Construir um ângulo central de 60º",
+        "D": "Construir um ângulo central de 90º"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com ângulos centrais de 30°, seriam 12 lados: um dodecágono.",
+        "B": "Com ângulos centrais de 45°, seriam 8 lados: um octógono.",
+        "D": "Com ângulos centrais de 90°, seriam 4 lados: um quadrado."
+      },
+      "teoria": [
+        "quadrilateros"
+      ],
+      "essencial": [
+        "Num polígono regular de \\(n\\) lados, o ângulo central mede \\(\\frac{360°}{n}\\).",
+        "Hexágono regular: \\(\\frac{360°}{6} = 60°\\)."
+      ],
+      "raciocinio": "1. Os ângulos centrais de um polígono regular dividem a volta completa (360°) em partes iguais, uma para cada lado (veja: *Quadriláteros e polígonos*).\n2. O hexágono tem 6 lados: \\(360° \\div 6 = 60°\\).\n3. O comando II é construir um ângulo central de 60°.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Um estudante, buscando entender melhor o seu rendimento escolar, por meio de suas notas, resolveu organizar o quadro abaixo, no qual indicou suas quatro disciplinas preferidas e as respectivas notas em 3 bimestres. Com base nesse quadro, a média, moda e mediana de suas notas são, respectivamente:\n\n| | 1° bimestre | 2° bimestre | 3° bimestre |\n|---|---|---|---|\n| Disciplina 1 | 8 | 10 | 10 |\n| Disciplina 2 | 8 | 8 | 9 |\n| Disciplina 3 | 9 | 10 | 10 |\n| Disciplina 4 | 7 | 10 | 9 |",
+      "imagens": [],
+      "alternativas": {
+        "A": "9, 10, 9.",
+        "B": "9, 7, 10.",
+        "C": "10, 8, 9.",
+        "D": "9, 10, 7."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "7 é a menor nota e aparece uma vez só, então não é a moda; e a mediana é 9, e não 10.",
+        "C": "A média é 108 ÷ 12 = 9, e não 10; e a moda é 10, que aparece cinco vezes.",
+        "D": "Acerta média e moda, mas a mediana é 9: com as 12 notas em ordem, os dois termos do meio são 9 e 9."
+      },
+      "teoria": [
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Média = soma ÷ quantidade. Moda = valor mais frequente. Mediana = valor do meio, com os dados em ordem.",
+        "Com uma quantidade par de dados, a mediana é a média dos dois valores centrais."
+      ],
+      "raciocinio": "1. As 12 notas, em ordem: 7, 8, 8, 8, 9, 9, 9, 10, 10, 10, 10, 10.\n2. **Média** (veja: *Média, mediana e moda*): \\(108 \\div 12 = 9\\).\n3. **Moda:** 10, que aparece cinco vezes.\n4. **Mediana:** os termos do meio (6º e 7º) são 9 e 9, então a mediana é 9.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "O Google é uma empresa multinacional que oferta diversos serviços *online* e *softwares* para *download*. A inspiração para o nome da empresa envolve um episódio ocorrido entre um matemático chamado Edward Kasner e seu sobrinho, na ocasião uma criança de nove anos. A seguir, indicamos um trecho de uma reportagem que relata essa história:\n\n> *Isto é um gugol: 10. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000. 000.*\n>\n> “Não precisa contar: trata-se de um número 1 seguido de 100 zeros — ou, como preferem os matemáticos, 10 elevado a 100 (10^100). O gugol é tão grande que supera a quantidade de átomos que existem no Universo (estima-se hoje que eles seriam em torno de 10 elevado a 80 — ou 10^80). Em 1937, durante uma conferência, o matemático americano Edward Kasner disse que “para a maioria das pessoas, o número é tão grande que é infinito, tão grande que não se pode nomeá-lo ou falar dele”. [...] Foi ele próprio quem criou o termo gugol, palavra que mais tarde serviria de inspiração para uma das marcas mais valiosas e influentes do planeta: Google. Como professor da Universidade de Columbia, nos Estados Unidos, Kasner buscava explicar conceitos matemáticos complexos e gerar interesse pela ciência. O matemático “queria chamar atenção para números enormes por meio de seus significados e quantidades”, explica à BBC News Mundo, o serviço de notícias em espanhol da BBC, o matemático Javier Aramayona, pesquisador do Instituto de Ciências Matemáticas (ICMAT) da Espanha. Para isso, ele inventou um nome atraente para um destes números grandes — particularmente, o 1 seguido de 100 zeros. Na virada dos anos 20 para os anos 30, Kasner recorreu à ajuda de seu sobrinho Milton Sirotta, de 9 anos, e pediu que ele batizasse o número. A única condição era que ele tivesse muitas letras “o” para representar a sequência de zeros. Milton não só cunhou o termo gugol (“googol” em inglês), como também gugolplex (“googolplex”), que se refere a um 1 seguido de uma quantidade gugol de zeros. O termo também se popularizou.”\n>\n> <cite>BBC NEWS. O que é o número gugol, que inspirou o Google. Disponível em https://g1.globo.com/economia/tecnologia/noticia/2020/06/26/o-que-e-o-numero-gugol-que-inspirou-o-google.ghtml. Acesso em: 04 de out. 2021.</cite>\n\nA partir da leitura, é correto afirmar que:",
+      "imagens": [],
+      "alternativas": {
+        "A": "A representação, em forma de potência, de um *googolpex* é \\(10^{10^{100}}\\).",
+        "B": "Se dividirmos a quantidade dos átomos existentes no Universo (estimada pela reportagem) por um *googol*, o resultado será \\(10^{20}\\).",
+        "C": "Se multiplicarmos um *googol* por 10000, o resultado será um *googolplex*.",
+        "D": "Se multiplicarmos um googol pela quantidade de átomos existentes no Universo (estimada pela reportagem), o resultado será \\(10^{8000}\\)."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Na divisão, subtraem-se os expoentes: \\(10^{80} \\div 10^{100} = 10^{-20}\\), e não \\(10^{20}\\).",
+        "C": "\\(10^{100} \\cdot 10^4 = 10^{104}\\), muito menor que um googolplex (\\(10^{10^{100}}\\)).",
+        "D": "Na multiplicação, somam-se os expoentes: \\(10^{100} \\cdot 10^{80} = 10^{180}\\), e não \\(10^{8000}\\)."
+      },
+      "teoria": [
+        "propriedades-de-potencias"
+      ],
+      "essencial": [
+        "Multiplicação de potências de mesma base: some os expoentes. Divisão: subtraia.",
+        "Um 1 seguido de \\(n\\) zeros é \\(10^n\\)."
+      ],
+      "raciocinio": "1. Um googol é 1 seguido de 100 zeros: \\(10^{100}\\).\n2. Um googolplex é 1 seguido de um googol de zeros, ou seja, de \\(10^{100}\\) zeros: \\(10^{10^{100}}\\). A A está certa (veja: *Propriedades das potências*).\n3. As outras erram as propriedades: dividir subtrai os expoentes (\\(10^{-20}\\)), multiplicar soma (\\(10^{180}\\)), e \\(10^{100} \\cdot 10^4 = 10^{104}\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Para manter o seu estoque, o dono de uma loja entrou em contato com seu fornecedor para adquirir três tipos de produtos diferentes entre si. O fornecedor informou que os valores de cada unidade desses produtos eram: R$50,00, R$70,00 e R$100,00. Para compor seu pedido, o dono da loja decidiu adquirir pelo menos uma unidade de cada produto.\n\nSe o dono da loja pretende gastar exatamente R$750,00 com esse pedido, a menor e a maior quantidade de produtos, respectivamente, que ele pode adquirir do fornecedor é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "8 e 12.",
+        "B": "10 e 12.",
+        "C": "8 e 15.",
+        "D": "10 e 15."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com 8 produtos não dá para fechar R$ 750,00 com pelo menos um de cada; o mínimo é 10.",
+        "C": "Nem 8 nem 15 são possíveis: o mínimo é 10 e o máximo é 12.",
+        "D": "Acerta o mínimo (10), mas o máximo é 12 (6 de R$ 50, 5 de R$ 70 e 1 de R$ 100), e não 15."
+      },
+      "teoria": [
+        "problemas-de-logica"
+      ],
+      "essencial": [
+        "Para usar poucos itens, prefira os caros; para usar muitos, prefira os baratos.",
+        "Quando há poucas possibilidades, liste todas e confira cada uma."
+      ],
+      "raciocinio": "1. Com \\(a\\), \\(b\\) e \\(c\\) unidades de R$ 50, R$ 70 e R$ 100: \\(50a + 70b + 100c = 750\\), todos pelo menos 1 (veja: *Problemas de lógica*).\n2. \\(50a\\) e \\(100c\\) são múltiplos de 50, então \\(70b\\) também precisa ser: só \\(b = 5\\) serve (R$ 350). Sobram R$ 400 para \\(50a + 100c\\).\n3. Opções: \\(c = 3\\) e \\(a = 2\\) (10 produtos); \\(c = 2\\) e \\(a = 4\\) (11); \\(c = 1\\) e \\(a = 6\\) (12).\n\nMenor 10 e maior 12. Resposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Considere a reta real representada abaixo onde estão destacados os pontos A, B, C, D, E, F e G:\n\n![Reta real de 0 a 4 com os pontos A, B, C, D, E, F e G: A e B entre 1 e 2, perto do 1; C pouco antes do 2; D logo depois do 2; E pouco antes do 3; F logo depois do 3; G pouco antes do 4.](img/2023-2/q28.png)\n\nOs números \\(\\sqrt{2}\\), \\(\\sqrt{8}\\) e \\(\\sqrt{10}\\) correspondem, nessa ordem, a quais pontos desta reta real?",
+      "imagens": [
+        "img/2023-2/q28.png"
+      ],
+      "alternativas": {
+        "A": "B, E e F.",
+        "B": "A, D e F.",
+        "C": "C, F e G.",
+        "D": "B, D e G."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "A fica perto de 1,1, mas \\(\\sqrt{2} \\approx 1{,}41\\); e \\(\\sqrt{8} \\approx 2{,}83\\) fica antes do 3 (E), e não logo depois do 2 (D).",
+        "C": "C fica perto de 1,8, mas \\(\\sqrt{2} \\approx 1{,}41\\); e \\(\\sqrt{10} \\approx 3{,}16\\) é F, e não G, que fica perto de 4.",
+        "D": "D fica logo depois do 2, mas \\(\\sqrt{8} \\approx 2{,}83\\) fica antes do 3; e \\(\\sqrt{10} \\approx 3{,}16\\) é F, e não G."
+      },
+      "teoria": [
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Para localizar uma raiz, compare com quadrados perfeitos: \\(1 < 2 < 4\\), então \\(1 < \\sqrt{2} < 2\\).",
+        "Aproximações úteis: \\(\\sqrt{2} \\approx 1{,}41\\) e \\(\\sqrt{8} = 2\\sqrt{2} \\approx 2{,}83\\)."
+      ],
+      "raciocinio": "1. \\(\\sqrt{2} \\approx 1{,}41\\): entre 1 e 2, perto do meio. É o ponto B (veja: *Raízes e radicais*).\n2. \\(\\sqrt{8}\\): como \\(4 < 8 < 9\\), fica entre 2 e 3, perto do 3 (\\(\\approx 2{,}83\\)). É o ponto E.\n3. \\(\\sqrt{10}\\): como \\(9 < 10 < 16\\), fica logo depois do 3 (\\(\\approx 3{,}16\\)). É o ponto F.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Ao se matricular em uma instituição de ensino pública, o novo aluno tem que responder a uma pesquisa socioeconômica. Dentre os dados solicitados na pesquisa estão os dados de moradia e emprego dos responsáveis. Considerando que 10.000 estudantes responderam à pesquisa, 4.000 responderam que moram de aluguel, 2.800 responderam que os responsáveis estão desempregados e 3.500 que não moram de aluguel e que os responsáveis não estão desempregados. Quantos estudantes moram de aluguel e tem responsáveis não desempregados?",
+      "imagens": [],
+      "alternativas": {
+        "A": "2500",
+        "B": "4000",
+        "C": "300",
+        "D": "3700"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "2500 é o número de quem **não** mora de aluguel e tem responsáveis desempregados.",
+        "B": "4000 é o total de quem mora de aluguel; desse grupo, 300 têm responsáveis desempregados.",
+        "C": "300 é quem mora de aluguel **e** tem responsáveis desempregados; a pergunta pede os não desempregados."
+      },
+      "teoria": [
+        "problemas-de-logica"
+      ],
+      "essencial": [
+        "Num diagrama de Venn com dois grupos: total = só A + só B + os dois + nenhum.",
+        "Quem está nos dois grupos é contado duas vezes na soma dos grupos: subtraia uma vez."
+      ],
+      "raciocinio": "1. Fora dos dois grupos (nem aluguel, nem desemprego): 3500. Então estão em pelo menos um grupo \\(10\\,000 - 3500 = 6500\\) estudantes (veja: *Problemas de lógica*).\n2. Somando os grupos, \\(4000 + 2800 = 6800\\): os 300 a mais estão nos dois (aluguel e desemprego).\n3. Moram de aluguel com responsáveis não desempregados: \\(4000 - 300 = 3700\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Nas Paralimpíadas de Tóquio em 2021, o Brasil terminou na sétima colocação do quadro geral de medalhas. Com essa conquista, a delegação brasileira conseguiu igualar a melhor colocação de todos os tempos, alcançada em 2012 em Londres.\n\nEm Tóquio, considerando apenas ouros e pratas, o total de medalhas foi de 42. Se, hipoteticamente, a quantidade de ouros fosse o dobro do que a delegação conquistou e a quantidade de medalhas de prata permanecesse a mesma, o Brasil conseguiria a segunda colocação no quadro de medalhas com um total de 64, entre ouros e pratas, e ficaria apenas atrás da China.\n\nCaso essa hipótese se concretizasse, quantas medalhas de ouro seriam necessárias para o Brasil conquistar o segundo lugar no quadro de medalhas?",
+      "imagens": [],
+      "alternativas": {
+        "A": "22",
+        "B": "32",
+        "C": "44",
+        "D": "64"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "22 é o número real de ouros em Tóquio; a pergunta pede os ouros da hipótese, que seriam o dobro.",
+        "B": "32 não satisfaz o sistema: com 22 ouros e 20 pratas, o dobro dos ouros é 44.",
+        "D": "64 é o total de ouros e pratas na hipótese, e não só os ouros."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Transforme cada frase do problema em uma equação, com uma letra para cada quantidade desconhecida.",
+        "Subtrair uma equação da outra elimina a incógnita que aparece igual nas duas."
+      ],
+      "raciocinio": "1. Com \\(o\\) ouros e \\(p\\) pratas em Tóquio: \\(o + p = 42\\). Na hipótese, os ouros dobram: \\(2o + p = 64\\) (veja: *Sistemas de equações do 1º grau*).\n2. Subtraindo a 1ª equação da 2ª: \\(o = 64 - 42 = 22\\).\n3. Na hipótese, os ouros seriam \\(2 \\cdot 22 = 44\\).\n\nResposta: **C**.\n\n**Dica de prova:** releia a pergunta antes de marcar. O 22 aparece no caminho, mas o pedido é o número de ouros da hipótese.",
+      "interativo": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "transformacoes-geometricas",
+  "titulo": "Transformações geométricas: translação, rotação e reflexão",
+  "materia": "Matemática",
+  "grupo": "Congruência e semelhança",
+  "texto": "Translação, rotação e reflexão movem uma figura **sem mudar a forma nem o tamanho**: a figura obtida é congruente à original.\n\n| Transformação | O que faz | Como reconhecer |\n|---|---|---|\n| **Translação** | desliza a figura numa direção | a cópia fica na **mesma posição**, só em outro lugar |\n| **Rotação** | gira a figura em torno de um ponto, por um ângulo | a cópia aparece **girada** em relação à original |\n| **Reflexão** | espelha a figura em relação a uma reta (o eixo) | a cópia fica **ao contrário**, como num espelho |\n\n**Teste rápido:** escolha um detalhe da figura, como uma aba ou um furo. Na translação, ele continua apontando para o mesmo lado. Na rotação, aponta para outra direção. Na reflexão, troca de lado em relação ao eixo: o que estava à direita passa para a esquerda.\n\n**Frações de volta:** na rotação, 1/4 de volta = 90°, 1/2 volta = 180°, 3/4 de volta = 270° e uma volta completa = 360°.\n\n**Girar só num sentido:** se só é possível girar no sentido horário, virar 90° para a esquerda exige 3/4 de volta para a direita (\\(3 \\cdot 90° = 270°\\)).",
+  "videos": [
+    {
+      "titulo": "Transformações no plano: reflexão, translação e rotação - Prof. Gisele Ramos",
+      "url": "https://www.youtube.com/watch?v=OWMPVzuAv28"
+    },
+    {
+      "titulo": "Simetria: reflexão, rotação e translação - Prof. Allan",
+      "url": "https://www.youtube.com/watch?v=m6ansEgVBAE"
+    }
+  ]
+}

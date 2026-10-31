@@ -44,8 +44,10 @@ ferramentas/          validar-dados.mjs confere os dados antes de publicar; gera
 2. Acrescente a prova em `dados/provas.json`:
 
 ```json
-{ "id": "ps-2024-1-b", "nome": "PS 2024.1 – Prova B", "arquivo": "ps-2024-1-b.json" }
+{ "id": "ps-2024-1-b", "nome": "PS 2024.1 – Prova B", "modalidade": "integrado", "arquivo": "ps-2024-1-b.json" }
 ```
+
+A `modalidade` é `"integrado"` ou `"concomitante"` (cursos concomitantes e subsequentes, cujo processo seletivo é o do 2º semestre). Ela aparece como uma etiqueta discreta ao lado do nome da prova na tela inicial e na página de PDFs.
 
 Os campos `gabarito` e `teoria` de `provas.json` são preenchidos por `node ferramentas/gerar-sw.mjs`; não edite à mão.
 

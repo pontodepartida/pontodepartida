@@ -1,5 +1,5 @@
 import { armazenamento } from './armazenamento.js?v=2026-10-30';
-import { app, estado, esc, pct, formatarTempo, dataCurta, carregarCatalogo, provaResumida, carregarFrases, htmlFrase, lerProgresso, resumo, primeiraSemResposta, lerResultadoSimulado, abrirDialogo } from './base.js';
+import { app, estado, esc, pct, formatarTempo, dataCurta, carregarCatalogo, provaResumida, carregarFrases, htmlFrase, lerProgresso, resumo, primeiraSemResposta, lerResultadoSimulado, abrirDialogo, htmlModalidade } from './base.js';
 import { cabecalhoInicio, rodape } from './interface.js';
 
 // ---------- Início ----------
@@ -46,7 +46,7 @@ export async function telaInicio() {
     htmlDestaque = `<section class="cartao destaque" aria-label="${esc(d.prova.nome)}">
       <div class="destaque__info">
         <div><span class="etiqueta${d.status === 'concluida' ? ' etiqueta--ok' : ''}">${etiqueta}</span></div>
-        <h2 class="destaque__nome">${esc(d.prova.nome)}</h2>
+        <h2 class="destaque__nome">${esc(d.prova.nome)}${htmlModalidade(d.prova.modalidade)}</h2>
         <div class="barra" role="progressbar" aria-label="Questões respondidas" aria-valuenow="${d.r.respondidas}" aria-valuemin="0" aria-valuemax="${d.r.total}"><div style="width:${pct(d.r.respondidas, d.r.total)}%"></div></div>
         <div class="destaque__numeros">
           <span>${d.r.respondidas} de ${d.r.total} respondidas</span>
@@ -66,8 +66,8 @@ export async function telaInicio() {
     const res = lerResultadoSimulado(id);
     const rr = res && resumo(i.prova, res);
     const nome = res
-      ? `<a href="#/${id}/simulado/resultado">${esc(i.prova.nome)}</a>`
-      : `<a href="#/${id}/simulado" data-acao="comecar-simulado" data-id="${id}">${esc(i.prova.nome)}</a>`;
+      ? `<a href="#/${id}/simulado/resultado">${esc(i.prova.nome)}${htmlModalidade(i.prova.modalidade)}</a>`
+      : `<a href="#/${id}/simulado" data-acao="comecar-simulado" data-id="${id}">${esc(i.prova.nome)}${htmlModalidade(i.prova.modalidade)}</a>`;
     return `<article class="cartao cartao-prova">
       <div class="cartao-prova__topo">
         <h3 class="cartao-prova__nome">${nome}</h3>
@@ -86,7 +86,7 @@ export async function telaInicio() {
 
   const htmlOutras = modo === 'simulado' ? outras.map(cartaoSimulado).join('') : outras.map(i => `<article class="cartao cartao-prova">
       <div class="cartao-prova__topo">
-        <h3 class="cartao-prova__nome"><a href="#/${i.prova.id}">${esc(i.prova.nome)}</a></h3>
+        <h3 class="cartao-prova__nome"><a href="#/${i.prova.id}">${esc(i.prova.nome)}${htmlModalidade(i.prova.modalidade)}</a></h3>
         <span class="cartao-prova__seta" aria-hidden="true">›</span>
       </div>
       <div>${chip(i)}</div>
@@ -147,7 +147,7 @@ export async function telaInicio() {
       : '';
     return `<li class="linha-prova">
       <span class="linha-prova__textos">
-        <a class="linha-prova__nome" href="${href}"${extra}>${esc(i.prova.nome)}</a>
+        <a class="linha-prova__nome" href="${href}"${extra}>${esc(i.prova.nome)}${htmlModalidade(i.prova.modalidade)}</a>
         <span class="linha-prova__sub">${sub}${recomecar}</span>
       </span>
       ${contagem}

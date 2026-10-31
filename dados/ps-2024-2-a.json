@@ -1,0 +1,918 @@
+{
+  "id": "ps-2024-2-a",
+  "nome": "PS 2024.2 – Prova A",
+  "edital": "Edital IFSP nº 19/2024 – Concomitante e Subsequente – Prova A",
+  "fonteGabarito": "Gabarito final – Prova A – Edital IFSP nº 19 – Processo Seletivo dos Cursos Técnicos 2024.2",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Leia abaixo o poema “D. Sebastião, Rei de Portugal”, de Fernando Pessoa.\n\n> ### D. Sebastião, Rei de Portugal\n> Louco, sim, louco, **porque** quis grandeza\n> Qual a Sorte a não dá.\n> Não coube em mim minha certeza;\n> **Por isso** onde o areal está\n> Ficou meu ser que houve, não o que há.\n>\n> Minha loucura, outros que me a tomem\n> Com o que nela ia.\n> Sem a loucura que é o homem\n> Mais que a besta sadia,\n> Cadáver adiado que procria?\n>\n> <cite>PESSOA, Fernando. Mensagem. São Paulo: Abril, 2010.</cite>\n\nOs operadores argumentativos “porque” e “por isso”, destacados em negrito no poema, podem ser substituídos, sem comprometer o sentido original do texto, respectivamente por:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“então” e “portanto”.",
+        "B": "“mas” e “contudo”.",
+        "C": "“pois” e “todavia”.",
+        "D": "“já que” e “assim”."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Então* e *portanto* indicam conclusão, mas *porque* indica causa: o eu lírico é louco **porque** quis grandeza.",
+        "B": "*Mas* e *contudo* indicam oposição; nenhum dos dois conectivos do poema tem esse sentido.",
+        "C": "*Pois* substitui *porque* (causa), mas *todavia* é adversativo e não serve no lugar de *por isso*, que indica consequência."
+      },
+      "teoria": [
+        "conectivos"
+      ],
+      "essencial": [
+        "Conectivos de causa: *porque*, *pois*, *já que*, *uma vez que*.",
+        "Conectivos de conclusão ou consequência: *por isso*, *assim*, *portanto*, *logo*.",
+        "Para trocar um conectivo por outro, a relação de sentido precisa continuar a mesma."
+      ],
+      "raciocinio": "1. “Louco [...] **porque** quis grandeza”: querer grandeza é a **causa** da loucura. *Já que* também introduz causa (veja: *Conectivos e relações de sentido*).\n2. “Não coube em mim minha certeza; / **Por isso** onde o areal está / Ficou meu ser”: ficar no areal é a **consequência** da certeza desmedida. *Assim* também indica consequência.\n3. Só a D mantém as duas relações, de causa e de consequência.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Leia o seguinte excerto, retirado de uma notícia de jornal, e escolha a alternativa correta.\n\n> ### Mulher divide opiniões ao descontar aluguel, luz e internet da mesada do filho\n> Todo dia, um menino de 7 anos recebe 1 dólar (cerca de R$ 5,40) após cumprir suas obrigações em casa, em Orlando (Flórida, EUA): arrumar a cama e o quarto, escovar os dentes, pôr as roupas sujas na área de serviço, entre outras tarefas.\n>\n> A lição de finanças não termina aí, conforme a mãe explicou em vídeo que viralizou no TikTok. Se cumprir todas as atividades determinadas, o menino fatura até 31 dólares (R$ 168) por mês. Só que a mãe desconta, mensalmente, 9 dólares da \"conta\" do menino: 5 dólares (R$ 27) para ajudar no aluguel da casa, 2 dólares (R$ 10,80) pela energia elétrica e outros 2 dólares como taxa de internet.\n>\n> \"Ele então entende que ao longo do mês ele tem dois baldes - um para o dinheiro da diversão e outro para o dinheiro das contas\", explicou a americana.\n>\n> A mãe diz trabalhar o senso de responsabilidade da criança. O menino precisa organizar os gastos para chegar ao fim do mês como uma quantia que dê para honrar as suas \"obrigações\". Muitos elogiaram a atitude da mãe, enquanto outros disseram que não se trata de uma responsabilidade adequada para a idade.\n>\n> <cite>Disponível em: https://extra.globo.com/noticias/page-not-found/mulher-divide-opinioes-ao-descontar-aluguel-luz-internet-da-mesada-do-filho-25221321.html. Acesso em: 04 out. 2021.</cite>\n\nO pronome **ele**, na primeira linha do terceiro parágrafo, refere-se:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ao valor que o menino ganha de mesada.",
+        "B": "Ao menino que ganha mesada.",
+        "C": "Ao serviço que o menino tem que fazer.",
+        "D": "Ao balde para o dinheiro de diversão."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O valor é o que o menino divide nos baldes; quem “entende” alguma coisa precisa ser uma pessoa.",
+        "C": "As tarefas não “entendem” nada; *ele* é quem aprende a lição de finanças.",
+        "D": "O balde é o que *ele* tem (“ele tem dois baldes”), e não quem entende."
+      },
+      "teoria": [
+        "coesao-referencial"
+      ],
+      "essencial": [
+        "Pronomes pessoais retomam um termo já citado; para achá-lo, veja quem pode fazer a ação do verbo.",
+        "Teste a troca: ponha o candidato no lugar do pronome e veja se a frase faz sentido."
+      ],
+      "raciocinio": "1. O trecho é uma fala da mãe: “Ele então entende que ao longo do mês ele tem dois baldes”.\n2. Quem *entende* precisa ser uma pessoa, e quem tem os baldes, um para a diversão e outro para as contas, é quem recebe a mesada (veja: *Coesão referencial: retomar e anunciar*).\n3. Trocando: “**O menino** então entende que ao longo do mês **o menino** tem dois baldes”. Faz sentido.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Pontuação",
+      "enunciado": "Leia a charge a seguir:\n\n![Charge em três quadros com um árbitro de futebol. 1: de cara fechada, ele faz com as mãos o gesto de pedir o vídeo, desenhando um retângulo no ar. 2: com a mão no rosto e o apito na outra mão, ele hesita. 3: com o apito na boca, ele aponta com firmeza para a frente.](img/2024-2-a/q03.jpg \"2º quadro: INJÚRIA RACIAL OU RACISMO??? | 3º quadro: O QUE IMPORTA É QUE AMBOS SÃO NOJENTOS E CONFIGURAM CRIME!!!\")\n\n<cite>Disponível em: https://www.otempo.com.br/charges/charge-super-fc-12-11-2019-1.2260795. Acesso em: 04 out. 2021.</cite>\n\nO uso do ponto de exclamação na charge pode:",
+      "imagens": [
+        "img/2024-2-a/q03.jpg"
+      ],
+      "alternativas": {
+        "A": "Manifestar uma teoria do árbitro.",
+        "B": "Confirmar uma ideia do árbitro.",
+        "C": "Esclarecer uma opinião do árbitro.",
+        "D": "Provar uma posição do árbitro."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O árbitro não apresenta uma teoria: diz o que pensa sobre a situação, com ênfase.",
+        "B": "Não há ideia anterior a confirmar: no 2º quadro ele estava em dúvida, e no 3º responde a essa dúvida.",
+        "D": "Um sinal de pontuação não prova nada; a exclamação dá ênfase à opinião, sem demonstrá-la."
+      },
+      "teoria": [
+        "pontuacao"
+      ],
+      "essencial": [
+        "O ponto de exclamação marca emoção ou ênfase; repetido, intensifica ainda mais a fala.",
+        "Numa charge, compare as falas: a pontuação mostra a mudança de atitude da personagem."
+      ],
+      "raciocinio": "1. No 2º quadro, o árbitro está em dúvida, e os três pontos de interrogação marcam isso: “Injúria racial ou racismo???”.\n2. No 3º quadro, ele resolve a dúvida dizendo o que pensa: “O que importa é que ambos são nojentos e configuram crime!!!”. A opinião esclarece a pergunta anterior.\n3. Os três pontos de exclamação dão ênfase e firmeza a essa opinião (veja: *Sinais de pontuação e seus efeitos*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Analise a seguinte sentença:\n\n> Quando ele <u>**a**</u> encontrou, fizeram <u>**as**</u> pazes e, <u>**a**</u> partir de então, tudo ficou bem.\n\nAssegurando a correção gramatical do período, de acordo com a norma culta da língua portuguesa, assinale a alternativa correta com relação à acentuação dos vocábulos sublinhados:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Nenhum dos três deve ser acentuado porque o primeiro é um pronome, o segundo é um artigo e o terceiro é uma preposição.",
+        "B": "O primeiro deles deve receber o acento indicativo de crase porque consiste na junção de um artigo com uma preposição.",
+        "C": "O segundo deles deve receber acento indicativo de crase porque consiste na junção de um artigo com uma preposição.",
+        "D": "O terceiro deles deve receber acento indicativo de crase porque consiste na junção de um artigo com uma preposição."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "O primeiro *a* é pronome oblíquo (“ele a encontrou” = ele encontrou ela). Pronome não recebe acento de crase.",
+        "C": "*Fazer as pazes* não pede preposição: *as* é só artigo, e por isso não há crase.",
+        "D": "Em *a partir de*, o *a* vem antes de um verbo (*partir*); sem artigo, não há crase."
+      },
+      "teoria": [
+        "crase"
+      ],
+      "essencial": [
+        "Crase é a fusão da preposição *a* com o artigo *a*: só existe quando os dois estão presentes.",
+        "Não há crase antes de verbo, nem quando o *a* é pronome (= ela)."
+      ],
+      "raciocinio": "1. “ele **a** encontrou” = “ele encontrou **ela**”: é pronome oblíquo, sem preposição (veja: *Crase*).\n2. “fizeram **as** pazes”: *fazer* não pede preposição aqui, e *as* é só artigo.\n3. “**a** partir de então”: *partir* é verbo, e antes de verbo não há artigo. Sobra só a preposição.\n4. Em nenhum dos casos há preposição e artigo juntos, então nenhum leva acento.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia os enunciados a seguir:\n\nI. A casa fica em Cosme Velho. Machado de Assis morou nela.\nII. O local é perigoso. Você se dirige ao local diariamente.\nIII. O menino estuda. Ele alcança os seus objetivos.\nIV. Este assunto é muito complicado. Eu pensei nele ainda hoje.\n\nAssinale a alternativa em que todas as transposições dos enunciados acima para períodos compostos por subordinação estejam adequadas à norma-padrão da Língua Portuguesa:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“A casa em que Machado de Assis morou fica em Cosme Velho”, “O local a que você se dirige diariamente é perigoso”, “O menino que estuda alcança os seus objetivos”, “O assunto em que pensei ainda hoje é muito complicado”.",
+        "B": "“A casa que Machado de Assis morou fica em Cosme Velho”, “O local em que você se dirige diariamente é perigoso”, “O menino que estuda alcança os seus objetivos”, “O assunto no qual pensei ainda hoje é muito complicado”.",
+        "C": "“A casa de Machado de Assis fica em Cosme Velho”, “O local para onde você se dirige diariamente é perigoso”, “O menino estudioso alcança os seus objetivos”, “O assunto em que pensei ainda hoje é muito complicado”.",
+        "D": "“Machado de Assis e sua casa fica em Cosme Velho”, “O local ao qual você se dirige diariamente é perigoso”, “O menino que estuda alcança os seus objetivos”, “O assunto que pensei ainda hoje é muito complicado”."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "*Morar* pede *em* e *dirigir-se* pede *a*: o certo é “a casa **em que** morou” e “o local **a que** se dirige”.",
+        "C": "Troca orações por expressões (*de Machado de Assis*, *estudioso*), que não formam períodos compostos por subordinação.",
+        "D": "“Machado de Assis e sua casa fica” muda o sentido e erra a concordância; e *pensar* pede *em*: “em que pensei”."
+      },
+      "teoria": [
+        "regencia-verbal",
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Se o verbo da oração adjetiva pede preposição, ela vem antes do pronome relativo: morar **em** → **em que** morou.",
+        "Oração subordinada adjetiva começa por pronome relativo (*que*, *o qual*, *onde*) e caracteriza um substantivo."
+      ],
+      "raciocinio": "1. Junte cada par com um pronome relativo, conferindo a preposição que o verbo pede (veja: *Regência verbal*).\n2. *Morar* **em** → “a casa **em que** morou”. *Dirigir-se* **a** → “o local **a que** se dirige”. *Pensar* **em** → “o assunto **em que** pensei”. *Estudar* não pede preposição → “o menino **que** estuda”.\n3. A alternativa A faz isso nos quatro casos, sempre com orações adjetivas (veja: *Orações subordinadas*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Leia o seguinte trecho da reportagem “Prometeram proteger sua privacidade. Agora vazaram suas informações” do jornal digital The Intercept Brasil:\n\n> Se você é brasileiro e tem um CPF, provavelmente seus dados pessoais estão à venda em fóruns na *deep web* para qualquer um que tenha *bitcoins* suficientes para comprá-los. Tem de tudo: informações de trabalho, salário, histórico de pagamentos, fotos, perfil em redes sociais, perfil de consumidor e mais um monte de coisas.\n>\n> No maior vazamento de dados que se tem notícia por aqui, alguém teve acesso a uma base de dados de 222 milhões de brasileiros (incluindo mortos) e está ganhando dinheiro com a venda dessas informações. Elas incluem, além do que mencionei, também dados comportamentais das pessoas, classificadas em perfis que vão de “consumidores indisciplinados” a “aposentadoria dos sonhos”. Essas categorias são criadas pelo serviço Mosaic, da Serasa Experian, que faz a segmentação do público para fins de marketing. É por isso que se suspeita que tenha sido a empresa a origem do vazamento – ou de pelo menos parte dele. Ela nega.\n>\n> Questionada, a Serasa me mandou a mesma nota protocolar que enviou a outros veículos: “conduzimos uma extensa investigação e neste momento nenhum dos dados que analisamos indicam que a Serasa seja a fonte. Muitos dos dados analisados incluem elementos que não temos em nosso sistema e os dados atribuídos à Serasa não correspondem aos dados em nossos arquivos”.\n>\n> <cite>DIAS, Tatiana. Prometeram proteger sua privacidade. Agora vazaram suas informações. In: The Intercept Brasil. Disponível em: https://theintercept.com/2021/01/28/prometeram-proteger-privacidade-informacoes-vazadas/. Acesso em: 11 out. 2021.</cite>\n\nApós a leitura é correto afirmar que a expressão “Essas categorias”, no segundo parágrafo do texto, corresponde a:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“vazamento de dados” e “base de dados de brasileiros”.",
+        "B": "“consumidores indisciplinados” e “aposentadoria dos sonhos”.",
+        "C": "“dados comportamentais” e “consumidores indisciplinados”.",
+        "D": "“aposentadoria dos sonhos” e “segmentação do público”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“Essas categorias” retoma perfis de consumidor, e não o vazamento nem a base de dados.",
+        "C": "*Dados comportamentais* é o conjunto maior; as categorias são os perfis em que as pessoas são classificadas.",
+        "D": "*Segmentação do público* é o que o serviço Mosaic faz com as categorias, e não uma delas."
+      },
+      "teoria": [
+        "coesao-referencial"
+      ],
+      "essencial": [
+        "Expressões como *essas categorias* resumem o que acabou de ser citado.",
+        "Procure, logo antes, os termos que se encaixam na palavra-chave: aqui, nomes de categorias."
+      ],
+      "raciocinio": "1. Logo antes de “Essas categorias”, o texto diz que as pessoas são “classificadas em perfis que vão de “consumidores indisciplinados” a “aposentadoria dos sonhos””.\n2. Esses perfis são os exemplos de categoria. “Essas categorias” resume os dois nomes entre aspas (veja: *Coesão referencial: retomar e anunciar*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia a tirinha a seguir:\n\n![Tirinha de Armandinho em três quadros. Um adulto, de quem só aparecem as pernas, conversa com Armandinho, que está ao lado de um sapo.](img/2024-2-a/q07.jpg \"Adulto: ENTÃO QUANDO VOCÊ CRESCER VAI CUIDAR DA NATUREZA?! | Armandinho: ESPERO QUE SIM! DEPENDE DE VOCÊS! | Armandinho: TENTEM NÃO DESTRUIR TUDO ATÉ LÁ!\")\n\n<cite>Disponível em: https://guiaecologico.wordpress.com/2017/05/31/tirinhas-ambientais-para-reflexao/Armandinho. Acesso em: 06 out. 2021.</cite>\n\nApós a leitura da tirinha, assinale a explicação correta para o verbo, seu sentido no texto e sua regência:",
+      "imagens": [
+        "img/2024-2-a/q07.jpg"
+      ],
+      "alternativas": {
+        "A": "Cuidar – sentido de tratar, intransitivo.",
+        "B": "Crescer – sentido de esticar, transitivo.",
+        "C": "Depender – sentido de resultar, intransitivo.",
+        "D": "Esperar – sentido de expectativa, transitivo."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Cuidar* aparece em “cuidar **da** natureza”: tem complemento com preposição, então não é intransitivo.",
+        "B": "*Crescer*, em “quando você crescer”, é ficar adulto e não tem complemento: é intransitivo.",
+        "C": "*Depender* tem complemento com preposição, “depende **de** vocês”: não é intransitivo."
+      },
+      "teoria": [
+        "transitividade-verbal"
+      ],
+      "essencial": [
+        "Verbo transitivo pede complemento (direto, sem preposição; indireto, com preposição); intransitivo tem sentido completo.",
+        "O complemento pode ser uma oração ou uma palavra que a substitui: “Espero **que sim**”."
+      ],
+      "raciocinio": "1. Em “**Espero** que sim!”, Armandinho expressa expectativa, uma esperança sobre o futuro.\n2. *Esperar* tem complemento sem preposição: espero **isso** (que sim). É transitivo direto (veja: *Transitividade verbal: verbos e complementos*).\n3. Os outros verbos estão com a regência errada: *cuidar da natureza* e *depender de vocês* têm complemento com preposição, e *crescer* não tem complemento.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia o microconto a seguir para responder à questão:\n\n> Amiga de ouro\n> Tive uma amiga que valia ouro.\n> Vendi.\n>\n> Paulinho Takayoshi Uda | São Paulo/SP\n\n<cite>Disponível em: http://biblioteca.piracicaba.sp.gov.br/site/wp-content/uploads/2020/10/Microcontos-de-Humor-2020.pdf. Acesso em: 06 out. 2021.</cite>\n\nO texto acima é parte da coletânea do 10º Concurso de microcontos de humor de Piracicaba. O recurso gramatical que favorece o efeito de sentido humorístico foi:",
+      "imagens": [],
+      "alternativas": {
+        "A": "a omissão do objeto direto do verbo vender.",
+        "B": "o artigo indefinido que acompanha o substantivo amiga.",
+        "C": "o sujeito recuperado pela desinência verbal nas orações.",
+        "D": "a oração especificadora do tipo de amiga do narrador."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O objeto de *vender* fica subentendido (a amiga), mas o humor não vem dessa omissão: vem do “valia ouro” lido ao pé da letra.",
+        "B": "O artigo *uma* é neutro; trocá-lo por *a* não mudaria o efeito humorístico.",
+        "C": "O sujeito oculto (*eu*, em *tive* e *vendi*) é comum e não produz o humor."
+      },
+      "teoria": [
+        "oracoes-subordinadas",
+        "ironia-e-humor"
+      ],
+      "essencial": [
+        "Oração adjetiva restritiva especifica o substantivo: “uma amiga **que valia ouro**”.",
+        "Humor por duplo sentido: uma expressão figurada é lida ao pé da letra."
+      ],
+      "raciocinio": "1. “Valer ouro” é uma expressão figurada: a amiga era preciosa, muito querida.\n2. Essa ideia está na oração “que valia ouro”, que especifica o tipo de amiga (veja: *Orações subordinadas*).\n3. O “Vendi.” lê a expressão ao pé da letra: se valia ouro, podia ser vendida. Essa quebra de expectativa produz o humor (veja: *Ironia e humor*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Na cidade de São Paulo, usuários e empresas de transporte público devem seguir o que determina a Lei n° 15.937/2013, parcialmente reproduzida abaixo.\n\n> ### LEI Nº 15.937, DE 23 DE DEZEMBRO DE 2013.\n> Proíbe o uso de aparelhos sonoros ou musicais no interior de veículos de transporte coletivo nas condições que especifica e dá outras providências.\n>\n> (...)\n>\n> Art. 3º É obrigatória a afixação de placas, no interior dos veículos de transporte coletivo abrangidos pela presente lei, em letras de formato e tamanho legíveis, contendo o número da presente lei, a proibição nela contida e o telefone do órgão municipal responsável pelo transporte no Município, com os seguintes dizeres:\n>\n> \"É proibido o uso de aparelhos sonoros ou musicais dentro deste recinto, salvo mediante uso de fone de ouvido. Os infratores serão convidados a desligar seus aparelhos e retirados do veículo, em caso de recusa, nos termos da Lei n° 15.937, de 23 de dezembro de 2013. SPTrans - ligue 156\".\n>\n> <cite>SÃO PAULO. Lei Municipal N° 15.937, de 23 de dezembro de 2013. Proíbe o uso de aparelhos sonoros ou musicais no interior de veículos de transporte coletivo nas condições que especifica e dá outras providências. São Paulo, 2013. Disponível em: http://legislacao.prefeitura.sp.gov.br/leis/lei-15937-de-23-de-dezembro-de-2013. Acesso em: 06 out. 2021.</cite>\n\nA mensagem das placas a serem afixadas em transportes públicos paulistanos, descrita no art. 3°, enfatiza:",
+      "imagens": [],
+      "alternativas": {
+        "A": "O motivo da criação da lei, ou seja, a preservação do conforto acústico dos usuários e o combate à poluição sonora, de que trata o art. 1°.",
+        "B": "A determinação principal da lei, isto é, a proibição do uso de aparelhos musicais ou sonoros no interior de veículos de transporte coletivo, de que trata o art. 1°.",
+        "C": "As medidas a serem tomadas em caso de infração da lei, isto é, a solicitação do desligamento do aparelho, a expulsão do usuário e a intervenção policial, de que tratam os incisos I, II e III do art. 2°.",
+        "D": "A responsabilidade das empresas de transporte público, ou seja, a obrigatoriedade de afixação de placas, de que trata o art. 3°."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "A placa não fala em conforto acústico nem em poluição sonora; esses motivos não aparecem na mensagem.",
+        "C": "A placa cita o desligamento e a retirada do veículo, mas não fala em polícia; e o destaque é a proibição.",
+        "D": "A obrigação de afixar placas é o que o art. 3º impõe às empresas; a mensagem da placa se dirige aos passageiros."
+      },
+      "teoria": [
+        "textos-normativos"
+      ],
+      "essencial": [
+        "Num texto normativo, cada artigo tem uma função: proibir, obrigar, definir punições.",
+        "Para saber o que uma mensagem enfatiza, veja o que vem primeiro e com mais força."
+      ],
+      "raciocinio": "1. A mensagem da placa começa com “É proibido o uso de aparelhos sonoros ou musicais dentro deste recinto, salvo mediante uso de fone de ouvido”.\n2. Essa é a determinação principal da lei, anunciada já na ementa: “Proíbe o uso de aparelhos sonoros ou musicais no interior de veículos de transporte coletivo” (veja: *Textos normativos: leis, estatutos e regulamentos*).\n3. O resto da placa (o convite a desligar e a retirada do veículo) só reforça essa proibição.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia o texto a seguir e faça o que se pede posteriormente.\n\n> **Certamente**, você já ouviu falar dos Lençóis Maranhenses, região desértica localizada no norte do estado do Maranhão. Que o parque é gigantesco, do tamanho da capital paulista, todo mundo sabe. Outro fato amplamente conhecido é a formação, na época de chuva, de milhares de lagoas naturais. Todavia, **talvez** você desconheça estas curiosidades:\n>\n> **Passeio noturno**\n>\n> Normalmente, os turistas visitam o parque de manhã ou à tarde (...). No entanto, alguns turistas têm aproveitado os Lençóis no período noturno, quando o parque está vazio. Tendo a sorte de pegar uma noite sem nuvens, o céu é de tirar o fôlego! Além de não haver as luzes da cidade por perto, é possível ver constelações dos dois hemisférios, já que o parque está perto da linha do Equador.\n>\n> **Oásis**\n>\n> Aqueles que já visitaram o parque à noite **provavelmente** chegaram ao local de madrugada, quando começaram uma caminhada de pelo menos um dia pelo “deserto”. Para alimentação e pernoite, **possivelmente** recorreram aos “oásis” localizados no meio do parque. Trata-se de pequenos povoados cujos moradores recebem turistas com uma comida simples e redes de dormir por um valor justo.\n>\n> **Lixo**\n>\n> Nem tudo, no entanto, é perfeição: parte da região norte do parque, que turistas raramente visitam, é tomada pelo lixo que vem do alto mar, formando a praia talvez mais suja que você possa um dia ver. Com o avanço da conscientização ambiental, **quem sabe** um dia esse problema seja resolvido.\n\nConsiderando o grau de certeza dos termos destacados em negrito, a alternativa que os apresenta em ordem decrescente é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "certamente – provavelmente – possivelmente – talvez – quem sabe.",
+        "B": "quem sabe – talvez – provavelmente – certamente – possivelmente.",
+        "C": "provavelmente – certamente – talvez – possivelmente – quem sabe.",
+        "D": "talvez – possivelmente – provavelmente – quem sabe – certamente."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Começa por *quem sabe*, a expressão de menor certeza, e põe *certamente* em quarto; a ordem pedida é decrescente.",
+        "C": "Põe *provavelmente* antes de *certamente*, mas *certamente* expressa certeza total e vem primeiro.",
+        "D": "Está quase invertida: começa pela dúvida (*talvez*) e termina na certeza (*certamente*)."
+      },
+      "teoria": [
+        "modalizacao"
+      ],
+      "essencial": [
+        "Modalizadores mostram o grau de certeza de quem fala: de *certamente* (certeza) a *talvez* e *quem sabe* (dúvida).",
+        "*Provável* é mais forte que *possível*: o provável tende a acontecer; o possível apenas pode acontecer."
+      ],
+      "raciocinio": "1. *Certamente* expressa certeza e fica em primeiro (veja: *Modalização: o grau de certeza de quem fala*).\n2. *Provavelmente* indica uma chance alta; *possivelmente*, uma chance menor.\n3. *Talvez* e *quem sabe* são os mais duvidosos. *Quem sabe* soa como uma esperança vaga (“quem sabe um dia esse problema seja resolvido”) e fica por último.\n\nOrdem: certamente, provavelmente, possivelmente, talvez, quem sabe. Resposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Considere o parágrafo de uma notícia a seguir para responder à questão:\n\n> Um dos assuntos em alta no momento é a vacinação contra a Covid-19, que já foi iniciada em muitos países. No meio de tantas notícias, as *fake news* sobre o tema também encontram terreno fértil para proliferar. E uma dessas notícias que circula nas redes sociais aponta que o CEO da Pfizer, Albert Bourla, teria dito que não tomaria a vacina desenvolvida pela própria empresa.\n>\n> <cite>Disponível em: https://pleno.news/e-fake/e-fake-ceo-da-pfizer-nao-disse-que-nao-tomara-sua-vacina.html. Acesso em: 05 out. 2021.</cite>\n\nAs chamadas *fake news* têm tomado o cenário da internet. Novas notícias surgem para desmentir as primeiras entendidas como falsas. Ao reportar sobre a fala do CEO da Pfizer, optou-se pelo uso do futuro do pretérito na indicação do verbo *dicendi* (teria dito). A escolha dessas palavras se justifica porque, em relação à fala do executivo, esse tempo verbal exprime:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Certeza.",
+        "B": "Arrependimento.",
+        "C": "Suposição.",
+        "D": "Condição."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O futuro do pretérito faz o contrário: mostra que o jornal não assume a fala como certa.",
+        "B": "Nada no texto sugere arrependimento do executivo; *teria dito* só marca que a fala não foi confirmada.",
+        "D": "Condição seria uma hipótese com *se* (“diria, se…”); aqui há uma fala atribuída sem confirmação."
+      },
+      "teoria": [
+        "modalizacao"
+      ],
+      "essencial": [
+        "O futuro do pretérito (*teria dito*, *seria*) pode indicar suposição: o jornal relata algo sem garantir que aconteceu.",
+        "É um recurso de distanciamento, comum em notícias sobre boatos e acusações."
+      ],
+      "raciocinio": "1. O texto trata de uma *fake news*: a notícia que circula “aponta que o CEO da Pfizer [...] **teria dito** que não tomaria a vacina”.\n2. Com o futuro do pretérito, o jornal relata a suposta fala sem afirmar que ela aconteceu. O próprio contexto indica que ela é falsa.\n3. Esse uso marca suposição, um distanciamento de quem relata (veja: *Modalização: o grau de certeza de quem fala*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia a charge a seguir:\n\n![Charge na pré-história. À esquerda, um homem das cavernas empurra com esforço uma enorme pedra quadrada. À direita, uma menina, também das cavernas, rola com facilidade uma roda de pedra e grita para ele.](img/2024-2-a/q12.jpg \"Menina: DEIXA DE SER TEIMOSO, JOÃO!! VOLTA PARA ESCOLA!!\")\n\n<cite>Fonte: JUNIÃO. Deixa de ser teimoso, João!! Volta para escola!! Disponível em: http://www.juniao.com.br/chargecartum/. Acesso em: 05 out. 2021.</cite>\n\nAssinale a alternativa que apresenta a causa da teimosia da personagem:",
+      "imagens": [
+        "img/2024-2-a/q12.jpg"
+      ],
+      "alternativas": {
+        "A": "Irritação.",
+        "B": "Relutância.",
+        "C": "Desespero.",
+        "D": "Medo."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Irritação é o que a menina demonstra ao gritar, e não a causa da teimosia de João.",
+        "C": "João não parece desesperado: segue empurrando a pedra do jeito que sempre fez.",
+        "D": "Nada na charge sugere que João tenha medo; ele apenas resiste a aprender o novo."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal"
+      ],
+      "essencial": [
+        "Em charges, a imagem completa o texto: compare o que cada personagem faz.",
+        "*Relutância* é a resistência a fazer ou aceitar algo; quem reluta insiste no que já faz."
+      ],
+      "raciocinio": "1. A imagem mostra o contraste: a menina rola com facilidade uma roda de pedra; João empurra com esforço uma pedra quadrada.\n2. A fala “Volta para escola!!” sugere que ela aprendeu algo que João se recusa a aprender (veja: *Linguagem verbal e não verbal*).\n3. A teimosia de João vem da resistência a mudar o jeito de fazer as coisas, ou seja, da relutância.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Variação linguística",
+      "enunciado": "Leia o texto:\n\n> ### O poeta da roça\n> Sou fio das mata, cantô da mão grossa,\n> Trabaio na roça, de inverno e de estio.\n> A minha chupana é tapada de barro,\n> Só fumo cigarro de páia de mio.\n>\n> Sou poeta das brenha, não faço o papé\n> De argum menestré, ou errante cantô\n> Que veve vagando, com sua viola,\n> Cantando, pachola, à percura de amô.\n>\n> Não tenho sabença, pois nunca estudei,\n> Apenas eu sei o meu nome assiná.\n> Meu pai, coitadinho! vivia sem cobre,\n> E o fio do pobre não pode estudá.\n>\n> Meu verso rastêro, singelo e sem graça,\n> Não entra na praça, no rico salão,\n> Meu verso só entra no campo e na roça,\n> Nas pobre paioça, da serra ao sertão.\n>\n> Só canto o buliço da vida apertada,\n> Da liga pesada, das roça e dos eito\n> E às vêz, rescordando a feliz mocidade,\n> Canto uma sôdade que mora em meu peito.\n>\n> Eu canto o caboco com suas caçada.\n> Nas noite assombrada que tudo apavora,\n> Por dentro da mata, com tanta corage\n> Topando as visage chamada caipora.\n>\n> Eu canto o vaquêro vestido de côro,\n> Brigando com o tôro no mato fechado,\n> Que pega na ponta do brabo novio,\n> Ganhando lugio do dono do gado.\n>\n> Eu canto o mendigo de sujo farrapo,\n> Coberto de trapo e mochila na mão,\n> Que chora pedindo o socorro dos home,\n> E tomba de fome, sem casa e sem pão,\n>\n> E assim, sem cobiça dos cofre luzente,\n> Eu vivo contente e feliz com a sorte,\n> Morando no campo, sem vê a cidade,\n> Cantando as verdade das coisa do Norte.\n>\n> <cite>ASSARÉ, Patativa do. Patativa do Assaré. Antologia poética. Organização e prefácio de Gilmar de Carvalho. 8. ed., Fortaleza: Edições Demócrito Rocha, 2010, p. 19.</cite>\n\nApesar de o poema ter sido predominantemente escrito em variedade linguística sociocultural de registro informal, a fim de retratar o eu lírico – seu lugar e suas condições sociais –, em que opção há apenas versos produzidos de acordo com a norma-padrão da Língua Portuguesa?",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Meu verso rastêro, singelo e sem graça”, “Meu verso só entra no campo e na roça”, “Eu canto o vaquêro vestido de côro”, “Brigando com o tôro no mato fechado”, “Coberto de trapo e mochila na mão”, “Eu vivo contente e feliz com a sorte”.",
+        "B": "“Não tenho sabença, pois nunca estudei”, “Meu pai, coitadinho! vivia sem cobre”, “Só canto o buliço da vida apertada”, “Por dentro da mata, com tanta corage”, “Eu canto o vaquêro vestido de côro”, “E tomba de fome, sem casa e sem pão”.",
+        "C": "“Não entra na praça, no rico salão”, “Meu verso só entra no campo e na roça”, “Eu canto o mendigo de sujo farrapo”, “Coberto de trapo e mochila na mão”, “E tomba de fome, sem casa e sem pão”, “Eu vivo contente e feliz com a sorte”.",
+        "D": "“A minha chupana é tapada de barro”, “Meu pai, coitadinho! vivia sem cobre”, “Não entra na praça, no rico salão”, “Meu verso só entra no campo e na roça”, “Eu canto o mendigo de sujo farrapo”, “Morando no campo, sem vê a cidade”."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Inclui *rastêro*, *vaquêro*, *côro* e *tôro*, grafados como na fala, fora da norma-padrão.",
+        "B": "Inclui *sabença*, *corage* e *vaquêro*, formas da fala regional que fogem da norma-padrão.",
+        "D": "Inclui *chupana* e *sem vê a cidade*; na norma-padrão seriam *choupana* e *sem ver*."
+      },
+      "teoria": [
+        "variacao-linguistica"
+      ],
+      "essencial": [
+        "A norma-padrão segue as regras de concordância e a grafia oficial das palavras.",
+        "Marcas da fala regional, como *vaquêro*, *corage* e *sem vê*, retratam o falante, mas fogem da norma-padrão."
+      ],
+      "raciocinio": "1. Em cada alternativa, procure uma palavra com grafia ou concordância fora da norma-padrão (veja: *Variação linguística*).\n2. A: *rastêro*, *vaquêro*, *côro*, *tôro*. B: *sabença*, *corage*, *vaquêro*. D: *chupana*, *sem vê*.\n3. Na C, todos os versos seguem a norma: “Não entra na praça, no rico salão”, “Eu canto o mendigo de sujo farrapo”, “E tomba de fome, sem casa e sem pão”…\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Concordância, regência e crase",
+      "enunciado": "Leia os textos I e II e responda ao que se pede:\n\n#### Texto I\n\n> ### Pedro II reabre com sucesso de público\n> [...] Para retomar as atividades com segurança, o Theatro Pedro II foi adaptado com medidas sanitárias de contenção ao novo coronavírus. O local, que tem capacidade para receber 1.588 pessoas, disponibilizou 500 lugares ao público. Aferição da temperatura e disponibilização de álcool em gel também foram adotados.\n>\n> A equipe do Pedro II também preparou o “Manual do Espectador”, que está disponível na entrada do Theatro com orientações e diretrizes ao público. Entre as medidas estão o distanciamento de um metro entre as pessoas, evitar aglomeração na entrada e saída do espetáculo, proibição de encontro com artistas, entre outras. [...]\n>\n> <cite>Prefeitura da cidade de Ribeirão Preto. 27 set. 2021. Disponível em: https://www.ribeiraopreto.sp.gov.br/portal/noticia/pedro-ii-reabre-com-sucesso-de-publico. Acesso em: 10 out. 2021. Fragmento.</cite>\n\n#### Texto II\n\n> ### Entidade rondoniense encaminha grupos para doação de sangue em Toledo e Cascavel\n> A Associação Sangue Bom encaminhou, nesta terça-feira (17), mais um grupo de doadores rondonienses à Unidade de Coleta e Transfusão (UCT) de Toledo.\n>\n> No sábado (14), a entidade encaminhou outro grupo com 24 pessoas para também doar sangue, dessa vez no Hemocentro de Cascavel.\n>\n> A Associação Sangue Bom é um projeto do Lions Clube de Marechal Cândido Rondon, em parceria com a prefeitura municipal. O transporte é organizado em parceria com a Secretaria de Saúde e tanto no transporte quanto na doação foram seguidos as medidas de prevenção à Covid-19. [...]\n>\n> Aos interessados em ser um doador, o cadastro pode ser feito diretamente na Associação Sangue Bom, localizada no canteiro central da Avenida Maripá, entre as Lojas Quero Quero e a Agropecuária Brusque, antiga banca de revistas.\n>\n> <cite>O presente. 17 Ago. 2021. Disponível em: https://www.opresente.com.br/marechal-candido-rondon/entidade-rondonense-encaminha-grupos-para-doacao-de-sangue-em-toledo-e-cascavel/. Acesso em: 10 out. 2021. Fragmento.</cite>\n\nNos textos I e II, há casos em que a flexão das palavras diverge da norma-padrão, respectivamente, em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Entre as medidas estão o distanciamento de um metro entre as pessoas, evitar aglomeração na entrada e saída do espetáculo, proibição de encontro com artistas, entre outras.”, “Aos interessados em ser um doador, o cadastro pode ser feito diretamente na Associação Sangue Bom, localizada no canteiro central da Avenida Maripá.”.",
+        "B": "“A equipe do Pedro II também preparou o ‘Manual do Espectador’, que está disponível na entrada do Theatro com orientações e diretrizes ao público.”, “No sábado (14), a entidade encaminhou outro grupo com 24 pessoas para também doar sangue, dessa vez no Hemocentro de Cascavel.”.",
+        "C": "“O local, que tem capacidade para receber 1.588 pessoas, disponibilizou 500 lugares ao público. Aferição da temperatura e disponibilização de álcool em gel também foram adotados.”, “O transporte é organizado em parceria com a Secretaria de Saúde e tanto no transporte quanto na doação foram seguidos as medidas de prevenção à Covid-19.”.",
+        "D": "“Para retomar as atividades com segurança, o Theatro Pedro II foi adaptado com medidas sanitárias de contenção ao novo coronavírus.”, “A Associação Sangue Bom é um projeto do Lions Clube de Marechal Cândido Rondon, em parceria com a prefeitura municipal.”."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Os dois trechos seguem a norma: “estão” concorda com os itens da lista, e “localizada” concorda com *Associação*.",
+        "B": "Os dois trechos estão de acordo com a norma: “que está disponível” e “encaminhou outro grupo”.",
+        "D": "Os dois trechos estão corretos: “foi adaptado” concorda com *Theatro*, e “é um projeto” com *Associação*."
+      },
+      "teoria": [
+        "concordancia-nominal"
+      ],
+      "essencial": [
+        "Na voz passiva, o particípio concorda com o sujeito: “as medidas **foram seguidas**”.",
+        "Com dois núcleos femininos, o particípio vai para o feminino plural: “aferição e disponibilização foram **adotadas**”."
+      ],
+      "raciocinio": "1. Texto I: “Aferição da temperatura e disponibilização de álcool em gel também foram **adotados**”. O sujeito tem dois núcleos femininos; o padrão é “foram **adotadas**” (veja: *Concordância nominal*).\n2. Texto II: “foram **seguidos** as medidas de prevenção”. O sujeito é *as medidas*; o padrão é “foram **seguidas** as medidas”.\n3. Os dois desvios estão na C.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia o texto abaixo e responda à questão:\n\n> É noite escura e o cais está deserto. Ivo ergue a gola do sobretudo. Sente muito frio, e o silêncio enorme e hostil enche-o de um vago medo. Vai viajar. Mas é estranho... Tudo parece diferente do que ele sempre imaginara. O grande transatlântico se desenha sem contornos certos contra o céu de fuligem. Não se vê um só vulto humano no cais. Adivinha-se, entretanto, na treva, a presença rígida e gelada dos guindastes.\n>\n> Os minutos passam. Ivo olha. Sim, agora vê com mais clareza a silhueta do grande barco. A grande Viagem! O seu sonho vai se realizar. Ficarão para trás todas as suas angústias. É uma libertação. Devia estar alegre, sacudir os braços, correr, gritar. Mas uma opressão estranha o paralisa. Que é isto? Onde estão os outros passageiros? Onde se meteu a tripulação? É inquietante este silêncio noturno. E pavorosa esta sombra glacial que envolve tudo. Ivo quer lançar ao ar uma palavra. Pronuncia bem alto seu próprio nome. O som morre sem eco. O silêncio persiste. Então ele começa a sentir um mal-estar que nem a si mesmo consegue explicar. (...)\n>\n> — Ivo, Ivo querido, não me abandones! Inexplicável. De onde veio a voz? Volta a cabeça para os lados, procurando. Só encontra a escuridão fria e inimiga. O navio apita. Um som soturno, grave e prolongado, enche a grande noite. E uma queixa, quase um choro e, apesar disso, tem um certo tom de ameaça. Nesse apito rouco Ivo sente o pavor do oceano desconhecido na noite negra, a angústia dos navios perdidos a pedirem socorro, a aflição dos náufragos, o horror das profundezas do mar. O apito uivante e áspero parece feito dos gritos de todos os afogados, de todos os mares. (...)\n>\n> <cite>VERISSIMO, Erico. O navio das sombras In: VERISSIMO, Erico. Contos. Porto Alegre: Ed. Globo, 1978. p.13. Fragmento.</cite>\n\nNo trecho lido podemos encontrar um exemplo de Personificação, figura de estilo também conhecida como Prosopopeia, em:",
+      "imagens": [],
+      "alternativas": {
+        "A": "“O cais está deserto”.",
+        "B": "“A gola do sobretudo”.",
+        "C": "“O horror das profundezas do mar”.",
+        "D": "“A angústia dos navios perdidos a pedirem socorro”."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "“O cais está deserto” só descreve o lugar; não dá traço humano a nada.",
+        "B": "“A gola do sobretudo” nomeia uma parte da roupa; não há personificação.",
+        "C": "O horror é o que Ivo sente diante das profundezas; elas não fazem nenhuma ação humana."
+      },
+      "teoria": [
+        "metafora-e-comparacao"
+      ],
+      "essencial": [
+        "Personificação (prosopopeia) atribui ações ou sentimentos humanos a seres inanimados.",
+        "Procure verbos de ação humana ligados a coisas: pedir, chorar, gritar, olhar."
+      ],
+      "raciocinio": "1. Na D, os navios sentem “angústia” e estão “a pedirem socorro”. Sentir angústia e pedir socorro são ações humanas atribuídas a objetos: é personificação (veja: *Metáfora e comparação*).\n2. O texto usa o mesmo recurso em outros trechos, como o apito que parece “uma queixa, quase um choro”.\n3. As outras alternativas apenas descrevem lugares, objetos ou sentimentos de Ivo.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Uma pessoa deseja se vestir para ir a uma festa. Então decide preparar alguns possíveis \"*looks*\" combinando uma calça, uma camiseta e um calçado, e em seguida chama um amigo para ajudar na escolha do *look*. Ela separou três calças distintas, uma azul, uma preta e uma branca; quatro camisas diferentes, uma cor de rosa, uma branca, uma azul e uma verde; e, por fim, dois calçados de modelos distintos, um de cano alto e outro de cano baixo. Considerando que o amigo que ajudará na escolha não é tão ligado em moda e que fará a escolha aleatoriamente, qual é a probabilidade que ele escolha o *look* com a calça azul, camisa azul e o calçado de cano alto?",
+      "imagens": [],
+      "alternativas": {
+        "A": "1/8",
+        "B": "1/9",
+        "C": "1/12",
+        "D": "1/24"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "1/8 supõe 8 looks possíveis; são \\(3 \\cdot 4 \\cdot 2 = 24\\).",
+        "B": "1/9 vem de somar as peças (3 + 4 + 2); mas cada look combina uma de cada, e as escolhas se multiplicam.",
+        "C": "1/12 conta só calças e camisas (\\(3 \\cdot 4\\)); falta escolher o calçado."
+      },
+      "teoria": [
+        "principio-multiplicativo",
+        "probabilidade"
+      ],
+      "essencial": [
+        "Probabilidade = casos favoráveis ÷ casos possíveis.",
+        "Para contar combinações de uma calça **e** uma camisa **e** um calçado, multiplique as opções."
+      ],
+      "raciocinio": "1. Total de looks (veja: *Princípio multiplicativo*): \\(3 \\cdot 4 \\cdot 2 = 24\\).\n2. O look pedido (calça azul, camisa azul, cano alto) é um só.\n3. Escolhendo ao acaso (veja: *Probabilidade*): \\(P = \\frac{1}{24}\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "A Matemática é uma das ciências que nos ajudam a compreender e descrever a natureza e seus fenômenos. Observar padrões evidencia a beleza e a perfeição de elementos da natureza que nos rodeiam. Um dos exemplos de padrões que se repetem na natureza, e em diversas áreas, está representada abaixo, na seguinte ilustração. Observe o padrão ilustrado na figura abaixo em ordem não decrescente, indique qual sequência pode representá-lo corretamente, considerando que ela é infinita.\n\n![Retângulo dividido em quadrados de lados 1, 1, 2, 3, 5 e 8, encaixados em espiral: o lado de cada quadrado novo é a soma dos lados dos dois anteriores.](img/2024-2-a/q17.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2024-2-a/q17.png"
+      ],
+      "alternativas": {
+        "A": "(1, 1, 2, 3, 5, 8, 9, 10, 11, ...)",
+        "B": "(1, 1, 2, 3, 5, 8, 11, 14, 15, ...)",
+        "C": "(1, 1, 2, 3, 5, 8, 13, 21, 34, ...)",
+        "D": "(1, 1, 2, 3, 5, 8, 20, 40, 80, ...)"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Depois do 8, o próximo seria 5 + 8 = 13; a alternativa passa a somar 1.",
+        "B": "Depois do 8, o próximo seria 5 + 8 = 13; a alternativa passa a somar 3.",
+        "D": "Depois do 8, o próximo seria 5 + 8 = 13; a alternativa passa a dobrar."
+      },
+      "teoria": [
+        "sequencias"
+      ],
+      "essencial": [
+        "Na sequência de Fibonacci, cada termo, a partir do terceiro, é a soma dos dois anteriores: 1, 1, 2, 3, 5, 8, 13…",
+        "Para confirmar um padrão, teste a regra em vários termos, e não só no último."
+      ],
+      "raciocinio": "1. Os lados dos quadrados são 1, 1, 2, 3, 5 e 8. Cada um é a soma dos dois anteriores: \\(1 + 1 = 2\\), \\(1 + 2 = 3\\), \\(2 + 3 = 5\\), \\(3 + 5 = 8\\) (veja: *Sequências e progressão aritmética*).\n2. Seguindo a regra: \\(5 + 8 = 13\\), \\(8 + 13 = 21\\), \\(13 + 21 = 34\\).\n3. Só a C continua assim.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Uma professora dividiu a turma em dois grupos A e B, depois colocou em uma caixa escura bolas com números inteiros de -10 a 10. Cada grupo deveria retirar três bolas da caixa, sendo que o primeiro número representaria o numerador, o segundo o denominador e o terceiro o expoente. Sabendo que cada número poderia ser retirado apenas uma vez, os grupos formaram as seguintes expressões:\n\n\\[\\text{Grupo A} = \\left(\\frac{1}{8}\\right)^{-1} \\quad \\text{e} \\quad \\text{Grupo B} = \\left(\\frac{-3}{4}\\right)^{2}\\]\n\nApós a formação das expressões, a professora desafiou a turma questionando qual o valor correto da expressão a seguir, onde A e B são as expressões encontradas por cada grupo.\n\n\\[\\left[(A)^{\\frac{1}{3}} + 16B\\right]^2\\]\n\nCalcule o valor que deveria ser apresentado como correto para vencer o desafio proposto pela professora.",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\dfrac{6561}{64}\\)",
+        "B": "\\(\\dfrac{361}{4}\\)",
+        "C": "121",
+        "D": "49"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Não corresponde às contas: \\(A^{\\frac{1}{3}} = 2\\) e \\(16B = 9\\), então a base do quadrado é 11.",
+        "B": "\\(\\frac{361}{4} = 9{,}5^2\\): usa \\(A = \\frac{1}{8}\\), sem inverter a fração, e \\(\\sqrt[3]{\\frac{1}{8}} = \\frac{1}{2}\\).",
+        "D": "\\(49 = (2 - 9)^2\\): trata \\(B\\) como negativo, mas \\(\\left(\\frac{-3}{4}\\right)^2 = +\\frac{9}{16}\\)."
+      },
+      "teoria": [
+        "propriedades-de-potencias",
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Expoente −1 inverte a base: \\(\\left(\\frac{1}{8}\\right)^{-1} = 8\\).",
+        "Expoente \\(\\frac{1}{3}\\) é raiz cúbica: \\(8^{\\frac{1}{3}} = \\sqrt[3]{8} = 2\\).",
+        "Base negativa com expoente par dá resultado positivo."
+      ],
+      "raciocinio": "1. \\(A = \\left(\\frac{1}{8}\\right)^{-1} = 8\\) (veja: *Propriedades das potências*).\n2. \\(B = \\left(\\frac{-3}{4}\\right)^2 = \\frac{9}{16}\\), positivo porque o expoente é par.\n3. \\(A^{\\frac{1}{3}} = \\sqrt[3]{8} = 2\\) (veja: *Raízes e radicais*) e \\(16B = 16 \\cdot \\frac{9}{16} = 9\\).\n4. \\([2 + 9]^2 = 11^2 = 121\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "A preocupação pela saúde corporal está em alta nas redes sociais e nas conversas cotidianas das pessoas. Um dos assuntos é o índice de massa corpórea (IMC), que é uma razão entre a massa da pessoa em quilogramas e o quadrado da medida da altura em metros. Esta razão determina se uma pessoa adulta é considerada obesa, com sobrepeso, peso normal ou abaixo do peso. A tabela com os valores de referência é mostrada a seguir. Calcule, considerando os valores da tabela, qual faixa de massa (M) uma pessoa com 1,70 metros de altura deve ter para que seu IMC seja considerado normal.\n\n| IMC | Resultado |\n|---|---|\n| Menos do que 18,5 | Abaixo do peso |\n| Entre 18,5 e 24,9 | Peso normal |\n| Entre 25 e 29,9 | Sobrepeso |\n| Entre 30 e 34,9 | Obesidade grau 1 |\n| Entre 35 e 39,9 | Obesidade grau 2 |\n| Mais do que 40 | Obesidade grau 3 |\n\n<cite>Disponível em: https://www.tuasaude.com/imc/. Acesso em 10 out. 2021.</cite>",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(31{,}5 < M < 42{,}0\\)",
+        "B": "\\(53{,}4 < M < 72{,}0\\)",
+        "C": "\\(63{,}0 < M < 84{,}7\\)",
+        "D": "\\(72{,}3 < M < 86{,}4\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Multiplica os limites só por 1,70, e não pelo quadrado da altura (\\(1{,}70^2 = 2{,}89\\)).",
+        "C": "Com essas massas, o IMC iria de cerca de 21,8 a 29,3, entrando na faixa de sobrepeso.",
+        "D": "72,3 kg já dá IMC de cerca de 25 (\\(72{,}3 \\div 2{,}89\\)), que é sobrepeso."
+      },
+      "teoria": [
+        "tabelas",
+        "equacoes-do-1o-grau"
+      ],
+      "essencial": [
+        "IMC = massa ÷ altura². Para achar a massa: massa = IMC × altura².",
+        "Numa faixa de valores, aplique a mesma conta aos dois limites."
+      ],
+      "raciocinio": "1. Na tabela, peso normal é IMC entre 18,5 e 24,9 (veja: *Leitura de tabelas*).\n2. Altura ao quadrado: \\(1{,}70^2 = 2{,}89\\). Como \\(\\text{IMC} = \\frac{M}{2{,}89}\\), temos \\(M = \\text{IMC} \\cdot 2{,}89\\) (veja: *Equações do 1º grau e problemas*).\n3. Limites: \\(18{,}5 \\cdot 2{,}89 \\approx 53{,}46\\) e \\(24{,}9 \\cdot 2{,}89 \\approx 71{,}96\\), que a alternativa B arredonda para 53,4 e 72,0.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "Um software muito utilizado em desenho auxiliado por computador tem no seu \"menu\" recursos translação, rotação e reflexão, entre outros para realizar modificações no desenho ou projeto que está sendo executado. A seguir é mostrado um desenho:\n\n![Desenho técnico de uma peça: um disco com um furo no alto, ligado a uma aba arredondada que se curva para baixo, com cotas de medidas (R5, R10, R3,75, R15,63, 10 e 15).](img/2024-2-a/q20.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nAssinale a alternativa que mostra o recurso corretamente utilizado na peça mostrada.",
+      "imagens": [
+        "img/2024-2-a/q20.png",
+        "img/2024-2-a/q20-a.png",
+        "img/2024-2-a/q20-b.png",
+        "img/2024-2-a/q20-c.png",
+        "img/2024-2-a/q20-d.png"
+      ],
+      "alternativas": {
+        "A": "Reflexão ![Duas cópias da peça lado a lado, uma espelhada em relação à outra, como diante de um espelho vertical.](img/2024-2-a/q20-a.png)",
+        "B": "Rotação ![Duas cópias iguais da peça lado a lado, na mesma posição.](img/2024-2-a/q20-b.png)",
+        "C": "Translação ![Duas cópias da peça sobrepostas, uma girada em relação à outra.](img/2024-2-a/q20-c.png)",
+        "D": "Rotação ![Duas cópias da peça, uma acima da outra; a de baixo é a de cima espelhada, como diante de um espelho horizontal.](img/2024-2-a/q20-d.png)"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "As duas peças estão na mesma posição, só deslocadas: isso é translação, e não rotação.",
+        "C": "Uma das peças está girada em relação à outra: isso é rotação, e não translação.",
+        "D": "A peça de baixo é a imagem espelhada da de cima: isso é reflexão, e não rotação."
+      },
+      "teoria": [
+        "transformacoes-geometricas"
+      ],
+      "essencial": [
+        "Translação desliza a figura sem girar; rotação gira a figura em torno de um ponto; reflexão espelha a figura em relação a uma reta.",
+        "Na reflexão, a figura fica “ao contrário”, como num espelho: o que estava à direita passa para a esquerda."
+      ],
+      "raciocinio": "1. A pergunta é em qual alternativa o nome da transformação combina com a imagem ao lado dele (veja: *Transformações geométricas: translação, rotação e reflexão*).\n2. **A:** a segunda peça é a primeira espelhada, com a aba virada para o outro lado. É reflexão, e o nome confere.\n3. **B** mostra uma translação, **C** uma rotação e **D** uma reflexão: os nomes estão trocados.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Pesquisando para a compra de um novo celular, uma pessoa resolveu aproveitar uma promoção de pagamento à vista oferecido por uma loja. O valor do aparelho era R$ 1.100,00, mas, com o desconto, a pessoa pagou R$ 990,00 pelo aparelho. Calcule qual foi o percentual de desconto dado pela loja.",
+      "imagens": [],
+      "alternativas": {
+        "A": "5%",
+        "B": "10%",
+        "C": "11%",
+        "D": "110%"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Um desconto de 5% sobre R$ 1.100,00 seria de R$ 55,00; o desconto foi de R$ 110,00.",
+        "C": "11% vem de dividir 110 por 990, o preço com desconto; a porcentagem se calcula sobre o preço original.",
+        "D": "110 é o desconto em reais, e não em porcentagem."
+      },
+      "teoria": [
+        "porcentagem"
+      ],
+      "essencial": [
+        "Desconto percentual = desconto ÷ preço original × 100%.",
+        "Compare sempre com o valor **antigo**, antes do desconto."
+      ],
+      "raciocinio": "1. Desconto em reais: \\(1100 - 990 = 110\\).\n2. Em relação ao preço original (veja: *Porcentagem*): \\(\\frac{110}{1100} = \\frac{1}{10} = 10\\%\\).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Quadriláteros e polígonos",
+      "enunciado": "Na figura abaixo, temos dois quadrados de tamanhos diferentes que foram girados de suas posições “usuais”. Usando seu conhecimento sobre triângulos e quadriláteros, podemos afirmar que as medidas dos ângulos x e y são, respectivamente:\n\n![Dois quadrados inclinados apoiados numa reta horizontal. O menor, à esquerda, toca a reta num vértice e forma com ela o ângulo x. O maior, à direita, toca a reta noutro vértice e forma com ela, do lado direito, o ângulo α = 70°. Entre os dois, os lados de baixo dos quadrados se encontram e formam o ângulo β = 130°. Onde os quadrados se sobrepõem há um triângulo sombreado, com o ângulo y no vértice de cima.](img/2024-2-a/q22.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2024-2-a/q22.png"
+      ],
+      "alternativas": {
+        "A": "30º e 50º",
+        "B": "30º e 30º",
+        "C": "20º e 50º",
+        "D": "50º e 50º"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Acerta x, mas y não é 30°: os lados que formam y fazem 60° e 70° com a reta, então y = 50°.",
+        "C": "20° é o ângulo entre a reta e o lado de baixo do quadrado maior; x = 180° − 130° − 20° = 30°.",
+        "D": "x não é 50°: no triângulo de baixo, x + 130° + 20° = 180°, então x = 30°."
+      },
+      "teoria": [
+        "quadrilateros",
+        "triangulos"
+      ],
+      "essencial": [
+        "Os ângulos internos de um quadrado medem 90°.",
+        "Ângulos lado a lado sobre uma reta somam 180°; os ângulos internos de um triângulo também somam 180°."
+      ],
+      "raciocinio": "1. No vértice do quadrado maior que toca a reta: 70° + 90° (canto do quadrado) + o ângulo do outro lado = 180°. Esse ângulo vale 20° (veja: *Quadriláteros e polígonos*).\n2. O triângulo de baixo tem ângulos x, 130° e 20° (veja: *Triângulos: classificação e propriedades*): \\(x = 180° - 130° - 20° = 30°\\).\n3. Os lados que formam y são perpendiculares aos lados de baixo de cada quadrado, então fazem com a reta ângulos de \\(90° - 30° = 60°\\) e \\(90° - 20° = 70°\\). Com a reta, formam um triângulo: \\(y = 180° - 60° - 70° = 50°\\).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Áreas e perímetros",
+      "enunciado": "Uma empresa tem sua logomarca representada pela figura a seguir, composta por dois triângulos equiláteros ABC e DEF, e uma coroa circular de raio externo igual a 9 cm. Dados AC = DE = 12 cm e AO = OP = PC = 4cm. Determine a área de cor preta da figura em cm². Caso necessário, adote: π = 3.\n\n![Logomarca: um anel preto (coroa circular) envolve uma estrela de seis pontas formada pelos triângulos equiláteros ABC e DEF, com os vértices encostados no círculo branco interno. As seis pontas da estrela são pretas; o hexágono do centro e o espaço entre a estrela e o anel são brancos. Os pontos O e P dividem o lado AC em três partes iguais.](img/2024-2-a/q23.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2024-2-a/q23.png"
+      ],
+      "alternativas": {
+        "A": "\\(48\\sqrt{3}\\)",
+        "B": "\\(99 + 24\\sqrt{3}\\)",
+        "C": "\\(162 + 24\\sqrt{3}\\)",
+        "D": "\\(162 + 48\\sqrt{3}\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(48\\sqrt{3}\\) é a área da estrela inteira; falta a coroa, e o hexágono do centro é branco.",
+        "C": "Acerta as pontas, mas a coroa vale \\(3 \\cdot (81 - 48) = 99\\), e não 162.",
+        "D": "Erra a coroa (99, e não 162) e conta a estrela inteira (\\(48\\sqrt{3}\\)), com o hexágono branco do centro."
+      },
+      "teoria": [
+        "circulo-e-circunferencia",
+        "areas-de-figuras-planas"
+      ],
+      "essencial": [
+        "Coroa circular: área entre dois círculos de mesmo centro, \\(A = \\pi(R^2 - r^2)\\).",
+        "Triângulo equilátero de lado \\(\\ell\\): altura \\(\\frac{\\ell\\sqrt{3}}{2}\\) e área \\(\\frac{\\ell^2\\sqrt{3}}{4}\\).",
+        "O centro do triângulo equilátero fica a \\(\\frac{2}{3}\\) da altura, a partir de cada vértice."
+      ],
+      "raciocinio": "1. **Raio interno da coroa:** o círculo branco passa pelos vértices da estrela. A altura do triângulo de lado 12 é \\(6\\sqrt{3}\\), e o centro fica a \\(\\frac{2}{3}\\) dela: \\(r = 4\\sqrt{3}\\), então \\(r^2 = 48\\).\n2. **Coroa** (veja: *Círculo e circunferência*): \\(3 \\cdot (81 - 48) = 99\\).\n3. **Pontas pretas:** como AO = OP = PC = 4, cada ponta é um triângulo equilátero de lado 4 (veja: *Áreas de figuras planas*): \\(\\frac{4^2\\sqrt{3}}{4} = 4\\sqrt{3}\\). Seis pontas: \\(24\\sqrt{3}\\).\n\nTotal: \\(99 + 24\\sqrt{3}\\). Resposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "A densidade populacional ou densidade demográfica é uma grandeza que possibilita ter uma ideia da ocupação do ser humano em relação ao território que ocupa, ou seja, permite realizar inferências acerca da utilização e consumo de recursos naturais como solo, água, flora e fauna, entre outros. Certamente também pode auxiliar políticas públicas. A densidade populacional é calculada por meio da razão entre o número total de habitantes em uma determinada região e a medida da extensão do território ocupado. Considerando que a população da Cidade de São Paulo em 2021 é estimada em 12.396.372 e que o território é de 1.521,110 km², pode-se afirmar que a densidade populacional da cidade de São Paulo em 2021 é de aproximadamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "8.149 hab/km²",
+        "B": "13.917 hab/km²",
+        "C": "10.875 hab/km²",
+        "D": "12.396 hab/km²"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Alto demais: \\(13\\,917 \\cdot 1521\\) daria cerca de 21 milhões de habitantes, bem mais que a população.",
+        "C": "Alto demais: \\(10\\,875 \\cdot 1521\\) daria cerca de 16,5 milhões de habitantes, mais que os 12,4 milhões.",
+        "D": "12.396 é a população dividida por 1000, e não pela área de 1.521 km²."
+      },
+      "teoria": [
+        "razoes-especiais"
+      ],
+      "essencial": [
+        "Densidade demográfica = número de habitantes ÷ área, em hab/km².",
+        "Para conferir uma divisão, multiplique o resultado pelo divisor e veja se volta ao dividendo."
+      ],
+      "raciocinio": "1. Densidade = habitantes ÷ área (veja: *Razões especiais: velocidade, densidade e escala*).\n2. \\(12\\,396\\,372 \\div 1521{,}11 \\approx 8149{,}6\\) hab/km².\n3. Estimativa rápida: 12 milhões ÷ 1500 = 8000. Só a A fica perto disso.\n\nResposta: **A**.\n\n**Dica de prova:** com números grandes, arredonde antes de dividir. A estimativa basta para escolher entre alternativas distantes.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Congruência e semelhança",
+      "enunciado": "Um terreno triangular ABC será dividido em duas partes: o triângulo CDE e o trapézio ABED. Deseja-se construir uma cerca com três voltas de arame em torno do terreno CDE. Sabendo que DE é paralelo a AB, determine quantos metros de arame devem ser comprados.\n\n![Triângulo ABC com AB = 20 m na base, AC = 12 m e BC = 18 m. O segmento DE, de 8 m, liga um ponto D de AC a um ponto E de BC, paralelo a AB, formando o triângulo menor CDE no alto.](img/2024-2-a/q25.png)\n\n<cite>Fonte: IFSP, 2021.</cite>",
+      "imagens": [
+        "img/2024-2-a/q25.png"
+      ],
+      "alternativas": {
+        "A": "60",
+        "B": "40",
+        "C": "30",
+        "D": "25"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "40 m seriam duas voltas; a cerca tem **três**: \\(3 \\cdot 20 = 60\\) m.",
+        "C": "30 m é menos de duas voltas; com perímetro de 20 m, três voltas dão 60 m.",
+        "D": "25 m não corresponde ao perímetro de CDE (20 m) nem a três voltas dele (60 m)."
+      },
+      "teoria": [
+        "semelhanca-de-triangulos",
+        "perimetro"
+      ],
+      "essencial": [
+        "Uma paralela a um lado do triângulo forma um triângulo menor, semelhante ao maior.",
+        "Em triângulos semelhantes, os perímetros estão na mesma razão que os lados correspondentes."
+      ],
+      "raciocinio": "1. Como DE é paralelo a AB, os triângulos CDE e CAB são semelhantes (veja: *Semelhança de triângulos*). A razão é \\(\\frac{DE}{AB} = \\frac{8}{20} = \\frac{2}{5}\\).\n2. Perímetro de CAB: \\(12 + 18 + 20 = 50\\). Perímetro de CDE (veja: *Perímetro*): \\(50 \\cdot \\frac{2}{5} = 20\\) m.\n3. Três voltas de arame: \\(3 \\cdot 20 = 60\\) m.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "As bandeirinhas coloridas que geralmente são utilizadas como decoração para as tradicionais festas juninas também estão muito presentes e retratadas nas pinturas do italiano Alfredo Volpi (1896 – 1988), que as desenhava em suas obras em diferentes cores e tamanhos. Considere a bandeirinha ABGFE abaixo construída a partir de um quadrado ABCD.\n\n![Quadrado ABCD tracejado, com A e B em cima e D e C embaixo. A bandeirinha ABGFE, cinza, tem os pontos E e G sobre o lado DC e o ponto F dentro do quadrado, formando o recorte em V. O ângulo BÂE mede 70°, e o ângulo AÊF, 60°.](img/2024-2-a/q26.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nUsando-se um transferidor, encontrou-se que \\(B\\hat{A}E = 70°\\) e \\(A\\hat{E}F = 60°\\). Sabendo disto, qual é a medida do ângulo \\(A\\hat{E}D\\)?",
+      "imagens": [
+        "img/2024-2-a/q26.png"
+      ],
+      "alternativas": {
+        "A": "30º",
+        "B": "50º",
+        "C": "60º",
+        "D": "70º"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Usa o ângulo de 60° (AÊF), que não faz parte do triângulo ADE.",
+        "B": "50° sairia de 180° − 70° − 60°; mas o triângulo a usar é ADE, com ângulo reto em D.",
+        "C": "60° é a medida de AÊF, e não de AÊD."
+      },
+      "teoria": [
+        "triangulos"
+      ],
+      "essencial": [
+        "Os ângulos internos de um quadrado medem 90°.",
+        "Num triângulo retângulo, os dois ângulos agudos somam 90°."
+      ],
+      "raciocinio": "1. O ângulo do quadrado em A mede 90°. Como \\(B\\hat{A}E = 70°\\), sobra \\(D\\hat{A}E = 90° - 70° = 20°\\).\n2. O triângulo ADE tem ângulo reto em D, que é um canto do quadrado (veja: *Triângulos: classificação e propriedades*).\n3. \\(A\\hat{E}D = 180° - 90° - 20° = 70°\\).\n\nResposta: **D**.\n\n**Dica de prova:** nem todo dado é usado. Aqui, o ângulo de 60° só serve para distrair.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Quadriláteros e polígonos",
+      "enunciado": "Por volta de 300 a.C., viveu na cidade de Alexandria, na antiga Grécia, um matemático chamado Euclides. Sua principal contribuição para a Matemática chegou aos nossos dias compilada em um importante livro chamado “Os Elementos”, composto por 13 capítulos, nos quais o autor utiliza o método axiomático-dedutivo para resolver 93 problemas e demonstrar 372 teoremas. O primeiro problema de “Os Elementos” é o seguinte:\n\n> *“Sobre uma linha reta determinada, descrever um triângulo equilátero”.*\n>\n> <cite>(EUCLIDES, Os Elementos).</cite>\n\nPara que as soluções de problemas e demonstrações fossem válidas, os únicos instrumentos que poderiam ser utilizados eram um compasso e uma régua não graduada.\n\nUma possível resolução válida para o primeiro problema proposto por Euclides é a seguinte:\n\n> *Dado o segmento AB, traça-se uma circunferência com centro em A e raio igual a AB, e outra com centro em B e raio também igual a AB. Escolhe-se um dos pontos de intersecção entre as duas circunferências para ser o ponto C. Traçam-se os segmentos AB, AC e BC com a régua e estes comporão um triângulo equilátero ABC.*\n\nSuponha que alguém, após reproduzir a resolução proposta por Euclides para construir o triângulo equilátero ABC, reproduza novamente o processo para construir os triângulos equiláteros ACD, CDE, CEF, CFG e CBG. Nessas condições, a figura formada pelos triângulos é um:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Quadrilátero.",
+        "B": "Pentágono.",
+        "C": "Hexágono.",
+        "D": "Dodecágono."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Seis triângulos equiláteros em volta de C não formam um quadrilátero: o contorno tem 6 lados.",
+        "B": "Um pentágono teria 5 lados; seis triângulos de 60° em volta de C completam 360° e dão um contorno de 6 lados.",
+        "D": "O contorno é formado por um lado de cada triângulo: são 6 lados, e não 12."
+      },
+      "teoria": [
+        "triangulos",
+        "quadrilateros"
+      ],
+      "essencial": [
+        "Cada ângulo de um triângulo equilátero mede 60°.",
+        "Seis ângulos de 60° em volta de um ponto completam uma volta: \\(6 \\cdot 60° = 360°\\).",
+        "Polígonos pelo número de lados: quadrilátero (4), pentágono (5), hexágono (6), dodecágono (12)."
+      ],
+      "raciocinio": "1. Os triângulos ABC, ACD, CDE, CEF, CFG e CBG têm todos o vértice C, e cada um tem ângulo de 60° ali (veja: *Triângulos: classificação e propriedades*).\n2. Como \\(6 \\cdot 60° = 360°\\), eles fecham uma volta completa em torno de C, sem sobrar espaço.\n3. O contorno é formado pelos lados AD, DE, EF, FG, GB e BA: 6 lados, um hexágono (veja: *Quadriláteros e polígonos*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Um estudante, ao estudar triângulos isósceles, desenhou um triângulo isósceles ABC, com AC = BC.\n\nA partir dos ângulos \\(C\\hat{A}B\\) e \\(A\\hat{B}C\\), o estudante desenhou, respectivamente, as bissetrizes \\(\\overline{AP}\\) e \\(\\overline{BP}\\), conforme figura a seguir.\n\n![Triângulo isósceles ABC, com C no alto e marcas indicando AC = BC. As bissetrizes dos ângulos A e B se encontram no ponto P, dentro do triângulo, onde o ângulo APB está marcado: 130°.](img/2024-2-a/q28.png)\n\n<cite>Fonte: IFSP, 2023.</cite>\n\nSabendo-se que a medida do ângulo \\(A\\hat{P}B\\) vale 130º, a medida do ângulo \\(A\\hat{C}B\\) vale:",
+      "imagens": [
+        "img/2024-2-a/q28.png"
+      ],
+      "alternativas": {
+        "A": "25º",
+        "B": "50º",
+        "C": "65º",
+        "D": "80º"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "25° é a metade de cada ângulo da base (50°); o pedido é o ângulo do vértice C.",
+        "B": "50° é a medida de cada ângulo da base; falta calcular C = 180° − 100° = 80°.",
+        "C": "65° sai de dividir 130° por 2, mas 130° é o ângulo em P, e não em C."
+      },
+      "teoria": [
+        "triangulos"
+      ],
+      "essencial": [
+        "No triângulo isósceles, os ângulos da base (opostos aos lados iguais) são iguais.",
+        "A bissetriz divide o ângulo ao meio; a soma dos ângulos internos de qualquer triângulo é 180°."
+      ],
+      "raciocinio": "1. Como AC = BC, os ângulos da base são iguais. As bissetrizes dividem cada um em duas metades iguais, de medida \\(a\\).\n2. No triângulo APB (veja: *Triângulos: classificação e propriedades*): \\(a + a + 130° = 180°\\), então \\(a = 25°\\), e cada ângulo da base mede 50°.\n3. No triângulo ABC: \\(A\\hat{C}B = 180° - 50° - 50° = 80°\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "A renda per capita familiar é a renda que considera todas as pessoas que vivem em uma mesma casa. Para fazer o cálculo, basta dividir o valor da renda total da família pelo número de pessoas que moram na casa. Calcule o valor da renda total de uma família na qual 4 pessoas moram na casa e cuja renda per capita é de R$660,00.",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 660,00",
+        "B": "R$ 1.320,00",
+        "C": "R$ 1.980,00",
+        "D": "R$ 2.640,00"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "R$ 660,00 é a renda **por pessoa**; a renda total junta as 4 pessoas.",
+        "B": "R$ 1.320,00 corresponde a só 2 pessoas (\\(2 \\cdot 660\\)).",
+        "C": "R$ 1.980,00 corresponde a 3 pessoas; na casa moram 4."
+      },
+      "teoria": [
+        "media-mediana-e-moda"
+      ],
+      "essencial": [
+        "Renda per capita é uma média: renda total ÷ número de pessoas.",
+        "Conhecendo a média e o número de elementos, o total é média × número de elementos."
+      ],
+      "raciocinio": "1. Renda per capita = renda total ÷ número de pessoas. É uma média (veja: *Média, mediana e moda*).\n2. Então, renda total = per capita × pessoas = \\(660 \\cdot 4 = 2640\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Raciocínio lógico",
+      "enunciado": "Um grupo de alunos do IFSP desenvolveu um robô que se move de acordo com os comandos dados por seu controlador através de uma placa contendo dois botões: **Translação** e **Rotação**. Ao manter pressionado o botão **Translação,** o robô se deslocará para a direção à sua frente. Ao manter pressionado o botão **Rotação,** o robô realizará uma mudança de 1/4 de volta, no sentido horário, em torno do seu centro. Os dois botões não podem ser pressionados ao mesmo tempo.\n\nPara testar o funcionamento desse robô, o grupo utilizou o labirinto conforme a figura abaixo.\n\n![Labirinto retangular. O robô começa no ponto A, fora do labirinto, no canto superior esquerdo, virado para a direita, de frente para a entrada. A saída fica no lado direito, perto do canto de baixo, onde está o ponto B.](img/2024-2-a/q30.png)\n\n<cite>Fonte: IFSP, 2021.</cite>\n\nPara sair do ponto **A** e chegar até a posição **B**, qual menor número de vezes que o controlador aperta o botão **Rotação**?",
+      "imagens": [
+        "img/2024-2-a/q30.png"
+      ],
+      "alternativas": {
+        "A": "14",
+        "B": "15",
+        "C": "28",
+        "D": "29"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "14 é o número de curvas do caminho, mas cada curva à esquerda exige 3 apertos, porque o robô só gira no sentido horário.",
+        "B": "15 conta as curvas quase uma a uma; as 7 curvas à esquerda custam 3 apertos cada, e o total chega a 28.",
+        "D": "29 tem um aperto a mais: o caminho tem 7 curvas à direita (7 apertos) e 7 à esquerda (21 apertos)."
+      },
+      "teoria": [
+        "transformacoes-geometricas",
+        "problemas-de-logica"
+      ],
+      "essencial": [
+        "Rotação gira a figura em torno de um ponto; translação a desloca sem girar.",
+        "Girando só no sentido horário, um quarto de volta para a esquerda equivale a três quartos de volta para a direita."
+      ],
+      "raciocinio": "1. Cada aperto em Rotação gira o robô 1/4 de volta no sentido horário (veja: *Transformações geométricas: translação, rotação e reflexão*). Virar à direita custa 1 aperto; virar à esquerda custa 3, porque são três quartos de volta para a direita.\n2. O caminho de A até B tem 14 curvas: 7 para a direita e 7 para a esquerda.\n3. Total: \\(7 \\cdot 1 + 7 \\cdot 3 = 7 + 21 = 28\\) (veja: *Problemas de lógica*).\n\nResposta: **C**.\n\n**Dica de prova:** antes de contar, veja se as curvas custam o mesmo. Aqui, uma curva à esquerda vale três à direita.",
+      "interativo": null
+    }
+  ]
+}

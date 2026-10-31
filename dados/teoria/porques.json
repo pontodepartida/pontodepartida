@@ -1,0 +1,17 @@
+{
+  "id": "porques",
+  "titulo": "Por que, porque, por quê e porquê",
+  "materia": "Português",
+  "grupo": "Ortografia e acentuação",
+  "texto": "São quatro formas, cada uma com o seu uso.\n\n| Forma | Quando usar | Exemplo |\n|---|---|---|\n| **por que** (separado, sem acento) | perguntas diretas ou indiretas; equivale a *por qual motivo* ou a *pelo qual* | “**Por que** você não come brócolis?” / “Não sei **por que** ele recusou.” |\n| **por quê** (separado, com acento) | no fim da frase, logo antes do ponto | “Você não come brócolis **por quê**?” |\n| **porque** (junto, sem acento) | respostas, causa ou explicação; equivale a *pois* | “Não como **porque** não gosto.” |\n| **porquê** (junto, com acento) | substantivo, com o sentido de *motivo*; vem com artigo ou outro determinante | “Ninguém entendeu o **porquê** da recusa.” |\n\n**Testes rápidos:**\n\n- dá para trocar por *pois* ou *uma vez que*? Use **porque**;\n- dá para trocar por *por qual motivo* ou *pelo qual*? Use **por que**;\n- vem logo antes de ponto final, de interrogação ou de exclamação? Use **por quê**;\n- vem depois de *o*, *um*, *seu* e pode ir para o plural (*os porquês*)? Use **porquê**.",
+  "videos": [
+    {
+      "titulo": "Uso dos porquês - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=AQfHQP-JLcA"
+    },
+    {
+      "titulo": "Os porquês (paródia) - Prof. Noslen",
+      "url": "https://www.youtube.com/watch?v=O0O0jFeCrZI"
+    }
+  ]
+}

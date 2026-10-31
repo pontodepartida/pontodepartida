@@ -1,0 +1,913 @@
+{
+  "id": "ps-2025-2",
+  "nome": "PS 2025.2",
+  "edital": "Edital IFSP nº 86/2025 – Concomitante e Subsequente",
+  "fonteGabarito": "Gabarito final – Prova Edital nº 86 – PS 2025.2",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "O atual Governo Federal lançou uma campanha publicitária contra a disseminação de *fake news*. Uma das ações da campanha consiste na divulgação de um vídeo, no *Youtube*, intitulado “Brasil contra *fake news*”. No vídeo, uma narradora apresenta o problema das *fake news*, definindo-o como “informações falsas que podem destruir a democracia e, mais do que isso, destruir famílias, reputações, vidas”, e, na sequência, apresenta a solução (acessar o *site* oficial do governo, checar as fontes de informação). Analise as expressões faciais e gestos das personagens nos *prints* do vídeo da campanha e selecione a alternativa que apresenta correta e respectivamente os sentidos que envolvem tais expressões e gestos.\n\n#### Print 1\n\n![Cena do vídeo: numa cozinha, um homem jovem e um homem mais velho, de barba grisalha, estão frente a frente, com as mãos erguidas, discutindo. Legenda: “e, mais do que isso, destruir famílias,”.](img/2025-2/q01-print1.jpg)\n\n#### Print 2\n\n![Cena do vídeo: o homem jovem, o homem mais velho e uma mulher se abraçam, sorrindo e emocionados. Legenda: “É hora de frear o ódio,”.](img/2025-2/q01-print2.jpg)\n\n<cite>Fonte: Governo Federal. Brasil contra fake news. Youtube, 26 mar. 2023. Disponível em: https://www.youtube.com/watch?v=Xq6aTfEfP4c. Acesso: em 21 jul. 2024.</cite>",
+      "imagens": [
+        "img/2025-2/q01-print1.jpg",
+        "img/2025-2/q01-print2.jpg"
+      ],
+      "alternativas": {
+        "A": "*Print* 1: desavença, desentendimento; *Print* 2: arrelia, diferença.",
+        "B": "*Print* 1: avença, conciliação; *Print* 2: aliança, harmonia.",
+        "C": "*Print* 1: desavença, desentendimento; *Print* 2: avença, conciliação.",
+        "D": "*Print* 1: coalizão, consonância; *Print* 2: avença, conciliação."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Acerta o *Print* 1, mas *arrelia* (implicância, aborrecimento) e *diferença* não descrevem o abraço sorridente do *Print* 2.",
+        "B": "*Avença* e *conciliação* não cabem no *Print* 1, em que os dois homens discutem com gestos bruscos.",
+        "D": "*Coalizão* e *consonância* (união, acordo) não descrevem a discussão do *Print* 1."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal",
+        "sentido-pelo-contexto"
+      ],
+      "essencial": [
+        "Em textos que misturam imagem e palavra, expressões faciais, gestos e posição dos corpos também produzem sentido.",
+        "*Desavença* é desentendimento; *avença* é o contrário: acordo, conciliação."
+      ],
+      "raciocinio": "1. **Print 1:** os dois homens estão frente a frente, com as mãos erguidas e cara de irritação, e a legenda fala em “destruir famílias”. É uma briga: **desavença, desentendimento** (veja: *Linguagem verbal e não verbal*).\n2. **Print 2:** a família se abraça, sorrindo e emocionada, e a legenda diz “É hora de frear o ódio”. É a reconciliação: **avença, conciliação**.\n3. *Avença* é o oposto de *desavença*: o prefixo *des-* nega o sentido da palavra (veja: *Sentido das palavras pelo contexto*).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia, a seguir, um fragmento de notícia.\n\n> A Ucrânia reforçou nesta terça-feira (8) as acusações contra a Rússia pelo bombardeio de um hospital pediátrico em Kiev na véspera. Duas pessoas morreram no ataque, que aconteceu em meio a uma ofensiva russa que deixou ao menos 41 mortos em todo o território ucraniano. O governo de Volodymyr Zelensky diz que há provas inequívocas de que mísseis foram disparados pelo Exército de Vladimir Putin. Moscou, por sua vez, afirma que os mísseis que atingiram o estabelecimento eram do sistema antiaéreo ucraniano.\n>\n> <cite>Fonte: Nexo Jornal. Kiev e Moscou trocam acusações sobre ataque em hospital. Disponível em: https://www.nexojornal.com.br/extra/2024/07/09/kiev-e-moscou-trocam-acusacoes-sobre-ataque-em-hospital#. Acesso em: 16 jul. 2024.</cite>\n\nO efeito de imparcialidade do relato é garantido ao:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Apresentar diferentes versões do evento por parte dos governos da Ucrânia e da Rússia.",
+        "B": "Indicar que há provas inequívocas da origem dos disparos contra o hospital pediátrico.",
+        "C": "Informar dados específicos, como datas, locais, número de mortes e nomes dos envolvidos.",
+        "D": "Comentar que o ataque ao hospital coincidiu com o momento de uma ofensiva russa na Ucrânia."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "As “provas inequívocas” são a versão de um dos lados, o governo ucraniano; sozinha, ela não dá imparcialidade.",
+        "C": "Datas, locais e números dão precisão ao relato, mas não equilibram as versões em disputa.",
+        "D": "Situar o ataque na ofensiva russa contextualiza o fato, mas não mostra o outro lado."
+      },
+      "teoria": [
+        "noticia-e-lide"
+      ],
+      "essencial": [
+        "Uma notícia é imparcial quando relata versões em conflito sem tomar partido, atribuindo cada uma à sua fonte.",
+        "Precisão (datas, números, nomes) e imparcialidade são qualidades diferentes de uma notícia."
+      ],
+      "raciocinio": "1. O fato é disputado: quem lançou os mísseis que atingiram o hospital?\n2. O texto dá a versão ucraniana (“O governo de Volodymyr Zelensky diz que há provas inequívocas”) e, logo depois, a russa (“Moscou, por sua vez, afirma que os mísseis… eram do sistema antiaéreo ucraniano”).\n3. Cada versão é atribuída à sua fonte, e o jornal não diz qual é a verdadeira. É isso que produz o efeito de imparcialidade (veja: *Notícia: título e lide*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia atentamente o texto a seguir e responda à questão:\n\n> Em textos expositivos e argumentativos, a utilização de pistas linguísticas, como “em primeiro lugar”, “por outro lado”, “dito de outro modo” e “por exemplo”, ajuda a organizar as ideias e a hierarquizar as proposições. Essas expressões indicam a ordem de apresentação dos argumentos, contraposições, reformulações e exemplificações, facilitando a compreensão e síntese do conteúdo pelo leitor.\n\nConsidere o seguinte parágrafo:\n\n> “A prática regular de atividades físicas traz inúmeros benefícios à saúde. Em primeiro lugar, ela ajuda a manter o peso corporal adequado, prevenindo a obesidade. Em segundo lugar, melhora a saúde cardiovascular, reduzindo o risco de doenças cardíacas. Por outro lado, é importante lembrar que exercícios físicos devem ser realizados com moderação e sob orientação profissional, para evitar lesões. Dito de outro modo, os benefícios da prática regular de atividades físicas são muitos, mas devem ser equilibrados com cuidados adequados.”\n>\n> <cite>Fonte: Silva, Maria. Os Benefícios da Atividade Física para a Saúde. Editora Saúde & Bem-Estar, 2022.</cite>\n\nQual das alternativas a seguir melhor sintetiza o conteúdo do parágrafo?",
+      "imagens": [],
+      "alternativas": {
+        "A": "É necessário realizar exercícios físicos de forma muito intensa, pois eles trazem inúmeros benefícios.",
+        "B": "Exercícios físicos são essenciais a todos, independente das condições físicas, logo, devem ser realizados mesmo sem orientação.",
+        "C": "Exercícios físicos melhoram a saúde cardiovascular, por isso, é desnecessário equilíbrio na prática.",
+        "D": "A prática de exercícios é extremamente benéfica, mas é importante ter moderação e buscar auxílio técnico."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O parágrafo pede o contrário: os exercícios “devem ser realizados com moderação”, e não de forma muito intensa.",
+        "B": "O parágrafo diz que os exercícios devem ser feitos “sob orientação profissional”.",
+        "C": "O parágrafo conclui que os benefícios “devem ser equilibrados com cuidados adequados”: o equilíbrio é necessário."
+      },
+      "teoria": [
+        "tema-e-ideia-central",
+        "conectivos"
+      ],
+      "essencial": [
+        "Sintetizar é juntar as ideias principais do texto, sem acrescentar nem contradizer nada.",
+        "*Por outro lado* introduz uma ressalva; *dito de outro modo* anuncia uma reformulação, que muitas vezes resume o texto."
+      ],
+      "raciocinio": "1. Siga as pistas linguísticas (veja: *Conectivos e relações de sentido*): “Em primeiro lugar” e “Em segundo lugar” listam benefícios; “Por outro lado” traz a ressalva (moderação e orientação); “Dito de outro modo” reformula tudo.\n2. A reformulação final já é quase a síntese: os benefícios são muitos, mas pedem cuidados.\n3. A única alternativa que junta as duas partes, benefício e ressalva, é a D (veja: *Tema e ideia central*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o poema “O bicho” de Manuel Bandeira e responda à questão:\n\n> 1\\. Vi ontem um bicho\n> 2\\. Na imundície do pátio\n> 3\\. Catando comida entre os detritos.\n> 4\\. Quando achava alguma coisa,\n> 5\\. Não examinava nem cheirava:\n> 6\\. Engolia com voracidade\n> 7\\. O bicho não era um cão,\n> 8\\. Não era um gato,\n> 9\\. Não era um rato.\n> 10\\. O bicho, meu Deus, era um homem.\n>\n> <cite>Fonte: Bandeira, Manuel. Estrela da Vida Inteira. 20ª ed. Rio de Janeiro: Nova Fronteira, 1993.</cite>\n\nSabendo que os verbos de ligação são aqueles que indicam estado permanente, transitório ou aparente e podem conectar o sujeito da oração a um predicativo, escolha a alternativa em que os versos selecionados do poema contêm verbos de ligação:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Versos 1, 3, 6 e 7.",
+        "B": "Versos 3, 4, 5 e 6.",
+        "C": "Versos 7, 8, 9 e 10.",
+        "D": "Versos 6, 7, 9 e 10."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Vi*, *catando* e *engolia* são verbos de ação; só o verso 7 (*era*) tem verbo de ligação.",
+        "B": "*Catando*, *achava*, *examinava*, *cheirava* e *engolia* indicam ações, e não estados.",
+        "D": "O verso 6 (*engolia com voracidade*) tem verbo de ação; o verso 8, que tem *era*, ficou de fora."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Verbo de ligação liga o sujeito a uma característica dele (predicativo): *ser*, *estar*, *parecer*, *ficar*, *permanecer*.",
+        "Verbo de ação indica algo que o sujeito faz: *ver*, *catar*, *engolir*."
+      ],
+      "raciocinio": "1. Procure os verbos que ligam o sujeito a uma característica dele (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Versos 7 a 10: “O bicho não **era** um cão”, “Não **era** um gato”, “Não **era** um rato”, “O bicho, meu Deus, **era** um homem”. O verbo *ser* liga “o bicho” ao que ele é, ou não é.\n3. Os outros versos trazem ações: ver, catar, achar, examinar, cheirar, engolir.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "conteudo": "Formação de palavras",
+      "enunciado": "A língua portuguesa dispõe de diferentes processos para criar novas palavras. As palavras primitivas, que não foram formadas a partir de outro radical da língua, servem como base para a formação de outras. No português, os principais processos para formar palavras novas são por derivação e composição. Identifique, na tira a seguir, o processo de formação de palavra que se pede.\n\n![Tira em três quadros. 1: uma senhora idosa, de costas, assiste à televisão, onde uma apresentadora fala. 2: a apresentadora, sorridente, completa a frase. 3: a senhora, de cara fechada, está no sofá ao lado de outra idosa e comenta.](img/2025-2/q05.jpg \"Apresentadora: UMA DICA PARA QUALQUER PESSOA ENVELHECER COM ALEGRIA É... | Apresentadora: ...BOM HUMOR, SEMPRE! | Senhora: AINDA BEM QUE EU NÃO SOU QUALQUER PESSOA.\")\n\n<cite>Fonte: Tiras Medíocres. Anésia 470. 14 out. 2019. Disponível em: http://www.willtirando.com.br/tiras-mediocres-11-anesia-470/. Acesso em: 08 jul. 2024.</cite>\n\nNo primeiro quadrinho da tira, o verbo “envelhecer” resulta do seguinte processo de formação de palavras:",
+      "imagens": [
+        "img/2025-2/q05.jpg"
+      ],
+      "alternativas": {
+        "A": "regressão, pois se mantém o radical da palavra original “velh”, mas há redução da forma para gerar um novo vocábulo = “envelhecer”.",
+        "B": "derivação parassintética, formado pelo prefixo “en-”, mais a palavra primitiva “velh” e o sufixo “-ecer”.",
+        "C": "composição por aglutinação, formado pela união de dois ou mais radicais de palavras primitivas “enve” + “lhecer”",
+        "D": "derivação imprópria, pois houve mudança de classe gramatical em que o verbo “envelhecer” se transforma em substantivo, mantendo-se a forma."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Regressão encurta uma palavra, como *pescar* → *pesca*; *envelhecer* é maior que *velho*, e não menor.",
+        "C": "Composição une dois radicais; “enve” e “lhecer” não são palavras nem radicais do português.",
+        "D": "Na tira, *envelhecer* continua sendo verbo; derivação imprópria seria usá-lo como substantivo (*o envelhecer*)."
+      },
+      "teoria": [
+        "formacao-de-palavras"
+      ],
+      "essencial": [
+        "Derivação parassintética: prefixo e sufixo entram juntos no radical (*en-* + *velh-* + *-ecer*).",
+        "Teste: tirando só um dos afixos, a palavra não existe (*envelho*, *velhecer*)."
+      ],
+      "raciocinio": "1. Separe as partes: *en-* (prefixo) + *velh-* (radical de *velho*) + *-ecer* (sufixo de verbos que indicam mudança de estado).\n2. Retire um afixo por vez: *velhecer* e *envelho* não existem. O prefixo e o sufixo entraram ao mesmo tempo (veja: *Formação de palavras*).\n3. Isso é derivação parassintética, como em *entardecer* e *emagrecer*.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "O uso de figuras de linguagem contribui para a ampliação de efeitos de sentido de um texto. Leia, a seguir, fragmentos de um poema que utiliza a personificação (atribuição de características humanas a objetos, animais ou ideias) e a onomatopeia (palavra que imita sons naturais ou ruídos).\n\n> ### Tem gente com fome\n> Trem sujo da Leopoldina\n> correndo correndo\n> parece dizer\n> tem gente com fome\n> tem gente com fome\n> tem gente com fome\n>\n> Piiiiii\n>\n> [...]\n> Tantas caras tristes\n> querendo chegar\n> em algum destino\n> em algum lugar\n>\n> […]\n> Só nas estações\n> quando vai parando\n> lentamente começa a dizer\n> se tem gente com fome\n> dá de comer\n> se tem gente com fome\n> dá de comer\n> se tem gente com fome\n> dá de comer\n>\n> Mas o freio de ar\n> todo autoritário\n> manda o trem calar\n> Pisiuuuuuuuuu\n>\n> <cite>Fonte: Trindade, Solano. Tem gente com fome. In: Cordeiro, O. T. Tem gente com fome. Correio Braziliense. Disponível em: https://www.correiobraziliense.com.br/opiniao/2021/03/4914162-artigo-tem-gente-com-fome.html. Acesso em: 16 jul. 2024.</cite>\n\nÉ correto afirmar que o uso da:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Onomatopeia “piiiiii” imita o som do apito de um trem e constitui uma metáfora que sugere ser urgente parar o trem e, metaforicamente, aprimorar as políticas de erradicação da fome no Brasil.",
+        "B": "Personificação humaniza o trem e, ao fazer isso, objetifica as pessoas que passam fome, sugerindo que o avanço da industrialização é mais importante do que as necessidades básicas das pessoas.",
+        "C": "Personificação possibilita a geração de uma metáfora em que o freio do trem pode ser interpretado como autoridades políticas ou sistemas de poder que objetivam acabar com a fome da população.",
+        "D": "Onomatopeia “pisiuuuuuuuuu” simboliza um comando autoritário para que o trem – e, metaforicamente, a voz que denuncia a fome – se cale, sugerindo a existência de forças que visam abafar os gritos daqueles que passam fome."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O apito acompanha o trem que corre “dizendo” que há fome; nada no poema sugere parar o trem ou políticas públicas.",
+        "B": "A personificação não objetifica as pessoas: dá ao trem uma voz que denuncia a fome delas.",
+        "C": "O freio “autoritário” manda o trem calar: representa quem abafa a denúncia, e não quem quer acabar com a fome."
+      },
+      "teoria": [
+        "metafora-e-comparacao",
+        "figuras-sonoras"
+      ],
+      "essencial": [
+        "Personificação (prosopopeia) dá ações ou sentimentos humanos a seres inanimados: o trem “diz”, o freio é “autoritário”.",
+        "Onomatopeia imita um som: *Piiiiii*, *Pisiuuuuuuuuu*."
+      ],
+      "raciocinio": "1. O trem é personificado: “parece dizer / tem gente com fome” (veja: *Metáfora e comparação*). Ele vira a voz que denuncia a fome.\n2. O freio também ganha traço humano: é “todo autoritário” e “manda o trem calar”.\n3. A onomatopeia “Pisiuuuuuuuuu” imita o freio de ar, mas também lembra um *psiu*, um pedido de silêncio (veja: *Figuras sonoras: aliteração, assonância e rima*). Juntando tudo: uma força autoritária cala a voz que denuncia a fome.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "conteudo": "Gêneros textuais",
+      "enunciado": "Leia o seguinte texto de apoio sobre o gênero textual “notícias”.\n\n> A notícia é um gênero textual informativo cujo principal objetivo é informar o público sobre acontecimentos recentes. Esse tipo de texto apresenta fatos de forma objetiva e imparcial, com uma linguagem clara e direta. A estrutura de uma notícia geralmente segue a chamada “pirâmide invertida”, na qual as informações mais importantes aparecem no início do texto, seguidas de detalhes e contextos adicionais.\n\n#### Exemplo da “pirâmide invertida”\n\n![Triângulo invertido dividido em três faixas. Em cima, “Título: tem a intenção de atrair o leitor”. No meio, “Lide: é o primeiro parágrafo inicial da notícia. Busca responder todas as informações importantes”, com setas para O quê?, Onde?, Por quê?, Quando? e Como?. Embaixo, “Corpo da notícia. Desenvolvimento: apresenta as informações com mais detalhes”.](img/2025-2/q07.jpg)\n\n<cite>Fonte: https://www.significados.com.br/genero-textual-noticia. Acesso em: 18 jul. 2024.</cite>\n\nAgora, leia um excerto da notícia “O que sabemos sobre as queimadas no interior de SP” para responder à questão.\n\n> *Incêndios em vegetação deixaram ao menos 60 pessoas feridas e duas mortas.*\n>\n> O estado de São Paulo está enfrentando as consequências provocadas pelas queimadas que atingiram o território paulista nos últimos dias. A Defesa Civil estadual informou na segunda-feira (26) que todos os focos de incêndio haviam sido extintos. Mesmo assim, 48 municípios ainda estavam em alerta máximo por causa dos eventos climáticos.\n>\n> A principal suspeita é de que as queimadas tenham sido provocadas por ação humana. Ao menos seis pessoas foram presas sob suspeita de terem iniciado incêndios em vegetações no interior do estado. As prisões ocorreram em Porto Feliz, São José do Rio Preto e Batatais (duas).\n>\n> Também na segunda-feira, o governador de São Paulo, Tarcísio de Freitas (Republicanos) afirmou à CNN que, inicialmente, não acredita na possibilidade de que tenha havido uma ação coordenada para provocar as queimadas.\n>\n> “Acho muito prematuro afirmar que há uma ação coordenada, eu prefiro a cautela. A gente tem que investigar se há relação entre as ações criminosas”, disse o chefe do Executivo.\n>\n> **Como estão as investigações**\n>\n> A Polícia Civil de São Paulo afirma que “está mobilizada para investigar todas as ocorrências de incêndio criminoso no estado, especialmente as que ocorrem nas regiões afetadas pelas queimadas” (...).\n>\n> <cite>Disponível em: https://www.cnnbrasil.com.br/nacional/o-que-sabemos-sobre-as-queimadas-no-interior-de-sp/ acesso em: 26 de abr. de 2025.</cite>\n\nEscolha a alternativa que complete a sentença a seguir de maneira correta:\n\nO lide da notícia acima está presente no __________ parágrafo, que apresenta ___________________.",
+      "imagens": [
+        "img/2025-2/q07.jpg"
+      ],
+      "alternativas": {
+        "A": "Primeiro; detalhes sobre os incêndios que ocorreram no Estado de São Paulo.",
+        "B": "Segundo; as principais suspeitas sobre as queimadas no Estado de São Paulo.",
+        "C": "Primeiro; dados sobre os efeitos das queimadas no Estado de São Paulo.",
+        "D": "Quarto; as hipóteses das autoridades para as causas dos incêndios."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O primeiro parágrafo não detalha os incêndios; resume os efeitos: focos extintos e 48 municípios em alerta.",
+        "B": "O segundo parágrafo já é o corpo da notícia: desenvolve a suspeita de ação humana e as prisões.",
+        "D": "O quarto parágrafo traz uma fala do governador: é detalhe do corpo, e não o lide."
+      },
+      "teoria": [
+        "noticia-e-lide"
+      ],
+      "essencial": [
+        "Lide é o primeiro parágrafo da notícia: resume o fato principal, respondendo a o quê, quem, quando e onde.",
+        "A frase em destaque logo abaixo do título é a linha fina, e não o lide."
+      ],
+      "raciocinio": "1. Pela pirâmide invertida, o lide é o primeiro parágrafo e traz o essencial (veja: *Notícia: título e lide*). A frase em itálico acima dele é a linha fina.\n2. O primeiro parágrafo diz **o quê** (consequências das queimadas), **onde** (estado de São Paulo) e **quando** (segunda-feira, 26), com dados: focos extintos, 48 municípios em alerta máximo.\n3. Os parágrafos seguintes detalham suspeitas, prisões e falas: são o corpo da notícia.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "conteudo": "Transitividade e predicação verbal",
+      "enunciado": "Leia o quadrinho a seguir:\n\n![Quadrinho: num quarto, um menino em pé fala com um cachorro deitado no chão, de olhos fechados. O cachorro responde sem se levantar.](img/2025-2/q08.jpg \"Menino: ARU, LEVANTA! O DIA ESTÁ LINDO, VAMOS DAR UMA CAMINHADA. | Cachorro: AGORA NÃO POSSO, ESTOU TESTANDO A LEI DA INÉRCIA ONDE UM CORPO EM REPOUSO TENDE A PERMANECER EM REPOUSO.\")\n\n<cite>Fonte: Arte da Física em Quadrinhos. Disponível em: https://artedafisicapibid.blogspot.com/2020/05/davi-goncalves-historias-em-quadrinhos.html. Acesso em: 14 abr. 2025.</cite>\n\nApós a leitura e a análise do quadrinho, responda qual verbo ou locução verbal caracteriza-se por manter um sentido que remete a um estado ocasional:",
+      "imagens": [
+        "img/2025-2/q08.jpg"
+      ],
+      "alternativas": {
+        "A": "vamos dar.",
+        "B": "tende a permanecer.",
+        "C": "levanta.",
+        "D": "estou tentando."
+      },
+      "correta": null,
+      "anulada": true,
+      "porQueErradas": {
+        "A": "*Vamos dar* (uma caminhada) indica uma ação proposta para o futuro, e não um estado.",
+        "B": "*Tende a permanecer* fala de uma tendência constante, uma lei da física: o contrário de ocasional.",
+        "C": "*Levanta* é uma ordem para fazer uma ação, e não um estado.",
+        "D": "*Estou tentando* indica uma ação em andamento. O estado ocasional da tira está em “o dia **está** lindo”, que não é alternativa."
+      },
+      "teoria": [
+        "verbos-de-ligacao"
+      ],
+      "essencial": [
+        "Estados passageiros costumam vir com verbos de ligação como *estar* e *ficar*: “o dia **está** lindo”.",
+        "Estados permanentes vêm com *ser* ou *permanecer*; ações, com verbos como *levantar*, *dar*, *tentar*."
+      ],
+      "raciocinio": "A questão foi **anulada** no gabarito final e vale ponto para todos. Veja por quê:\n\n1. Um estado ocasional, passageiro, é expresso por um verbo de ligação como *estar*. Na tira, ele aparece em “o dia **está** lindo” (veja: *Verbos de ligação e predicativo do sujeito*).\n2. Esse verbo não está entre as alternativas. *Vamos dar*, *levanta* e *estou tentando* indicam ações, e *tende a permanecer* indica algo constante.\n3. Nenhuma alternativa responde bem ao que foi pedido.",
+      "interativo": null
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia o texto:\n\n> ### A bomba suja\n> Introduzo na poesia\n> A palavra diarreia.\n> Não pela palavra fria\n> Mas pelo que ela semeia.\n>\n> Quem fala em flor não diz tudo.\n> Quem me fala em dor diz demais.\n> O poeta se torna mudo\n> sem as palavras reais.\n>\n> No dicionário a palavra\n> é mera ideia abstrata.\n> Mais que palavra, diarreia\n> é arma que fere e mata.\n>\n> Que mata mais do que faca,\n> mais que bala de fuzil,\n> homem, mulher e criança\n> no interior do Brasil.\n>\n> Por exemplo, a diarreia,\n> no Rio Grande do Norte,\n> de cem crianças que nascem,\n> setenta e seis leva à morte.\n>\n> É como uma bomba D\n> que explode dentro do homem\n> quando se dispara, lenta,\n> a espoleta da fome.\n>\n> É uma bomba-relógio\n> (o relógio é o coração)\n> que enquanto o homem trabalha\n> vai preparando a explosão.\n>\n> Bomba colocada nele\n> muito antes dele nascer;\n> que quando a vida desperta\n> nele, começa a bater.\n>\n> Bomba colocada nele\n> Pelos séculos de fome\n> e que explode em diarreia\n> no corpo de quem não come.\n>\n> Não é uma bomba limpa:\n> é uma bomba suja e mansa\n> que elimina sem barulho\n> vários milhões de crianças.\n>\n> Sobretudo no nordeste\n> mas não apenas ali\n> que a fome do Piauí\n> se espalha de leste a oeste.\n>\n> Cabe agora perguntar\n> quem é que faz essa fome,\n> quem foi que ligou a bomba\n> ao coração desse homem.\n>\n> Quem é que rouba a esse homem\n> o cereal que ele planta,\n> quem come o arroz que ele colhe\n> se ele o colhe e não janta.\n>\n> Quem faz café virar dólar\n> e faz arroz virar fome\n> é o mesmo que põe a bomba\n> suja no corpo do homem.\n>\n> Mas precisamos agora\n> desarmar com nossas mãos\n> a espoleta da fome\n> que mata nossos irmãos.\n>\n> Mas precisamos agora\n> deter o sabotador\n> que instala a bomba da fome\n> dentro do trabalhador.\n>\n> E sobretudo é preciso\n> trabalhar com segurança\n> pra dentro de cada homem\n> trocar a arma de fome\n> pela arma da esperança.\n>\n> <cite>Ferreira Gullar. Toda poesia (1950-1999), 11. ed., Rio de Janeiro: José Olympio, 2001. p. 156-158.</cite>\n\nCom base na leitura do texto da questão, é possível afirmar que",
+      "imagens": [],
+      "alternativas": {
+        "A": "o gênero poema, como quer comprovar o eu lírico, é simples ambiente multi-informacional, sem conexão com a realidade, em que é possível tratar de temas diversos simultaneamente, como, no exemplo dado, o da linguagem: “poesia”, “palavra”, “dicionário”; o das doenças: “diarreia”; o dos armamentos: “arma”, “faca”, “bala de fuzil”, “espoleta”, “bomba”; o dos alimentos: “arroz”, “cereal”, “café; o da falta de alimentos: “fome”, “corpo de quem não come”, “colhe e não janta”; o do trabalho: “homem trabalha”, “planta”, “colhe”, entre muitos outros.",
+        "B": "o eu poético, ao introduzir em seu poema um termo que, extraído do ambiente que o deixa frio e abstrato – e que, até então, não fazia parte do vocabulário dos discursos de inspiração poética por sua natureza pouco lírica, de mau gosto –, entende que essa ação lhe proporciona, por dar a conhecer as condições humanas precárias, a expressão de que necessita para, em protesto, retratar as causas e as consequências concretas da realidade social dolorosa, comparável a uma guerra suja e dramática, com morte de “vários milhões de crianças”.",
+        "C": "o eu poético entende que certas palavras não deveriam jamais ser empregadas na poesia, o que ele exemplifica com “diarreia”, em razão de que, trazendo prejuízo ao fazer poético, elas semeiam morte intelectual em “homem, mulher e criança”; em protesto, diz que são ferramentas de destruição, uma bomba suja que os explode, no sentido de que lhes corroem o conhecimento, roubam deles o alimento do espírito, matando de fome, sobretudo, a inteligência das crianças nordestinas, num percentual alarmante de setenta e seis a cada cem.",
+        "D": "o gênero poema está tanto a serviço da flor quanto da dor, ou seja, do bem e do mal; contudo, há clara preferência poética pela primeira que, embora não diga tudo, é certamente oposta à segunda e, portanto, não torna mudo o eu lírico, não o deixa sem as palavras concretas para a expressão da realidade social observável; é assim que nos cabe trazer conosco a flor, ainda que liricamente, para por ela “desarmar com nossas mãos/ a espoleta da fome/ que mata nossos irmãos”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O poema não está “sem conexão com a realidade”: usa um dado real (76 de cada 100 crianças no RN) para denunciar a fome.",
+        "C": "É o contrário: o eu lírico traz *diarreia* para a poesia de propósito. E a morte de que fala é física, e não intelectual.",
+        "D": "Para o poema, “quem fala em flor não diz tudo”; a preferência é pela palavra real e dura, e não pela flor."
+      },
+      "teoria": [
+        "poesia",
+        "metafora-e-comparacao"
+      ],
+      "essencial": [
+        "Eu lírico é a voz que fala no poema; ele pode comentar o próprio fazer poético.",
+        "Poesia social usa a palavra para denunciar problemas concretos; aqui, a metáfora aproxima a fome de uma guerra."
+      ],
+      "raciocinio": "1. Nas primeiras estrofes, o eu lírico explica por que traz a palavra *diarreia* para a poesia: não pela “palavra fria” do dicionário, mas “pelo que ela semeia”. Sem “palavras reais”, o poeta “se torna mudo” (veja: *Poesia: verso, eu lírico e poema visual*).\n2. Depois, a fome vira uma guerra: a diarreia é “arma que fere e mata”, “bomba suja” que “elimina sem barulho / vários milhões de crianças” (veja: *Metáfora e comparação*).\n3. O poema termina em protesto, perguntando quem “faz essa fome”. A B resume esse movimento.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Leia o poema a seguir:\n\n> ### Canção da Garoa\n> Em cima do telhado\n> Pirulin lulin lulin,\n> Um anjo, todo molhado,\n> Soluça no seu flautim.\n>\n> O relógio vai bater:\n> As molas rangem sem fim.\n> O retrato na parede\n> Fica olhando para mim.\n>\n> E chove sem saber por quê...\n> E tudo foi sempre assim!\n> Parece que vou sofrer:\n> Pirulin lulin lulin...\n>\n> <cite>Quintana, Mario. Nariz de vidro. São Paulo: Moderna, 1984.</cite>\n\nMarque a figura de linguagem cuja associação com os versos do poema está indicada corretamente:",
+      "imagens": [],
+      "alternativas": {
+        "A": "Comparação: “Um anjo, todo molhado,/ soluça no seu flautim”.",
+        "B": "Prosopopeia: “O retrato na parede/ fica olhando para mim”.",
+        "C": "Metáfora: “Em cima do telhado/ pirulin lulin lulin”.",
+        "D": "Metonímia: “Parece que vou sofrer:/ Pirulin lulin lulin....”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Não há comparação, porque falta um termo comparativo (*como*, *feito*). O anjo que soluça é uma imagem.",
+        "C": "“Pirulin lulin lulin” imita o som da garoa no telhado: é onomatopeia, e não metáfora.",
+        "D": "Metonímia troca um termo por outro relacionado (autor pela obra, parte pelo todo); nesses versos não há essa troca."
+      },
+      "teoria": [
+        "metafora-e-comparacao"
+      ],
+      "essencial": [
+        "Prosopopeia (personificação) dá ações humanas a seres inanimados, como um retrato que “fica olhando”.",
+        "Comparação precisa de um termo comparativo (*como*, *tal qual*); a metáfora faz a aproximação sem ele."
+      ],
+      "raciocinio": "1. Um retrato é um objeto e não pode olhar ninguém. Nos versos “O retrato na parede / Fica olhando para mim”, ele ganha uma ação humana: é prosopopeia, ou personificação (veja: *Metáfora e comparação*).\n2. As outras associações não se sustentam: não há *como* para haver comparação, “pirulin lulin lulin” imita o som da chuva (onomatopeia) e não há troca de termos para haver metonímia.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "conteudo": "Coesão e coerência",
+      "enunciado": "Leia, a seguir, o trecho de uma notícia.\n\n> Milhares de pessoas se manifestaram no último sábado (6) em Barcelona contra o turismo de massa e **seus** efeitos sobre os moradores da cidade espanhola, que recebe milhões de visitantes todos os anos.\n>\n> <cite>Fonte: G1. Moradores protestam contra turistas em Barcelona. São Paulo, 08 jul. 2024. Disponível em: https://g1.globo.com/turismo-e-viagem/noticia/2024/07/08/moradores-protestam-contra-turistas-em-barcelona.ghtml. Acesso em: 16 jul. 2024.</cite>\n\nO pronome “**seus**”, destacado em negrito, refere-se a",
+      "imagens": [],
+      "alternativas": {
+        "A": "Milhares de pessoas.",
+        "B": "Barcelona.",
+        "C": "Turismo de massa.",
+        "D": "Moradores da cidade."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "As pessoas protestaram; os efeitos não são delas, e sim do turismo que elas criticam.",
+        "B": "Os efeitos sobre os moradores não são da própria cidade, mas do turismo de massa que ela recebe.",
+        "D": "Os moradores sofrem os efeitos (“sobre os moradores”); não são eles que os produzem."
+      },
+      "teoria": [
+        "coesao-referencial"
+      ],
+      "essencial": [
+        "Pronomes possessivos retomam um termo anterior; para achá-lo, pergunte “de quem?” ou “de quê?”.",
+        "Teste a troca: substitua o pronome pelo termo candidato e veja se a frase mantém o sentido."
+      ],
+      "raciocinio": "1. Pergunte: os efeitos **de quê**? (veja: *Coesão referencial: retomar e anunciar*)\n2. Troque o pronome pelos candidatos: “contra o turismo de massa e **os efeitos do turismo de massa** sobre os moradores” faz sentido. O protesto é contra o turismo e contra o que ele causa.\n3. “Os efeitos dos moradores sobre os moradores” ou “os efeitos das pessoas que protestaram” não fazem sentido.\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "conteudo": "Efeitos de sentido",
+      "enunciado": "Leia a tirinha a seguir para responder à questão.\n\n![Tirinha em dois quadros, em tons de cinza. No primeiro, uma pessoa gigante dá um salto enorme por cima dos prédios de uma cidade. No segundo, uma pessoa com grandes asas voa sobre a cidade.](img/2025-2/q12.jpg \"1º quadro: A MINHA CIDADE EU POPULO. | 2º quadro: A MINHA CIDADE EU POVOO.\")\n\n<cite>Fonte: https://www.instagram.com/p/CsBtWA5srEI. Publicado em 14 jan. 2024.</cite>\n\nPor meio da linguagem verbal e não verbal, a cartunista estabelece uma relação entre as imagens e as frases presentes no texto. Com relação à charge, é correto afirmar que a ironia se estabelece:",
+      "imagens": [
+        "img/2025-2/q12.jpg"
+      ],
+      "alternativas": {
+        "A": "Apenas por meio da desproporção entre o tamanho exagerado dos atletas em oposição ao tamanho menor dos edifícios da cidade.",
+        "B": "Somente pelo uso da cor cinza em um tom mais forte atribuída aos atletas em contraposição à cor mais clara da cidade.",
+        "C": "Exclusivamente pelo recurso estilístico presente nas frases: “A minha cidade eu populo” e “A minha cidade eu povoo”.",
+        "D": "Essencialmente, por meio da correlação entre as imagens e a linguagem verbal, as quais criam um efeito de sentido em “populo” e “povoo”."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O tamanho das figuras ajuda, mas o “apenas” deixa de fora as frases, essenciais para o jogo de palavras.",
+        "B": "A cor não cria o efeito de sentido; o que importa é a relação entre o pulo, o voo e as palavras *populo* e *povoo*.",
+        "C": "As frases sozinhas não bastam: sem a imagem do pulo e do voo, não se percebe o duplo sentido de *populo* e *povoo*."
+      },
+      "teoria": [
+        "linguagem-verbal-e-nao-verbal",
+        "ambiguidade"
+      ],
+      "essencial": [
+        "Em textos que misturam imagem e palavra, o sentido nasce da relação entre as duas linguagens.",
+        "Trocadilho: uma palavra é lida com dois sentidos ao mesmo tempo, como *povoo* (de povoar) e *voo*."
+      ],
+      "raciocinio": "1. *Populo* e *povoo* vêm de *popular* e *povoar*: “encher de gente”. Mas escondem outras palavras: *pulo* e *voo*.\n2. As imagens mostram exatamente isso: no primeiro quadro, a pessoa **pula** sobre a cidade; no segundo, **voa** sobre ela (veja: *Linguagem verbal e não verbal*).\n3. O duplo sentido só aparece quando palavra e imagem são lidas juntas (veja: *Ambiguidade e duplo sentido*). Os advérbios *apenas*, *somente* e *exclusivamente* eliminam A, B e C.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 13,
+      "materia": "Português",
+      "conteudo": "Figuras de linguagem",
+      "enunciado": "Texto da questão:\n\n> ### Baile\n> A vespa se desespera\n> com sua dor de cabeça.\n>\n> Quem porá o lenço\n> na testa da vespa?\n>\n> A vespa se emociona\n> com o vestido de seda.\n>\n> Quem ajuda a vespa\n> a parecer uma princesa?\n>\n> A vespa não vai ao baile\n> com roupa que não presta.\n>\n> Quem dará à vespa\n> uma novela de agosto?\n>\n> <cite>Fonte: Pereira, Edimilson de Almeida. Cada bicho um seu canto. São Paulo: FTD Educação, 2022, p. 10.</cite>\n\nA favor de sua musicalidade e expressividade, o poema apresenta como recurso sonoro a",
+      "imagens": [],
+      "alternativas": {
+        "A": "repetição de fonemas, como /s/ e /c/, por exemplo, em “vespa” e “emociona”, que pode sugerir o ruído produzido pelo movimento das asas do inseto.",
+        "B": "assonância, marcada pela repetição do pronome “quem” no início de três versos ao longo do poema.",
+        "C": "estrutura paralelística evidenciada pela reiteração do fonema /e/, como em “vespa” e “desespera”.",
+        "D": "ausência de estrofação, o que pode sugerir a liberdade de voo do inseto mencionado no poema."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Repetir uma palavra no início dos versos é anáfora; assonância é a repetição de sons de vogal.",
+        "C": "Repetir o fonema /e/ é assonância; paralelismo é a repetição de construções, como as perguntas com “quem”.",
+        "D": "O poema tem estrofes: são seis estrofes de dois versos, separadas por linhas em branco."
+      },
+      "teoria": [
+        "figuras-sonoras"
+      ],
+      "essencial": [
+        "Aliteração é a repetição de sons de consoante; assonância, de sons de vogal.",
+        "Esses sons podem imitar algo do assunto do poema, como o zumbido de um inseto."
+      ],
+      "raciocinio": "1. Leia em voz alta: “a ve**s**pa **s**e de**s**e**s**pera”, “com **s**ua dor de cabe**ç**a”, “ve**s**tido de **s**eda”. O som de /s/ volta muitas vezes: é aliteração (veja: *Figuras sonoras: aliteração, assonância e rima*).\n2. Esse chiado lembra o zumbido das asas da vespa e reforça a musicalidade do poema.\n3. As outras alternativas trocam os nomes: repetir uma palavra no início do verso é anáfora, e repetir vogais é assonância.\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "conteudo": "Conjunções e conectivos",
+      "enunciado": "Assinale a alternativa que apresenta uma oração subordinada ligada à oração principal pela conjunção grifada.",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Nas últimas duas décadas, a América Latina tem feito esforços para integrar a agenda de gênero. <u>Entretanto</u>, as profundas desigualdades em nossa região se manifestam com mais força nas mulheres e meninas”.",
+        "B": "“<u>Embora</u> várias análises tenham tratado esse tema como secundário, a economia do cuidado é um aspecto central para visibilizar as desigualdades patriarcais enraizadas no capitalismo moderno”.",
+        "C": "“O cuidado é o trabalho – remunerado e não remunerado – <u>que</u> ocorre dentro das famílias, a distribuição de tarefas entre os membros envolvidos na produção do cuidado e as interações que estabelecem com outros espaços – estatal, privado e comunitário – de produção e provisão de bens e serviços para o cuidado”.",
+        "D": "“Estamos na metade do prazo para atingir os Objetivos de Desenvolvimento Sustentável, que termina em 2030, e corremos sérios riscos de não alcançá-los. Nesse ritmo, serão necessários <u>quase</u> 300 anos para alcançar a igualdade de gênero”."
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "*Entretanto* é conjunção coordenativa adversativa: liga orações independentes, e não uma subordinada.",
+        "C": "*Que* aqui é pronome relativo (= o qual), e não conjunção: retoma “o trabalho”.",
+        "D": "*Quase* é advérbio e não liga oração nenhuma."
+      },
+      "teoria": [
+        "oracoes-subordinadas"
+      ],
+      "essencial": [
+        "Oração subordinada depende da principal e se liga a ela por conjunção subordinativa (*embora*, *porque*, *se*, *quando*…).",
+        "*Embora* introduz uma concessão: um fato contrário que não impede o da oração principal.",
+        "Conjunções coordenativas (*entretanto*, *mas*, *e*) ligam orações independentes."
+      ],
+      "raciocinio": "1. Analise a palavra grifada em cada alternativa (veja: *Orações subordinadas*).\n2. **B:** “**Embora** várias análises tenham tratado esse tema como secundário” não tem sentido completo sozinha: depende de “a economia do cuidado é um aspecto central”. *Embora* é conjunção subordinativa concessiva.\n3. Nas outras, a palavra grifada é conjunção coordenativa (*entretanto*), pronome relativo (*que*, retomando “o trabalho”) ou advérbio (*quase*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "conteudo": "Interpretação de texto",
+      "enunciado": "Leia atentamente o texto a seguir e responda à questão:\n\n> Nos discursos orais, a argumentação é enriquecida por diversos elementos típicos da modalidade falada. A pausa, por exemplo, pode servir para enfatizar uma ideia ou criar suspense. A entonação varia conforme o objetivo do orador, podendo expressar certeza, dúvida, ou ironia. O ritmo influencia a fluidez e a clareza da mensagem, enquanto a gestualidade e a expressão facial ajudam a reforçar ou contradizer o que é dito verbalmente. As hesitações, por sua vez, podem indicar incerteza ou a busca por palavras mais precisas.\n>\n> <cite>Fonte: IFSP, 2025.</cite>\n\nCom base no texto, qual das alternativas a seguir apresenta uma correta interpretação do efeito de sentido dos elementos típicos da modalidade falada em uma situação de argumentação?",
+      "imagens": [],
+      "alternativas": {
+        "A": "Pausas frequentes indicam sempre que o orador está extremamente seguro sobre o que está dizendo.",
+        "B": "Um ritmo acelerado sempre torna o discurso mais convincente e claro.",
+        "C": "A entonação pode mudar o sentido de uma frase, transformando uma afirmação em uma pergunta.",
+        "D": "As hesitações são utilizadas para aumentar a confiança do público na argumentação do orador."
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "O texto diz que pausas servem para enfatizar ou criar suspense; não diz que indicam sempre segurança.",
+        "B": "O texto não diz que ritmo acelerado convence mais, e o “sempre” generaliza o que o texto não generaliza.",
+        "D": "Pelo texto, hesitações indicam incerteza ou busca de palavras, o que tende a diminuir a confiança, e não a aumentar."
+      },
+      "teoria": [
+        "variacao-linguistica"
+      ],
+      "essencial": [
+        "Na fala, entonação, pausas, ritmo, gestos e hesitações também produzem sentido.",
+        "Desconfie de alternativas com *sempre* ou *nunca* quando o texto diz *pode*."
+      ],
+      "raciocinio": "1. O texto diz que “a entonação varia conforme o objetivo do orador, podendo expressar certeza, dúvida, ou ironia”.\n2. Isso vale até para mudar o tipo de frase: “Ele chegou.” e “Ele chegou?” têm as mesmas palavras, e só a entonação muda (veja: *Variação linguística*).\n3. As outras alternativas contradizem o texto ou generalizam com “sempre” o que ele apresenta como possibilidade (“pode servir”, “podem indicar”).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Durante uma atividade de Matemática, os alunos estão aprendendo sobre números irracionais e suas características únicas. A professora propôs a seguinte questão para verificar o entendimento dos alunos: Um dos números a seguir é irracional. Qual o número irracional e sua respectiva localização na reta numérica?\n\nQual alternativa a seguir responde corretamente à questão da professora?",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,75 - Entre 0 e 1",
+        "B": "1,5 - Entre 1 e 2",
+        "C": "\\(\\sqrt{7}\\) - Entre 2 e 3",
+        "D": "0,333... - Entre 0 e 1"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "0,75 é um decimal finito, igual a \\(\\frac{3}{4}\\): é racional.",
+        "B": "1,5 é um decimal finito, igual a \\(\\frac{3}{2}\\): é racional.",
+        "D": "0,333… é uma dízima periódica, igual a \\(\\frac{1}{3}\\): é racional."
+      },
+      "teoria": [
+        "raizes-e-radicais"
+      ],
+      "essencial": [
+        "Número racional pode ser escrito como fração de inteiros: decimais finitos e dízimas periódicas são racionais.",
+        "A raiz quadrada de um número natural que não é quadrado perfeito é irracional.",
+        "Para localizar uma raiz, ache os quadrados perfeitos vizinhos: \\(4 < 7 < 9\\)."
+      ],
+      "raciocinio": "1. 0,75, 1,5 e 0,333… podem ser escritos como frações (\\(\\frac{3}{4}\\), \\(\\frac{3}{2}\\) e \\(\\frac{1}{3}\\)): são racionais.\n2. 7 não é quadrado perfeito, então \\(\\sqrt{7}\\) é irracional (veja: *Raízes e radicais*).\n3. Localização: \\(4 < 7 < 9\\), logo \\(\\sqrt{4} < \\sqrt{7} < \\sqrt{9}\\), ou seja, \\(2 < \\sqrt{7} < 3\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "conteudo": "Expressões, equações e sistemas",
+      "enunciado": "Dois irmãos ficaram jogando um jogo de tabuleiro durante uma tarde em que havia ocorrido uma queda de energia no bairro. Depois de certo tempo, fizeram a contagem dos pontos para ver quem havia ganhado o duelo de irmãos. Perceberam que a quantidade de pontos de um deles era o dobro da quantidade de pontos do outro. Somando a pontuação dos dois, foram obtidos 150 pontos. O sistema de equações do 1º grau que melhor representa a situação apresentada é:",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\begin{cases} x + 2y = 150 \\\\ x - y = 0 \\end{cases}\\)",
+        "B": "\\(\\begin{cases} x + y = 2x \\\\ x - 2y = 0 \\end{cases}\\)",
+        "C": "\\(\\begin{cases} 2x = y \\\\ x + 2y = 150 \\end{cases}\\)",
+        "D": "\\(\\begin{cases} x + y = 150 \\\\ x - 2y = 0 \\end{cases}\\)"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "\\(x - y = 0\\) diria que as pontuações são iguais, e \\(x + 2y\\) não é a soma dos pontos.",
+        "B": "\\(x + y = 2x\\) não usa o total de 150 pontos: o sistema não representa a soma.",
+        "C": "Com \\(y = 2x\\), a soma das pontuações é \\(x + y\\), e não \\(x + 2y\\)."
+      },
+      "teoria": [
+        "sistemas-de-equacoes"
+      ],
+      "essencial": [
+        "Para montar um sistema, transforme cada informação do problema em uma equação.",
+        "“\\(x\\) é o dobro de \\(y\\)” se escreve \\(x = 2y\\), o mesmo que \\(x - 2y = 0\\)."
+      ],
+      "raciocinio": "1. Chame de \\(x\\) os pontos de quem fez mais e de \\(y\\) os pontos do outro.\n2. “Um tem o dobro do outro”: \\(x = 2y\\), ou \\(x - 2y = 0\\).\n3. “Somando, 150 pontos”: \\(x + y = 150\\) (veja: *Sistemas de equações do 1º grau*).\n4. Conferindo: \\(2y + y = 150 \\Rightarrow y = 50\\) e \\(x = 100\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "De acordo com o *site* do Instituto Água Sustentável, que promove o uso sustentável da água por meio do desenvolvimento de estudos, projetos e pesquisas, e da realização de eventos científicos e educativos, temos que:\n\n> “Segundo a Organização das Nações Unidas, cerca de 2,2 bilhões de pessoas não têm acesso à água potável, e isso equivale a 30% da população mundial. Até 2050, é previsto que uma em cada quatro pessoas será afetada pela carência de água (PNUD BRASIL)”.\n>\n> <cite>Disponível em: https://www.aguasustentavel.org.br/conteudo/blog/197-estresse-hidrico-o-que-e-e-quais-as-consequencias. Acesso em: 13 ago. 2024.</cite>\n\nTrata-se de um assunto muito importante para cada um de nós, moradores deste planeta. Às vezes, não percebemos que pequenos desperdícios podem prejudicar muito o nosso futuro e o nosso meio ambiente. Segundo a SABESP, as médias de desperdício mais comuns são: a) torneira gotejando: 46 litros/dia; b) escovar dentes por 5 minutos, com torneira meio aberta: 12 litros; c) lavar louça com a torneira meio aberta: 110 litros; d) lavar calçada com mangueira: 280 litros; e) banho de 15 minutos no chuveiro elétrico: 144 litros.\n\nVejamos outro pequeno exemplo disso: Considere que uma gota de água tem, em média, 0,05 mililitro e imagine que, em sua residência, uma das torneiras pingue 1 gota por segundo. Sendo assim, o gasto é de 60 gotas por minuto ou 3.600 gotas por hora. Se 3.600 gotas x 0,05 mL/gota representa um desperdício de 180 mL por hora, quantos litros gastará, em sua residência, pelos períodos de 10h e de 1 dia, respectivamente?",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,5 litro e 1,20 litro",
+        "B": "5 litros e 12 litros",
+        "C": "1,8 litro e 4,32 litros",
+        "D": "18 litros e 43,2 litros"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Corresponde a 50 mL por hora; o vazamento é de 180 mL por hora.",
+        "B": "Corresponde a 500 mL por hora; o vazamento é de 180 mL por hora.",
+        "D": "Erra a conversão: 1800 mL são 1,8 L, e não 18 L, porque 1 L = 1000 mL."
+      },
+      "teoria": [
+        "conversao-de-unidades"
+      ],
+      "essencial": [
+        "1 L = 1000 mL: para passar de mL para L, divida por 1000.",
+        "Se o gasto por hora é constante, o gasto em \\(n\\) horas é \\(n\\) vezes o gasto de 1 hora."
+      ],
+      "raciocinio": "1. Em 10 horas: \\(10 \\cdot 180 = 1800\\ \\text{mL}\\). Como 1 L = 1000 mL, são 1,8 L (veja: *Conversão de unidades*).\n2. Em 1 dia (24 horas): \\(24 \\cdot 180 = 4320\\ \\text{mL} = 4{,}32\\ \\text{L}\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "conteudo": "Potências e notação científica",
+      "enunciado": "Em busca por informações na *internet* sobre as atividades ilegais de garimpeiros em terras indígenas, um estudante do IFSP encontrou a seguinte manchete:\n\n> “Garimpo devastou área de 4 campos de futebol por dia em 2023 nas terras Yanomami, Kayapó e Munduruku, aponta Greenpeace”.\n>\n> <cite>Disponível em: https://g1.globo.com/meio-ambiente/noticia/2024/03/11/garimpo-devastou-area-de-4-campos-de-futebol-por-dia-em-2023-nas-terras-yanomami-kayapo-e-munduruku-aponta-greenpeace.ghtml. Acesso em: 17 jul. 2024.</cite>\n\nSabendo que um campo de futebol tem, em média, 100 metros de comprimento por 70 metros de largura, qual alternativa abaixo apresenta, de forma aproximada, em metros quadrados, a área total devastada ao longo de 2023 nas terras Yanomami, Kayapó e Munduruku?",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(1{,}02 \\times 10^5\\)",
+        "B": "\\(1{,}02 \\times 10^7\\)",
+        "C": "\\(2{,}80 \\times 10^4\\)",
+        "D": "\\(2{,}80 \\times 10^5\\)"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Cerca de 100 mil m² é pouco: só 4 campos por dia já dão 28 mil m², e o ano tem 365 dias.",
+        "C": "\\(2{,}80 \\times 10^4 = 28\\,000\\ \\text{m}^2\\) é a área de **um dia**; falta multiplicar por 365.",
+        "D": "\\(2{,}80 \\times 10^5\\) equivale a só 10 dias de devastação; o ano inteiro chega a cerca de \\(10^7\\) m²."
+      },
+      "teoria": [
+        "areas-de-figuras-planas",
+        "notacao-cientifica"
+      ],
+      "essencial": [
+        "Área do retângulo = comprimento × largura.",
+        "Notação científica: um número de 1 a menos de 10 vezes uma potência de 10, como \\(1{,}02 \\times 10^7\\)."
+      ],
+      "raciocinio": "1. Um campo: \\(100 \\cdot 70 = 7000\\ \\text{m}^2\\) (veja: *Áreas de figuras planas*).\n2. Por dia: \\(4 \\cdot 7000 = 28\\,000\\ \\text{m}^2\\).\n3. Em 2023 (365 dias): \\(28\\,000 \\cdot 365 = 10\\,220\\,000\\ \\text{m}^2\\).\n4. Em notação científica: \\(10\\,220\\,000 \\approx 1{,}02 \\times 10^7\\) (veja: *Potências de 10 e notação científica*).\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "A maratona, uma das provas mais icônicas e desafiadoras do atletismo, possui uma distância padrão de 42,195 km (42 quilômetros e 195 metros). Essa medida específica tem raízes profundas na história, entrelaçadas com lendas e eventos reais que moldaram o esporte ao longo dos séculos. Um corredor X, treinando para uma maratona com medida de velocidade média de 10 quilômetros por hora, demora 3 horas para ir do ponto A para o ponto B, mantendo as mesmas condições de treino. Se o corredor aumentar sua velocidade média para 12 quilômetros por hora, percorrerá a mesma distância entre os pontos em quanto tempo?",
+      "imagens": [],
+      "alternativas": {
+        "A": "4,2 horas",
+        "B": "3,6 horas",
+        "C": "2,5 horas",
+        "D": "1,2 horas"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "4,2 horas é mais que as 3 horas iniciais; com mais velocidade, o tempo diminui.",
+        "B": "3,6 horas aumenta o tempo na proporção da velocidade (3 × 1,2); a proporção é inversa.",
+        "D": "Em 1,2 hora, a 12 km/h, ele faria só \\(14{,}4\\) km, menos da metade dos 30 km."
+      },
+      "teoria": [
+        "grandezas-proporcionais"
+      ],
+      "essencial": [
+        "Para a mesma distância, velocidade e tempo são inversamente proporcionais: o produto velocidade × tempo é constante.",
+        "Distância = velocidade × tempo."
+      ],
+      "raciocinio": "1. Distância de A a B: \\(10\\ \\text{km/h} \\cdot 3\\ \\text{h} = 30\\ \\text{km}\\).\n2. A 12 km/h: \\(t = \\frac{30}{12} = 2{,}5\\ \\text{h}\\).\n3. Conferindo pela proporção inversa (veja: *Grandezas diretamente e inversamente proporcionais*): \\(10 \\cdot 3 = 12 \\cdot t\\), então \\(t = 2{,}5\\).\n\nResposta: **C**.\n\n**Dica de prova:** a distância da maratona (42,195 km) é só contexto. Use apenas os dados do treino.",
+      "interativo": null
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "conteudo": "Teorema de Pitágoras e relações métricas",
+      "enunciado": "Uma festa junina foi organizada em um terreno no formato de um losango. A figura a seguir ilustra a organização das atrações. As linhas na parte interna do terreno são perpendiculares e mostram os caminhos disponíveis para caminhar entre as atrações, já que os outros espaços serão preenchidos com mesas. Sabe-se que a distância entre as barracas de churros e milho é de 12m e de 4m entre a de bingo e a de pastel.\n\n![Losango com as barracas nos vértices: Pesca em cima, Milho à direita, Pastel embaixo e Churros à esquerda. As duas diagonais se cruzam no centro, onde fica o Bingo.](img/2025-2/q21.png)\n\nQual a distância, em metros, entre a barraca de churros e a de pesca?",
+      "imagens": [
+        "img/2025-2/q21.png"
+      ],
+      "alternativas": {
+        "A": "\\(2\\sqrt{13}\\)",
+        "B": "\\(4\\sqrt{10}\\)",
+        "C": "10",
+        "D": "12"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "\\(4\\sqrt{10} = \\sqrt{12^2 + 4^2}\\) usa a diagonal inteira (12); o cateto é a metade dela, 6.",
+        "C": "O lado mede \\(\\sqrt{6^2 + 4^2} = \\sqrt{52} \\approx 7{,}2\\) m, e não 10.",
+        "D": "12 m é a distância entre churros e milho, uma diagonal inteira, e não o lado do losango."
+      },
+      "teoria": [
+        "quadrilateros",
+        "teorema-de-pitagoras"
+      ],
+      "essencial": [
+        "As diagonais do losango são perpendiculares e se cortam ao meio.",
+        "Metade de cada diagonal e um lado formam um triângulo retângulo; o lado é a hipotenusa."
+      ],
+      "raciocinio": "1. O bingo fica no centro, onde as diagonais se cortam ao meio (veja: *Quadriláteros e polígonos*). Então churros–bingo = \\(12 \\div 2 = 6\\) m, e bingo–pesca = bingo–pastel = 4 m.\n2. Churros, bingo e pesca formam um triângulo retângulo, com o ângulo reto no bingo (veja: *Teorema de Pitágoras*):\n\n\\[d^2 = 6^2 + 4^2 = 52 \\Rightarrow d = \\sqrt{52} = \\sqrt{4 \\cdot 13} = 2\\sqrt{13}\\]\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Utilizando seu conhecimento sobre geometria, resolva o problema seguinte. Os ângulos da figura a seguir, \\(B\\hat{A}D\\) e \\(D\\hat{A}C\\), são complementares. Sabendo que \\(\\overline{AD}\\) é a bissetriz do ângulo \\(B\\hat{A}C\\), calcule o valor de *x* e *y* respectivamente.\n\nDado: Valor de \\(B\\hat{A}D = 2x + 11°\\) e \\(D\\hat{A}C = 3y + 18°\\)\n\n![Três semirretas saindo do ponto A: AB para cima, AC para a direita e AD entre elas. O ângulo entre AB e AC está marcado.](img/2025-2/q22.png)",
+      "imagens": [
+        "img/2025-2/q22.png"
+      ],
+      "alternativas": {
+        "A": "x = 45,0º e y = 45,0º",
+        "B": "x = 39,5º e y = 24,0º",
+        "C": "x = 17,0º e y = 9,0º",
+        "D": "x = 5,5º e y = 6,0º"
+      },
+      "correta": "C",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "45° é a medida de cada ângulo, e não o valor de *x* e de *y*; falta resolver as equações.",
+        "B": "Vem de igualar cada expressão a 90°; mas, com a bissetriz, cada ângulo mede só 45°.",
+        "D": "Não satisfaz as equações: com \\(x = 5{,}5\\), \\(2x + 11 = 22°\\), e não 45°."
+      },
+      "teoria": [
+        "angulos-e-paralelas"
+      ],
+      "essencial": [
+        "Ângulos complementares somam 90°.",
+        "A bissetriz divide um ângulo em dois ângulos iguais."
+      ],
+      "raciocinio": "1. Complementares: \\(B\\hat{A}D + D\\hat{A}C = 90°\\). Como \\(\\overline{AD}\\) é bissetriz, os dois são iguais (veja: *Ângulos e retas paralelas*). Cada um mede \\(90° \\div 2 = 45°\\).\n2. \\(2x + 11 = 45 \\Rightarrow 2x = 34 \\Rightarrow x = 17\\).\n3. \\(3y + 18 = 45 \\Rightarrow 3y = 27 \\Rightarrow y = 9\\).\n\nResposta: **C**.",
+      "interativo": null
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Durante o processo de manutenção em uma indústria, troca-se o fluido responsável por manter a temperatura ideal de determinadas máquinas para que elas atinjam sua melhor eficiência. O fluido é colocado entre duas partes da máquina. Considere uma máquina onde a peça interna tem formato de um cilindro reto, ou seja, o fluido fica entre o cilindro menor e a parede da outra parte da peça, que começa no desenho do cilindro maior, conforme mostrado na figura a seguir:\n\n![Dois cilindros com o mesmo eixo, um dentro do outro, com 30 cm de altura. O cilindro externo tem 16 cm de diâmetro, e o interno, 14 cm.](img/2025-2/q23.png)\n\n<cite>Fonte: IFSP, 2025.</cite>\n\nConsiderando que a peça tem 30 cm de altura, e usando a aproximação de π para 3, determine o volume, em cm³, necessário de fluido para manutenção dessa máquina:",
+      "imagens": [
+        "img/2025-2/q23.png"
+      ],
+      "alternativas": {
+        "A": "1350",
+        "B": "4410",
+        "C": "5400",
+        "D": "5760"
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "4410 é o volume do cilindro interno (\\(3 \\cdot 7^2 \\cdot 30\\)); o fluido fica fora dele.",
+        "C": "5400 usa 16 e 14 como raios; as medidas da figura são diâmetros, e os raios são 8 e 7.",
+        "D": "5760 é o volume do cilindro externo inteiro (\\(3 \\cdot 8^2 \\cdot 30\\)); falta tirar o interno."
+      },
+      "teoria": [
+        "volumes",
+        "circulo-e-circunferencia"
+      ],
+      "essencial": [
+        "Volume do cilindro: \\(V = \\pi r^2 h\\). O raio é metade do diâmetro.",
+        "Volume entre dois cilindros de mesmo eixo: volume do maior menos volume do menor."
+      ],
+      "raciocinio": "1. As medidas 16 cm e 14 cm são diâmetros: os raios são 8 cm e 7 cm (veja: *Círculo e circunferência*).\n2. O fluido ocupa o espaço entre os cilindros (veja: *Volumes de sólidos*):\n\n\\[V = 3 \\cdot 8^2 \\cdot 30 - 3 \\cdot 7^2 \\cdot 30 = 5760 - 4410 = 1350\\ \\text{cm}^3\\]\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "conteudo": "Volumes e sólidos",
+      "enunciado": "Uma piscina tem como dimensões: 2 m de largura, 5 m de comprimento e 1,8 m de profundidade.\n\nAproveitando o inverno, o proprietário decidiu fazer manutenção nas bordas da piscina. Para isso, ele precisou retirar 40% de sua capacidade total. Sabendo que ela tem capacidade de 18 m³ de água quando completamente cheia, quantos litros serão necessários para que ele a encha totalmente para o verão?",
+      "imagens": [],
+      "alternativas": {
+        "A": "1.080 litros",
+        "B": "7.200 litros",
+        "C": "10.800 litros",
+        "D": "18.000 litros"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Erra a conversão: 40% de 18 m³ são 7,2 m³, ou seja, 7.200 litros.",
+        "C": "10.800 litros (60%) é a água que **ficou** na piscina, e não a que falta.",
+        "D": "18.000 litros é a capacidade inteira, mas só 40% da água foi retirada."
+      },
+      "teoria": [
+        "porcentagem",
+        "volumes"
+      ],
+      "essencial": [
+        "1 m³ = 1000 L.",
+        "Para repor o que foi retirado, calcule a porcentagem retirada sobre o total."
+      ],
+      "raciocinio": "1. Foram retirados 40% de 18 m³ (veja: *Porcentagem*): \\(0{,}4 \\cdot 18 = 7{,}2\\ \\text{m}^3\\).\n2. Para encher de novo, é preciso repor esses 7,2 m³. Como 1 m³ = 1000 L (veja: *Volumes de sólidos*), são \\(7{,}2 \\cdot 1000 = 7200\\) litros.\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "conteudo": "Gráficos e tabelas",
+      "enunciado": "Na cidade de Presidente Epitácio, localizada no extremo oeste paulista, existe um *campus* do Instituto Federal de São Paulo. Nesse *campus* trabalham vários docentes que residem em Presidente Prudente, cidade distante aproximadamente 90km de Presidente Epitácio, os quais viajam de carro diariamente para trabalhar.\n\nComo é comum ocorrer um revezamento no uso dos veículos, esses professores construíram dois quadros. No primeiro, constam os carros que podem ser utilizados e o consumo médio de combustível de cada um deles (consumo médio medido pelos professores). No segundo quadro, estão os valores dos combustíveis identificados em três postos da cidade Presidente Prudente, onde eles abastecem.\n\n#### Quadro 1: Consumo médio de combustível\n\n| Veículo | Consumo médio de combustível na estrada (em quilômetros por litro (km/l)) |\n|---|---|\n| Toyota Corolla (Motor 1.8 híbrido flex e câmbio CVT) | 10 km/l (etanol); 15 km/l (gasolina) |\n| Chevrolet Onix (Motor 1.0 flex e câmbio manual de 6 marchas) | 12 km/l (etanol); 16 km/l (gasolina) |\n| Fiat Mobi (Motor 1.0 flex e câmbio manual de 5 marchas) | 11 km/l (etanol); 15 km/l (gasolina) |\n\n#### Quadro 2: Valores dos combustíveis em três postos da cidade de Pres. Prudente\n\n| Posto de combustível | Valor do litro de Etanol | Valor do litro de Gasolina |\n|---|---|---|\n| Parada obrigatória | R$ 3,44 | R$ 5,69 |\n| Tanque Cheio | R$ 3,59 | R$ 5,89 |\n| Trevinho | R$ 3,89 | R$ 6,09 |\n\n<cite>Fonte: IFSP, 2025.</cite>\n\nDiante dessas informações e considerando o roteiro de ida e de volta, é correto dizer que é mais econômico fazer a viagem com o veículo",
+      "imagens": [],
+      "alternativas": {
+        "A": "*Chevrolet Onix* abastecido com etanol no posto *Parada Obrigatória*.",
+        "B": "*Fiat Mobi* abastecido com gasolina no posto *Tanque Cheio*.",
+        "C": "*Toyota Corolla* abastecido com gasolina no posto *Tanque Cheio*.",
+        "D": "*Fiat Mobi* abastecido com etanol no posto *Parada Obrigatória*."
+      },
+      "correta": "A",
+      "anulada": false,
+      "porQueErradas": {
+        "B": "Gasolina a R$ 5,89 rendendo 15 km/l custa cerca de R$ 0,39 por km, contra R$ 0,29 do Onix com etanol.",
+        "C": "Custa o mesmo que o Mobi a gasolina: 12 L a R$ 5,89, cerca de R$ 70,68 na viagem.",
+        "D": "É a segunda opção mais barata (cerca de R$ 56,29), mas o Mobi faz só 11 km/l com etanol, e o Onix, 12."
+      },
+      "teoria": [
+        "tabelas",
+        "razoes-especiais"
+      ],
+      "essencial": [
+        "Custo por quilômetro = preço do litro ÷ quilômetros por litro. Vence o menor custo por quilômetro.",
+        "Com o mesmo posto e o mesmo combustível, vence o carro que faz mais quilômetros por litro."
+      ],
+      "raciocinio": "1. Ida e volta: \\(2 \\cdot 90 = 180\\) km.\n2. Custo de cada opção, com os dados dos quadros (veja: *Leitura de tabelas*):\n\n| Opção | Litros | Custo (R$) |\n|---|---|---|\n| Onix, etanol, Parada Obrigatória | \\(180 \\div 12 = 15\\) | \\(15 \\cdot 3{,}44 = 51{,}60\\) |\n| Mobi, gasolina, Tanque Cheio | \\(180 \\div 15 = 12\\) | \\(12 \\cdot 5{,}89 = 70{,}68\\) |\n| Corolla, gasolina, Tanque Cheio | \\(180 \\div 15 = 12\\) | \\(70{,}68\\) |\n| Mobi, etanol, Parada Obrigatória | \\(180 \\div 11 \\approx 16{,}4\\) | \\(\\approx 56{,}29\\) |\n\n3. O menor custo é o do Onix com etanol, que faz mais quilômetros por litro com o etanol mais barato (veja: *Razões especiais: velocidade, densidade e escala*).\n\nResposta: **A**.",
+      "interativo": null
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "conteudo": "Contagem, probabilidade e estatística",
+      "enunciado": "Uma professora está organizando um concurso de talentos e precisa formar grupos para as apresentações. Estão disponíveis 3 cantores, 2 dançarinos e 4 músicos. De quantas maneiras diferentes ela pode formar um grupo, combinando um cantor, um dançarino e um músico.",
+      "imagens": [],
+      "alternativas": {
+        "A": "9",
+        "B": "12",
+        "C": "18",
+        "D": "24"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "9 soma as quantidades (3 + 2 + 4); como cada grupo tem os três, as escolhas se multiplicam.",
+        "B": "12 é \\(3 \\cdot 4\\): esquece de escolher o dançarino.",
+        "C": "18 seria com 3 músicos; com 4, são \\(3 \\cdot 2 \\cdot 4 = 24\\)."
+      },
+      "teoria": [
+        "principio-multiplicativo"
+      ],
+      "essencial": [
+        "Princípio multiplicativo: escolhas independentes feitas em sequência se multiplicam.",
+        "Soma-se quando se escolhe uma coisa **ou** outra; multiplica-se quando se escolhe uma **e** outra."
+      ],
+      "raciocinio": "1. O grupo tem um cantor **e** um dançarino **e** um músico: são três escolhas independentes (veja: *Princípio multiplicativo*).\n2. \\(3 \\cdot 2 \\cdot 4 = 24\\) grupos diferentes.\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "Na figura a seguir, r e s são duas retas paralelas interceptadas pela reta transversal t.\n\n![Duas retas horizontais paralelas, r em cima e s embaixo, cortadas por uma transversal t inclinada, que sobe para a direita. Em r, o ângulo acima da reta e à direita de t está marcado como 2x + 25. Em s, o ângulo acima da reta e à esquerda de t está marcado como 3x − 60.](img/2025-2/q27.png)\n\nDetermine o valor de **x**.",
+      "imagens": [
+        "img/2025-2/q27.png"
+      ],
+      "alternativas": {
+        "A": "x = 25",
+        "B": "x = 43",
+        "C": "x = 79",
+        "D": "x = 85"
+      },
+      "correta": "B",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "Com x = 25, os ângulos seriam 75° e 15°: não somam 180° nem são iguais.",
+        "C": "Com x = 79, os ângulos seriam 183° e 177°, e um ângulo de 183° nem cabe ali.",
+        "D": "x = 85 deixa os dois ângulos iguais (195° cada), mas eles não estão na mesma posição: são suplementares."
+      },
+      "teoria": [
+        "angulos-e-paralelas"
+      ],
+      "essencial": [
+        "Ângulos correspondentes, na mesma posição em cada cruzamento, são iguais.",
+        "Ângulos lado a lado sobre uma reta são suplementares: somam 180°."
+      ],
+      "raciocinio": "1. Em s, o ângulo acima da reta e **à direita** de t está na mesma posição que o ângulo marcado em r. São correspondentes, então ele também mede \\(2x + 25\\) (veja: *Ângulos e retas paralelas*).\n2. Em s, esse ângulo e o marcado \\(3x - 60\\) ficam lado a lado sobre a reta: somam 180°.\n\n\\[(2x + 25) + (3x - 60) = 180 \\Rightarrow 5x = 215 \\Rightarrow x = 43\\]\n\nResposta: **B**.",
+      "interativo": null
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "conteudo": "Razão, proporção e porcentagem",
+      "enunciado": "Devido a variações na cotação do dólar frente ao real, um produto importado que custava inicialmente R$ 250,00 sofreu dois aumentos sucessivos, um de 20% e outro de 10%. Após esses aumentos, quanto ele passou a custar?",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 275,00",
+        "B": "R$ 300,00",
+        "C": "R$ 325,00",
+        "D": "R$ 330,00"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "R$ 275,00 aplica só o aumento de 10%; faltou o de 20%.",
+        "B": "R$ 300,00 aplica só o aumento de 20%; faltou o de 10%.",
+        "C": "R$ 325,00 soma 30% ao preço original, mas o 2º aumento incide sobre o valor já aumentado."
+      },
+      "teoria": [
+        "aumentos-e-descontos-sucessivos"
+      ],
+      "essencial": [
+        "Um aumento de \\(p\\%\\) multiplica o valor por \\(1 + \\frac{p}{100}\\).",
+        "Aumentos sucessivos se multiplicam: 20% e depois 10% dão \\(1{,}2 \\cdot 1{,}1 = 1{,}32\\), ou seja, 32%."
+      ],
+      "raciocinio": "1. Primeiro aumento, de 20%: \\(250 \\cdot 1{,}2 = 300\\).\n2. Segundo aumento, de 10%, sobre o novo valor: \\(300 \\cdot 1{,}1 = 330\\) (veja: *Aumentos e descontos sucessivos*).\n3. Em uma conta só: \\(250 \\cdot 1{,}32 = 330\\).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "conteudo": "Números e operações",
+      "enunciado": "Leia:\n\nA prefeitura da cidade de Espumoso - RS mapeou o bairro Martini em relação ao nível do rio Jacuí. A figura a seguir apresenta o resultado desse mapeamento, representando o bairro em sub-regiões; cada sub-região é um quadrado cujo valor numérico corresponde à sua elevação em metros em relação ao rio Jacuí. O valor 0 está relacionado às sub-regiões onde o rio passa e não há elevação nas localidades:\n\n![À esquerda, mapa do Bairro Martini, cortado pelo Rio Jacuí. À direita, uma grade de 8 por 8 quadrados, cada um com a elevação da sub-região, em metros.](img/2025-2/q29.png \"1ª linha: 5 4 3 3 4 3 3 1 | 2ª linha: 7 6 4 3 2 2 3 1 | 3ª linha: 4 4 2 1 2 2 1 1 | 4ª linha: 2 1 1 1 2 3 2 1 | 5ª linha: 1 2 5 4 3 3 1 1 | 6ª linha: 1 0 0 0 0 0 0 1 | 7ª linha: 0 4 3 2 1 2 1 0 | 8ª linha: 5 6 3 3 1 1 1 4\")\n\n<cite>Fonte: IFSP, 2024.</cite>\n\nEm um dia de chuva, a prefeitura avaliou que, nas 5 horas seguintes, o rio haveria de subir 1 centímetro por minuto. Dessa forma, a cidade emitiu um alerta aos habitantes do bairro, especificando que uma proporção de",
+      "imagens": [
+        "img/2025-2/q29.png"
+      ],
+      "alternativas": {
+        "A": "\\(\\dfrac{14}{64}\\) das sub-regiões do bairro Martini serão alagadas após 5 horas de chuva.",
+        "B": "\\(\\dfrac{15}{32}\\) das sub-regiões do bairro Martini serão alagadas após 5 horas de chuva.",
+        "C": "\\(\\dfrac{61}{64}\\) das sub-regiões do bairro Martini serão alagadas após 5 horas de chuva.",
+        "D": "\\(\\dfrac{25}{32}\\) das sub-regiões do bairro Martini serão alagadas após 5 horas de chuva."
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "14 é o número de sub-regiões com 4 m ou mais, que ficam **secas**; as alagadas são as outras 50.",
+        "B": "\\(\\frac{15}{32} = \\frac{30}{64}\\), mas há 50 sub-regiões com elevação de até 3 m.",
+        "C": "\\(\\frac{61}{64}\\) deixaria só 3 sub-regiões secas, mas 14 delas têm 4 m ou mais."
+      },
+      "teoria": [
+        "conversao-de-unidades",
+        "fracoes"
+      ],
+      "essencial": [
+        "Para comparar medidas, use a mesma unidade: 1 m = 100 cm.",
+        "Fração de um total = parte ÷ total; simplifique dividindo os dois termos pelo mesmo número."
+      ],
+      "raciocinio": "1. Em 5 horas há \\(5 \\cdot 60 = 300\\) minutos. A 1 cm por minuto, o rio sobe 300 cm = 3 m (veja: *Conversão de unidades*).\n2. Ficam alagadas as sub-regiões com elevação de até 3 m. É mais rápido contar as que ficam secas, com 4 m ou mais: são 14.\n3. Alagadas: \\(64 - 14 = 50\\). Fração: \\(\\frac{50}{64} = \\frac{25}{32}\\) (veja: *Frações*).\n\nResposta: **D**.",
+      "interativo": null
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "conteudo": "Ângulos e retas",
+      "enunciado": "No século III a.C., o matemático grego Euclides escreveu “Os Elementos”, uma das obras mais influentes na história da matemática. O Livro III trata especificamente de trinta e nove proposições que definem medidas de ângulos e as relações de formas geométricas em torno de círculos. Suponha que Euclides esteja demonstrando uma propriedade dos ângulos inscritos e centrais. Ele desenha uma circunferência com centro em O e dois pontos A e B na circunferência, formando o ângulo central \\(A\\hat{O}B\\) de 30°. Euclides então inscreve um ponto C no arco maior AB, formando o ângulo inscrito \\(A\\hat{C}B\\). Qual é a medida do ângulo inscrito \\(A\\hat{C}B\\)?",
+      "imagens": [],
+      "alternativas": {
+        "A": "60°",
+        "B": "45°",
+        "C": "30°",
+        "D": "15°"
+      },
+      "correta": "D",
+      "anulada": false,
+      "porQueErradas": {
+        "A": "60° é o dobro do ângulo central; o inscrito é a metade, e não o dobro.",
+        "B": "45° não tem relação com os 30° do ângulo central; o inscrito mede a metade dele.",
+        "C": "30° é o ângulo central; o inscrito, com vértice na circunferência, mede a metade."
+      },
+      "teoria": [
+        "circulo-e-circunferencia"
+      ],
+      "essencial": [
+        "Ângulo central tem o vértice no centro; ângulo inscrito, na própria circunferência.",
+        "O ângulo inscrito mede metade do ângulo central que enxerga o mesmo arco."
+      ],
+      "raciocinio": "1. \\(A\\hat{O}B\\) tem o vértice no centro: é central, mede 30° e determina o arco menor AB.\n2. \\(A\\hat{C}B\\) tem o vértice em C, sobre a circunferência, no arco maior: é inscrito e enxerga o mesmo arco menor AB.\n3. O ângulo inscrito mede metade do central (veja: *Círculo e circunferência*): \\(30° \\div 2 = 15°\\).\n\nResposta: **D**.",
+      "interativo": null
+    }
+  ]
+}
