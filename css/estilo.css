@@ -234,6 +234,13 @@ button { font: inherit; color: inherit; }
 .azulejo > i {
   position: absolute; display: block;
 }
+.azulejo--onda { animation: azulejo-onda .55s cubic-bezier(.5, 0, .3, 1) both; }
+
+@keyframes azulejo-onda {
+  0% { rotate: 0deg; scale: 1; }
+  50% { scale: .8; }
+  100% { rotate: 90deg; scale: 1; }
+}
 
 .progresso-cabecalho { display: none; height: 5px; background: var(--cor-trilho-cabecalho); position: absolute; left: 0; right: 0; top: calc(var(--altura-cabecalho) - 5px); }
 .progresso-cabecalho > div { position: absolute; left: 0; top: 0; bottom: 0; background: var(--cor-progresso-cabecalho); }
@@ -566,6 +573,22 @@ button { font: inherit; color: inherit; }
 .aviso__texto { font-size: 17px; }
 .aviso--certo { background: var(--cor-certo-suave); border-color: var(--cor-certo); }
 .aviso--certo .aviso__selo { background: var(--cor-certo); color: var(--cor-sobre-estado); }
+.aviso__selo { position: relative; }
+.aviso__selo--pulo { animation: selo-pulo .45s cubic-bezier(.3, 1.6, .5, 1); }
+.bolinha {
+  position: absolute; left: 50%; top: 50%; width: 9px; height: 9px; margin: -4.5px;
+  border-radius: 50%; background: var(--cor-ocre); opacity: 0; pointer-events: none;
+  animation: bolinha .7s cubic-bezier(.2, .7, .3, 1) forwards;
+}
+
+@keyframes selo-pulo {
+  50% { transform: scale(1.18); }
+}
+@keyframes bolinha {
+  0% { opacity: 1; transform: translate(0, 0) scale(.5); }
+  70% { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(1); }
+}
 .aviso--erro { background: var(--cor-erro-suave); border-color: var(--cor-erro); }
 .aviso--erro .aviso__selo { background: var(--cor-erro); color: var(--cor-sobre-estado); }
 .aviso--anulada { background: var(--cor-ocre-suave); border-color: var(--cor-ocre-borda); color: var(--cor-ocre-texto); }

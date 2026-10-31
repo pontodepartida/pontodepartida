@@ -5,6 +5,7 @@ import { tamanhoLetra, prepararAjuste, cabecalhoProva, rodape, ajustarFixos } fr
 import { ir, render } from './rotas.js';
 import { abrirPassos } from './inicio.js';
 import { mapaComputador, mapaSimulado, htmlAlternativas, montarInterativo, HTML_VOLTAR_TEXTO, prepararVoltarTexto } from './questao.js';
+import { ondaAzulejos } from './azulejos.js';
 
 // ---------- Terminar e resultado ----------
 
@@ -19,6 +20,7 @@ export function terminar() {
     const p = lerProgresso(prova.id);
     p.terminada = true;
     gravarProgresso(prova.id, p);
+    estado.comemorar = true;
     ir(`#/${prova.id}/resultado`);
   };
   if (painelMapa.open) painelMapa.close();
@@ -143,6 +145,7 @@ export async function telaResultado(prova) {
     </main>
     ${rodape()}
   </div>`;
+  comemorarSeTerminou();
 }
 
 // ---------- Simulado: telas ----------
@@ -192,6 +195,7 @@ function encerrarSimulado(prova, esgotado = false) {
   avisoTempo.hidden = true;
   if (dialogo.open) dialogo.close();
   if (painelMapa.open) painelMapa.close();
+  estado.comemorar = true;
   ir(`#/${prova.id}/simulado/resultado`);
 }
 
@@ -462,5 +466,12 @@ export async function telaResultadoSimulado(prova) {
     </main>
     ${rodape()}
   </div>`;
+  comemorarSeTerminou();
   return true;
+}
+
+function comemorarSeTerminou() {
+  if (!estado.comemorar) return;
+  estado.comemorar = false;
+  ondaAzulejos();
 }

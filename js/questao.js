@@ -4,6 +4,7 @@ import { interativos } from './interativos.js';
 import { LETRAS, app, painelMapa, explicacoes, painelTema, estado, esc, pct, ehCelular, anunciar, miniaturaVideo,lerProgresso, gravarProgresso, situacao, resumo, paraRevisar, lerAndamento, fonte, mostrarPainel } from './base.js';
 import { tamanhoLetra, agendarAjuste, prepararAjuste, cabecalhoProva, rodape, ajustarFixos } from './interface.js';
 import { responderSimulado } from './simulado.js';
+import { bolinhasAcerto } from './azulejos.js';
 
 // ---------- Mapa de questões ----------
 
@@ -574,4 +575,5 @@ export function confirmar() {
     if (alts) alts.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
   if (aviso) aviso.focus({ preventScroll: true });
+  if (aviso && aviso.classList.contains('aviso--certo')) bolinhasAcerto(aviso.querySelector('.aviso__selo'));
 }

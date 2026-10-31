@@ -42,3 +42,35 @@ export function faixaAzulejos(semente, quantidade = 60) {
   }
   return `<div class="azulejos" aria-hidden="true">${html}</div>`;
 }
+
+// ---------- Comemorações ----------
+
+const semMovimento = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+export function ondaAzulejos() {
+  const faixa = document.querySelector('.cabecalho .azulejos');
+  if (!faixa || semMovimento()) return;
+  [...faixa.children]
+    .filter(a => a.getBoundingClientRect().left < window.innerWidth)
+    .forEach((a, i) => {
+      a.style.animationDelay = i * 35 + 'ms';
+      a.classList.add('azulejo--onda');
+    });
+}
+
+export function bolinhasAcerto(selo) {
+  if (!selo || semMovimento()) return;
+  const n = 8;
+  for (let i = 0; i < n; i++) {
+    const angulo = (i / n) * 2 * Math.PI + Math.random() * .4;
+    const distancia = 34 + Math.random() * 14;
+    const b = document.createElement('i');
+    b.className = 'bolinha';
+    b.style.setProperty('--dx', (Math.cos(angulo) * distancia).toFixed(1) + 'px');
+    b.style.setProperty('--dy', (Math.sin(angulo) * distancia).toFixed(1) + 'px');
+    b.style.animationDelay = Math.round(Math.random() * 60) + 'ms';
+    selo.appendChild(b);
+  }
+  selo.classList.add('aviso__selo--pulo');
+  setTimeout(() => selo.querySelectorAll('.bolinha').forEach(b => b.remove()), 900);
+}

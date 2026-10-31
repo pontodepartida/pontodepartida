@@ -25,6 +25,7 @@ export const estado = {
   telaCheia: false,
   letraAberta: false,      // painel "Tamanho da letra" aberto
   biblioteca: null,        // página Teoria: { temas, grupos, materias, aba }
+  comemorar: false,
 };
 
 // ---------- Utilidades ----------
