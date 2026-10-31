@@ -235,7 +235,7 @@ export function abrirBoasVindas() {
   armazenamento.gravar('boas-vindas', '1');
   abrirDialogo({
     titulo: 'Boas-vindas ao Ponto de Partida',
-    texto: 'Aqui você treina com provas antigas do processo seletivo do IFSP, uma questão por vez. Suas respostas ficam salvas só neste navegador, sem cadastro, e a Ajuda, no rodapé, explica cada botão.',
+    texto: 'O app reúne provas antigas do processo seletivo do IFSP, com uma questão por vez e a explicação de cada alternativa. As respostas ficam salvas neste navegador, sem cadastro, e a Ajuda, no rodapé de todas as telas, explica cada recurso.',
     acoes: [{ rotulo: 'Começar', classe: 'botao--primario' }],
   });
 }

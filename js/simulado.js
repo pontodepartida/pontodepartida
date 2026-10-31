@@ -160,7 +160,7 @@ export async function comecarSimulado(id) {
   };
   abrirDialogo({
     titulo: `Começar o simulado da ${prova.nome}?`,
-    texto: `São 3 horas para as ${prova.questoes.length} questões, o tempo não pausa e um aviso aparece quando faltarem 20 minutos. O gabarito só aparece no final, e sair da prova apaga o simulado.${substitui}`,
+    texto: `O simulado tem 3 horas para as ${prova.questoes.length} questões, contadas sem pausa, com um aviso quando faltarem 20 minutos. O gabarito só é mostrado no final, e sair da prova apaga o simulado.${substitui}`,
     acoes: [
       { rotulo: 'Cancelar', classe: 'botao--secundario', seguro: true },
       { rotulo: 'Começar', classe: 'botao--primario', acao: comecar },
